@@ -1,0 +1,59 @@
+Date and Time : 05/28/15 01:59:49
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+    GND  -  LinkingInterfaceV2 (0.56, 6.65)
+    N14538770  -  LinkingInterfaceV2 (0.56, 6.45)
+    GND  -  LinkingInterfaceV2 (0.56, 6.65)
+    N14538770  -  LinkingInterfaceV2 (0.56, 6.45)
+
+Checking Misleading Tap connection
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: AUDIOLINKINGINTERFACE 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+
+Checking Missing PCB Footprint Property  
+
+Check Power Ground Mismatch
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? GND  GND  GND_SIGNAL  
+                    SCHEMATIC1, LinkingInterfaceV2  (5.55, 7.85) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
+   74HC08_4	                       2	                       U5: D  C  
+   74HC04_5	                       4	                       U6: F  E  D  C  

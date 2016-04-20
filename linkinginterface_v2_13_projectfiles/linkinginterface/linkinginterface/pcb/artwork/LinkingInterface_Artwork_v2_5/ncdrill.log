@@ -1,0 +1,83 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaa06968.tmp                             )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Thu Jun 04 19:55:48 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.4
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		DECREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	YES
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING: Design precision is the same as that of the drill output file data.
+          Data rounding errors may still be possible.
+ WARNING: Can't find tool file (nc_tools.txt)
+          ... will auto-generate tool file (nc_tools_auto.txt)
+
+
+     Auto-generating tool file nc_tools_auto.txt
+     -------------------------------------------
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+           70.0  P        T01            0.000000     0.000000
+           65.0  P        T02            0.000000     0.000000
+           60.0  P        T03            0.000000     0.000000
+           47.0  P        T04            0.000000     0.000000
+           42.0  P        T05            0.000000     0.000000
+           37.0  P        T06            0.000000     0.000000
+           35.0  P        T07            0.000000     0.000000
+           28.0  P        T08            0.000000     0.000000
+           20.0  P        T09            0.000000     0.000000
+          125.0  N        T10            0.000000     0.000000
+
+
+ Drill files being output to directory 'C:/Users/tgbodkin/Desktop/linkinginterface/linkinginterface/pcb/artwork/LinkingInterface_Artwork_v2_5' ...
+
+
+
+     'NCdrill-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.  70.0000    0.0000/  0.0000      PLATED          8
+     T02    2.  65.0000    0.0000/  0.0000      PLATED         14
+     T03    3.  60.0000    0.0000/  0.0000      PLATED          2
+     T04    4.  47.0000    0.0000/  0.0000      PLATED          9
+     T05    5.  42.0000    0.0000/  0.0000      PLATED         23
+     T06    6.  37.0000    0.0000/  0.0000      PLATED         40
+     T07    7.  35.0000    0.0000/  0.0000      PLATED          6
+     T08    8.  28.0000    0.0000/  0.0000      PLATED          3
+     T09    9.  20.0000    0.0000/  0.0000      PLATED         25
+     T10   10. 125.0000    0.0000/  0.0000  NON_PLATED          6
+
+     ---- Total holes:                                        136
+
+     ---- Total head travel:              7.76 feet (2.37 meters)
+

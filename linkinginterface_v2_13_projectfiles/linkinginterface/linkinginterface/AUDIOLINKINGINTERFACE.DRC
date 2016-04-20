@@ -1,0 +1,189 @@
+Date and Time : 03/12/15 14:39:25
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1608): Net has no driving source N133336 
+                    SCHEMATIC1, LinkingInterfaceV2  (2.70, 4.60) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N133336 
+                    SCHEMATIC1, LinkingInterfaceV2  (2.70, 4.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections V+ 
+                    SCHEMATIC1, LinkingInterfaceV2  (7.15, 1.65) 
+WARNING(ORCAP-1600): Net has fewer than two connections V- 
+                    SCHEMATIC1, LinkingInterfaceV2  (7.15, 0.65) 
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Checking Misleading Tap connection
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U1B/8  Nets: 'GND_SIGNAL' and 'V+'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 8.55) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U1B/4  Nets: '+9V' and 'V-'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 7.55) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U2A/14  Nets: '+5V' and 'VCC'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (12.95, 6.00) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U3A/14  Nets: '+5V' and 'VCC'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 4.00) 
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. U3 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 4.10) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. U2 
+                    SCHEMATIC1, LinkingInterfaceV2  (12.75, 6.10) 
+
+Report for Duplicate References
+
+Checking Visible Unconnected Power Pins
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U1,V+ 
+                    SCHEMATIC1, LinkingInterfaceV2  (7.15, 1.65) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U1,V- 
+                    SCHEMATIC1, LinkingInterfaceV2  (7.15, 0.65) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (11.75, 6.30) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (11.75, 6.90) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.70, 6.15) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.70, 5.55) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U2,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.50, 5.15) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U2,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.50, 5.75) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U2,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (7.80, 2.55) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U2,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (7.80, 3.15) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.70, 5.45) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.70, 4.85) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 2.95) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 3.55) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U2,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.60, 3.55) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U2,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.60, 4.15) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,VCC 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.60, 2.65) 
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets U3,GND 
+                    SCHEMATIC1, LinkingInterfaceV2  (6.60, 3.25) 
+
+--------------------------------------------------
+Checking Entire Design: AUDIOLINKINGINTERFACE 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+
+Checking Missing PCB Footprint Property  
+#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U3A: SCHEMATIC1, LinkingInterfaceV2 (5.40, 4.10).
+#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U3B: SCHEMATIC1, LinkingInterfaceV2 (5.40, 3.05).
+#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U3C: SCHEMATIC1, LinkingInterfaceV2 (6.60, 2.75).
+#4 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U3F: SCHEMATIC1, LinkingInterfaceV2 (11.75, 6.40).
+#5 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U3D: SCHEMATIC1, LinkingInterfaceV2 (6.30, 4.95).
+#6 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U3E: SCHEMATIC1, LinkingInterfaceV2 (6.30, 5.65).
+#7 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C12: SCHEMATIC1, LinkingInterfaceV2 (4.90, 7.50).
+#8 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J9: SCHEMATIC1, LinkingInterfaceV2 (14.85, 7.35).
+#9 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R14: SCHEMATIC1, LinkingInterfaceV2 (8.60, 5.95).
+#10 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C2: SCHEMATIC1, LinkingInterfaceV2 (5.75, 0.95).
+#11 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U4: SCHEMATIC1, LinkingInterfaceV2 (9.85, 2.75).
+#12 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C3: SCHEMATIC1, LinkingInterfaceV2 (8.55, 1.05).
+#13 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R1: SCHEMATIC1, LinkingInterfaceV2 (6.90, 0.15).
+#14 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C13: SCHEMATIC1, LinkingInterfaceV2 (4.10, 7.95).
+#15 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R15: SCHEMATIC1, LinkingInterfaceV2 (5.30, 7.10).
+#16 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R2: SCHEMATIC1, LinkingInterfaceV2 (9.50, 0.45).
+#17 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C4: SCHEMATIC1, LinkingInterfaceV2 (7.90, 1.70).
+#18 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance Q1: SCHEMATIC1, LinkingInterfaceV2 (8.80, 5.25).
+#19 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C14: SCHEMATIC1, LinkingInterfaceV2 (5.80, 8.35).
+#20 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R16: SCHEMATIC1, LinkingInterfaceV2 (7.40, 7.30).
+#21 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C5: SCHEMATIC1, LinkingInterfaceV2 (9.65, 2.35).
+#22 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R17: SCHEMATIC1, LinkingInterfaceV2 (7.85, 7.50).
+#23 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance Q2: SCHEMATIC1, LinkingInterfaceV2 (7.50, 5.95).
+#24 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C15: SCHEMATIC1, LinkingInterfaceV2 (6.90, 8.50).
+#25 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R3: SCHEMATIC1, LinkingInterfaceV2 (9.85, 0.65).
+#26 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance P1: SCHEMATIC1, LinkingInterfaceV2 (0.25, 1.75).
+#27 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C6: SCHEMATIC1, LinkingInterfaceV2 (4.90, 3.80).
+#28 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R4: SCHEMATIC1, LinkingInterfaceV2 (6.15, 0.95).
+#29 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance P2: SCHEMATIC1, LinkingInterfaceV2 (0.05, 4.15).
+#30 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C16: SCHEMATIC1, LinkingInterfaceV2 (8.10, 8.50).
+#31 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R18: SCHEMATIC1, LinkingInterfaceV2 (7.35, 8.50).
+#32 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R5: SCHEMATIC1, LinkingInterfaceV2 (9.00, 1.05).
+#33 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C7: SCHEMATIC1, LinkingInterfaceV2 (2.00, 4.55).
+#34 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R19: SCHEMATIC1, LinkingInterfaceV2 (7.85, 8.70).
+#35 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J10: SCHEMATIC1, LinkingInterfaceV2 (14.85, 7.90).
+#36 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C8: SCHEMATIC1, LinkingInterfaceV2 (12.45, 5.40).
+#37 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R6: SCHEMATIC1, LinkingInterfaceV2 (9.30, 1.25).
+#38 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R7: SCHEMATIC1, LinkingInterfaceV2 (8.35, 1.70).
+#39 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance L1: SCHEMATIC1, LinkingInterfaceV2 (1.20, 4.35).
+#40 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C9: SCHEMATIC1, LinkingInterfaceV2 (5.40, 6.65).
+#41 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance L2: SCHEMATIC1, LinkingInterfaceV2 (1.60, 5.60).
+#42 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R8: SCHEMATIC1, LinkingInterfaceV2 (8.65, 1.90).
+#43 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R9: SCHEMATIC1, LinkingInterfaceV2 (2.60, 4.35).
+#44 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J1: SCHEMATIC1, LinkingInterfaceV2 (14.30, 0.20).
+#45 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance L3: SCHEMATIC1, LinkingInterfaceV2 (1.60, 6.00).
+#46 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J2: SCHEMATIC1, LinkingInterfaceV2 (14.30, 0.95).
+#47 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J3: SCHEMATIC1, LinkingInterfaceV2 (14.35, 1.70).
+#48 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J4: SCHEMATIC1, LinkingInterfaceV2 (14.30, 2.55).
+#49 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R20: SCHEMATIC1, LinkingInterfaceV2 (5.70, 8.90).
+#50 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R10: SCHEMATIC1, LinkingInterfaceV2 (2.60, 4.90).
+#51 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J5: SCHEMATIC1, LinkingInterfaceV2 (14.30, 3.40).
+#52 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R21: SCHEMATIC1, LinkingInterfaceV2 (6.20, 8.90).
+#53 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R11: SCHEMATIC1, LinkingInterfaceV2 (1.70, 5.20).
+#54 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R12: SCHEMATIC1, LinkingInterfaceV2 (9.55, 5.25).
+#55 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J7: SCHEMATIC1, LinkingInterfaceV2 (14.85, 4.20).
+#56 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U1B: SCHEMATIC1, LinkingInterfaceV2 (5.20, 7.85).
+#57 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U1A: SCHEMATIC1, LinkingInterfaceV2 (6.95, 0.95).
+#58 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C10: SCHEMATIC1, LinkingInterfaceV2 (6.95, 7.30).
+#59 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U2A: SCHEMATIC1, LinkingInterfaceV2 (12.75, 6.10).
+#60 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U2B: SCHEMATIC1, LinkingInterfaceV2 (0.00, 0.00).
+#61 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U2C: SCHEMATIC1, LinkingInterfaceV2 (0.00, 0.00).
+#62 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U2D: SCHEMATIC1, LinkingInterfaceV2 (0.00, 0.00).
+#63 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C1: SCHEMATIC1, LinkingInterfaceV2 (9.05, 0.45).
+#64 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R13: SCHEMATIC1, LinkingInterfaceV2 (2.60, 5.50).
+#65 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C11: SCHEMATIC1, LinkingInterfaceV2 (8.10, 7.30).
+#66 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J8: SCHEMATIC1, LinkingInterfaceV2 (14.85, 4.70).
+
+Check Power Ground Mismatch
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U1,V+  V+  GND_SIGNAL
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 8.55) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U4,VCC  VCC  +5V
+                    SCHEMATIC1, LinkingInterfaceV2  (10.15, 2.65) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U3,VCC  VCC  +5V
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 4.00) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U2,VCC  VCC  +5V
+                    SCHEMATIC1, LinkingInterfaceV2  (12.95, 6.00) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? GND  GND  DIGITAL GND  
+                    SCHEMATIC1, LinkingInterfaceV2  (10.15, 4.40) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U1,V-  V-  +9V
+                    SCHEMATIC1, LinkingInterfaceV2  (5.40, 7.55) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
+   74HC04_1	                       3	                       U3: F  E  A  
+   74HC08_1	                       3	                       U2: D  C  B  

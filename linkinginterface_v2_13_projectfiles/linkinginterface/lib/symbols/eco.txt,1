@@ -1,0 +1,424 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +4.5V        pins ADDED TO this new net
+                                 C5.1           C18.1          R10.1          
+                                 R13.2          U1.3           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this new net
+                                 C7.2           C8.2           C10.2          
+                                 C14.1          R17.2          R19.2          
+                                 U2.14          U3.14          U4.16          
+                                 U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +9V          pins ADDED TO this new net
+                                 C1.2           C12.2          C17.2          
+                                 P2.1           R10.2          U1.4           
+                                 U5.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AUDIOOUT     pins ADDED TO this new net
+                                 C15.2          P1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AUDIO_AUX    pins ADDED TO this new net
+                                 C3.1           P1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COS          pins ADDED TO this new net
+                                 D1.2           D2.2           P1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COS_ALLSTAR  pins ADDED TO this new net
+                                 D2.1           J9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COS_ECHOLINK pins ADDED TO this new net
+                                 D1.1           J9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DTMF_AUDIO   pins ADDED TO this new net
+                                 J5.2           J5.3           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C7.1           C8.1           C9.2           
+                                 C10.1          J8.1           L2.2           
+                                 L3.2           Q1.1           Q2.1           
+                                 R11.2          U2.7           U3.7           
+                                 U4.3           U4.8           U4.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_SIGNAL   pins ADDED TO this new net
+                                 C1.1           C5.2           C12.1          
+                                 C14.2          C17.1          C18.2          
+                                 J1.1           J2.1           J3.1           
+                                 J4.1           J5.1           L2.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 L3.1           P1.1           P1.6           
+                                 P1.7           P2.3           R3.3           
+                                 R6.3           R8.3           R11.1          
+                                 R13.1          U1.8           U5.2           
+                                 U5.3           U5.6           U5.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  INHIBIT      pins ADDED TO this new net
+                                 J8.2           P1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUTE_A       pins ADDED TO this new net
+                                 U3.6           U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUTE_E       pins ADDED TO this new net
+                                 J7.2           U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N88507       pins ADDED TO this new net
+                                 C11.2          C13.1          C16.1          
+                                 R15.2          U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N88575       pins ADDED TO this new net
+                                 C11.1          C15.1          R15.1          
+                                 U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N89923       pins ADDED TO this new net
+                                 C2.1           C4.1           C6.1           
+                                 R1.2           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N90145       pins ADDED TO this new net
+                                 C13.2          R16.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N90149       pins ADDED TO this new net
+                                 C16.2          R18.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N90821       pins ADDED TO this new net
+                                 Q2.3           R19.1          U2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N90849       pins ADDED TO this new net
+                                 R1.1           R4.2           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95479       pins ADDED TO this new net
+                                 U2.2           U3.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N97065       pins ADDED TO this new net
+                                 Q1.3           R17.1          U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N97388       pins ADDED TO this new net
+                                 Q1.2           R12.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N97431       pins ADDED TO this new net
+                                 Q2.2           R14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N101741      pins ADDED TO this new net
+                                 U3.11          U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N132256      pins ADDED TO this new net
+                                 L1.1           P2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N132878      pins ADDED TO this new net
+                                 C9.1           L1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134507      pins ADDED TO this new net
+                                 C2.2           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134567      pins ADDED TO this new net
+                                 C6.2           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134575      pins ADDED TO this new net
+                                 C4.2           R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134810      pins ADDED TO this new net
+                                 R2.2           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N146635      pins ADDED TO this new net
+                                 U2.4           U3.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N146671      pins ADDED TO this new net
+                                 U2.6           U3.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N163525      pins ADDED TO this new net
+                                 U2.10          U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N178407      pins ADDED TO this new net
+                                 U2.12          U3.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N189940      pins ADDED TO this new net
+                                 J6.1           U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N195958      pins ADDED TO this new net
+                                 J1.2           J1.3           R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N211815      pins ADDED TO this new net
+                                 U2.8           U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N903830      pins ADDED TO this new net
+                                 R7.2           R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N904010      pins ADDED TO this new net
+                                 R5.2           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N908811      pins ADDED TO this new net
+                                 C3.2           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PTT          pins ADDED TO this new net
+                                 P1.9           U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PTT_A        pins ADDED TO this new net
+                                 J6.2           R14.2          U2.11          
+                                 U2.13          U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PTT_E        pins ADDED TO this new net
+                                 J7.1           R12.2          U2.1           
+                                 U2.9           U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX_A         pins ADDED TO this new net
+                                 J4.2           J4.3           R6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX_E         pins ADDED TO this new net
+                                 J2.2           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX_A         pins ADDED TO this new net
+                                 J3.2           J3.3           R18.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N4148_SMD_0805_21_D1N4148
+ 2N4401_2N4401_2N4401
+ 2PIN HEADER_BCON_2X1V_100S_1SQ_
+ 74HC04_4_74HC0_74HC04
+ 74HC08_3_74HC0_74HC08
+ 74HC157_4_74HC157_74HC157
+ C NP_SMR0805_100NF
+ CAP POL_SMR0805_10UF
+ CAP POL_SMR0805_4.7UF
+ CAP POL_SMR0805_47UF
+ CAPACITOR POL_SMR0805_100PF
+ CAPACITOR POL_SMR0805_10UF
+ CAPACITOR POL_SMR0805_1UF
+ CHOKE_SMR0805_FBEAD
+ CONNECTOR DB9_DB9_SYM_CONNECTOR
+ LM2936/SO_1_LM_2936_LM2936/SOIC
+ PHONE JACK-3_1_PJ102AH_PJ102AH
+ PHONE JACK-3_2_35MMJACK_RX_ALLS
+ PHONE JACK-3_2_35MMJACK_RX_DTMF
+ PHONE JACK-3_2_35MMJACK_RX_ECHO
+ PHONE JACK-3_2_35MMJACK_TX_ALLS
+ PHONE JACK-3_2_35MMJACK_TX_ECHO
+ POT_P60-20748_10K
+ RESISTOR_SMR0805_0
+ RESISTOR_SMR0805_10K
+ RESISTOR_SMR0805_22K
+ RESISTOR_SMR0805_51K
+ RESISTOR_SMR0805_7.5K
+ TL062_2_TL082_TL072
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C NP_SMR0805_100NF    
+ C2                  CAP POL_SMR0805_10UF  
+ C3                  CAPACITOR POL_SMR0805_1UF 
+ C4                  CAP POL_SMR0805_10UF  
+ C5                  CAP POL_SMR0805_4.7UF 
+ C6                  CAP POL_SMR0805_10UF  
+ C7                  C NP_SMR0805_100NF    
+ C8                  C NP_SMR0805_100NF    
+ C9                  CAP POL_SMR0805_47UF  
+ C10                 C NP_SMR0805_100NF    
+ C11                 CAPACITOR POL_SMR0805_100PF 
+ C12                 C NP_SMR0805_100NF    
+ C13                 CAPACITOR POL_SMR0805_10UF 
+ C14                 CAP POL_SMR0805_10UF  
+ C15                 CAP POL_SMR0805_10UF  
+ C16                 CAPACITOR POL_SMR0805_10UF 
+ C17                 C NP_SMR0805_100NF    
+ C18                 CAP POL_SMR0805_4.7UF 
+ D1                  1N4148_SMD_0805_21_D1N4148 
+ D2                  1N4148_SMD_0805_21_D1N4148 
+ J1                  PHONE JACK-3_2_35MMJACK_TX_ECHO 
+ J2                  PHONE JACK-3_2_35MMJACK_RX_ECHO 
+ J3                  PHONE JACK-3_2_35MMJACK_TX_ALLS 
+ J4                  PHONE JACK-3_2_35MMJACK_RX_ALLS 
+ J5                  PHONE JACK-3_2_35MMJACK_RX_DTMF 
+ J6                  2PIN HEADER_BCON_2X1V_100S_1SQ_ 
+ J7                  2PIN HEADER_BCON_2X1V_100S_1SQ_ 
+ J8                  2PIN HEADER_BCON_2X1V_100S_1SQ_ 
+ J9                  2PIN HEADER_BCON_2X1V_100S_1SQ_ 
+ L1                  CHOKE_SMR0805_FBEAD   
+ L2                  CHOKE_SMR0805_FBEAD   
+ L3                  CHOKE_SMR0805_FBEAD   
+ P1                  CONNECTOR DB9_DB9_SYM_CONNECTOR 
+ P2                  PHONE JACK-3_1_PJ102AH_PJ102AH 
+ Q1                  2N4401_2N4401_2N4401  
+ Q2                  2N4401_2N4401_2N4401  
+ R1                  RESISTOR_SMR0805_51K  
+ R2                  RESISTOR_SMR0805_22K  
+ R3                  POT_P60-20748_10K     
+ R4                  RESISTOR_SMR0805_51K  
+ R5                  RESISTOR_SMR0805_22K  
+ R6                  POT_P60-20748_10K     
+ R7                  RESISTOR_SMR0805_7.5K 
+ R8                  POT_P60-20748_10K     
+ R10                 RESISTOR_SMR0805_51K  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R11                 RESISTOR_SMR0805_0    
+ R12                 RESISTOR_SMR0805_10K  
+ R13                 RESISTOR_SMR0805_51K  
+ R14                 RESISTOR_SMR0805_10K  
+ R15                 RESISTOR_SMR0805_51K  
+ R16                 RESISTOR_SMR0805_51K  
+ R17                 RESISTOR_SMR0805_10K  
+ R18                 RESISTOR_SMR0805_51K  
+ R19                 RESISTOR_SMR0805_10K  
+ U1                  TL062_2_TL082_TL072   
+ U2                  74HC04_4_74HC0_74HC04 
+ U3                  74HC08_3_74HC0_74HC08 
+ U4                  74HC157_4_74HC157_74HC157 
+ U5                  LM2936/SO_1_LM_2936_LM2936/SOIC 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ J1.3                           PRIM_FILE      .\pstchip.dat
+ J2.3                           PRIM_FILE      .\pstchip.dat
+ J3.3                           PRIM_FILE      .\pstchip.dat
+ J4.3                           PRIM_FILE      .\pstchip.dat
+ J5.3                           PRIM_FILE      .\pstchip.dat
+ J6.2                           PRIM_FILE      .\pstchip.dat
+ J7.2                           PRIM_FILE      .\pstchip.dat
+ J8.2                           PRIM_FILE      .\pstchip.dat
+ J9.2                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ L3.2                           PRIM_FILE      .\pstchip.dat
+ P1.9                           PRIM_FILE      .\pstchip.dat
+ P2.3                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ Q2.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  LinkingInterface.brd                                                        |
+|                                                    Mon Apr 06 16:24:18 2015  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ U1.3                           PRIM_FILE      .\pstchip.dat
+ U1.5                           PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+ U2.3                           PRIM_FILE      .\pstchip.dat
+ U2.5                           PRIM_FILE      .\pstchip.dat
+ U2.9                           PRIM_FILE      .\pstchip.dat
+ U2.11                          PRIM_FILE      .\pstchip.dat
+ U2.13                          PRIM_FILE      .\pstchip.dat
+ U3.1                           PRIM_FILE      .\pstchip.dat
+ U3.4                           PRIM_FILE      .\pstchip.dat
+ U3.9                           PRIM_FILE      .\pstchip.dat
+ U3.12                          PRIM_FILE      .\pstchip.dat
+ U4.1                           PRIM_FILE      .\pstchip.dat
+ U5.1                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  329                                            |
+|------------------------------------------------------------------------------|

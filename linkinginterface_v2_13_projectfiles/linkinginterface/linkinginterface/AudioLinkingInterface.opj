@@ -1,0 +1,286 @@
+(ExpressProject "AudioLinkingInterface"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\lib\amplifier.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\cmpe174reflib.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\connector.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\discrete.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\filter.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\linkinginterface.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\microcontroller.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\microprocessor.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\opamp.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\xtal.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\gate.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\audiolinkinginterface.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Report_File
+       "G:\Users\Owner\Dropbox\SeniorDesign\Designs\linkinginterface\linkinginterface\DRC_Rev2.DRC")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "FALSE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\TGBODKIN\DESKTOP\LINKINGINTERFACE_V2_8_PROJECTFILES\LINKINGINTERFACE_V2_8_PROJECTFILES\LINKINGINTERFACE_V2_8\LINKINGINTERFACE\LINKINGINTERFACE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\audiolinkinginterface.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Configuration File"
+       "C:\Cadence\SPB_16.5\tools\Capture\allegro.cfg")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\audiolinkinginterface.drc"
+      (Type "Report"))
+    (File ".\designrulescheck.drc"
+      (Type "Report"))
+    (File ".\drc.drc"
+      (Type "Report"))
+    (File ".\pcb\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pcb\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pcb\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File
+       "g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface new (1)\linkinginterface new\linkinginterface\linkinginterface\pcb\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File
+       "g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface new (1)\linkinginterface new\linkinginterface\linkinginterface\pcb\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File
+       "g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface new (1)\linkinginterface new\linkinginterface\linkinginterface\pcb\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\drc_rev2.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TitleBlock0
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (107
+      (FullPartName "107.Normal")
+      (LibraryName "C:\USERS\TGBODKIN\DESKTOP\LINKINGINTERFACE\LIB\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (2N2222
+      (FullPartName "2N2222.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("PHONE JACK-O"
+      (FullPartName "PHONE JACK-O.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 9"
+      (FullPartName "HEADER 9.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 16"
+      (FullPartName "HEADER 16.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 20X2"
+      (FullPartName "HEADER 20X2.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 3"
+      (FullPartName "HEADER 3.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 10"
+      (FullPartName "HEADER 10.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DESKTOP\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LM2936/SO_5
+      (FullPartName "LM2936/SO_5.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DESKTOP\LINKINGINTERFACE\LINKINGINTERFACE\AUDIOLINKINGINTERFACE.DSN")
+      (DeviceIndex "0"))
+    (TL072
+      (FullPartName "TL072.Normal")
+      (LibraryName "C:\USERS\TGBODKIN\DESKTOP\LINKINGINTERFACE\LIB\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CMPE174REFLIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6"
+      (FullPartName "HEADER 6.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (3pinHeader
+      (FullPartName "3pinHeader.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LIB\LINKINGINTERFACE.OLB")
+      (DeviceIndex "0"))
+    (LM2936/SO
+      (FullPartName "LM2936/SO.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    ("PHONE JACK-3"
+      (FullPartName "PHONE JACK-3.Normal")
+      (LibraryName
+         "G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LIB\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (TL082
+      (FullPartName "TL082.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\PSPICE\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (74HC02
+      (FullPartName "74HC02.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DOWNLOADS\LINKINGINTERFACE (3)\LINKINGINTERFACE\LIB\GATE.OLB")
+      (DeviceIndex "0"))
+    (74HC08
+      (FullPartName "74HC08.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DOWNLOADS\LINKINGINTERFACE (3)\LINKINGINTERFACE\LIB\GATE.OLB")
+      (DeviceIndex "2"))
+    (74HC04
+      (FullPartName "74HC04.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DOWNLOADS\LINKINGINTERFACE (3)\LINKINGINTERFACE\LIB\GATE.OLB")
+      (DeviceIndex "0"))
+    (74HC157
+      (FullPartName "74HC157.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DESKTOP\LINKINGINTERFACE\LIB\MUXDECODER.OLB")
+      (DeviceIndex "0"))
+    (74HCT153/SO
+      (FullPartName "74HCT153/SO.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DESKTOP\LINKINGINTERFACE\LIB\MUXDECODER.OLB")
+      (DeviceIndex "0"))
+    (4081
+      (FullPartName "4081.Normal")
+      (LibraryName
+         "C:\USERS\TGBODKIN\DOWNLOADS\LINKINGINTERFACE (3)\LINKINGINTERFACE\LIB\GATE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.5\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\audiolinkinginterface.dsn")
+      (Path "Design Resources" ".\audiolinkinginterface.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "..\lib\linkinginterface.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\audiolinkinginterface.dsn" "SCHEMATIC1"
+         "LinkingInterfaceV2"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 153"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1692 50 507")
+        (Scroll "-496 -10")
+        (Zoom "41")
+        (Occurrence "/"))
+      (Path
+         "G:\USERS\OWNER\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE_V2_13\LINKINGINTERFACE_V2_13_PROJECTFILES\LINKINGINTERFACE\LINKINGINTERFACE\AUDIOLINKINGINTERFACE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "LinkingInterfaceV2")))
+  (ISPCBBASICLICENSE "false"))
