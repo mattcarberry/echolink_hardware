@@ -1,0 +1,161 @@
+#########################################################################
+#######                                                          ########
+####### This file contains a step-by-step explanation how to get ########
+####### GPIO working on systems using the PCA9554a GPIO-expander ########
+#######         Mainboards D3003-S and D307x-S                   ########
+#######                                                          ########
+#########################################################################
+#######                 OEM Sales  04/2012                       ########
+#########################################################################
+
+
+Test boards: D3076-S and D3003-S2
+Operating System used for the test: Ubuntu 11.10
+
+Note: The procedure should be nearly identical on all current distributions. The one thing that might be different is the way you install 
+the required packages, i.e. the distribution's package manager and/or perhaps the package names might differ slightly.
+The commands described in this howto should normally be run as root!
+
+##################
+### IMPORTANT! ###
+##################
+
+The PCA953x kernel module has undergone some changes lately that now allow it to work with the PCA9554a on X86 and X64 systems, 
+without "platform_data" that is usually only provided on embedded systems. 
+You might want to just install a current kernel >=3.1.x, which includes the needed fixes for the GPIO driver module.
+If for some reason, you would like to keep your current kernel <3.1.x, then you will have to recompile the new PCA953x source
+ files against your current kernel.
+
+Steps 1.) to 11.) explain how the recompilation procedure is done correctly.
+If you already run a kernel with version >=3.1.x, then just skip these steps and start directly with step 12.) . 
+
+
+1.) Get your exact kernel name, by running "uname -r" in terminal.
+
+2.) Check for availability of -headers and source-files for your current kernel. Sometimes you are running an older kernel
+    version and maybe header or source packages are no longer readily available. --> Update your system to make sure all the
+    needed files are available. Without matching headers and kernel source files you won't be able to recompile the GPIO module successfuly.
+
+Packages that you will probably need to install are (examples for the current Ubuntu 11.10):
+	- linux-image-3.0.0-17-generic
+	- linux-headers-generic
+	- linux-headers-3.0.0-17-generic
+	- linux-source
+	- linux-source-3.0.0
+	- build-essential
+	- Some other dependencies could need to be installed (system specific). 
+	- i2c-tools
+
+3.) Open a browser and goto "http://git.kernel.org/?p=linux/kernel/git/stable/linux-stable.git;a=tree;f=include/linux/i2c;hb=HEAD".
+    Search for the file "pca953x.h" and download it.
+
+4.) Now goto "http://git.kernel.org/?p=linux/kernel/git/stable/linux-stable.git;a=tree;f=drivers/gpio;hb=HEAD", and download the file "gpio-pca953x.c".
+
+5.) Open a terminal and change directory to your kernel source folder (normally located at "/usr/src/linux-source-KERNEL-NAME" ,
+    where KERNEL-NAME is the name you previously determined by running "uname -r").  For example in Ubuntu 11.10 it is currectly located at "/usr/src/linux-source-3.0.0".
+
+6.) Goto the subfolder "drivers/gpio" and rename the original "pca953x.c" (or "gpio-pca953x.c") file, in order to save it. Then copy the downloaded "gpio-pca953x.c" 
+    file into that folder. Rename it if needed (i.e. if the old file was called "pca953x.c", then give the newer file the same name!
+
+7.) Goto the subfolder "include/linux/i2c", rename the original "pca953x.h" and place the new "pca953x.h" into the directory. 
+
+8.) Change back into the main source directory ("/usr/src/linux-source-KERNEL-NAME") and run the command "make oldconfig && make prepare", 
+    followed by "make M=drivers/gpio". The last command means compiling just the gpio modules.
+
+9.) After that your should see all gpio driver modules be compiled. If no errors occured there should be a "pca953x.ko" file in the drivers/gpio subdirectoy, now.
+
+10.) Copy the new module "pca953x.ko" to your kernels module directory (for example "/lib/modules/3.0.0-17-generic/kernel/drivers/gpio/"), replacing the old file.
+
+11.) Run the command "depmod -a", to rebuild the kernel module dependencies.
+
+
+
+12.) Run "lsmod" and check if the correct i2-module was already loaded (D3003: i2c-piix4, D3076: i2c-i801). 
+     If not then load the appropriate module by running the command "modprobe i2c-i801" (<--for example for the D3076). If you want the module to be 
+     loaded automatically on every system start, just add the module name to the file "/etc/modules" (one module name per line!).
+
+13.) Check where on the i2c-bus the smbus is located: 
+
+NOTE: The PCA9554a should be located on address 0x3C on the smbus.
+
+	- modprobe i2c-dev (needed to probe the i2c-bus!)
+	- run "i2cdetect -l" to see what number the smbus is located on.
+	- Output for example: "i2c-9 smbus SMBus I801 adapter"
+	- run "i2cdetect 9" ("9" <-- the number you got from the previous command)
+	- The command will ask you to continue and will then print out a matrix.
+	- On address 0x3C there should be a "3C" printed in the matrix.
+	- If it says "--" on address 0x3C, then there's something wrong!
+	- Now run "i2cdump 16 0x3C", and press ENTER to continue.
+	- If it is the correct bus number and address, the output for the pca9554a should look like this:
+
+		     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f    0123456789abcdef
+		00: ff ff 00 ff XX XX XX XX XX XX XX XX XX XX XX XX    ....XXXXXXXXXXXX
+		10: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		20: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		30: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		40: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		50: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		60: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		70: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		80: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		90: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		a0: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		b0: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		c0: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		d0: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		e0: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+		f0: XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX    XXXXXXXXXXXXXXXX
+
+	On Adresses 0x00 to 0x03 you can see the PCA9554a's 4 registers and their default values.
+
+
+
+
+###########################
+##### IMPORTANT NOTE: #####
+###########################
+
+Keep in mind for all following steps, that on kernels <3.1.x the GPIO module is called "pca953x", while it is called "gpio-pca953x" 
+on kernels >=3.1.x !!! 
+In the following description I will just use "pca953x" for the sake of simplicity!
+
+14.) Now load the driver module for the PCA9554a, by typing "modprobe pca953x", followed by enter. 
+
+15.) Running "lsmod" should now show the "pca953x" module in the list of loaded modules.
+
+16.) The following command finally tells the driver to initialize the PCA9554(a), located on address 0x3C.
+     "echo pca9554 0x3C > /sys/bus/i2c/devices/i2c-16/new_device" . The part "i2c-16" of course needs to be replaced by the number found in step 13.) !!!
+
+17.) The command "ls /sys/class/gpio" should now show a "gpiochip248" entry in that directory. That means that the chip got initialized correctly.
+
+18.)For details on howto use GPIO, please refer to "http://www.kernel.org/doc/Documentation/gpio.txt" ! I will now just give a quick example.
+
+19.) Example:
+
+	How to use GPIO-Pin #1 as an output and change its value (for example to light a LED):
+	- "echo 249 > /sys/class/gpio/export" , this activates pin #1 of gpiochip248.
+	  And it also creates "/sys/class/gpio/gpio249".
+	- "echo out > /sys/class/gpio/gpio249/direction" sets the pins direction as output.
+	- "echo 1 > /sys/class/gpio/gpio249/value" sets the pin #1 of gpiochip248 to "high"(=1).
+	  A connected LED should now light up.
+	- If you want to disable the pin, just run "echo 249 > /sys/class/gpio/unexport" .
+
+
+Hint: 
+If you want to be able to use GPIO after a system reboot, you wil have to tell the system to automatically load the "pca953x" kernel module 
+and to initialize it with the appropriate i2c-device, chip name and address.
+
+On Debian and Ubuntu you can do this as follows:
+
+- Run the command "echo pca953x >> /etc/modules", which adds the pca953x entry to the /etc/modules file which tells the system, to load certain modules
+
+- Add the line "echo pca9554 0x3c > /sys/bus/i2c/devices/i2c-0/new_device" to the file /etc/rc.local, BEFORE the line "exit 0"
+
+That tells the system to initialize the gpio driver on every boot.
+
+
+##################
+### ATTENTION: ###
+##################
+
+The "i2c-0" entry in the command above needs to be replaced by the i2c-number that you found in step 13 !!!

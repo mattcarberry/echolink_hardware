@@ -1,0 +1,50 @@
+/* 
+Re: GPIO and GPIO interrupts
+
+Postby Hundertvolt » Sat Nov 15, 2014 1:59 am
+It looks like I could find a solution! :D It is not yet tested thoroughly, but seems to work as expected.
+
+First, you have to export the port:
+
+Code: Select all
+    cd /sys/class/gpio/
+    echo 204 > export
+
+
+
+in /sys/class/gpio/gpio204, you can find several virtual files. These are given according to Linux standards, which are very well described here:
+https://www.kernel.org/doc/Documentation/gpio/sysfs.txt
+
+Essential is: If you can find "direction", the processor and the kernel do support real interrupts! And for the U3, this file exists 8-) A little drawback is that it can only be written with superuser rights, but it's OK for testing.
+
+The documents describes a "poll(2)" method and several handlers. Luckily, these functions are well represented within Python with the "select" module and by its methods "poll" and "epoll" - and here goes a test script which I got running (note that you have to run it using sudo ./gpiotest.py):
+*/
+
+    #!/usr/bin/python
+    import os, time, select
+
+    GPIO_MODE_PATH= os.path.normpath('/sys/class/gpio/gpio204/direction')
+    GPIO_PIN_PATH=os.path.normpath('/sys/class/gpio/gpio204/value')
+    GPIO_EDGE_PATH=os.path.normpath('/sys/class/gpio/gpio204/edge')
+
+
+    file = open(GPIO_MODE_PATH, 'r+')
+    file.write("in")          ## make the pin an input
+    file.close()                 
+
+    file = open(GPIO_EDGE_PATH, 'r+')
+    file.write("both")          ## let the interrupt be triggered on rising and falling edges
+    file.close()                 
+
+    file = open(GPIO_PIN_PATH, 'r') ## open the virtual file
+
+    epoll = select.epoll()
+    epoll.register(file, select.EPOLLIN|select.EPOLLET) #register poll method and triggered events
+    while True:
+        events = epoll.poll() #this line reads blocking
+        for fileno, event in events:
+            if fileno == file.fileno(): #check if interrupt comes from our handle
+                print('Interrupt')
+
+
+    file.close()  ## Make sure to close the file when you're done!
