@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : USTRIP2Coax.dra                               )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Tue Jun 14 18:15:03 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : C:/Amateur Radio/Projects/CircPolarization/Lib/local/parameter/symbol_mode.prm
+	Layout Name   : C:/Amateur Radio/Projects/CircPolarization/Lib/symbols/USTRIP2Coax.dra
+
+Reading...db_common_type:
+	WARNING: Unmatched Data - Field Name: alternate_subclass , Value: "NAME UNDEFINED"
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 1.

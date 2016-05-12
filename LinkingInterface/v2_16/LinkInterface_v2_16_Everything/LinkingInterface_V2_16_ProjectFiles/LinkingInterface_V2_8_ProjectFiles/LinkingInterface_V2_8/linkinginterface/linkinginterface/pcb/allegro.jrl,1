@@ -1,0 +1,62 @@
+\t (00:00:02) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:02)     Journal start - Wed Jun 10 12:27:17 2015
+\t (00:00:02)         Host=SRDSNPC18 User=tgbodkin Pid=5480 CPUs=4
+\t (00:00:02) 
+\t (00:00:05) Opening existing design...
+\i (00:00:06) fillin no 
+\e (00:00:06) Failed to open design since it is locked - C:/Users/tgbodkin/Desktop/LinkingInterface_V2_13_ProjectFiles/LinkingInterface_V2_8_ProjectFiles/LinkingInterface_V2_8/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_16.brd
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 635
+\i (00:00:06) trapsize 624
+\i (00:00:06) trapsize 637
+\i (00:00:06) trapsize 645
+\i (00:00:06) trapsize 978
+\i (00:00:07) generaledit 
+\i (00:00:08) open 
+\i (00:00:41) fillin "LinkingInterfaceV2_10.brd"
+\t (00:00:41) Opening existing design...
+\i (00:00:41) trapsize 15
+\d (00:00:41) Database opened: C:/Users/tgbodkin/Desktop/LinkingInterface_V2_13_ProjectFiles/LinkingInterface_V2_8_ProjectFiles/LinkingInterface_V2_8/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_10.brd
+\i (00:00:43) generaledit 
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 620.6 2071.8
+\i (00:00:44) trapsize 30
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 618.2 2068.2
+\i (00:00:44) trapsize 61
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 616.9 2062.3
+\i (00:00:44) trapsize 121
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 617.0 2062.2
+\i (00:00:44) trapsize 242
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 616.9 2057.4
+\i (00:00:44) trapsize 485
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 3147.8 1960.5
+\i (00:00:44) trapsize 242
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 3157.6 1994.5
+\i (00:00:44) trapsize 121
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 2869.1 2283.0
+\i (00:00:45) trapsize 242
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 2820.5 2263.7
+\i (00:00:45) trapsize 485
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 2597.5 3669.7
+\i (00:00:45) trapsize 242
+\i (00:00:52) exit 
+\t (00:00:53)     Journal end - Wed Jun 10 12:28:08 2015

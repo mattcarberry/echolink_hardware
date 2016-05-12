@@ -1,0 +1,726 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.5.0 p001May-28-2015 at 12:54:13}
+primitive 'CAPACITOR POL_1_UF_CAP_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR POL';
+    JEDEC_TYPE='1_uF_Cap';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'CAP POL_1_UF_CAP_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='1_uF_Cap';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'C NP_SMC0805_470NF';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC0805';
+    VALUE='470nF';
+  end_body;
+end_primitive;
+primitive 'C POL_EIAB_SMCT3528_12_22UF/TAN';
+  pin
+    'P':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'N':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C POL';
+    JEDEC_TYPE='EIAB_SMCT3528_12';
+    VALUE='22uF/Tant';
+  end_body;
+end_primitive;
+primitive 'C NP_SMC0805_100NF';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC0805';
+    VALUE='100nF';
+  end_body;
+end_primitive;
+primitive 'C NP_SMC0603_100PF';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC0603';
+    VALUE='100pF';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR POL_1_UF_CAP_1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR POL';
+    JEDEC_TYPE='1_uF_Cap';
+    VALUE='1uF';
+  end_body;
+end_primitive;
+primitive 'CAP POL_1_UF_CAP_4.7UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='1_uF_Cap';
+    VALUE='4.7uF';
+  end_body;
+end_primitive;
+primitive 'DIODE SCHOTTKY_0_DAX600_60D_SB1';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE SCHOTTKY_0';
+    JEDEC_TYPE='DAX600_60D';
+    VALUE='SB1245';
+  end_body;
+end_primitive;
+primitive '1N4148_1N4148_SOD523_1N4148';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='1N4148';
+    JEDEC_TYPE='1N4148_SOD523';
+    VALUE='1N4148';
+  end_body;
+end_primitive;
+primitive 'LED_SMR0805_RED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='SMR0805';
+    VALUE='RED';
+  end_body;
+end_primitive;
+primitive 'DIODE SCHOTTKY_0_B320_B320';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE SCHOTTKY_0';
+    JEDEC_TYPE='B320';
+    VALUE='B320';
+  end_body;
+end_primitive;
+primitive 'PHONE JACK-3_2_35MMJACK_TX_ECHO';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='PHONE JACK-3_2';
+    JEDEC_TYPE='35mmjack';
+    VALUE='TX_Echo';
+  end_body;
+end_primitive;
+primitive 'HEADER 3_BLKCON156VHTM1SQSW3123';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 3';
+    JEDEC_TYPE='BLKCON156VHTM1SQSW3123';
+    VALUE='HEADER 3';
+  end_body;
+end_primitive;
+primitive 'HEADER 2_4_BLKCON156_VHTM1SQ_SW';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 2_4';
+    JEDEC_TYPE='BLKCON156_VHTM1SQ_SW156_2';
+    VALUE='0.156 VH';
+  end_body;
+end_primitive;
+primitive 'HEADER 20X2_BLKCON100RHTM2OEW52';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    '18':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    '20':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    '22':
+      PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    '24':
+      PIN_NUMBER='(24)';
+      PINUSE='UNSPEC';
+    '26':
+      PIN_NUMBER='(26)';
+      PINUSE='UNSPEC';
+    '28':
+      PIN_NUMBER='(28)';
+      PINUSE='UNSPEC';
+    '30':
+      PIN_NUMBER='(30)';
+      PINUSE='UNSPEC';
+    '32':
+      PIN_NUMBER='(32)';
+      PINUSE='UNSPEC';
+    '34':
+      PIN_NUMBER='(34)';
+      PINUSE='UNSPEC';
+    '36':
+      PIN_NUMBER='(36)';
+      PINUSE='UNSPEC';
+    '38':
+      PIN_NUMBER='(38)';
+      PINUSE='UNSPEC';
+    '40':
+      PIN_NUMBER='(40)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    '17':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    '19':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    '21':
+      PIN_NUMBER='(21)';
+      PINUSE='UNSPEC';
+    '23':
+      PIN_NUMBER='(23)';
+      PINUSE='UNSPEC';
+    '25':
+      PIN_NUMBER='(25)';
+      PINUSE='UNSPEC';
+    '27':
+      PIN_NUMBER='(27)';
+      PINUSE='UNSPEC';
+    '29':
+      PIN_NUMBER='(29)';
+      PINUSE='UNSPEC';
+    '31':
+      PIN_NUMBER='(31)';
+      PINUSE='UNSPEC';
+    '33':
+      PIN_NUMBER='(33)';
+      PINUSE='UNSPEC';
+    '35':
+      PIN_NUMBER='(35)';
+      PINUSE='UNSPEC';
+    '37':
+      PIN_NUMBER='(37)';
+      PINUSE='UNSPEC';
+    '39':
+      PIN_NUMBER='(39)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 20X2';
+    JEDEC_TYPE='BLKCON100RHTM2OEW52540';
+    VALUE='HEADER 20X2';
+  end_body;
+end_primitive;
+primitive 'HEADER 16_BLKCON100VHTM1SQW1001';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    '11':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    '12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    '13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    '14':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    '15':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    '16':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 16';
+    JEDEC_TYPE='BLKCON100VHTM1SQW10016';
+    VALUE='HEADER 16';
+  end_body;
+end_primitive;
+primitive 'HEADER 9_BCON2DB9_5X2V_100S_42D';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 9';
+    JEDEC_TYPE='BCON2DB9_5X2V_100S_42D';
+    VALUE='HEADER 9';
+  end_body;
+end_primitive;
+primitive 'PHONE JACK-3_2_35MMJACK_TX_ALLS';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='PHONE JACK-3_2';
+    JEDEC_TYPE='35mmjack';
+    VALUE='TX_Allstar';
+  end_body;
+end_primitive;
+primitive 'PHONE JACK-3_2_35MMJACK_RX_ECHO';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='PHONE JACK-3_2';
+    JEDEC_TYPE='35mmjack';
+    VALUE='RX_Echo';
+  end_body;
+end_primitive;
+primitive 'PHONE JACK-3_2_35MMJACK_RX_ALLS';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='PHONE JACK-3_2';
+    JEDEC_TYPE='35mmjack';
+    VALUE='Rx_Allstar';
+  end_body;
+end_primitive;
+primitive 'HEADER 6_BLKCON100VHTM1SQSW1006';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 6';
+    JEDEC_TYPE='BLKCON100VHTM1SQSW1006';
+    VALUE='HEADER 6';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_SMR0805_51K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='SMR0805';
+    VALUE='51k';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_SMR0805_7.5K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='SMR0805';
+    VALUE='7.5k';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_SMR0805_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='SMR0805';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_SMR0805_120';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='SMR0805';
+    VALUE='120';
+  end_body;
+end_primitive;
+primitive 'POT_VRES18_35D_10K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WIPER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='POT';
+    JEDEC_TYPE='VRES18_35D';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'TL072_0_DIP100B8W300L450_TL072';
+  pin
+    '+IN':
+      PIN_NUMBER='(3,5)';
+      INPUT_LOAD='(*)';
+    '-IN':
+      PIN_NUMBER='(2,6)';
+      INPUT_LOAD='(*)';
+    'OUT':
+      PIN_NUMBER='(1,7)';
+      OUTPUT_LOAD='(*)';
+    '+9V':
+      PIN_NUMBER='(8,8)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(4,4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='TL072_0';
+    JEDEC_TYPE='DIP100B8W300L450';
+    VALUE='TL072';
+  end_body;
+end_primitive;
+primitive '78L05/TO92_0_SOT223_1234_LM2940';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'G1':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '+9V':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'G2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='78L05/TO92_0';
+    JEDEC_TYPE='SOT223_1234';
+    VALUE='LM2940 / SOT223  LDO';
+  end_body;
+end_primitive;
+primitive '74HC08_4_74HC0_74HC08';
+  pin
+    'A':
+      PIN_NUMBER='(1,4,9,12)';
+      INPUT_LOAD='(*)';
+    'B':
+      PIN_NUMBER='(2,5,10,13)';
+      INPUT_LOAD='(*)';
+    'Y':
+      PIN_NUMBER='(3,6,8,11)';
+      OUTPUT_LOAD='(*)';
+    '+3.3V':
+      PIN_NUMBER='(14,14,14,14)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(7,7,7,7)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='74HC08_4';
+    JEDEC_TYPE='74HC0';
+    VALUE='74HC08';
+  end_body;
+end_primitive;
+primitive '74HC04_5_74HC0_74HC04';
+  pin
+    'A':
+      PIN_NUMBER='(1,3,5,9,11,13)';
+      INPUT_LOAD='(*)';
+    'Y':
+      PIN_NUMBER='(2,4,6,8,10,12)';
+      OUTPUT_LOAD='(*)';
+    '+3.3V':
+      PIN_NUMBER='(14,14,14,14,14,14)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(7,7,7,7,7,7)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='74HC04_5';
+    JEDEC_TYPE='74HC0';
+    VALUE='74HC04';
+  end_body;
+end_primitive;
+primitive 'LM2936/SO_13_LM2936_SOT_LM2936/';
+  pin
+    '+3.3V':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    '+9V':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'GND#2':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'GND#4':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='LM2936/SO_13';
+    JEDEC_TYPE='LM2936_SOT';
+    VALUE='LM2936/SO_5';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,19 @@
+\t (05:34:40) allegro 16.5 P003 (v16-5-13C) i86
+\t (05:34:40)     Journal start - Thu May 28 01:51:15 2015
+\t (05:34:40)         Host=OWNER-PC130616 User=Owner Pid=498424 CPUs=8
+\t (05:34:40) 
+\d (05:34:40) Database opened: G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/lib/symbols/BLKCON156VHTM1SQSW3123.dra
+\i (05:34:40) generaledit 
+\i (05:34:44) save_as 
+\i (05:34:47) fillin "menu_cancel"
+\i (05:34:47) generaledit 
+\i (05:36:48) open 
+\i (05:37:22) fillin "G:\Users\Owner\Documents\SCHOOL SHIT\EE174\EE174 OLD\EE174 FINAL PROJECT\Lib\symbols\BCON100T\BCON100T_LLB.brd"
+\i (05:37:22) cd "G:\Users\Owner\Documents\SCHOOL SHIT\EE174\EE174 OLD\EE174 FINAL PROJECT\Lib\symbols\BCON100T"
+\t (05:37:22) Opening existing design...
+\i (05:37:22) fillin yes 
+\i (05:37:23) trapsize 919
+\i (05:37:23) trapsize 899
+\i (05:37:23) trapsize 919
+\i (05:37:23) trapsize 1589
+\t (05:37:23)     Journal end - Thu May 28 01:53:58 2015

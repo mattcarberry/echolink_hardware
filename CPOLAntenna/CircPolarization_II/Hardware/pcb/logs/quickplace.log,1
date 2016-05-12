@@ -1,0 +1,85 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : CPOL.brd                                      )
+(    Software Version : 16.3S028                                      )
+(    Date/Time        : Tue Jun 14 19:35:43 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on side Top
+
+         Placed symbol:  U3 / 74HC123_11_DIP100_16_W300_L800_ / DIP100_16_W300_L800 at (2887.0 6562.0)
+         Placed symbol:  U2 / 754410_DIP100_16_W300_L800_7544 / DIP100_16_W300_L800 at (3703.0 6562.0)
+         Placed symbol:  U1 / 74X04_1_DIP100_14_W300_L700_741 / DIP100_14_W300_L700 at (4519.0 6562.0)
+         Placed symbol:  U6 / 2X10HEADER_BCON_5X2V_100S_42D_2 / BCON_5X2V_100S_42D at (5235.0 6562.0)
+         Placed symbol:  U5 / 2X10HEADER_BCON_5X2V_100S_42D_2 / BCON_5X2V_100S_42D at (5751.0 6562.0)
+         Placed symbol:  C15 / CAPACITOR FEED_3_BCON_3X1V_100S / BCON_3X1V_100S_1SQ_42D at (2992.0 6978.0)
+         Placed symbol:  C20 / CAPACITOR FEED_3_BCON_3X1V_100S / BCON_3X1V_100S_1SQ_42D at (3318.0 6978.0)
+         Placed symbol:  C24 / CAPACITOR FEED_3_BCON_3X1V_100S / BCON_3X1V_100S_1SQ_42D at (3644.0 6978.0)
+         Placed symbol:  Q1 / 2N2222_TO92R100_2N2222 / TO92R100 at (3921.0 7034.0)
+         Placed symbol:  U4 / 78L05/TO92_1_TO92R100_78L05 / TO92R100 at (4149.0 7034.0)
+         Placed symbol:  C5 / C NP_SMC0805_1NF / SMC0805 at (4308.0 6964.5)
+         Placed symbol:  C6 / C NP_SMC0805_1NF / SMC0805 at (4482.0 6964.5)
+         Placed symbol:  C8 / C NP_SMC0805_1NF / SMC0805 at (4656.0 6964.5)
+         Placed symbol:  C14 / C NP_SMC0805_100N / SMC0805 at (4830.0 6964.5)
+         Placed symbol:  C9 / C NP_SMC0805_1NF / SMC0805 at (5004.0 6964.5)
+         Placed symbol:  C18 / C NP_SMC0805_100N / SMC0805 at (5178.0 6964.5)
+         Placed symbol:  C16 / C NP_SMC0805_100N / SMC0805 at (5352.0 6964.5)
+         Placed symbol:  C21 / C NP_SMC0805_100N / SMC0805 at (5526.0 6964.5)
+         Placed symbol:  C12 / C NP_SMC0805_1NF / SMC0805 at (5700.0 6964.5)
+         Placed symbol:  C13 / C NP_SMC0805_1NF / SMC0805 at (5874.0 6964.5)
+         Placed symbol:  C19 / C NP_SMC0805_100N / SMC0805 at (6048.0 6964.5)
+         Placed symbol:  C22 / C NP_SMC0805_1U / SMC0805 at (2874.0 7192.5)
+         Placed symbol:  C23 / C POL_EIAC_SMCT6032_12_47UF / T / EIAC_SMCT6032_12 at (3089.5 7225.0)
+         Placed symbol:  C25 / C NP_SMC0805_1000P / SMC0805 at (3404.5 7192.5)
+         Placed symbol:  C26 / C NP_SMC0805_1000P / SMC0805 at (3578.5 7192.5)
+         Placed symbol:  C3 / C NP_SMC0805_1NF / SMC0805 at (3752.5 7192.5)
+         Placed symbol:  C7 / C NP_SMC0805_10NF / SMC0805 at (3926.5 7192.5)
+ERROR:   Could not find symbol:  D1 / PIN DIODE_0_UM750XE_UM7504E / UM750XE
+ERROR:   Could not find symbol:  D2 / PIN DIODE_0_UM750XE_UM7504E / UM750XE
+ERROR:   Could not find symbol:  D3 / PIN DIODE_0_UM750XE_UM7504E / UM750XE
+ERROR:   Could not find symbol:  D6 / 1N4148_0_SOD123_1N4148 / SOD123
+         Placed symbol:  C11 / C NP_SMC0805_10NF / SMC0805 at (4100.5 7192.5)
+         Placed symbol:  C4 / C NP_SMC0805_1NF / SMC0805 at (4274.5 7192.5)
+         Placed symbol:  C2 / C NP_SMC0805_10NF / SMC0805 at (4448.5 7192.5)
+         Placed symbol:  L1 / INDUCTOR/SM_0_AX400_35D_2UH / AX400_35D at (4624.0 7206.0)
+         Placed symbol:  L2 / INDUCTOR/SM_0_AX400_35D_2UH / AX400_35D at (5117.0 7206.0)
+         Placed symbol:  L6 / INDUCTOR/SM_0_AX400_35D_2UH / AX400_35D at (5610.0 7206.0)
+         Placed symbol:  L3 / INDUCTOR_AX400_35D_2UH / AX400_35D at (2875.5 7360.0)
+         Placed symbol:  L4 / INDUCTOR_AX400_35D_2UH / AX400_35D at (3368.5 7360.0)
+         Placed symbol:  L5 / INDUCTOR_AX400_35D_2UH / AX400_35D at (3861.5 7360.0)
+         Placed symbol:  L7 / INDUCTOR_AX400_35D_2UH / AX400_35D at (4354.5 7360.0)
+         Placed symbol:  L8 / INDUCTOR_AX400_35D_1UH / AX400_35D at (4847.5 7360.0)
+         Placed symbol:  L9 / INDUCTOR_AX400_35D_1UH / AX400_35D at (5340.5 7360.0)
+         Placed symbol:  P1 / COAX CONNECTOR_0_USTRIP2COAX_TP / USTRIP2COAX at (5856.0 7371.0)
+         Placed symbol:  P2 / COAX CONNECTOR_0_USTRIP2COAX_TP / USTRIP2COAX at (5994.0 7371.0)
+         Placed symbol:  P3 / COAX CONNECTOR_0_USTRIP2COAX_TP / USTRIP2COAX at (6132.0 7371.0)
+         Placed symbol:  P4 / COAX CONNECTOR_0_USTRIP2COAX_TP / USTRIP2COAX at (2898.0 7509.0)
+         Placed symbol:  P5 / COAX CONNECTOR_0_USTRIP2COAX_TP / USTRIP2COAX at (3036.0 7509.0)
+         Placed symbol:  D7 / DIODE SCHOTTKY_DAX400_38D_1N581 / DAX400_38D at (3151.5 7498.0)
+         Placed symbol:  R1 / R SMALL_SMR2010_240 / SMR2010 at (3657.5 7514.5)
+         Placed symbol:  R2 / R SMALL_SMR2010_240 / SMR2010 at (3976.5 7514.5)
+         Placed symbol:  R3 / R SMALL_SMR2010_240 / SMR2010 at (4295.5 7514.5)
+         Placed symbol:  R10 / R SMALL_SMR0805_47K / SMR0805 at (4600.0 7484.5)
+         Placed symbol:  R11 / R SMALL_SMR0805_10K / SMR0805 at (4774.0 7484.5)
+         Placed symbol:  R6 / R SMALL_SMR0805_10K / SMR0805 at (4948.0 7484.5)
+         Placed symbol:  R8 / R SMALL_SMR0805_10K / SMR0805 at (5122.0 7484.5)
+         Placed symbol:  R4 / R SMALL_SMR0805_4.7K / SMR0805 at (5296.0 7484.5)
+         Placed symbol:  R5 / R SMALL_SMR0805_22K / SMR0805 at (5470.0 7484.5)
+         Placed symbol:  R7 / R SMALL_SMR0805_510 / SMR0805 at (5644.0 7484.5)
+         Placed symbol:  R9 / R_3_SMR0805_330 / SMR0805 at (5818.0 7484.5)
+ERROR:   Could not find symbol:  D9 / 1N4148_0_SOD123_1N4148 / SOD123
+         Placed symbol:  C10 / C NP_SMC0805_10NF / SMC0805 at (5992.0 7484.5)
+ERROR:   Could not find symbol:  D8 / LED_SOD123_GRN / SOD123
+         Placed symbol:  C1 / C NP_SMC0805_10NF / SMC0805 at (6166.0 7484.5)
+         Placed symbol:  CONN2 / TESTPOINT_BCON_1X1V_SQ_52D_TEST / BCON_1X1V_SQ_52D at (2887.0 7647.0)
+         Placed symbol:  CONN1 / TESTPOINT_BCON_1X1V_SQ_52D_TEST / BCON_1X1V_SQ_52D at (3003.0 7647.0)
+
+
+Placed 60 of 66 applicable (66 total) symbols.
+
+-----------------------------------------------------------------------
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LM2936_SOT.dra                                )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Mon Apr 06 17:50:30 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Users/Owner/Dropbox/Dropbox/SeniorDesign/Designs/LinkingInterface New (1)/LinkingInterface New/linkinginterface/lib/symbols
+    Name      = lm2936_sot.psm
+    User      = Owner
+    Machine   = OWNER-PC130616
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

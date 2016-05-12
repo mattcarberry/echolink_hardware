@@ -1,0 +1,189 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro NETLIST IN Log File                                      )
+(                                                                     )
+(    Drawing          : ING_CONNECETOR_REV_G-8.brd                    )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Fri Aug 05 15:00:54 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Aug 05 15:00:54 2011				Page     1
+
+
+
+
+Netlist File Name: 'C:\Amateur Radio\Projects\CircPolarization\Hardware\pcb\IN~
+G_CONNECETOR_REV_G-8.txt'      Layout File Name: 'C:\Amateur Radio\Projects\Ci~
+rcPolarization\Hardware\pcb\ING_CONNECETOR_REV_G-8.brd'
+
+===========================================================
+
+$PACKAGES
+'JACK08PSWITCHCRAFTEN3P8MX3REV1' ! 'HEADER_8' ! 'Jack 8' ; JP17
+'JACK06PSWITCHCRAFTEN6P8MX3REV1' ! 'HEADER_6_JP21' ! 'Jack 6' ; JP21
+'JACK06PSWITCHCRAFTEN6P8MX3REV2' ! 'HEADER_6_JP22' ! 'Jack 6' ; JP22
+'JACK03PSWITCHCRAFTEN3P8MX3REV2' ! 'HEADER_3' ! 'Jack 3' ; JP20
+'JACK06PSWITCHCRAFTEN6P8MX3REV3' ! 'HEADER_6_JP23' ! 'Jack 6' ; JP23
+'JACK08PSWITCHCRAFTEN3P8MX3REV2' ! 'HEADER_8' ! 'Jack 8' ; JP18
+                                                          ^
+WARNING(SPMHNI-82): Package symbol 'JACK08PSWITCHCRAFTEN3P8MX3REV2' replaces d~
+evice file package 'JACK08PSWITCHCRAFTEN3P8MX3REV1'.
+-------------------------------------------------------------------------------
+'HEADER_20P_SAMTEC_EHF_VIA_OK' ! 'HEADER20X2SM' ! 'HEADER 20x2' ; JP16
+'JACK08PSWITCHCRAFTEN3P8MX3REV3' ! 'HEADER_8' ! 'Jack 8' ; JP19
+                                                          ^
+WARNING(SPMHNI-82): Package symbol 'JACK08PSWITCHCRAFTEN3P8MX3REV3' replaces d~
+evice file package 'JACK08PSWITCHCRAFTEN3P8MX3REV1'.
+-------------------------------------------------------------------------------
+$NETS
+'4.4V-CB' ; JP19.2 JP21.2 JP16.20 JP22.2 JP17.2 JP18.2,
+ JP23.2 JP16.19
+'AGND' ; JP16.38 JP16.37 JP23.6 JP22.6 JP21.6 JP16.29,
+ JP20.3 JP17.8 JP16.40 JP16.39 JP19.8 JP18.8
+'ANLG1-CB' ; JP16.5 JP21.4 JP17.4
+'ANLG2-CB' ; JP22.4 JP16.11 JP18.4
+'ANLG3-CB' ; JP16.17 JP23.4 JP19.4
+'ANLG4-CB' ; JP16.6 JP17.5 JP21.5
+'ANLG5-CB' ; JP18.5 JP16.12 JP22.5
+'ANLG6-CB' ; JP23.5 JP16.18 JP19.5
+'CHARGE-CB' ; JP16.35 JP16.36 JP20.1 JP16.34 JP16.33
+'CHARGE2-CB' ; JP20.2 JP16.32
+'INTINP-CB' ; JP23.3 JP22.3 JP21.3 JP17.3 JP19.3 JP18.3,
+ JP16.21
+'RX1-232-CB' ; JP16.1 JP17.6
+'RX2-232-CB' ; JP16.7 JP18.6
+'RX3-232-CB' ; JP19.6 JP16.13
+'SWVDD1-CB' ; JP16.3 JP16.4 JP17.1
+'SWVDD2-CB' ; JP16.9 JP16.10 JP18.1
+'SWVDD3-CB' ; JP16.15 JP16.16 JP19.1
+'SWVDD4-CB' ; JP16.24 JP16.23 JP21.1
+'SWVDD5-CB' ; JP16.26 JP16.25 JP22.1
+'SWVDD6-CB' ; JP16.28 JP16.27 JP23.1
+'TX1-232-CB' ; JP16.2 JP17.7
+'TX2-232-CB' ; JP16.8 JP18.7
+'TX3-232-CB' ; JP16.14 JP19.7
+$A_PROPERTIES
+$END
+Fri Aug 05 15:00:54 2011				Page     2
+
+
+
+
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Total Netlist Warnings =  2.
+Total Netlist Errors   =  0.
+Fri Aug 05 15:00:54 2011				Page     1
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header_8.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_8)
+PACKAGE JACK08PSWITCHCRAFTEN3P8MX3REV1
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(JACK08PSWITCHCRAFTEN3P8MX3REV2;JACK08PSWITCHCRAFTEN3~
+P8MX3REV3)'
+CLASS IC
+PINCOUNT 8
+END
+Fri Aug 05 15:00:54 2011				Page     2
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header_6_jp21.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_6_JP21)
+PACKAGE JACK06PSWITCHCRAFTEN6P8MX3REV1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 6
+END
+Fri Aug 05 15:00:54 2011				Page     3
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header_6_jp22.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_6_JP22)
+PACKAGE JACK06PSWITCHCRAFTEN6P8MX3REV2
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 6
+END
+Fri Aug 05 15:00:54 2011				Page     4
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header_3.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_3)
+PACKAGE JACK03PSWITCHCRAFTEN3P8MX3REV2
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 3
+END
+Fri Aug 05 15:00:54 2011				Page     5
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header_6_jp23.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_6_JP23)
+PACKAGE JACK06PSWITCHCRAFTEN6P8MX3REV3
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 6
+END
+Fri Aug 05 15:00:54 2011				Page     6
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header_8.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_8)
+PACKAGE JACK08PSWITCHCRAFTEN3P8MX3REV1
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(JACK08PSWITCHCRAFTEN3P8MX3REV2;JACK08PSWITCHCRAFTEN3~
+P8MX3REV3)'
+CLASS IC
+PINCOUNT 8
+END
+Fri Aug 05 15:00:54 2011				Page     7
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header20x2sm.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER20X2SM)
+PACKAGE HEADER_20P_SAMTEC_EHF_VIA_OK
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 40
+END
+Fri Aug 05 15:00:54 2011				Page     8
+
+Parsing device file: 'C:/Amateur Radio/Projects/CircPolarization/Hardware/pcb/header_8.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_8)
+PACKAGE JACK08PSWITCHCRAFTEN3P8MX3REV1
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(JACK08PSWITCHCRAFTEN3P8MX3REV2;JACK08PSWITCHCRAFTEN3~
+P8MX3REV3)'
+CLASS IC
+PINCOUNT 8
+END
+
+
+===========================================================
+
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  2.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+End of Allegro NETLIST IN Log
+===========================================================

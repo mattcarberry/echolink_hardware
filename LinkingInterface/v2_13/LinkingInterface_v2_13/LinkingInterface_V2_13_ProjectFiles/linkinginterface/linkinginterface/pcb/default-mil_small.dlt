@@ -1,0 +1,297 @@
+(make__ncTemplate_struct
+
+ ?Name                  "default-mil"
+ ?Units                 "mils"
+
+;
+;   ?TitleHeight
+;   ------------
+;
+;   Height of the main title line row in units as indicated by ?Units.
+;   This height must take into account a title that may in fact be multi-line.
+;
+ ?TitleHeight           250
+;
+;   Text block id numbers to be used for the actual title text, the column header
+;   text, and text appearing in each drill data row, respectively.
+;
+ ?TitleTextBlock        3
+ ?ColumnTitleTextBlock  3
+ ?DataTextBlock         3
+;
+;   Order of holes in the legend table based on plating status.
+;
+;     "PlatedFirst" or "NonPlatedFirst"
+;   
+ ?PlatingOrder          "PlatedFirst"
+;
+;   ?Title
+;   ------
+;
+;   ?Title              Title for 'Layer pair' drill legends, and default title
+;                       for other drill legend types when not specified otherwise.
+;
+;   ?TitleByLayer       Title for 'By layer'  drill legends.
+;
+;   ?TitleBackdrill     Title for 'Backdrill' drill legends.
+;
+;   The appearance of the string "$lay_nams$" indicates where "<layer name> to <layer name>"
+;   may appear in a title, while "$lay_nums$" indicates where "<layer number> to <layer number>"
+;   may appear in a title.
+;
+;   The appearance of '|' characters in the title string will cause subsequent text
+;   in the title to start on a new line. It is up to the user to change the ?TitleHeight
+;   specification accordingly, as it will not automatically be changed.
+;
+ ?Title                 "DRILL CHART: $lay_nams$"
+ ?TitleByLayer          "BY LAYER: $lay_nams$"
+ ?TitleBackdrill        "BACKDRILL: $lay_nams$"
+;
+;   ?UnitsTitle
+;   -----------
+;
+;   The units title line appearing in the 2nd header row.
+;   The appearance of the string "$units_id$" in the title line indicates
+;   where the actual units identifier is to be located in the string.
+;
+ ?UnitsTitle            "ALL UNITS ARE IN $units_id$"
+;
+;   ?SuppressHeaderRow<n>
+;   ---------------------
+;
+;   The first three header rows of each legend title are respectively the above 
+;   title line, followed by the fixed units line, and then the column headers line.
+;   All or any combination of these header rows can be suppressed from appearing
+;   with the following options. The default setting is "no", with "yes" indicating
+;   the header row is to be suppressed.
+;
+ ?SuppressHeaderRow1    "no"
+ ?SuppressHeaderRow2    "no"
+ ?SuppressHeaderRow3    "no"
+;
+;   ?Precision
+;   ----------
+; 
+;   Precision specifies the number of decimal digits to follow the
+;   decimal point in size and tolerance values appearing in the table. 
+;
+;   -1 = as many as are needed ... minimum 1 (DEFAULT)
+;    0 = suppress decimal point and decimal digits
+;   >0 = always put <n> decimal digits after the decimal point,
+;        adding any trailing 0's as necessary
+;
+ ?Precision             -1
+;
+;   ?SuppressLeadingZero
+;   --------------------
+;
+;   SuppressLeadingZero specifies specifies that any leading zero before
+;   the decimal point of a decimal value for a size or tolerance will be
+;   suppressed.
+;
+;     e.g. '0.100' --> '.100'
+;
+;   The default setting is "no", while "yes" means suppress the 0.
+;
+ ?SuppressLeadingZero   "no"
+;
+;   ?FixedFigureHeight
+;   ------------------
+;
+;   A non-zero FixedFigureHeight will force all figures displayed
+;   in the "Figure" column to be displayed with the same specified
+;   height, overriding what is defined in individual padstacks. The
+;   setting of 0 included below indicates that they will be displayed
+;   with the sizes as defined in the padstacks.
+;
+ ?FixedFigureHeight     80 
+;
+;   ?TableSlotRotations
+;   -------------------
+;
+;   The legend table will normally show separate legend table entries
+;   for each rotation found for a slot hole whose figures are otherwise
+;   identical. By specifying "no" for TableSlotRotations, the figure
+;   shown for the slot hole in the table will have a 0 rotation 
+;   (e.g. major dimension along the X axis), and the quantity shown
+;   will be the sum of ALL rotations for that slot hole figure. It
+;   should be noted that the main figure display for the individual
+;   slot figure instances will always show the proper rotation,
+;   regardless of what this setting is for the figure in the table.
+;   The default setting is "yes".
+;
+;   NOTE: Slot hole rotations will always be presented in the range 
+;         of 0 to <180 with the default "yes" setting. For example, 
+;         rotations of 0 and 180 will appear together as though they
+;         were all 0. Similarly 45 and 225 as 45, 90 and 270 as 90, etc.
+;
+ ?TableSlotRotations    "yes"
+;
+;   ?ForceToleranceColumn
+;   ---------------------
+;
+;   The "Tolerance" column specified in the ?ColumnDefinitions below
+;   will be automatically suppressed if it is found that all holes
+;   have 0 tolerances. The column can be forced to appear anyway with
+;   a setting of "yes" for ?ForceToleranceColumn. The default setting
+;   is "no".
+;
+ ?ForceToleranceColumn  "no"    
+;
+;   ?ShowTotalQuantity
+;   ------------------
+;
+;   The total hole quantity can be requested to appear with the legend
+;   table with a setting of "yes" for ?ShowTotalQuantity. The default
+;   setting is "no". The quantity appears at the bottom of the "Quantity"
+;   column, just outside of the bounding rectangle for the legend table.
+;   The numeric quantity is prefixed with the text "TOTAL HOLES:".
+;
+ ?ShowTotalQuantity     "no" 
+;
+;   ?SeparateSlotHoleLegend
+;   -----------------------
+;
+;   A legend can be created for slot holes that is separate from the legend
+;   for the drilling of normal thru holes. The legend is controlled by the
+;   MANUFACTURING class NCLEGEND-SLOTS subclass and the legend table graphics
+;   group name is NC_LEGEND_SLOTS. A setting of "yes" will create the separate
+;   legend, with the default setting being "no".
+;
+ ?SeparateSlotHoleLegend  "no"
+;
+;   ?RowHeightExpansion
+;   -------------------
+;
+;   The legend row height will at minimum be the maximum figure height in the
+;   legend table expanded by a percentage of that figure height. The default
+;   expansion is 50 percent. An expansion of 0 percent could then result in
+;   the figure of maximum height touching the top and bottom of its row.
+;   The text height used in the rows also factors in to the row height
+;   calculation, so this option may in fact have no effect on the height if
+;   the text height is larger.
+;
+ ?RowHeightExpansion 0
+
+;
+;   ?AlternateUnits
+;   ---------------
+;
+;   If ?AlternateUnits is specified, and also "Holesize2", or "Tolerance2", or  
+;   "HoleSizenTol2" in ?ColumnDefinitions, the columns will appear similar to 
+;   the standard columns, but in the units specified by ?AlternateUnits.
+;   The permissable settings are:
+;
+;     "mils"  "inches"  "microns"  "millimeters"  "centimeters"
+;
+;   e.g. ?AlternateUnits "millimeters"
+;
+;   Where the columns appear and the column header text is left up to the user
+;   as usual in ?ColumnDefinitions. How the units of the columns are indicated
+;   are also left up to the user. Possibly the column header text (e.g. "SIZE (MM)"),
+;   or with an appropriate ?DrillNotes/?BackdrillNotes line as below.
+;
+
+;
+;   ?DrillNotes
+;   -----------
+;   ?BackdrillNotes
+;   ---------------
+;
+;   Lines of notes that are to appear below the legend table rectangle for
+;   each drill legend that is generated. ?DrillNotes are for 'Layer pair' and
+;   'By layer' legends, while ?BackdrillNotes are for 'Backdrill' legends.
+;   Note text is allowed to be in upper and/or lower text, and there is no explicit
+;   limit on the number of lines of text. The note text is specified as:
+;
+;     '(
+;        "<line 1 of text>"
+;        "<line 2 of text>"
+;               .
+;               .
+;               .
+;        "<line n of text>"
+;      )
+;
+;   The default for each is "'()" which indicates there are no notes.
+;
+ ?DrillNotes     '()
+
+ ?BackdrillNotes '(
+                    "NOTES:"
+                    "- DRILL SIZES LISTED IN LEGEND"
+                    "  ARE CONSIDERED FINISHED."
+                    "- VENDOR IS REQUIRED TO SELECT"
+                    "  TOOLING FOR OVERDRILLING."
+                    "- LEGEND DOES NOT SPECIFY DEPTH"
+                    "  INTO ADJACENT DIELECTRIC LAYER."
+                  )
+;
+;   ?ColumnDefinitions
+;   ------------------
+;
+;   The first field of each definition uniquely identifies the column
+;   to appear in the legend table, while the second field provides the
+;   user-specified header text for the column. The third field controls
+;   the width of the column.
+;
+;   Each column definition can have an optional 4th field included
+;   as well to control the justification of the data displayed
+;   within that column. The permitted values are of course:
+;
+;      "center", "right", or "left"
+;
+;   with "center" being the default if the 4th field is not provided,
+;   or is provided but is not one of the above permitted values.
+;
+;   Other columns that can be specified:
+;
+;     "HoleSizenTol"   ... "Holesize" and "Tolerance" combined in one column
+;     "Rotation"       ... If a slot hole, it's rotation, where 0 degrees is
+;                          when the major axis of the hole is on the X axis.
+;     "User"           ... User-defined column. See ?CustomData below.
+;
+;     "Holesize2"      ... See ?AlternateUnits below.
+;     "Tolerance2"
+;     "HoleSizenTol2"
+;
+ ?ColumnDefinitions '(
+                       ("Figure"      "FIGURE"        7)
+                       ("Holesize"    "SIZE"         15)
+                       ("Tolerance"   "TOLERANCE"    15)
+                       ("PlateStatus" "PLATED"       10)
+                       ("NonStandard" "NONSTANDARD"  15)
+                       ("Quantity"    "QTY"           6)
+                     )
+;
+;   ?CustomData
+;   -----------
+;
+;   A column definition in ?ColumnDefinitions above can have "User" appear
+;   in the first field to indicate a column of user-defined data. The
+;   data is specified by ?CustomData definitions that are matched to holes
+;   appearing in the legend table.
+;
+;     ?CustomData '(
+;                    ( 28          "Plated"     "<User 1 data>" ...)
+;                    ( 42          "Plated"     "<User 1 data>" ...)
+;                    ( 36          "Plated"     "<User 1 data>" ...)
+;                    ( 63          "Plated"     "<User 1 data>" ...)
+;                    (109          "Non Plated" "<User 1 data>" ...)
+;                    ((130 50    ) "Plated"     "<User 1 data>" ...)
+;                    ((130 50 "r") "Plated"     "<User 1 data>" ...)
+;                  )
+;
+;   Matching of data to a hole is done on the basis of the hole size in field 1
+;   and the plating status in field 2. For a normal hole, the size field is
+;   simply '<size>'. For matching to an oval slot hole, size must be 
+;   '(<major> <minor>)', with <major> being the major dimension of the oval, 
+;   and <minor> the minor dimension. For matching with a rectangular slot
+;   hole the "r" must be added to size specification. The additional brackets
+;   around the size specification for a slot hole must be included. As many
+;   data strings should appear as there are "User" columns in ?ColumnDefinitions.
+;   The order of the data strings is matched to the order of "User" columns
+;   in ?ColumnDefinitions.
+;
+
+)

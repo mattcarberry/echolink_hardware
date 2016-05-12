@@ -1,0 +1,63 @@
+\t (00:14:46) apd 16.5 S031 (v16-5-13BV) i86
+\t (00:14:46)     Journal start - Thu Dec 05 17:56:26 2013
+\t (00:14:46)         Host=BE104PC11 User=tgbodkin Pid=608 CPUs=2
+\t (00:14:46) 
+\d (00:14:46) Database opened: C:/Users/tgbodkin/Desktop/EE174 FINAL PROJECT/Lib/symbols/BCON2DB9_5X2V_100S_42D.dra
+\i (00:14:47) generaledit 
+\i (00:15:01) pick grid 467.1 288.8
+\t (00:15:01) last pick:  475.0  300.0
+\i (00:15:02) undo 
+\i (00:15:02) generaledit 
+\i (00:15:02) undo 
+\i (00:15:02) generaledit 
+\i (00:15:03) undo 
+\i (00:15:03) generaledit 
+\i (00:15:03) pick grid tgl 0.7 276.2
+\t (00:15:03) last pick:  0.0  275.0
+\i (00:15:04) pick grid 21.6 136.6
+\t (00:15:04) last pick:  25.0  125.0
+\i (00:15:04) pick grid -31.4 146.4
+\t (00:15:04) last pick:  -25.0  150.0
+\i (00:15:05) Esc 
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out -196.2 300.0
+\i (00:15:06) trapsize 140
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out 268.8 500.6
+\i (00:15:06) trapsize 154
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out 362.7 614.7
+\i (00:15:06) trapsize 154
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out 362.7 614.7
+\i (00:15:06) trapsize 154
+\i (00:15:06) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in 331.9 258.2
+\i (00:15:06) trapsize 77
+\i (00:15:06) zoom in 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom in -166.0 256.6
+\i (00:15:06) trapsize 38
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out -164.5 252.8
+\i (00:15:06) trapsize 77
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out -163.0 251.3
+\i (00:15:06) trapsize 154
+\i (00:15:10) pick grid 107.5 55.3
+\t (00:15:10) last pick:  100.0  50.0
+\i (00:15:10) prepopup 156.7 33.8
+\i (00:15:11) pick grid 599.4 255.1
+\t (00:15:11) last pick:  600.0  250.0
+\i (00:15:13) open 
+\i (00:19:06) fillin "menu_cancel"
+\i (00:19:06) generaledit 
+\i (00:20:29) exit 
+\t (00:20:29)     Journal end - Thu Dec 05 18:02:10 2013

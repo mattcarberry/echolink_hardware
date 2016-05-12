@@ -1,0 +1,955 @@
+\t (00:00:07) allegro 16.2 p005 (v16-2-57E) i86
+\t (00:00:07) 
+
+\t (00:00:08) Starting new drawing...
+\i (00:00:09) trapsize 1075
+\i (00:00:09) trapsize 1041
+\i (00:00:10) trapsize 1152
+\i (00:00:11) trapsize 1304
+\i (00:00:11) generaledit 
+\i (00:00:16) setwindow form.vf_vis
+\i (00:00:16) FORM vf_vis colorview_list File: all_layers 
+\i (00:00:16) color -globvis off 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/NCROUTE_PATH' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/ASSEMBLY_TOP' 
+\t (00:00:16) Invalid subclass specified: ASSEMBLY_TOP
+
+\i (00:00:16) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\t (00:00:16) Invalid subclass specified: CUT_MARKS
+
+\i (00:00:16) color -vis 'BOARD GEOMETRY/ASSEMBLY_BOTTOM' 
+\t (00:00:16) Invalid subclass specified: ASSEMBLY_BOTTOM
+
+\i (00:00:16) color -vis 'BOARD GEOMETRY/WB_GUIDE_LINE' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/OFF_GRID_AREA' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/ASSEMBLY_DETAIL' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/SWITCH_AREA_BOTTOM' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/SWITCH_AREA_TOP' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/BOTH_ROOMS' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/BOTTOM_ROOM' 
+\i (00:00:16) color -vis 'BOARD GEOMETRY/TOP_ROOM' 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/PLACE_GRID_BOTTOM' 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/PLACE_GRID_TOP' 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/TOOLING_CORNERS' 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/ASSEMBLY_NOTES' 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/PLATING_BAR' 
+\i (00:00:17) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:00:17) color -vis 'COMPONENT VALUE/DISPLAY_BOTTOM' 
+\i (00:00:17) color -vis 'COMPONENT VALUE/DISPLAY_TOP' 
+\i (00:00:17) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:00:17) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:17) color -vis 'COMPONENT VALUE/ASSEMBLY_BOTTOM' 
+\i (00:00:17) color -vis 'COMPONENT VALUE/ASSEMBLY_TOP' 
+\i (00:00:17) color -vis 'DEVICE TYPE/DISPLAY_BOTTOM' 
+\i (00:00:17) color -vis 'DEVICE TYPE/DISPLAY_TOP' 
+\i (00:00:17) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:00:17) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:17) color -vis 'DEVICE TYPE/ASSEMBLY_BOTTOM' 
+\i (00:00:17) color -vis 'DEVICE TYPE/ASSEMBLY_TOP' 
+\i (00:00:17) color -vis 'DRAWING FORMAT/REVISION_DATA' 
+\i (00:00:17) color -vis 'DRAWING FORMAT/REVISION_BLOCK' 
+\i (00:00:17) color -vis 'DRAWING FORMAT/TITLE_DATA' 
+\i (00:00:17) color -vis 'DRAWING FORMAT/TITLE_BLOCK' 
+\i (00:00:17) color -vis 'DRAWING FORMAT/OUTLINE' 
+\i (00:00:17) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:17) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:00:17) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:17) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (00:00:17) color -vis 'DRC ERROR CLASS/PACKAGE_BOTTOM' 
+\i (00:00:17) color -vis 'DRC ERROR CLASS/PACKAGE_TOP' 
+\i (00:00:17) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:00:17) color -vis ETCH/TOP 
+\i (00:00:17) color -vis ETCH/BOTTOM 
+\i (00:00:17) color -vis MANUFACTURING/NCLEGEND-1-2 
+\t (00:00:17) Invalid subclass specified: NCLEGEND-1-2
+
+\i (00:00:17) color -vis MANUFACTURING/MARKUP 
+\t (00:00:17) Invalid subclass specified: MARKUP
+
+\i (00:00:17) color -vis MANUFACTURING/NO_PROBE_BOTTOM 
+\i (00:00:17) color -vis MANUFACTURING/NO_PROBE_TOP 
+\i (00:00:17) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:00:17) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:00:17) color -vis MANUFACTURING/PROBE_BOTTOM 
+\i (00:00:17) color -vis MANUFACTURING/PROBE_TOP 
+\i (00:00:17) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:00:17) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:00:17) color -vis MANUFACTURING/NO_GLOSS_INTERNAL 
+\i (00:00:17) color -vis MANUFACTURING/NO_GLOSS_BOTTOM 
+\i (00:00:17) color -vis MANUFACTURING/NO_GLOSS_TOP 
+\i (00:00:17) color -vis MANUFACTURING/NO_GLOSS_ALL 
+\i (00:00:17) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:00:17) color -vis ANALYSIS/PCB_TEMPERATURE 
+\i (00:00:17) color -vis ANALYSIS/HIGH_ISOCONTOUR 
+\i (00:00:17) color -vis ANALYSIS/MEDIUM3_ISOCONTOUR 
+\i (00:00:17) color -vis ANALYSIS/MEDIUM2_ISOCONTOUR 
+\i (00:00:17) color -vis ANALYSIS/MEDIUM1_ISOCONTOUR 
+\i (00:00:17) color -vis ANALYSIS/LOW_ISOCONTOUR 
+\i (00:00:17) color -vis 'PACKAGE GEOMETRY/PASTEMASK_BOTTOM' 
+\i (00:00:17) color -vis 'PACKAGE GEOMETRY/PASTEMASK_TOP' 
+\i (00:00:17) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_BOTTOM' 
+\i (00:00:17) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_TOP' 
+\i (00:00:17) color -vis 'PACKAGE GEOMETRY/MODULES' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/DISPLAY_BOTTOM' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/DISPLAY_TOP' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/SOLDERMASK_TOP' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/BODY_CENTER' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/PAD_STACK_NAME' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_BOTTOM' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_TOP' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:18) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:18) color -vis 'PACKAGE KEEPIN/ALL' 
+\i (00:00:18) color -vis 'PACKAGE KEEPOUT/BOTTOM' 
+\i (00:00:18) color -vis 'PACKAGE KEEPOUT/TOP' 
+\i (00:00:18) color -vis 'PACKAGE KEEPOUT/ALL' 
+\i (00:00:18) color -vis PIN/TOP 
+\i (00:00:18) color -vis PIN/BOTTOM 
+\i (00:00:18) color -vis PIN/FILMMASKBOTTOM 
+\i (00:00:18) color -vis PIN/FILMMASKTOP 
+\i (00:00:18) color -vis PIN/PASTEMASK_BOTTOM 
+\i (00:00:18) color -vis PIN/PASTEMASK_TOP 
+\i (00:00:18) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:00:18) color -vis PIN/SOLDERMASK_TOP 
+\i (00:00:18) color -vis 'REF DES/DISPLAY_BOTTOM' 
+\i (00:00:18) color -vis 'REF DES/DISPLAY_TOP' 
+\i (00:00:18) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:00:18) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:00:18) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:00:18) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:18) color -vis 'ROUTE KEEPIN/ALL' 
+\i (00:00:18) color -vis 'ROUTE KEEPOUT/TOP' 
+\i (00:00:18) color -vis 'ROUTE KEEPOUT/BOTTOM' 
+\i (00:00:18) color -vis 'ROUTE KEEPOUT/ALL' 
+\i (00:00:18) color -vis TOLERANCE/DISPLAY_BOTTOM 
+\i (00:00:18) color -vis TOLERANCE/DISPLAY_TOP 
+\i (00:00:18) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:00:18) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:18) color -vis TOLERANCE/ASSEMBLY_BOTTOM 
+\i (00:00:18) color -vis TOLERANCE/ASSEMBLY_TOP 
+\i (00:00:18) color -vis 'USER PART NUMBER/DISPLAY_BOTTOM' 
+\i (00:00:18) color -vis 'USER PART NUMBER/DISPLAY_TOP' 
+\i (00:00:18) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:00:18) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:18) color -vis 'USER PART NUMBER/ASSEMBLY_BOTTOM' 
+\i (00:00:18) color -vis 'USER PART NUMBER/ASSEMBLY_TOP' 
+\i (00:00:18) color -vis 'VIA CLASS/TOP' 
+\i (00:00:18) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:18) color -vis 'VIA CLASS/FILMMASKBOTTOM' 
+\i (00:00:18) color -vis 'VIA CLASS/FILMMASKTOP' 
+\i (00:00:18) color -vis 'VIA CLASS/PASTEMASK_BOTTOM' 
+\i (00:00:18) color -vis 'VIA CLASS/PASTEMASK_TOP' 
+\i (00:00:18) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:18) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:00:18) color -vis 'VIA KEEPOUT/TOP' 
+\i (00:00:18) color -vis 'VIA KEEPOUT/BOTTOM' 
+\i (00:00:19) color -vis 'VIA KEEPOUT/ALL' 
+\i (00:00:19) color -vis 'ANTI ETCH/TOP' 
+\i (00:00:19) color -vis 'ANTI ETCH/BOTTOM' 
+\i (00:00:19) color -vis 'ANTI ETCH/ALL' 
+\i (00:00:19) color -vis BOUNDARY/TOP 
+\i (00:00:19) color -vis BOUNDARY/BOTTOM 
+\i (00:00:19) color -vis BOUNDARY/ALL 
+\i (00:00:19) color -vis 'CONSTRAINT REGION/TOP' 
+\i (00:00:19) color -vis 'CONSTRAINT REGION/BOTTOM' 
+\i (00:00:19) color -vis 'CONSTRAINT REGION/INNER_PLANE_LAYERS' 
+\i (00:00:19) color -vis 'CONSTRAINT REGION/INNER_SIGNAL_LAYERS' 
+\i (00:00:19) color -vis 'CONSTRAINT REGION/OUTER_LAYERS' 
+\i (00:00:19) color -vis 'CONSTRAINT REGION/ALL' 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) trapsize 1304
+\i (00:00:23) open 
+\i (00:00:34) fillin "C:\Academic\UCSC\2009 - 2010\CMPE174 F09\Laboratory\Development\Handset\pcb\4_cmpe174tutorial placed parts.brd"
+\i (00:00:34) cd "C:\Academic\UCSC\2009 - 2010\CMPE174 F09\Laboratory\Development\Handset\pcb"
+\t (00:00:34) Opening existing drawing...
+\t (00:00:34) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:00:34) trapsize 578
+\d (00:00:34) Database opened: C:/Academic/UCSC/2009 - 2010/CMPE174 F09/Laboratory/Development/Handset/pcb/4_cmpe174tutorial placed parts.brd
+\i (00:00:34) generaledit 
+\i (00:00:35) zoom out 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 11739.0 7675.6 0.1
+\i (00:00:35) trapsize 636
+\i (00:00:35) zoom out 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 11751.7 7650.2 0.1
+\i (00:00:35) trapsize 700
+\i (00:00:36) zoom in 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 11849.7 7552.3 0.1
+\i (00:00:36) trapsize 636
+\i (00:00:36) zoom in 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 11849.7 7552.3 0.1
+\i (00:00:36) trapsize 578
+\i (00:00:36) zoom in 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 11849.8 7529.3 0.1
+\i (00:00:36) trapsize 526
+\i (00:00:36) zoom in 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 11965.5 7340.1 0.1
+\i (00:00:36) trapsize 478
+\i (00:00:36) zoom in 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 11994.2 7206.3 0.1
+\i (00:00:36) trapsize 434
+\i (00:00:36) zoom in 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 11785.7 7084.7 0.1
+\i (00:00:36) trapsize 395
+\i (00:00:36) zoom in 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 11722.5 7037.3 0.1
+\i (00:00:36) trapsize 359
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10609.4 7202.5 0.1
+\i (00:00:37) trapsize 326
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10615.9 7202.5 0.1
+\i (00:00:37) trapsize 297
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10622.0 7202.6 0.1
+\i (00:00:37) trapsize 270
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10627.4 7202.7 0.1
+\t (00:00:37) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:00:37) trapsize 245
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 11539.8 7241.9 0.1
+\i (00:00:37) trapsize 223
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 11539.8 7241.9 0.1
+\i (00:00:37) trapsize 203
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 11539.8 7241.9 0.1
+\i (00:00:37) trapsize 184
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 11539.8 7242.0 0.1
+\i (00:00:37) trapsize 167
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 11044.1 7309.0 0.1
+\i (00:00:38) trapsize 152
+\i (00:00:39) zoom in 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 11047.2 7315.1 0.1
+\i (00:00:39) trapsize 138
+\i (00:00:39) zoom in 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 11047.3 7315.1 0.1
+\i (00:00:39) trapsize 126
+\i (00:00:39) zoom in 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 11047.3 7315.2 0.1
+\i (00:00:39) trapsize 114
+\i (00:00:39) zoom in 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 11047.4 7315.3 0.1
+\i (00:00:39) trapsize 104
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 11047.4 7315.4 0.1
+\i (00:00:39) trapsize 114
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 11047.5 7315.4 0.1
+\i (00:00:40) trapsize 126
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 11047.5 7315.4 0.1
+\i (00:00:40) trapsize 138
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 11047.5 7315.5 0.1
+\i (00:00:40) trapsize 152
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 11047.5 7315.5 0.1
+\i (00:00:40) trapsize 167
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 11047.5 7315.5 0.1
+\i (00:00:40) trapsize 184
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 11051.2 7323.0 0.1
+\i (00:00:40) trapsize 203
+\i (00:00:40) zoom out 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 11051.2 7323.0 0.1
+\i (00:00:40) trapsize 223
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11051.3 7323.1 0.1
+\i (00:00:41) trapsize 245
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11056.2 7328.1 0.1
+\t (00:00:41) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:00:41) trapsize 270
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11067.0 7328.2 0.1
+\i (00:00:41) trapsize 297
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11096.7 7352.0 0.1
+\i (00:00:41) trapsize 326
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11240.4 7378.1 0.1
+\i (00:00:41) trapsize 359
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11240.4 7371.0 0.1
+\i (00:00:41) trapsize 395
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11240.4 7363.2 0.1
+\i (00:00:41) trapsize 434
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11240.4 7363.2 0.1
+\i (00:00:41) trapsize 478
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11240.6 7363.3 0.1
+\i (00:00:41) trapsize 526
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11240.6 7363.3 0.1
+\i (00:00:41) trapsize 578
+\i (00:00:41) zoom out 0.100000 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 11240.6 7340.2 0.1
+\i (00:00:41) trapsize 636
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 11380.6 6182.6 0.1
+\i (00:00:42) trapsize 578
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 11380.6 6182.6 0.1
+\i (00:00:42) trapsize 526
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 11380.7 6182.7 0.1
+\i (00:00:42) trapsize 478
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 11380.7 6182.8 0.1
+\i (00:00:42) trapsize 434
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 11380.7 6182.8 0.1
+\i (00:00:42) trapsize 395
+\i (00:00:42) zoom out 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 11380.7 6174.9 0.1
+\i (00:00:42) trapsize 434
+\i (00:00:42) zoom out 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 11380.7 6175.0 0.1
+\i (00:00:42) trapsize 478
+\i (00:00:42) zoom out 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 11380.8 6175.0 0.1
+\i (00:00:42) trapsize 526
+\i (00:00:42) zoom out 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 11380.8 6175.0 0.1
+\i (00:00:42) trapsize 578
+\i (00:00:42) zoom out 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 11380.9 6163.5 0.1
+\i (00:00:42) trapsize 636
+\i (00:00:43) zoom out 0.100000 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 11381.0 6163.6 0.1
+\i (00:00:43) trapsize 700
+\i (00:00:43) zoom in 0.100000 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 11255.0 7800.7 0.1
+\i (00:00:43) trapsize 636
+\i (00:00:43) zoom in 0.100000 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 11255.0 7800.7 0.1
+\i (00:00:43) trapsize 578
+\i (00:00:43) zoom in 0.100000 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 11255.1 7800.8 0.1
+\i (00:00:43) trapsize 526
+\i (00:00:44) zoom out 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 11255.1 7790.2 0.1
+\i (00:00:44) trapsize 578
+\i (00:00:44) zoom out 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 11255.2 7790.3 0.1
+\i (00:00:44) trapsize 636
+\i (00:00:44) zoom in 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 11229.7 8324.5 0.1
+\i (00:00:44) trapsize 578
+\i (00:00:45) zoom in 0.100000 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 11229.8 8324.5 0.1
+\i (00:00:45) trapsize 526
+\i (00:00:45) zoom in 0.100000 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 11229.8 8324.5 0.1
+\i (00:00:45) trapsize 478
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.5 8334.1 0.1
+\i (00:00:48) trapsize 434
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.5 8334.1 0.1
+\i (00:00:48) trapsize 395
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.5 8334.2 0.1
+\i (00:00:48) trapsize 359
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.4 8334.2 0.1
+\i (00:00:48) trapsize 326
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.5 8334.3 0.1
+\i (00:00:48) trapsize 297
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.6 8340.3 0.1
+\i (00:00:48) trapsize 270
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.7 8340.3 0.1
+\t (00:00:48) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:00:48) trapsize 245
+\i (00:00:48) zoom in 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 11239.7 8340.4 0.1
+\i (00:00:48) trapsize 223
+\i (00:00:49) zoom in 0.100000 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 11239.7 8340.4 0.1
+\i (00:00:49) trapsize 203
+\i (00:00:51) zoom out 0.100000 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 11239.7 8340.4 0.1
+\i (00:00:51) trapsize 223
+\i (00:00:55) zoom out 0.100000 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 11239.7 8340.5 0.1
+\i (00:00:55) trapsize 245
+\i (00:00:55) zoom out 0.100000 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 11239.7 8340.6 0.1
+\t (00:00:55) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:00:55) trapsize 270
+\i (00:00:55) zoom out 0.100000 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 11239.8 8340.6 0.1
+\i (00:00:55) trapsize 297
+\i (00:00:56) zoom out 0.100000 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 11239.7 8340.7 0.1
+\i (00:00:56) trapsize 326
+\i (00:00:56) zoom out 0.100000 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 11239.9 8347.2 0.1
+\i (00:00:56) trapsize 359
+\i (00:00:57) zoom out 0.100000 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 11239.9 8347.2 0.1
+\i (00:00:57) trapsize 395
+\i (00:00:57) zoom out 0.100000 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 11239.9 8347.2 0.1
+\i (00:00:57) trapsize 434
+\i (00:00:57) zoom out 0.100000 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 11239.9 8347.2 0.1
+\i (00:00:57) trapsize 478
+\i (00:00:57) zoom out 0.100000 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 11239.9 8347.3 0.1
+\i (00:00:57) trapsize 526
+\i (00:00:57) zoom out 0.100000 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 11239.9 8347.3 0.1
+\i (00:00:57) trapsize 578
+\i (00:00:57) zoom in 0.100000 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in 11239.9 8347.2 0.1
+\i (00:00:57) trapsize 526
+\i (00:03:30) pick grid 12627.5 8946.4
+\t (00:03:30) last pick:  12630.0  8945.0
+\i (00:03:31) zoom out 0.100000 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 12627.5 8946.4 0.1
+\i (00:03:31) trapsize 578
+\i (00:03:31) zoom in 0.100000 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 12627.5 8946.3 0.1
+\i (00:03:31) trapsize 526
+\i (00:03:31) zoom in 0.100000 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 12627.5 8946.4 0.1
+\i (00:03:31) trapsize 478
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12627.5 8946.4 0.1
+\i (00:03:32) trapsize 434
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12627.5 8946.4 0.1
+\i (00:03:32) trapsize 395
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12627.4 8946.3 0.1
+\i (00:03:32) trapsize 359
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12613.0 8982.2 0.1
+\i (00:03:32) trapsize 326
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12613.1 8982.3 0.1
+\i (00:03:32) trapsize 297
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12613.0 8982.3 0.1
+\i (00:03:32) trapsize 270
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12613.0 8982.3 0.1
+\t (00:03:32) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:03:32) trapsize 245
+\i (00:03:32) zoom in 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 12613.0 8982.4 0.1
+\i (00:03:32) trapsize 223
+\i (00:03:32) zoom out 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 12613.1 8982.5 0.1
+\i (00:03:32) trapsize 245
+\i (00:03:32) zoom out 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 12613.1 8982.5 0.1
+\t (00:03:32) Grids are drawn 80.0, 80.0 apart for enhanced viewability.
+\i (00:03:32) trapsize 270
+\i (00:03:32) zoom out 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 12613.1 8982.5 0.1
+\i (00:03:32) trapsize 297
+\i (00:03:32) zoom out 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 12613.2 8982.5 0.1
+\i (00:03:32) trapsize 326
+\i (00:03:32) zoom out 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 12613.2 8982.5 0.1
+\i (00:03:32) trapsize 359
+\i (00:03:32) zoom out 0.100000 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 12613.2 8982.5 0.1
+\i (00:03:33) trapsize 395
+\i (00:03:33) zoom out 0.100000 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 12613.2 8982.6 0.1
+\i (00:03:33) trapsize 434
+\i (00:03:33) zoom out 0.100000 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 12613.2 8982.5 0.1
+\i (00:03:33) trapsize 478
+\i (00:03:36) zoom in 0.100000 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in 10960.3 6899.7 0.1
+\i (00:03:36) trapsize 434
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10960.3 6899.8 0.1
+\i (00:03:37) trapsize 395
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10960.3 6899.8 0.1
+\i (00:03:37) trapsize 359
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10960.4 6871.1 0.1
+\i (00:03:37) trapsize 326
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10953.9 6766.7 0.1
+\i (00:03:37) trapsize 297
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10954.0 6766.8 0.1
+\i (00:03:37) trapsize 270
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10954.0 6766.8 0.1
+\t (00:03:37) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:03:37) trapsize 245
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10954.1 6766.9 0.1
+\i (00:03:37) trapsize 223
+\i (00:03:37) zoom in 0.100000 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10954.1 6767.0 0.1
+\i (00:03:37) trapsize 203
+\i (00:03:38) zoom in 0.100000 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 10962.2 6746.8 0.1
+\i (00:03:38) trapsize 184
+\i (00:03:38) zoom in 0.100000 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 10962.2 6746.9 0.1
+\i (00:03:38) trapsize 167
+\i (00:03:38) zoom in 0.100000 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 10962.3 6746.9 0.1
+\i (00:03:38) trapsize 152
+\i (00:03:38) zoom in 0.100000 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 10962.4 6747.0 0.1
+\i (00:03:38) trapsize 138
+\i (00:03:38) zoom in 0.100000 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 10962.4 6747.1 0.1
+\i (00:03:38) trapsize 126
+\i (00:03:40) zoom out 0.100000 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 10962.4 6747.2 0.1
+\i (00:03:40) trapsize 138
+\i (00:03:40) zoom out 0.100000 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 10962.4 6747.2 0.1
+\i (00:03:40) trapsize 152
+\i (00:03:43) roam start
+\i (00:03:43) roam y 32
+\i (00:03:43) roam y 32
+\i (00:03:43) roam y 32
+\i (00:03:43) roam y 32
+\i (00:03:43) roam y 32
+\i (00:03:43) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam x -16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:45) roam y 16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -32
+\i (00:03:46) roam y -32
+\i (00:03:46) roam y -32
+\i (00:03:46) roam y -32
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y -32
+\i (00:03:47) roam y -16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 32
+\i (00:03:47) roam y 16
+\i (00:03:47) roam y 16
+\i (00:03:47) roam end
+\i (00:04:26) generaledit 
+\i (00:04:29) setwindow form.find
+\i (00:04:29) FORM find clines YES 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) pick grid 11133.7 6700.9
+\t (00:04:33) last pick:  11135.0  6700.0
+\i (00:04:35) pick grid 11139.8 6679.5
+\t (00:04:35) last pick:  11140.0  6680.0
+\i (00:04:38) setwindow form.find
+\i (00:04:38) FORM find ratsnests YES 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) pick grid 11021.0 6697.8
+\t (00:04:40) last pick:  11020.0  6700.0
+\i (00:04:41) pick grid 11051.5 6664.3
+\t (00:04:41) last pick:  11050.0  6665.0
+\i (00:04:42) zoom in 0.100000 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 11042.3 6661.3 0.1
+\i (00:04:42) trapsize 138
+\i (00:04:42) zoom in 0.100000 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 11042.4 6661.3 0.1
+\i (00:04:42) trapsize 126
+\i (00:04:42) zoom in 0.100000 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 11042.4 6661.3 0.1
+\i (00:04:42) trapsize 114
+\i (00:04:42) zoom in 0.100000 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 11042.4 6661.3 0.1
+\i (00:04:42) trapsize 104
+\i (00:04:42) zoom in 0.100000 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 11042.4 6661.4 0.1
+\i (00:04:42) trapsize 95
+\i (00:04:42) zoom in 0.100000 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 11042.5 6661.5 0.1
+\i (00:04:42) trapsize 86
+\i (00:04:42) zoom in 0.100000 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 11042.5 6661.5 0.1
+\i (00:04:42) trapsize 78
+\i (00:04:43) zoom in 0.100000 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 11042.5 6669.4 0.1
+\i (00:04:43) trapsize 71
+\i (00:04:43) zoom in 0.100000 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 11042.5 6669.4 0.1
+\i (00:04:43) trapsize 65
+\i (00:04:43) zoom in 0.100000 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 11042.5 6669.5 0.1
+\i (00:04:43) trapsize 59
+\i (00:04:43) zoom in 0.100000 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 11042.5 6669.5 0.1
+\i (00:04:43) trapsize 53
+\i (00:04:44) pick grid 11050.0 6664.2
+\t (00:04:44) last pick:  11050.0  6665.0
+\i (00:04:44) pick grid dbl 11050.0 6664.2
+\t (00:04:44) last pick:  11050.0  6665.0
+\i (00:04:44) pick grid 11050.0 6664.2
+\t (00:04:44) last pick:  11050.0  6665.0
+\i (00:04:49) pick grid 11137.5 6689.8
+\t (00:04:49) last pick:  11140.0  6690.0
+\i (00:04:51) setwindow form.find
+\i (00:04:51) FORM find all_on  
+\i (00:04:54) setwindow pcb
+\i (00:04:54) pick grid 11139.6 6680.2
+\t (00:04:54) last pick:  11140.0  6680.0
+\i (00:04:56) drag_start grid 11139.6 6682.3
+\i (00:04:56) drag_stop 11139.6 6682.3
+\i (00:04:57) pick grid 11139.6 6682.3
+\t (00:04:57) last pick:  11140.0  6680.0
+\i (00:04:58) pick grid dbl 11139.6 6682.3
+\t (00:04:58) last pick:  11140.0  6680.0
+\i (00:04:58) pick grid 11139.6 6682.3
+\t (00:04:58) last pick:  11140.0  6680.0
+\i (00:04:58) pick grid dbl 11139.6 6682.3
+\t (00:04:58) last pick:  11140.0  6680.0
+\i (00:04:59) pick grid 11139.6 6682.3
+\t (00:04:59) last pick:  11140.0  6680.0
+\i (00:04:59) pick grid dbl 11139.6 6682.3
+\t (00:04:59) last pick:  11140.0  6680.0
+\i (00:04:59) pick grid 11139.6 6682.3
+\t (00:04:59) last pick:  11140.0  6680.0
+\i (00:05:00) etchedit 
+\i (00:05:01) pick grid 11126.8 6699.4
+\t (00:05:01) last pick:  11125.0  6700.0
+\i (00:05:01) add connect 
+\e (00:05:02) ERROR(SPMHA1-161): Cannot open the design database file ... run standalone dbdoctor on the file.
+\w (00:05:02) WARNING(SPMHDB-95): Padstack 20MIL_VIA not found. Purging it from DEFAULT constraint set will eliminate warning.
+\t (00:05:02) Pick first element.
+\t (00:05:02) last pick:  11100.0  6750.0
+\i (00:05:18) prepopup 11098.0 6678.1
+\i (00:05:20) oops 
+\t (00:05:20) Pick first element.
+\i (00:05:20) etchedit 
+\i (00:05:25) pick grid 11133.2 6698.3
+\t (00:05:25) last pick:  11135.0  6700.0
+\i (00:05:25) add connect 
+\t (00:05:25) Pick first element.
+\t (00:05:25) last pick:  11100.0  6750.0
+\i (00:05:28) prepopup 11133.2 6698.3
+\i (00:05:29) oops 
+\t (00:05:29) Pick first element.
+\i (00:05:29) etchedit 
+\i (00:05:31) prmed 
+\i (00:05:33) setwindow form.prmedit
+\i (00:05:33) FORM prmedit design  
+\i (00:05:37) FORM prmedit lock_direction 45 
+\i (00:05:42) FORM prmedit lock_mode Arc 
+\i (00:05:50) FORM prmedit done  
+\e (00:05:50) Program has encountered a problem and must exit. The database will be saved (if applicable). Obtain the latest software update from Cadence and if problem persists contact Cadence Customer Support.
+\i (00:05:54) fillin confirm
+\d (00:05:54) SymInit: Symbol-SearchPath: '.;C:\Academic\UCSC\2009 - 2010\CMPE174 F09\Laboratory\Development\Handset\pcb;C:\Cadence\SPB_16.2\tools\pcb\bin;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'petersen'
+
+\d (00:05:54) OS-Version: 5.1.2600 (Service Pack 3) 0x100-0x1
+
+\d (00:05:54) C:\Cadence\SPB_16.2\tools\pcb\bin\allegro.exe:allegro.exe (00400000), size: 26865664 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.2.0.0n
+\d (00:05:54) C:\WINDOWS\system32\ntdll.dll:ntdll.dll (7C900000), size: 729088 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5755n
+\d (00:05:54) C:\WINDOWS\system32\kernel32.dll:kernel32.dll (7C800000), size: 1007616 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5781n
+\d (00:05:55) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.3053_x-ww_b80fa8ca\MSVCR80.dll:MSVCR80.dll (78130000), size: 634880 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.3053n
+\d (00:05:55) C:\WINDOWS\system32\msvcrt.dll:msvcrt.dll (77C10000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.2600.5512n
+\d (00:05:55) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.3053_x-ww_b80fa8ca\MSVCP80.dll:MSVCP80.dll (7C420000), size: 552960 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.3053n
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\cnlib.dll:cnlib.dll (10000000), size: 36864 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\jlglib.dll:jlglib.dll (00250000), size: 57344 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\fet\bin\ddbpi.dll:ddbpi.dll (00270000), size: 1146880 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\opf.dll:opf.dll (003A0000), size: 155648 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\nmp.dll:nmp.dll (025A0000), size: 192512 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\cla.dll:cla.dll (003E0000), size: 122880 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\WINDOWS\system32\ADVAPI32.dll:ADVAPI32.dll (77DD0000), size: 634880 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5755n
+\d (00:05:55) C:\WINDOWS\system32\RPCRT4.dll:RPCRT4.dll (77E70000), size: 598016 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:55) C:\WINDOWS\system32\Secur32.dll:Secur32.dll (77FE0000), size: 69632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5753n
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\cdsCommon.dll:cdsCommon.dll (025D0000), size: 110592 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\cls.dll:cls.dll (025F0000), size: 57344 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\WINDOWS\system32\WS2_32.dll:WS2_32.dll (71AB0000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:55) C:\WINDOWS\system32\WS2HELP.dll:WS2HELP.dll (71AA0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\dsnmp.dll:dsnmp.dll (02600000), size: 28672 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\dserrorhandler.dll:dserrorhandler.dll (02620000), size: 81920 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:55) C:\Cadence\SPB_16.2\tools\bin\SMIMD_sh.dll:SMIMD_sh.dll (02650000), size: 159744 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\cdn_xerces-c_2_7.dll:cdn_xerces-c_2_7.dll (12000000), size: 1896448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2.7.0.0n
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\SBaseMD_sh.dll:SBaseMD_sh.dll (026A0000), size: 77824 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\WINDOWS\system32\WSOCK32.dll:WSOCK32.dll (71AD0000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\_cadencehelp.dll:_cadencehelp.dll (026D0000), size: 69632 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\WINDOWS\system32\SHLWAPI.dll:SHLWAPI.dll (77F60000), size: 483328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:05:56) C:\WINDOWS\system32\GDI32.dll:GDI32.dll (77F10000), size: 299008 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5698n
+\d (00:05:56) C:\WINDOWS\system32\USER32.dll:USER32.dll (7E410000), size: 593920 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\markers.dll:markers.dll (02700000), size: 110592 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.0.3n
+\d (00:05:56) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_3bf8fa05\MFC80.DLL:MFC80.DLL (781D0000), size: 1110016 (result: 0), SymType: '-unknown-', PDB: 'C:\WINDOWS\symbols\DLL\MFC80.i386.pdb', fileVersion: 8.0.50727.762n
+\d (00:05:56) C:\WINDOWS\system32\SHELL32.dll:SHELL32.dll (7C9C0000), size: 8482816 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5622n
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\libmpi.dll:libmpi.dll (02730000), size: 94208 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\mpsc.dll:mpsc.dll (02760000), size: 94208 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\libsman.dll:libsman.dll (02790000), size: 69632 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\libem.dll:libem.dll (027C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\mpss.dll:mpss.dll (027E0000), size: 86016 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\il.dll:il.dll (02810000), size: 778240 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\ems.dll:ems.dll (028E0000), size: 77824 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\virtuos.dll:virtuos.dll (02900000), size: 73728 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\cdsIlIpc.dll:cdsIlIpc.dll (02930000), size: 61440 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\consmgr.dll:consmgr.dll (02950000), size: 4648960 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.2.0.0n
+\d (00:05:56) C:\WINDOWS\system32\OLEAUT32.dll:OLEAUT32.dll (77120000), size: 569344 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:56) C:\WINDOWS\system32\ole32.dll:ole32.dll (774E0000), size: 1298432 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\cdn_og1101as.dll:cdn_og1101as.dll (02DD0000), size: 2453504 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 11.0.0.1n
+\d (00:05:56) C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\COMCTL32.dll:COMCTL32.dll (773D0000), size: 1060864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:05:56) C:\WINDOWS\system32\ODBC32.dll:ODBC32.dll (74320000), size: 249856 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 3.525.1132.0n
+\d (00:05:56) C:\WINDOWS\system32\comdlg32.dll:comdlg32.dll (763B0000), size: 299008 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:05:56) C:\Cadence\SPB_16.2\tools\bin\cdn_RWUXThemeS80.dll:cdn_RWUXThemeS80.dll (03040000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.8.0n
+\d (00:05:57) C:\WINDOWS\system32\oledlg.dll:oledlg.dll (7DF70000), size: 139264 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\Cadence\SPB_16.2\tools\bin\cdn_sfl401as.dll:cdn_sfl401as.dll (4E000000), size: 671744 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 4.0.0.1n
+\d (00:05:57) C:\WINDOWS\system32\MSIMG32.dll:MSIMG32.dll (76380000), size: 20480 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\WINSPOOL.DRV:WINSPOOL.DRV (73000000), size: 155648 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\Cadence\SPB_16.2\tools\bin\acnsdb.dll:acnsdb.dll (03080000), size: 159744 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:57) C:\Cadence\SPB_16.2\tools\bin\acnsui.dll:acnsui.dll (030C0000), size: 282624 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.2.0.0n
+\d (00:05:57) C:\Cadence\SPB_16.2\tools\bin\htmlmsg.dll:htmlmsg.dll (03120000), size: 81920 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:57) C:\Cadence\SPB_16.2\tools\bin\cdn_ot1001as.dll:cdn_ot1001as.dll (4C000000), size: 2568192 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 10.0.0.1n
+\d (00:05:57) C:\WINDOWS\system32\MSVFW32.dll:MSVFW32.dll (75A70000), size: 135168 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\WINMM.dll:WINMM.dll (76B40000), size: 184320 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\WININET.dll:WININET.dll (78050000), size: 851968 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.6000.16827n
+\d (00:05:57) C:\WINDOWS\system32\Normaliz.dll:Normaliz.dll (03160000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.5441.0n
+\d (00:05:57) C:\WINDOWS\system32\iertutil.dll:iertutil.dll (78000000), size: 282624 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.6000.16825n
+\d (00:05:57) C:\WINDOWS\system32\OPENGL32.dll:OPENGL32.dll (5ED00000), size: 835584 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\GLU32.dll:GLU32.dll (68B20000), size: 131072 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\DDRAW.dll:DDRAW.dll (73760000), size: 307200 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\DCIMAN32.dll:DCIMAN32.dll (73BC0000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\Cadence\SPB_16.2\tools\pcb\bin\tcl80.dll:tcl80.dll (03170000), size: 385024 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:05:57) C:\WINDOWS\system32\NETAPI32.dll:NETAPI32.dll (5B860000), size: 348160 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5694n
+\d (00:05:57) C:\WINDOWS\system32\VERSION.dll:VERSION.dll (77C00000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\IMM32.DLL:IMM32.DLL (76390000), size: 118784 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\PROGRA~1\Sophos\SOPHOS~1\SOPHOS~1.DLL:SOPHOS~1.DLL (6FA00000), size: 217088 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.0.4030n
+\d (00:05:57) C:\WINDOWS\system32\PSAPI.DLL:PSAPI.DLL (76BF0000), size: 45056 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_91481303\MFC80ENU.DLL:MFC80ENU.DLL (5D360000), size: 57344 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 8.0.50727.762n
+\d (00:05:57) C:\WINDOWS\system32\odbcint.dll:odbcint.dll (03950000), size: 94208 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 3.525.1132.0n
+\d (00:05:57) C:\WINDOWS\system32\UXTHEME.DLL:UXTHEME.DLL (5AD70000), size: 229376 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:05:57) C:\WINDOWS\system32\MSCTF.dll:MSCTF.dll (74720000), size: 311296 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\msctfime.ime:msctfime.ime (755C0000), size: 188416 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\System32\mswsock.dll:mswsock.dll (71A50000), size: 258048 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5625n
+\d (00:05:57) C:\WINDOWS\system32\DNSAPI.dll:DNSAPI.dll (76F20000), size: 159744 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5625n
+\d (00:05:57) C:\WINDOWS\System32\winrnr.dll:winrnr.dll (76FB0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\WLDAP32.dll:WLDAP32.dll (76F60000), size: 180224 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\hnetcfg.dll:hnetcfg.dll (662B0000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\System32\wshtcpip.dll:wshtcpip.dll (71A90000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\rasadhlp.dll:rasadhlp.dll (76FC0000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\icmp.Dll:icmp.Dll (74290000), size: 16384 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\iphlpapi.dll:iphlpapi.dll (76D60000), size: 102400 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\SETUPAPI.dll:SETUPAPI.dll (77920000), size: 995328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\atioglxx.dll:atioglxx.dll (69020000), size: 10448896 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.14.10.7976n
+\d (00:05:57) C:\WINDOWS\system32\mslbui.dll:mslbui.dll (605D0000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\appHelp.dll:appHelp.dll (77B40000), size: 139264 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:57) C:\WINDOWS\system32\CLBCATQ.DLL:CLBCATQ.DLL (76FD0000), size: 520192 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.700n
+\d (00:05:58) C:\WINDOWS\system32\COMRes.dll:COMRes.dll (77050000), size: 806912 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.700n
+\d (00:05:58) C:\WINDOWS\system32\ntshrui.dll:ntshrui.dll (76990000), size: 151552 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:58) C:\WINDOWS\system32\ATL.DLL:ATL.DLL (76B20000), size: 69632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 3.5.2284.1n
+\d (00:05:58) C:\WINDOWS\system32\USERENV.dll:USERENV.dll (769C0000), size: 737280 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:58) C:\WINDOWS\system32\xpsp2res.dll:xpsp2res.dll (0B0C0000), size: 2904064 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:58) C:\WINDOWS\system32\dbghelp.dll:dbghelp.dll (59A60000), size: 659456 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:05:58) 
+\d (00:05:58) <<< STACK TRACE >>>
+\d (00:05:58) 005315F3 (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013A0A7D (allegro): (unknown file): (unknown function)
+\d (00:05:58) 004CACAD (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013A0A3B (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013D3B70 (allegro): (unknown file): (unknown function)
+\d (00:05:58) 01399542 (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013DE5C2 (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013DE31A (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013D96B3 (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013D8FBF (allegro): (unknown file): (unknown function)
+\d (00:05:58) 7E418734 (USER32): (unknown file): GetDC
+\d (00:05:58) 7E418816 (USER32): (unknown file): GetDC
+\d (00:05:58) 7E42927B (USER32): (unknown file): GetParent
+\d (00:05:58) 7E4292E3 (USER32): (unknown file): SendMessageW
+\d (00:05:58) 773F7354 (COMCTL32): (unknown file): Ordinal384
+\d (00:05:58) 773F7436 (COMCTL32): (unknown file): Ordinal384
+\d (00:05:58) 773F973B (COMCTL32): (unknown file): Ordinal384
+\d (00:05:58) 7E418734 (USER32): (unknown file): GetDC
+\d (00:05:58) 7E418816 (USER32): (unknown file): GetDC
+\d (00:05:58) 7E42A013 (USER32): (unknown file): IsWindowUnicode
+\d (00:05:58) 7E42A998 (USER32): (unknown file): CallWindowProcA
+\d (00:05:58) 013BC45B (allegro): (unknown file): (unknown function)
+\d (00:05:58) 013D7973 (allegro): (unknown file): (unknown function)
+\d (00:05:58) 7E418734 (USER32): (unknown file): GetDC
+\d (00:05:58) 7E418816 (USER32): (unknown file): GetDC
+\d (00:05:58) 7E4189CD (USER32): (unknown file): GetWindowLongW
+\d (00:05:58) 7E4196C7 (USER32): (unknown file): DispatchMessageA
+\d (00:05:58) f:\sp\vctools\vc7libs\ship\atlmfc\src\mfc\thrdcore.cpp (183): AfxInternalPumpMessage
+\d (00:05:58) f:\sp\vctools\vc7libs\ship\atlmfc\src\mfc\thrdcore.cpp (625): CWinThread::Run
+\d (00:05:58) f:\sp\vctools\vc7libs\ship\atlmfc\src\mfc\winmain.cpp (47): AfxWinMain
+\d (00:05:58) 00401A11 (allegro): (unknown file): (unknown function)
+\d (00:05:58) ERROR: StackWalk64, GetLastError: 487 (Address: 00000001)
+
+\e (00:05:58) Saving database as 'C:/Academic/UCSC/2009 - 2010/CMPE174 F09/Laboratory/Development/Handset/pcb/4_cmpe174tutorial placed parts.SAV'.

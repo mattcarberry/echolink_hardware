@@ -1,0 +1,37 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\lib\localproject.olb"
+        (Type "Schematic Library")))
+    (File ".\cpol_2m.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59419")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (BALUN
+      (FullPartName "BALUN.Normal")
+      (LibraryName
+         "C:\AMATEUR RADIO\PROJECTS\CIRCPOLARIZATION_II\LIB\LOCALPROJECT.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\cpol_2m.dsn")
+      (Path "Design Resources" ".\cpol_2m.dsn" "Schematics")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" ".\cpol_2m.dsn" "Schematics"
+         "1 Cpol Controller"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 250 0 794"))
+      (Tab 0))))

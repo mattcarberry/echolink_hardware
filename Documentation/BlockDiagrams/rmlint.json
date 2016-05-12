@@ -1,0 +1,45 @@
+[
+{
+  "description": "rmlint json-dump of lint files", 
+  "cwd": "/home/mcarberry/ham/echolink_hardware/ftpdump/SeniorDesign/BlockDiagrams/", 
+  "args": "rmlint", 
+  "version": "2.4.2", 
+  "rev": "unknown", 
+  "progress": 0, 
+  "checksum_type": "sha1"
+}, {
+  "id": 404555417, 
+  "type": "duplicate_file", 
+  "progress": 100, 
+  "checksum": "982a6233ae31a16ba8bc17c38d443cb97e7674d6", 
+  "path": "/home/mcarberry/ham/echolink_hardware/ftpdump/SeniorDesign/BlockDiagrams/AV_connectors_ver1.02_Visio2002 (1).vss", 
+  "size": 195584, 
+  "twins": 2, 
+  "depth": 1, 
+  "inode": 7341814, 
+  "disk_id": 2057, 
+  "is_original": true, 
+  "mtime": 1461732614
+}, {
+  "id": 2730390188, 
+  "type": "duplicate_file", 
+  "progress": 100, 
+  "checksum": "982a6233ae31a16ba8bc17c38d443cb97e7674d6", 
+  "path": "/home/mcarberry/ham/echolink_hardware/ftpdump/SeniorDesign/BlockDiagrams/AV_connectors_ver1.02_Visio2002.vss", 
+  "size": 195584, 
+  "twins": 2, 
+  "depth": 1, 
+  "inode": 7341813, 
+  "disk_id": 2057, 
+  "is_original": false, 
+  "mtime": 1461732614
+}, {
+  "aborted": false, 
+  "progress": 100, 
+  "total_files": 29, 
+  "ignored_files": 0, 
+  "ignored_folders": 0, 
+  "duplicates": 1, 
+  "duplicate_sets": 1, 
+  "total_lint_size": 195584
+}]

@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : LinkingInterface.brd                          )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Mon Apr 06 19:47:16 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : G:/Users/Owner/Dropbox/Dropbox/SeniorDesign/Designs/LinkingInterface New (1)/LinkingInterface New/linkinginterface/lib/local/parameter/2_layer_rev1.prm
+	Layout Name   : LinkingInterface.brd
+
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...netCustomColors:
+Reading...text_size_table:
+Reading...placement_parameter_type:
+Reading...probe_parm_type:
+Reading...dynfill_parm_type:
+Reading...ifp_parm_type:
+Reading...ministat_parm_type:
+Reading...ats_parm_type:
+Reading...drf_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

@@ -1,0 +1,64 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaa05416.tmp                             )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Fri Jun 05 16:37:49 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.3
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING: Design precision is greater than that of the drill output file data.
+          Data rounding errors are very possible.
+
+
+ Drill files being output to directory 'C:/Users/tgbodkin/Desktop/linkinginterface/linkinginterface/pcb' ...
+
+
+
+     'LinkingInterfaceV2_1B-1-2.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  20.0000    0.0000/  0.0000      PLATED         23
+            2.  28.0000    0.0000/  0.0000      PLATED          3
+            3.  35.0000    0.0000/  0.0000      PLATED          6
+            4.  37.0000    0.0000/  0.0000      PLATED         40
+            5.  42.0000    0.0000/  0.0000      PLATED         23
+            6.  47.0000    0.0000/  0.0000      PLATED          9
+            7.  60.0000    0.0000/  0.0000      PLATED          2
+            8.  65.0000    0.0000/  0.0000      PLATED         14
+            9.  70.0000    0.0000/  0.0000      PLATED          8
+           10. 125.0000    0.0000/  0.0000  NON_PLATED          6
+
+     ---- Total holes:                                        134
+
+     ---- Total head travel:              6.80 feet (2.07 meters)
+

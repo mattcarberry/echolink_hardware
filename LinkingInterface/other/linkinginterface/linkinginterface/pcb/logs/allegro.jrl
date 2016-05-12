@@ -1,0 +1,368 @@
+\t (00:05:32) allegro 16.5 S031 (v16-5-13BV) i86
+\t (00:05:32)     Journal start - Wed Jun 10 15:46:08 2015
+\t (00:05:32)         Host=ENIAC User=stephen Pid=768 CPUs=2
+\t (00:05:32) 
+\d (00:05:32) Database opened: W:/Amateur Radio/Admin/Clubs/UCSC ARC/CPOL Project/LinkInterface_v2_16_Everything/LinkingInterface_V2_16_ProjectFiles/LinkingInterface_V2_8_ProjectFiles/LinkingInterface_V2_8/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_16.brd
+\i (00:05:32) etchedit 
+\i (00:05:34) zoom in 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom in 822.4 2817.2
+\i (00:05:34) trapsize 176
+\i (00:05:34) zoom in 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom in 815.3 2827.8
+\i (00:05:34) trapsize 88
+\i (00:05:34) zoom in 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom in 811.8 2831.3
+\i (00:05:34) trapsize 44
+\e (00:05:38) Command not found: Del
+\i (00:05:39) pick grid 851.5 2950.2
+\t (00:05:39) last pick:  852.0  2950.0
+\i (00:05:39) slide 
+\t (00:05:39) Waiting for the destination pick.
+\i (00:05:40) prepopup 853.3 2952.0
+\i (00:05:42) pick grid 893.8 3053.3
+\t (00:05:42) last pick:  894.0  3053.0
+\t (00:05:42) No DRC errors detected.
+\i (00:05:42) etchedit 
+\i (00:05:43) prepopup 889.4 3008.4
+\i (00:05:44) pop dyn_option_select @:@Delete 
+\i (00:05:44) delete 
+\i (00:05:44) etchedit 
+\i (00:05:46) prepopup 856.8 3021.6
+\i (00:05:47) pop dyn_option_select @:@Delete 
+\i (00:05:47) delete 
+\i (00:05:47) etchedit 
+\i (00:05:48) prepopup 897.3 2947.6
+\i (00:05:50) pop dyn_option_select @:@Delete 
+\i (00:05:50) delete 
+\i (00:05:50) etchedit 
+\i (00:05:52) color192 
+\i (00:05:52) setwindow cvf.dialog
+\i (00:05:52) cvf layer_mode
+\i (00:05:52) setwindow pcb
+\i (00:05:52) etchedit 
+\i (00:05:56) setwindow cvf.dialog
+\i (00:05:56) cvf net_disable_custom_colors TRUE
+\i (00:05:59) cvf apply
+\i (00:06:01) cvf okay
+\i (00:06:09) setwindow pcb
+\i (00:06:09) prepopup 857.7 2819.0
+\i (00:06:10) pop dyn_option_select @:@Delete 
+\i (00:06:10) delete 
+\i (00:06:10) etchedit 
+\i (00:06:13) setwindow form.mini
+\i (00:06:13) FORM mini subclass BOTTOM 
+\i (00:06:23) setwindow form.find
+\i (00:06:23) FORM find all_off  
+\i (00:06:25) FORM find ratsnests YES 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) pick grid 876.2 2860.4
+\t (00:06:29) last pick:  876.0  2860.0
+\i (00:06:29) add connect 
+\t (00:06:30) Pick first element.
+\t (00:06:30) last pick:  786.0  3018.0
+\i (00:06:32) prepopup 901.7 2923.8
+\i (00:06:35) pop dyn_option_select 'Change Active Layer@:@BOTTOM' 
+\i (00:06:38) prepopup 867.4 2947.6
+\i (00:06:39) cancel 
+\i (00:06:40) etchedit 
+\i (00:06:44) pick grid 888.5 2839.2
+\t (00:06:44) last pick:  889.0  2839.0
+\i (00:06:44) add connect 
+\t (00:06:44) Pick first element.
+\t (00:06:44) last pick:  786.0  3018.0
+\i (00:06:44) mouse_pos 888.5 2839.2
+\i (00:06:47) prepopup 888.5 2839.2
+\i (00:06:51) pop dyn_option_select 'Change Active Layer@:@BOTTOM' 
+\i (00:06:51) mouse_pos 886.7 2856.8
+\i (00:06:53) prepopup 784.5 2918.5
+\i (00:06:55) cancel 
+\i (00:06:55) etchedit 
+\i (00:06:58) add connect 
+\t (00:06:58) Pick first element.
+\t (00:06:58) last pick:  786.0  3018.0
+\i (00:06:58) mouse_pos 861.2 2841.9
+\i (00:06:59) mouse_pos 860.3 2847.1
+\i (00:07:00) prepopup 787.2 2944.9
+\i (00:07:01) cancel 
+\i (00:07:01) etchedit 
+\i (00:07:03) pick grid 913.2 2815.4
+\t (00:07:03) last pick:  913.0  2815.0
+\i (00:07:05) add connect 
+\t (00:07:05) Pick first element.
+\i (00:07:07) pick grid 895.6 2824.2
+\t (00:07:07) last pick:  896.0  2824.0
+\t (00:07:07) last pick:  899.0  2818.0
+\t (00:07:07) Target Symbol Pin is defined on TOP.
+\t (00:07:07) last pick:  899.0  2818.0
+\i (00:07:07) mouse_pos 895.6 2828.6
+\i (00:07:08) mouse_pos 900.8 2865.6
+\i (00:07:18) pick grid 848.9 2956.4
+\t (00:07:18) last pick:  849.0  2956.0
+\t (00:07:18) No DRC errors detected.
+\t (00:07:18) Pick first element.
+\i (00:07:18) pick grid dbl 848.9 2956.4
+\t (00:07:18) last pick:  849.0  2956.0
+\t (00:07:18) Pick first element.
+\t (00:07:18) Target Symbol Pin is defined on TOP.
+\t (00:07:18) last pick:  849.0  2956.0
+\i (00:07:19) mouse_pos 848.9 2957.3
+\i (00:07:22) prepopup 842.7 2962.6
+\i (00:07:23) done 
+\i (00:07:23) etchedit 
+\i (00:07:30) pick grid 807.5 2981.1
+\t (00:07:30) last pick:  808.0  2981.0
+\i (00:07:30) add connect 
+\t (00:07:30) Pick first element.
+\t (00:07:30) last pick:  786.0  3018.0
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 851.5 2960.8
+\i (00:07:33) trapsize 22
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 851.5 2960.9
+\i (00:07:33) trapsize 11
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 851.5 2960.9
+\i (00:07:33) trapsize 6
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 851.5 2961.0
+\i (00:07:33) trapsize 3
+\i (00:07:38) pick grid 848.0 2955.5
+\t (00:07:38) last pick:  848.0  2956.0
+\t (00:07:38) No DRC errors detected.
+\i (00:07:38) pick grid dbl 848.4 2956.0
+\t (00:07:38) last pick:  848.0  2956.0
+\t (00:07:38) PAD30CIR20D used for drill.
+\t (00:07:38) No DRC errors detected.
+\t (00:07:38) Pick first element.
+\i (00:07:38) etchedit 
+\i (00:07:39) prepopup 848.4 2956.0
+\i (00:07:42) zoom out 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom out 876.2 2960.3
+\i (00:07:42) trapsize 6
+\i (00:07:42) zoom out 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom out 828.1 2955.4
+\i (00:07:42) trapsize 11
+\i (00:07:42) zoom out 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom out 831.4 2953.8
+\i (00:07:42) trapsize 22
+\i (00:07:42) zoom out 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom out 835.8 2953.4
+\i (00:07:42) trapsize 44
+\i (00:07:47) zoom out 1 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) zoom out 879.0 2878.5
+\i (00:07:47) trapsize 88
+\i (00:07:49) zoom out 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom out 879.0 2878.5
+\i (00:07:49) trapsize 176
+\i (00:07:51) zoom in 1 
+\i (00:07:51) setwindow pcb
+\i (00:07:51) zoom in 459.5 2607.0
+\i (00:07:51) trapsize 88
+\i (00:07:53) pick grid 459.6 2642.3
+\t (00:07:53) last pick:  460.0  2642.0
+\i (00:07:56) setwindow form.find
+\i (00:07:56) FORM find all_off  
+\i (00:07:59) FORM find vias YES 
+\i (00:08:02) setwindow pcb
+\i (00:08:02) drag_start grid 461.3 2642.3
+\i (00:08:02) slide 
+\t (00:08:02) Waiting for the destination pick.
+\i (00:08:11) drag_stop grid 729.3 2645.8
+\t (00:08:11) No DRC errors detected.
+\i (00:08:11) etchedit 
+\i (00:08:15) drag_start grid 732.8 2647.6
+\i (00:08:15) slide 
+\t (00:08:15) Waiting for the destination pick.
+\i (00:08:17) drag_stop grid 352.0 2645.8
+\t (00:08:17) No DRC errors detected.
+\i (00:08:17) etchedit 
+\i (00:08:18) undo 
+\i (00:08:18) trapsize 88
+\i (00:08:18) etchedit 
+\i (00:08:18) undo 
+\i (00:08:18) trapsize 88
+\i (00:08:18) etchedit 
+\i (00:08:22) drag_start grid 457.8 2644.0
+\i (00:08:22) slide 
+\t (00:08:22) Waiting for the destination pick.
+\i (00:08:25) drag_stop grid 343.2 2640.5
+\t (00:08:25) No DRC errors detected.
+\i (00:08:25) etchedit 
+\i (00:08:35) zoom out 1 
+\i (00:08:35) setwindow pcb
+\i (00:08:35) zoom out 575.9 2423.7
+\i (00:08:35) trapsize 176
+\i (00:08:35) zoom out 1 
+\i (00:08:35) setwindow pcb
+\i (00:08:35) zoom out 593.6 2409.6
+\i (00:08:35) trapsize 353
+\i (00:08:35) zoom out 1 
+\i (00:08:35) setwindow pcb
+\i (00:08:35) zoom out 607.6 2395.6
+\i (00:08:35) trapsize 705
+\i (00:08:36) zoom in 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom in 1778.1 1337.9
+\i (00:08:36) trapsize 353
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 290.4 2303.9
+\i (00:08:57) trapsize 176
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 290.4 2304.0
+\i (00:08:57) trapsize 88
+\i (00:09:19) zoom out 1 
+\i (00:09:19) setwindow pcb
+\i (00:09:19) zoom out 131.8 2171.8
+\i (00:09:19) trapsize 176
+\i (00:09:19) zoom out 1 
+\i (00:09:19) setwindow pcb
+\i (00:09:19) zoom out 131.8 2171.9
+\i (00:09:19) trapsize 353
+\i (00:09:20) zoom in 1 
+\i (00:09:20) setwindow pcb
+\i (00:09:20) zoom in 4.8 2383.4
+\i (00:09:20) trapsize 176
+\i (00:09:28) setwindow form.find
+\i (00:09:28) FORM find shapes YES 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) pick grid 410.2 2496.2
+\t (00:10:15) last pick:  410.0  2496.0
+\i (00:10:20) zoom out 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom out 600.6 2267.1
+\i (00:10:20) trapsize 353
+\i (00:10:21) zoom out 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom out 600.6 2267.1
+\i (00:10:21) trapsize 705
+\i (00:10:21) zoom in 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom in 657.0 1970.9
+\i (00:10:21) trapsize 353
+\i (00:10:21) zoom in 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom in 657.0 1970.9
+\i (00:10:21) trapsize 176
+\i (00:10:23) pick grid 470.2 2485.7
+\t (00:10:23) last pick:  470.0  2486.0
+\i (00:10:26) pick grid 456.1 2446.9
+\t (00:10:26) last pick:  456.0  2447.0
+\i (00:10:28) prepopup 463.1 2453.9
+\i (00:10:41) pick grid 353.8 2549.1
+\t (00:10:41) last pick:  354.0  2549.0
+\i (00:10:46) pick grid 456.1 2439.8
+\t (00:10:46) last pick:  456.0  2440.0
+\i (00:10:48) pick grid 449.0 2443.4
+\t (00:10:48) last pick:  449.0  2443.0
+\i (00:10:48) pick grid dbl 449.0 2443.4
+\t (00:10:48) last pick:  449.0  2443.0
+\i (00:10:49) pick grid 449.0 2443.4
+\t (00:10:49) last pick:  449.0  2443.0
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 1457.3 2721.9
+\i (00:10:59) trapsize 353
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 1457.3 2721.9
+\i (00:10:59) trapsize 705
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 1457.2 2721.8
+\i (00:10:59) trapsize 1127
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 228.1 2927.5
+\i (00:10:59) trapsize 1127
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 228.1 2927.5
+\i (00:10:59) trapsize 1127
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 228.1 2927.5
+\i (00:10:59) trapsize 1127
+\i (00:10:59) zoom in 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom in 228.1 2927.5
+\i (00:10:59) trapsize 564
+\i (00:10:59) zoom in 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom in 228.2 2927.5
+\i (00:10:59) trapsize 282
+\i (00:10:59) zoom in 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom in 228.2 2927.6
+\i (00:10:59) trapsize 141
+\i (00:10:59) zoom in 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom in 228.2 2927.6
+\i (00:10:59) trapsize 70
+\i (00:10:59) zoom in 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom in 228.2 2927.6
+\i (00:10:59) trapsize 35
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 228.2 2927.6
+\i (00:10:59) trapsize 70
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 228.3 2927.6
+\i (00:10:59) trapsize 141
+\i (00:11:00) zoom in 1 
+\i (00:11:00) setwindow pcb
+\i (00:11:00) zoom in 228.3 2927.6
+\i (00:11:00) trapsize 70
+\i (00:11:00) zoom out 1 
+\i (00:11:00) setwindow pcb
+\i (00:11:00) zoom out 228.3 2927.6
+\i (00:11:00) trapsize 141
+\i (00:11:12) zoom out 1 
+\i (00:11:12) setwindow pcb
+\i (00:11:12) zoom out 1152.6 2533.1
+\i (00:11:12) trapsize 282
+\i (00:11:13) zoom out 1 
+\i (00:11:13) setwindow pcb
+\i (00:11:13) zoom out 1310.4 2471.0
+\i (00:11:13) trapsize 564
+\i (00:11:13) zoom out 1 
+\i (00:11:13) setwindow pcb
+\i (00:11:13) zoom out 1378.1 2448.5
+\i (00:11:13) trapsize 1127
+\i (00:11:14) zoom in 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom in 1919.1 1958.0
+\i (00:11:14) trapsize 564
+\i (00:11:14) zoom in 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom in 1919.2 1958.0
+\i (00:11:14) trapsize 282
+\i (00:11:17) zoom out 1 
+\i (00:11:17) setwindow pcb
+\i (00:11:17) zoom out 1907.9 1935.4
+\i (00:11:17) trapsize 564
+\i (00:11:25) zoom in 1 
+\i (00:11:25) setwindow pcb
+\i (00:11:25) zoom in 1772.6 2262.4
+\i (00:11:25) trapsize 282
+\i (00:11:49) save_as 
+\i (00:11:57) fillin "LinkingInterfaceV2_16.1.brd"
+\i (00:11:58) etchedit 
+\i (00:12:01) exit 
+\t (00:12:01)     Journal end - Wed Jun 10 15:52:38 2015

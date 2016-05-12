@@ -1,0 +1,108 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\controller_1_0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "PCB")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\controller_1_0.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Configuration File"
+       "C:\Cadence\SPB_16.3\tools\capture\allegro.cfg")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\pcb\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pcb\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pcb\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\controller_1_0.dsn")
+      (Path "Design Resources" ".\controller_1_0.dsn" "Interface Controller")
+      (Path "Outputs")
+      (Select "Design Resources" ".\controller_1_0.dsn" "Interface Controller"
+         "3 Status and Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 250 0 399"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 176 1336 176 602")
+        (Scroll "0 81")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_1_0.DSN")
+      (Schematic "Interface Controller")
+      (Page "3 Status and Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 198 1358 198 624")
+        (Scroll "1316 1460")
+        (Zoom "400")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_1_0.DSN")
+      (Schematic "Interface Controller")
+      (Page "4 Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 88 1252 88 518")
+        (Scroll "0 20")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_1_0.DSN")
+      (Schematic "Interface Controller")
+      (Page "1 Radio Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 154 1318 154 584")
+        (Scroll "0 50")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_1_0.DSN")
+      (Schematic "Interface Controller")
+      (Page "2 Fan Driver")))
+  (ISPCBBASICLICENSE "false"))

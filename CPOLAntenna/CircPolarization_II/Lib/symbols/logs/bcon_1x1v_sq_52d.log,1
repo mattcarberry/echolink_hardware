@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BCON_1X1V_SQ_52D.dra                          )
+(    Software Version : 16.3S028                                      )
+(    Date/Time        : Tue Jun 14 18:37:50 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Amateur Radio/Projects/CircPolarization/Lib/symbols
+    Name      = bcon_1x1v_sq_52d.psm
+    User      = petersen
+    Machine   = ENIAC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

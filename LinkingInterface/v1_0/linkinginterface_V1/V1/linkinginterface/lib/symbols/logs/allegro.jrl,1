@@ -1,0 +1,75 @@
+\t (00:00:33) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:33)     Journal start - Wed Apr 15 00:13:01 2015
+\t (00:00:33)         Host=OWNER-PC130616 User=Owner Pid=586860 CPUs=8
+\t (00:00:33) 
+\d (00:00:33) Database opened: G:/Users/Owner/Dropbox/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/linkinginterface/lib/symbols/BLKCON156_VHTM1SQ_SW156_2.dra
+\i (00:00:33) etchedit 
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 361.9 -198.8
+\i (00:00:33) trapsize 98
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 1153.8 -65.0
+\i (00:00:34) trapsize 98
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 897.1 -57.1
+\i (00:00:34) trapsize 49
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -39.5 83.0
+\i (00:00:35) trapsize 98
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 403.3 146.6
+\i (00:00:36) trapsize 49
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out -145.3 146.6
+\i (00:00:37) trapsize 98
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 144.7 29.1
+\i (00:00:40) trapsize 49
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out -264.8 32.1
+\i (00:00:43) trapsize 98
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 238.7 -102.2
+\i (00:00:47) trapsize 49
+\i (00:00:50) add pin 
+\i (00:00:59) prepopup 602.2 303.4
+\i (00:01:00) cancel 
+\t (00:01:00) Exiting from Add Pin.
+\i (00:01:00) etchedit 
+\i (00:01:01) pick grid 312.2 -68.9
+\t (00:01:01) last pick:  310.0  -70.0
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 222.1 -97.3
+\i (00:01:02) trapsize 98
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 1093.0 -159.0
+\i (00:01:02) trapsize 98
+\e (00:02:03) Command not found: xhilite
+\i (00:02:03) xname_flush 
+\i (00:02:03) done 
+\i (00:02:03) etchedit 
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in 505.2 -386.3
+\i (00:02:19) trapsize 49
+\i (00:02:19) zoom out 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom out -88.5 -385.3
+\i (00:02:19) trapsize 98
+\e (00:02:48) Command not found: xhilite
+\i (00:02:48) xname_flush 
+\i (00:02:48) done 
+\i (00:02:48) etchedit 
+\i (00:02:49) exit 
+\t (00:02:49)     Journal end - Wed Apr 15 00:15:17 2015

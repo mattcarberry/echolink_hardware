@@ -1,0 +1,420 @@
+\t (00:29:36) apd 16.5 P003 (v16-5-13C) i86
+\t (00:29:36)     Journal start - Sun Mar 15 22:04:56 2015
+\t (00:29:36)         Host=OWNER-PC130616 User=Owner Pid=172244 CPUs=8
+\t (00:29:36) 
+\t (00:29:36) Starting new design...
+\w (00:30:18) Save Pending
+\i (00:30:31) newdrawfillin "PDB18.dra" "Package Symbol"
+\t (00:30:31) Starting new design...
+\i (00:30:31) trapsize 89767
+\i (00:30:31) trapsize 89767
+\i (00:30:31) set_default_layers 
+\i (00:31:28) setwindow form.ciopNew
+\i (00:31:28) FORM ciopNew help  
+\i (00:32:02) FORM ciopNew chip_up_wb YES 
+\i (00:32:05) FORM ciopNew chip_down_fc YES 
+\i (00:32:07) FORM ciopNew chip_down_wb YES 
+\i (00:32:08) FORM ciopNew chip_up_fc YES 
+\i (00:32:10) FORM ciopNew chip_down_fc YES 
+\i (00:32:16) FORM ciopNew ok  
+\i (00:32:16) setwindow pcb
+\i (00:32:16) placementedit 
+\i (00:34:21) enved 
+\i (00:34:22) placementedit 
+\i (00:34:27) setwindow form.prfedit
+\i (00:34:27) FORM prfedit cancel  
+\i (00:34:43) setwindow pcb
+\i (00:34:43) enved 
+\i (00:34:43) placementedit 
+\i (00:34:47) setwindow form.prfedit
+\i (00:34:47) FORM prfedit treelist  File_management 
+\i (00:34:51) FORM prfedit treelist  Autosave File_management 
+\i (00:34:53) FORM prfedit treelist  Journals File_management 
+\i (00:34:54) FORM prfedit treelist  Locking File_management 
+\i (00:34:54) FORM prfedit treelist  Temp_files File_management 
+\i (00:34:55) FORM prfedit treelist  Output_dir File_management 
+\i (00:34:59) FORM prfedit treelist  Versioning File_management 
+\i (00:34:59) FORM prfedit treelist  Temp_files File_management 
+\i (00:35:00) FORM prfedit treelist  Versioning File_management 
+\i (00:35:02) FORM prfedit treelist  File_management 
+\i (00:35:06) FORM prfedit cancel  
+\i (00:35:17) setwindow pcb
+\i (00:35:17) param in 
+\i (00:35:19) setwindow form.parm_in
+\i (00:35:19) FORM parm_in browse  
+\i (00:37:07) fillin "G:\Users\Owner\Documents\SCHOOL SHIT\EE174\EE174 FINAL PROJECT\Lib\symbols\footprint_174.prm"
+\i (00:38:09) FORM parm_in browse  
+\i (00:38:18) fillin "menu_cancel"
+\i (00:38:20) FORM parm_in browse  
+\i (00:38:33) fillin "G:\Users\Owner\Dropbox\Dropbox\SeniorDesign\Designs\LinkingInterface New\LinkingInterface\lib\local\parameter\symbol_mode.prm"
+\i (00:38:35) FORM parm_in execute  
+\t (00:38:35) Starting Importing parameter file...
+\w (00:38:37) WARNING(SPMHGE-269): param in had warnings, use Viewlog to review the log file.
+\t (00:38:37) Opening existing design...
+\i (00:38:37) setwindow pcb
+\i (00:38:37) trapsize 89767
+\i (00:39:57) setwindow text
+\i (00:39:57) close 
+\i (00:39:58) setwindow form.parm_in
+\i (00:39:58) FORM parm_in cancel  
+\i (00:39:58) setwindow pcb
+\i (00:39:58) placementedit 
+\i (00:40:27) viewlog -browse 
+\i (00:40:37) fillin "menu_cancel"
+\i (00:57:49) pick grid -40125.67 15170.56
+\t (00:57:49) last pick:  -40100.00  15200.00
+\i (00:57:51) zoom in 1 
+\i (00:57:51) setwindow pcb
+\i (00:57:51) zoom in 987.43 -21992.82
+\i (00:57:51) trapsize 44883
+\i (00:57:52) zoom in 1 
+\i (00:57:52) setwindow pcb
+\i (00:57:52) zoom in 179.53 5206.46
+\i (00:57:52) trapsize 22442
+\i (00:57:52) zoom in 1 
+\i (00:57:52) setwindow pcb
+\i (00:57:52) zoom in 134.65 5296.23
+\i (00:57:52) trapsize 11221
+\i (00:57:52) zoom in 1 
+\i (00:57:52) setwindow pcb
+\i (00:57:52) zoom in 134.65 5296.23
+\i (00:57:52) trapsize 5610
+\i (00:57:53) zoom out 1 
+\i (00:57:53) setwindow pcb
+\i (00:57:53) zoom out -605.92 2378.82
+\i (00:57:53) trapsize 11221
+\i (00:57:53) zoom out 1 
+\i (00:57:53) setwindow pcb
+\i (00:57:53) zoom out -605.93 2378.81
+\i (00:57:53) trapsize 22442
+\i (00:57:53) zoom in 1 
+\i (00:57:53) setwindow pcb
+\i (00:57:53) zoom in -605.92 2378.81
+\i (00:57:53) trapsize 11221
+\i (00:57:53) zoom in 1 
+\i (00:57:53) setwindow pcb
+\i (00:57:53) zoom in -1032.31 1211.85
+\i (00:57:53) trapsize 5610
+\i (00:57:54) zoom out 1 
+\i (00:57:54) setwindow pcb
+\i (00:57:54) zoom out -841.56 134.65
+\i (00:57:54) trapsize 11221
+\i (00:57:54) zoom out 1 
+\i (00:57:54) setwindow pcb
+\i (00:57:54) zoom out -841.55 134.66
+\i (00:57:54) trapsize 22442
+\i (00:57:54) zoom in 1 
+\i (00:57:54) setwindow pcb
+\i (00:57:54) zoom in 101.00 -1705.56
+\i (00:57:54) trapsize 11221
+\i (00:57:55) zoom in 1 
+\i (00:57:55) setwindow pcb
+\i (00:57:55) zoom in 101.00 -1638.24
+\i (00:57:55) trapsize 5610
+\i (00:57:55) zoom in 1 
+\i (00:57:55) setwindow pcb
+\i (00:57:55) zoom in 101.00 -1638.24
+\i (00:57:55) trapsize 2805
+\i (00:59:17) padeditlib 
+\i (01:00:34) fillin "Hole120"
+\i (01:00:46) setwindow form.padedit
+\i (01:00:46) FORM padedit layers  
+\i (01:00:51) pse_exit
+\i (01:01:51) fillin "menu_cancel"
+\i (01:01:56) fillin yes 
+\i (01:01:56) setwindow pcb
+\i (01:01:56) placementedit 
+\i (01:01:57) zoom in 1 
+\i (01:01:57) setwindow pcb
+\i (01:01:57) zoom in 465.68 -162.69
+\i (01:01:57) trapsize 1403
+\i (01:01:57) zoom in 1 
+\i (01:01:57) setwindow pcb
+\i (01:01:57) zoom in 465.68 -162.69
+\i (01:01:57) trapsize 701
+\i (01:01:57) zoom in 1 
+\i (01:01:57) setwindow pcb
+\i (01:01:57) zoom in 465.68 -162.69
+\i (01:01:57) trapsize 351
+\i (01:01:57) zoom in 1 
+\i (01:01:57) setwindow pcb
+\i (01:01:57) zoom in 465.68 -162.69
+\i (01:01:57) trapsize 175
+\i (01:01:58) zoom in 1 
+\i (01:01:58) setwindow pcb
+\i (01:01:58) zoom in 465.68 -162.69
+\i (01:01:58) trapsize 88
+\i (01:01:58) zoom out 1 
+\i (01:01:58) setwindow pcb
+\i (01:01:58) zoom out 465.68 -162.69
+\i (01:01:58) trapsize 175
+\i (01:01:58) zoom out 1 
+\i (01:01:58) setwindow pcb
+\i (01:01:58) zoom out 465.68 -162.68
+\i (01:01:58) trapsize 351
+\i (01:01:58) zoom out 1 
+\i (01:01:58) setwindow pcb
+\i (01:01:58) zoom out 465.69 -162.69
+\i (01:01:58) trapsize 701
+\i (01:01:58) zoom out 1 
+\i (01:01:58) setwindow pcb
+\i (01:01:58) zoom out 465.69 -162.69
+\i (01:01:58) trapsize 1403
+\i (01:02:14) trapsize 981
+\i (01:02:18) save_as 
+\i (01:02:24) fillin "menu_cancel"
+\i (01:02:24) placementedit 
+\i (01:02:33) padeditdb 
+\i (01:02:46) filemgr 
+\i (01:03:01) padeditlib 
+\i (01:06:20) fillin "Hole120"
+\i (01:06:27) setwindow form.padedit
+\i (01:06:27) FORM padedit grid row begin_layer 
+\i (01:06:28) FORM padedit grid row default_internal 
+\i (01:06:29) FORM padedit grid row soldermask_top 
+\i (01:06:30) FORM padedit grid row end_layer 
+\i (01:06:30) FORM padedit grid row soldermask_top 
+\i (01:06:31) FORM padedit grid row soldermask_bottom 
+\i (01:06:31) FORM padedit grid row pastemask_top 
+\i (01:06:36) FORM padedit grid row default_internal 
+\i (01:06:36) FORM padedit grid row begin_layer 
+\i (01:06:39) FORM padedit parameters  
+\i (01:08:33) FORM padedit units Inch 
+\i (01:08:35) fillin no 
+\i (01:08:38) FORM padedit units Millimeter 
+\i (01:08:39) fillin yes 
+\w (01:08:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:09:34) pse_exit
+\i (01:09:36) fillin "menu_cancel"
+\i (01:09:39) fillin yes 
+\i (01:09:39) setwindow pcb
+\i (01:09:39) placementedit 
+\i (01:09:40) open 
+\e (01:09:40) Do you want to save the changes you made to PDB18.dra?
+\i (01:09:43) fillin no 
+\i (01:09:52) fillin "VRES4.dra"
+\t (01:09:52) Opening existing design...
+\i (01:09:53) fillin yes 
+\i (01:09:53) trapsize 41
+\d (01:09:53) Database opened: G:/Users/Owner/Dropbox/Dropbox/SeniorDesign/Designs/LinkingInterface New/LinkingInterface/lib/symbols/VRES4.dra
+\i (01:09:53) placementedit 
+\i (01:10:00) zoom out 1 
+\i (01:10:00) setwindow pcb
+\i (01:10:00) zoom out 228.7 -83.2
+\i (01:10:00) trapsize 82
+\i (01:10:00) zoom out 1 
+\i (01:10:00) setwindow pcb
+\i (01:10:00) zoom out 652.0 -83.2
+\i (01:10:00) trapsize 107
+\i (01:10:00) zoom in 1 
+\i (01:10:00) setwindow pcb
+\i (01:10:00) zoom in 464.8 -192.9
+\i (01:10:00) trapsize 53
+\i (01:11:37) enved 
+\i (01:11:37) placementedit 
+\i (01:11:40) setwindow form.prfedit
+\i (01:11:40) FORM prfedit treelist  Drawing 
+\i (01:11:40) FORM prfedit treelist  Display 
+\i (01:11:46) FORM prfedit cancel  
+\i (01:15:36) setwindow pcb
+\i (01:15:36) property edit 
+\t (01:15:36) Adjust find filter then select an element or group of elements.
+\i (01:15:45) dimension edit 
+\i (01:16:01) prmed 
+\i (01:16:07) setwindow form.prmedit
+\i (01:16:07) FORM prmedit design  
+\i (01:16:11) FORM prmedit units Millimeter 
+\e (01:16:11) Change may cause round-off; run dbcheck.
+\i (01:16:24) FORM prmedit accuracy 1 
+\e (01:16:24) Change may cause round-off; run dbcheck.
+\i (01:16:24) FORM prmedit text  
+\i (01:16:26) FORM prmedit shapes  
+\i (01:16:27) FORM prmedit route  
+\i (01:16:29) FORM prmedit display  
+\i (01:16:30) FORM prmedit apply  
+\w (01:16:30) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:16:30) setwindow pcb
+\i (01:16:30) trapsize 1
+\t (01:16:30) Performing DRC...
+\t (01:16:30) No DRC errors detected.
+\i (01:16:31) setwindow form.prmedit
+\i (01:16:31) FORM prmedit done  
+\i (01:16:31) setwindow pcb
+\i (01:16:31) placementedit 
+\i (01:16:40) define grid 
+\t (01:16:40) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:16:40) placementedit 
+\i (01:16:53) setwindow form.grid
+\i (01:16:53) FORM grid non_etch non_etch_x_grids 0.2 
+\i (01:17:09) FORM grid non_etch non_etch_y_grids 0.2 
+\i (01:18:39) FORM grid done  
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom in 1 
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom in -1.4 -1.9
+\i (01:18:41) trapsize 1
+\i (01:18:41) zoom in 1 
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom in -1.4 -1.8
+\i (01:18:41) trapsize 1
+\i (01:18:41) zoom in 1 
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom in -1.4 -1.7
+\i (01:18:41) trapsize 1
+\i (01:18:41) zoom in 1 
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom in -1.4 -1.7
+\i (01:18:41) trapsize 1
+\i (01:18:41) zoom out 1 
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom out -1.4 -1.7
+\i (01:18:41) trapsize 1
+\i (01:18:41) zoom out 1 
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom out -1.4 -1.7
+\i (01:18:41) trapsize 1
+\i (01:18:41) zoom out 1 
+\i (01:18:41) setwindow pcb
+\i (01:18:41) zoom out -1.4 -1.6
+\i (01:18:41) trapsize 1
+\i (01:18:42) zoom in 1 
+\i (01:18:42) setwindow pcb
+\i (01:18:42) zoom in -2.2 -2.4
+\i (01:18:42) trapsize 1
+\i (01:18:47) zoom out 1 
+\i (01:18:47) setwindow pcb
+\i (01:18:47) zoom out -1.9 -2.3
+\i (01:18:47) trapsize 1
+\i (01:18:48) zoom in 1 
+\i (01:18:48) setwindow pcb
+\i (01:18:48) zoom in -2.5 0.0
+\i (01:18:48) trapsize 1
+\i (01:18:52) define grid 
+\t (01:18:52) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:18:52) placementedit 
+\i (01:19:08) setwindow form.grid
+\i (01:19:08) FORM grid all_etch all_etch_x_grids 0.2 
+\i (01:19:08) FORM grid done  
+\i (01:19:14) setwindow pcb
+\i (01:19:14) zoom out 1 
+\i (01:19:14) setwindow pcb
+\i (01:19:14) zoom out -4.7 -1.4
+\i (01:19:14) trapsize 1
+\i (01:19:14) zoom out 1 
+\i (01:19:14) setwindow pcb
+\i (01:19:14) zoom out -4.7 -1.5
+\i (01:19:14) trapsize 1
+\i (01:19:14) zoom out 1 
+\i (01:19:14) setwindow pcb
+\i (01:19:14) zoom out -10.7 -1.8
+\t (01:19:14) Grids are drawn 0.8, 0.8 apart for enhanced viewability.
+\i (01:19:14) trapsize 3
+\i (01:19:14) zoom in 1 
+\i (01:19:14) setwindow pcb
+\i (01:19:14) zoom in 0.7 -4.2
+\i (01:19:14) trapsize 1
+\i (01:19:15) zoom in 1 
+\i (01:19:15) setwindow pcb
+\i (01:19:15) zoom in -4.1 -1.6
+\i (01:19:15) trapsize 1
+\i (01:19:23) drag_start grid -2.7 0.0
+\i (01:19:23) drag_stop -2.6 -0.8
+\i (01:19:34) padeditdb 
+\i (01:19:37) padeditdb 
+\i (01:19:38) zoom out 1 
+\i (01:19:38) setwindow pcb
+\i (01:19:38) zoom out -1.3 -0.1
+\i (01:19:38) trapsize 1
+\i (01:19:38) zoom out 1 
+\i (01:19:38) setwindow pcb
+\i (01:19:38) zoom out 1.4 -0.8
+\i (01:19:38) trapsize 3
+\i (01:19:38) zoom out 1 
+\i (01:19:38) setwindow pcb
+\i (01:19:38) zoom out 26.1 4.8
+\i (01:19:38) trapsize 3
+\i (01:19:39) zoom in 1 
+\i (01:19:39) setwindow pcb
+\i (01:19:39) zoom in 25.6 4.6
+\i (01:19:39) trapsize 1
+\i (01:19:43) dimension edit 
+\w (01:19:53) Save Pending
+\i (01:19:58) define grid 
+\t (01:19:58) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:20:00) setwindow form.grid
+\i (01:20:00) FORM grid display NO 
+\i (01:20:01) FORM grid display YES 
+\i (01:20:08) FORM grid done  
+\i (01:20:09) setwindow pcb
+\i (01:20:09) zoom in 1 
+\i (01:20:09) setwindow pcb
+\i (01:20:09) zoom in 0.8 1.0
+\i (01:20:09) trapsize 1
+\i (01:20:09) zoom in 1 
+\i (01:20:09) setwindow pcb
+\i (01:20:09) zoom in 0.8 1.0
+\i (01:20:09) trapsize 1
+\i (01:20:09) zoom out 1 
+\i (01:20:09) setwindow pcb
+\i (01:20:09) zoom out 0.8 1.1
+\i (01:20:09) trapsize 1
+\i (01:20:10) zoom out 1 
+\i (01:20:10) setwindow pcb
+\i (01:20:10) zoom out 0.8 1.1
+\i (01:20:10) trapsize 1
+\i (01:20:10) zoom in 1 
+\i (01:20:10) setwindow pcb
+\i (01:20:10) zoom in 0.0 0.0
+\i (01:20:10) trapsize 1
+\i (01:20:15) zoom in 1 
+\i (01:20:15) setwindow pcb
+\i (01:20:15) zoom in -2.5 0.0
+\i (01:20:15) trapsize 1
+\i (01:20:15) zoom in 1 
+\i (01:20:15) setwindow pcb
+\i (01:20:15) zoom in -2.4 0.0
+\i (01:20:15) trapsize 1
+\i (01:20:15) zoom out 1 
+\i (01:20:15) setwindow pcb
+\i (01:20:15) zoom out -2.4 0.0
+\i (01:20:15) trapsize 1
+\i (01:20:16) zoom in 1 
+\i (01:20:16) setwindow pcb
+\i (01:20:16) zoom in -2.5 0.0
+\i (01:20:16) trapsize 1
+\i (01:20:16) zoom in 1 
+\i (01:20:16) setwindow pcb
+\i (01:20:16) zoom in -2.5 0.0
+\i (01:20:16) trapsize 1
+\i (01:20:16) zoom out 1 
+\i (01:20:16) setwindow pcb
+\i (01:20:16) zoom out -2.5 0.0
+\i (01:20:16) trapsize 1
+\i (01:20:23) pick grid -2.8 1.1
+\t (01:20:23) last pick:  -2.8  1.2
+\w (01:20:23) WARNING(SPMHDI-55): No dimension found.
+\i (01:20:23) zoom out 1 
+\i (01:20:23) setwindow pcb
+\i (01:20:23) zoom out -2.7 1.1
+\i (01:20:23) trapsize 1
+\i (01:20:23) zoom out 1 
+\i (01:20:23) setwindow pcb
+\i (01:20:23) zoom out -2.7 1.0
+\i (01:20:23) trapsize 1
+\i (01:20:52) padeditlib 
+\i (01:20:54) fillin "menu_cancel"
+\i (01:20:56) fillin no 
+\i (01:20:58) fillin "menu_cancel"
+\i (01:20:58) fillin yes 
+\t (01:20:58) Performing autosave...
+\t (01:20:58) Autosave successful
+\i (01:20:58) placementedit 
+\i (01:21:00) open 
+\e (01:21:00) Do you want to save the changes you made to VRES4.dra?
+\i (01:21:02) fillin no 
+\i (01:21:50) fillin "G:\Users\Owner\Documents\SCHOOL SHIT\EE174\EE174 FINAL PROJECT\Lib\symbols\VRES\VRES1.dra"
+\i (01:21:50) cd "G:\Users\Owner\Documents\SCHOOL SHIT\EE174\EE174 FINAL PROJECT\Lib\symbols\VRES"
+\t (01:21:50) Opening existing design...
+\i (01:21:51) fillin yes 
+\i (01:21:51) trapsize 108
+\t (01:21:51)     Journal end - Sun Mar 15 22:57:11 2015

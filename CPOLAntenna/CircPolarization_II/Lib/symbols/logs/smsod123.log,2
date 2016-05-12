@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMSOD123.dra                                  )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Tue May 31 20:27:34 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Amateur Radio/Projects/UCSC_2m_Repeater/Lib/symbols
+    Name      = smsod123.psm
+    User      = Stephen
+    Machine   = ENIAC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

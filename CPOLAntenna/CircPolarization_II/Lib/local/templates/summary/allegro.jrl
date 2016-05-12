@@ -1,0 +1,793 @@
+\t (00:00:02) allegro 16.2 p005 (v16-2-57E) i86
+\t (00:00:02) 
+
+\t (00:00:02) Opening existing drawing...
+\d (00:00:02) Database opened: C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Lib/local/templates/3x3_2_layer_B_template.brd
+\t (00:00:02) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:02) trapsize 222
+\i (00:00:02) trapsize 215
+\i (00:00:02) trapsize 219
+\i (00:00:05) trapsize 219
+\i (00:00:05) generaledit 
+\i (00:00:09) HELPCMD 
+\i (00:00:38) clppaste 
+\f (00:00:38) Select Subdrawing to Import
+\i (00:00:40) fillin "menu_cancel"
+   (00:00:40) Loading cmds.cxt 
+\i (00:00:40) generaledit 
+\i (00:00:43) roam y -96 
+\i (00:00:43) roam y -96
+\i (00:00:44) roam y 96 
+\i (00:00:44) roam y 96
+\i (00:00:44) roam y -96 
+\i (00:00:44) roam y -96
+\i (00:00:47) helpcmd 
+\i (00:00:50) clear color 
+\i (00:01:02) help colorview load 
+\i (00:01:05) help colorview load 
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 10833.3 12145.3
+\i (00:01:20) trapsize 439
+\i (00:01:28) colorview load 
+\i (00:01:38) fillin "C:\Academic\UCSC\2009 - 2010\1 - 2009 Fall\CMPE174 F09\Laboratory\Development\Lib\local\working_layers.color"
+\i (00:01:38) cd "C:\Academic\UCSC\2009 - 2010\1 - 2009 Fall\CMPE174 F09\Laboratory\Development\Lib\local"
+\i (00:01:38) color -globvis off 
+\i (00:01:38) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:38) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:39) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:39) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:39) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:39) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:39) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:39) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:39) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:39) color -vis ETCH/TOP 
+\i (00:01:39) color -vis ETCH/BOTTOM 
+\i (00:01:39) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:39) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:39) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:39) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:39) color -vis PIN/TOP 
+\i (00:01:39) color -vis PIN/BOTTOM 
+\i (00:01:39) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:39) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:39) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:39) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:39) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:39) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:39) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:39) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:39) color -vis 'VIA CLASS/TOP' 
+\i (00:01:39) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:39) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:39) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:39) trapsize 439
+\i (00:01:40) generaledit 
+\i (00:01:43) setwindow form.vf_vis
+\i (00:01:43) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:01:43) color -globvis off 
+\i (00:01:43) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:43) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:01:43) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:01:43) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:43) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:43) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:43) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:43) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:43) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:43) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:43) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:43) color -vis ETCH/TOP 
+\i (00:01:43) color -vis ETCH/BOTTOM 
+\i (00:01:43) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:43) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:01:43) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:01:43) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:43) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:43) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:43) color -vis PIN/TOP 
+\i (00:01:43) color -vis PIN/BOTTOM 
+\i (00:01:43) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:43) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:43) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:43) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:43) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:43) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:43) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:43) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:43) color -vis 'VIA CLASS/TOP' 
+\i (00:01:43) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:43) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:43) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) trapsize 439
+\i (00:01:43) generaledit 
+\i (00:01:44) setwindow form.vf_vis
+\i (00:01:44) FORM vf_vis colorview_list File: working_layers 
+\i (00:01:44) color -globvis off 
+\i (00:01:44) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:44) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:44) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:44) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:44) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:44) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:44) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:44) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:44) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:44) color -vis ETCH/TOP 
+\i (00:01:44) color -vis ETCH/BOTTOM 
+\i (00:01:44) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:44) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:44) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:44) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:44) color -vis PIN/TOP 
+\i (00:01:44) color -vis PIN/BOTTOM 
+\i (00:01:44) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:44) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:44) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:44) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:44) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:44) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:44) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:44) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:44) color -vis 'VIA CLASS/TOP' 
+\i (00:01:44) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:44) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:44) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) trapsize 439
+\i (00:01:44) generaledit 
+\i (00:01:45) setwindow form.vf_vis
+\i (00:01:45) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:01:45) color -globvis off 
+\i (00:01:45) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:45) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:01:45) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:01:45) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:45) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:45) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:45) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:45) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:45) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:45) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:45) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:45) color -vis ETCH/TOP 
+\i (00:01:45) color -vis ETCH/BOTTOM 
+\i (00:01:45) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:45) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:01:45) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:01:45) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:45) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:45) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:45) color -vis PIN/TOP 
+\i (00:01:45) color -vis PIN/BOTTOM 
+\i (00:01:45) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:45) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:45) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:45) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:45) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:45) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:45) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:45) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:45) color -vis 'VIA CLASS/TOP' 
+\i (00:01:45) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:45) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:45) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) trapsize 439
+\i (00:01:45) generaledit 
+\i (00:01:46) setwindow form.vf_vis
+\i (00:01:46) FORM vf_vis colorview_list File: working_layers 
+\i (00:01:46) color -globvis off 
+\i (00:01:46) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:46) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:46) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:46) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:46) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:46) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:46) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:46) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:46) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:46) color -vis ETCH/TOP 
+\i (00:01:46) color -vis ETCH/BOTTOM 
+\i (00:01:46) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:46) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:46) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:46) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:46) color -vis PIN/TOP 
+\i (00:01:46) color -vis PIN/BOTTOM 
+\i (00:01:46) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:46) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:46) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:46) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:46) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:46) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:46) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:46) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:46) color -vis 'VIA CLASS/TOP' 
+\i (00:01:46) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:46) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:46) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) trapsize 439
+\i (00:01:46) generaledit 
+\i (00:01:47) setwindow form.vf_vis
+\i (00:01:47) FORM vf_vis colorview_list --------------- 
+\i (00:01:47) FORM vf_vis colorview_list Film: MECH 
+\i (00:01:48) FORM vf_vis colorview_list Film: SMB 
+\i (00:01:48) FORM vf_vis colorview_list Film: SSB 
+\i (00:01:48) FORM vf_vis colorview_list Film: SST 
+\i (00:01:49) FORM vf_vis colorview_list Film: SMT 
+\i (00:01:49) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:01:49) FORM vf_vis colorview_list Film: TOP 
+\i (00:01:50) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:01:50) FORM vf_vis colorview_list Film: SMT 
+\i (00:01:50) FORM vf_vis colorview_list Film: SST 
+\i (00:01:50) FORM vf_vis colorview_list Film: SSB 
+\i (00:01:50) FORM vf_vis colorview_list Film: SMB 
+\i (00:01:50) FORM vf_vis colorview_list Film: MECH 
+\i (00:01:51) FORM vf_vis colorview_list --------------- 
+\i (00:01:51) FORM vf_vis colorview_list File: working_layers 
+\i (00:01:51) color -globvis off 
+\i (00:01:51) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:51) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:51) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:51) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:51) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:51) color -vis ETCH/TOP 
+\i (00:01:51) color -vis ETCH/BOTTOM 
+\i (00:01:51) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:51) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:51) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:51) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:51) color -vis PIN/TOP 
+\i (00:01:51) color -vis PIN/BOTTOM 
+\i (00:01:51) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:51) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:51) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:51) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:51) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis 'VIA CLASS/TOP' 
+\i (00:01:51) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:51) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:51) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) trapsize 439
+\i (00:01:51) setwindow form.vf_vis
+\i (00:01:51) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:01:51) color -globvis off 
+\i (00:01:51) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:51) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:01:51) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:01:51) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:51) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:51) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:51) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:51) color -vis ETCH/TOP 
+\i (00:01:51) color -vis ETCH/BOTTOM 
+\i (00:01:51) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:51) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:01:51) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:01:51) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:51) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:51) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:51) color -vis PIN/TOP 
+\i (00:01:51) color -vis PIN/BOTTOM 
+\i (00:01:51) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:51) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:51) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:51) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:51) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:51) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:51) color -vis 'VIA CLASS/TOP' 
+\i (00:01:51) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:51) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:51) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) trapsize 439
+\i (00:01:51) setwindow form.vf_vis
+\i (00:01:51) FORM vf_vis colorview_list --------------- 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) generaledit 
+\i (00:01:52) setwindow form.vf_vis
+\i (00:01:52) FORM vf_vis colorview_list Last View 
+\i (00:01:53) FORM vf_vis colorview_list --------------- 
+\i (00:01:53) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:01:53) color -globvis off 
+\i (00:01:53) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:53) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:01:53) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:01:53) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:53) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:53) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:53) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:53) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:53) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:53) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:53) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:53) color -vis ETCH/TOP 
+\i (00:01:53) color -vis ETCH/BOTTOM 
+\i (00:01:53) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:53) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:01:53) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:01:53) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:53) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:53) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:53) color -vis PIN/TOP 
+\i (00:01:53) color -vis PIN/BOTTOM 
+\i (00:01:54) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:54) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:54) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:54) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:54) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:54) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:54) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:54) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:54) color -vis 'VIA CLASS/TOP' 
+\i (00:01:54) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:54) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:54) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) trapsize 439
+\i (00:01:54) generaledit 
+\i (00:01:54) setwindow form.vf_vis
+\i (00:01:54) FORM vf_vis colorview_list --------------- 
+\i (00:01:54) FORM vf_vis colorview_list Last View 
+\i (00:01:54) FORM vf_vis colorview_list --------------- 
+\i (00:01:55) FORM vf_vis colorview_list Last View 
+\i (00:01:58) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:01:58) color -globvis off 
+\i (00:01:58) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:58) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:01:58) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:01:58) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:58) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:58) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:58) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:58) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:58) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:58) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:58) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:58) color -vis ETCH/TOP 
+\i (00:01:58) color -vis ETCH/BOTTOM 
+\i (00:01:58) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:58) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:01:58) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:01:58) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:58) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:58) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:58) color -vis PIN/TOP 
+\i (00:01:58) color -vis PIN/BOTTOM 
+\i (00:01:58) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:58) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:58) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:58) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:58) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:58) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:58) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:58) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:58) color -vis 'VIA CLASS/TOP' 
+\i (00:01:58) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:58) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:58) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) trapsize 439
+\i (00:01:58) generaledit 
+\i (00:01:59) setwindow form.vf_vis
+\i (00:01:59) FORM vf_vis colorview_list File: working_layers 
+\i (00:01:59) color -globvis off 
+\i (00:01:59) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:01:59) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:01:59) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:01:59) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:01:59) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:01:59) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:01:59) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:01:59) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:01:59) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:01:59) color -vis ETCH/TOP 
+\i (00:01:59) color -vis ETCH/BOTTOM 
+\i (00:01:59) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:01:59) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:01:59) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:01:59) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:01:59) color -vis PIN/TOP 
+\i (00:01:59) color -vis PIN/BOTTOM 
+\i (00:01:59) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:01:59) color -vis PIN/SOLDERMASK_TOP 
+\i (00:01:59) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:01:59) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:01:59) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:01:59) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:01:59) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:01:59) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:01:59) color -vis 'VIA CLASS/TOP' 
+\i (00:01:59) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:01:59) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:01:59) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) trapsize 439
+\i (00:01:59) generaledit 
+\i (00:02:00) setwindow form.vf_vis
+\i (00:02:00) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:02:00) color -globvis off 
+\i (00:02:00) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:02:00) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:02:00) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:02:00) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:02:00) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:02:00) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:02:00) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:02:00) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:02:00) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:02:00) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:02:00) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:02:00) color -vis ETCH/TOP 
+\i (00:02:00) color -vis ETCH/BOTTOM 
+\i (00:02:00) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:02:00) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:02:00) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:02:00) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:02:00) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:02:00) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:02:00) color -vis PIN/TOP 
+\i (00:02:00) color -vis PIN/BOTTOM 
+\i (00:02:00) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:02:00) color -vis PIN/SOLDERMASK_TOP 
+\i (00:02:00) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:02:00) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:02:00) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:02:00) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:02:00) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:02:00) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:02:00) color -vis 'VIA CLASS/TOP' 
+\i (00:02:00) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:02:00) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:02:00) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) trapsize 439
+\i (00:02:00) generaledit 
+\i (00:02:01) setwindow form.vf_vis
+\i (00:02:01) FORM vf_vis colorview_list File: working_layers 
+\i (00:02:01) color -globvis off 
+\i (00:02:01) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:02:01) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:02:01) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:02:01) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:02:01) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:02:01) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:02:01) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:02:01) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:02:01) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:02:01) color -vis ETCH/TOP 
+\i (00:02:01) color -vis ETCH/BOTTOM 
+\i (00:02:01) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:02:01) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:02:01) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:02:01) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:02:01) color -vis PIN/TOP 
+\i (00:02:01) color -vis PIN/BOTTOM 
+\i (00:02:01) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:02:01) color -vis PIN/SOLDERMASK_TOP 
+\i (00:02:01) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:02:01) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:02:01) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:02:01) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:02:01) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:02:01) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:02:01) color -vis 'VIA CLASS/TOP' 
+\i (00:02:01) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:02:01) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:02:01) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) trapsize 439
+\i (00:02:01) generaledit 
+\i (00:02:01) setwindow form.vf_vis
+\i (00:02:01) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:02:01) color -globvis off 
+\i (00:02:01) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:02:01) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:02:01) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:02:01) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:02:01) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:02:01) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:02:01) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:02:01) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:02:01) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:02:01) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:02:01) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:02:01) color -vis ETCH/TOP 
+\i (00:02:01) color -vis ETCH/BOTTOM 
+\i (00:02:01) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:02:01) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:02:01) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:02:01) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:02:01) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:02:01) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:02:01) color -vis PIN/TOP 
+\i (00:02:02) color -vis PIN/BOTTOM 
+\i (00:02:02) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:02:02) color -vis PIN/SOLDERMASK_TOP 
+\i (00:02:02) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:02:02) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:02:02) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:02:02) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:02:02) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:02:02) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:02:02) color -vis 'VIA CLASS/TOP' 
+\i (00:02:02) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:02:02) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:02:02) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) trapsize 439
+\i (00:02:02) generaledit 
+\i (00:02:02) setwindow form.vf_vis
+\i (00:02:02) FORM vf_vis colorview_list File: working_layers 
+\i (00:02:02) color -globvis off 
+\i (00:02:02) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:02:02) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:02:02) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:02:02) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:02:02) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:02:02) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:02:02) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:02:02) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:02:02) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:02:02) color -vis ETCH/TOP 
+\i (00:02:02) color -vis ETCH/BOTTOM 
+\i (00:02:02) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:02:02) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:02:02) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:02:02) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:02:02) color -vis PIN/TOP 
+\i (00:02:02) color -vis PIN/BOTTOM 
+\i (00:02:02) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:02:02) color -vis PIN/SOLDERMASK_TOP 
+\i (00:02:02) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:02:02) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:02:02) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:02:02) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:02:02) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:02:02) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:02:02) color -vis 'VIA CLASS/TOP' 
+\i (00:02:02) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:02:02) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:02:02) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) trapsize 439
+\i (00:02:03) generaledit 
+\i (00:02:04) setwindow form.vf_vis
+\i (00:02:04) FORM vf_vis colorview_list File: all artwork_layers 
+\i (00:02:04) color -globvis off 
+\i (00:02:04) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:02:04) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:02:04) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:02:04) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:02:04) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:02:04) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:02:04) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:02:04) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:02:04) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:02:04) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:02:04) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:02:04) color -vis ETCH/TOP 
+\i (00:02:04) color -vis ETCH/BOTTOM 
+\i (00:02:04) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:02:04) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:02:04) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:02:04) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:02:04) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:02:04) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:02:04) color -vis PIN/TOP 
+\i (00:02:04) color -vis PIN/BOTTOM 
+\i (00:02:04) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:02:04) color -vis PIN/SOLDERMASK_TOP 
+\i (00:02:04) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:02:04) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:02:04) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:02:04) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:02:04) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:02:04) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:02:04) color -vis 'VIA CLASS/TOP' 
+\i (00:02:04) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:02:04) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:02:04) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) trapsize 439
+\i (00:02:04) generaledit 
+\i (00:02:20) prmed 
+\i (00:02:23) setwindow form.prmedit
+\i (00:02:23) FORM prmedit cancel  
+\i (00:02:23) setwindow pcb
+\i (00:02:23) generaledit 
+\i (00:02:26) prmed 
+\i (00:02:28) setwindow form.prmedit
+\i (00:02:28) FORM prmedit design  
+\i (00:02:33) FORM prmedit text  
+\i (00:02:35) FORM prmedit shapes  
+\i (00:02:36) FORM prmedit mfg_applications  
+\i (00:02:36) FORM prmedit route  
+\i (00:02:39) FORM prmedit cancel  
+\i (00:02:39) setwindow pcb
+\i (00:02:39) generaledit 
+\i (00:02:41) enved 
+\i (00:02:41) generaledit 
+\i (00:02:46) setwindow form.prfedit
+\i (00:02:46) FORM prfedit treelist  Output_dir File_management 
+\i (00:02:48) FORM prfedit treelist  Journals File_management 
+\i (00:02:48) FORM prfedit treelist  Autosave File_management 
+\i (00:02:49) FORM prfedit treelist  Temp_files File_management 
+\i (00:02:51) FORM prfedit treelist  Output_dir File_management 
+\i (00:03:03) FORM prfedit ads_sdlog log 
+\i (00:03:09) FORM prfedit ads_sdreport report 
+\i (00:03:19) FORM prfedit ads_sdart artwork 
+\i (00:03:24) FORM prfedit apply  
+\i (00:03:49) FORM prfedit treelist  Journals File_management 
+\i (00:03:51) FORM prfedit treelist  Autosave File_management 
+\i (00:03:52) FORM prfedit autosave YES 
+\i (00:04:01) FORM prfedit apply  
+\i (00:04:09) FORM prfedit autosave_time 10 
+\i (00:04:11) FORM prfedit apply  
+\i (00:04:15) FORM prfedit treelist  Journals File_management 
+\e (00:04:17) Program has encountered a problem and must exit. The database will be saved (if applicable). Obtain the latest software update from Cadence and if problem persists contact Cadence Customer Support.
+\i (00:04:19) fillin confirm
+\d (00:04:19) SymInit: Symbol-SearchPath: '.;C:\Academic\UCSC\2009 - 2010\1 - 2009 Fall\CMPE174 F09\Laboratory\Development\Lib\local;C:\Cadence\SPB_16.2\tools\pcb\bin;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Stephen'
+
+\d (00:04:19) OS-Version: 5.1.2600 (Service Pack 3) 0x100-0x1
+
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\pcb\bin\allegro.exe:allegro.exe (00400000), size: 26865664 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.2.0.0n
+\d (00:04:19) C:\WINDOWS\system32\ntdll.dll:ntdll.dll (7C900000), size: 729088 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5755n
+\d (00:04:19) C:\WINDOWS\system32\kernel32.dll:kernel32.dll (7C800000), size: 1007616 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5781n
+\d (00:04:19) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.4053_x-ww_e6967989\MSVCR80.dll:MSVCR80.dll (78130000), size: 634880 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.4053n
+\d (00:04:19) C:\WINDOWS\system32\msvcrt.dll:msvcrt.dll (77C10000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.2600.5512n
+\d (00:04:19) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.4053_x-ww_e6967989\MSVCP80.dll:MSVCP80.dll (7C420000), size: 552960 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.4053n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cnlib.dll:cnlib.dll (10000000), size: 36864 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\jlglib.dll:jlglib.dll (00250000), size: 57344 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\fet\bin\ddbpi.dll:ddbpi.dll (00270000), size: 1146880 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\opf.dll:opf.dll (003A0000), size: 155648 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\nmp.dll:nmp.dll (025A0000), size: 192512 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cla.dll:cla.dll (003E0000), size: 122880 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\WINDOWS\system32\ADVAPI32.dll:ADVAPI32.dll (77DD0000), size: 634880 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5755n
+\d (00:04:19) C:\WINDOWS\system32\RPCRT4.dll:RPCRT4.dll (77E70000), size: 598016 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5795n
+\d (00:04:19) C:\WINDOWS\system32\Secur32.dll:Secur32.dll (77FE0000), size: 69632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5834n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cdsCommon.dll:cdsCommon.dll (025D0000), size: 110592 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cls.dll:cls.dll (025F0000), size: 57344 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\WINDOWS\system32\WS2_32.dll:WS2_32.dll (71AB0000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:19) C:\WINDOWS\system32\WS2HELP.dll:WS2HELP.dll (71AA0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\dsnmp.dll:dsnmp.dll (02600000), size: 28672 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\dserrorhandler.dll:dserrorhandler.dll (02620000), size: 81920 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\SMIMD_sh.dll:SMIMD_sh.dll (02650000), size: 159744 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cdn_xerces-c_2_7.dll:cdn_xerces-c_2_7.dll (12000000), size: 1896448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2.7.0.0n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\SBaseMD_sh.dll:SBaseMD_sh.dll (026A0000), size: 77824 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\WINDOWS\system32\WSOCK32.dll:WSOCK32.dll (71AD0000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\_cadencehelp.dll:_cadencehelp.dll (026D0000), size: 69632 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\WINDOWS\system32\SHLWAPI.dll:SHLWAPI.dll (77F60000), size: 483328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:04:19) C:\WINDOWS\system32\GDI32.dll:GDI32.dll (77F10000), size: 299008 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5698n
+\d (00:04:19) C:\WINDOWS\system32\USER32.dll:USER32.dll (7E410000), size: 593920 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\markers.dll:markers.dll (02700000), size: 110592 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.0.3n
+\d (00:04:19) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.MFC_1fc8b3b9a1e18e3b_8.0.50727.4053_x-ww_b77cec8e\MFC80.DLL:MFC80.DLL (781D0000), size: 1114112 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 8.0.50727.4053n
+\d (00:04:19) C:\WINDOWS\system32\SHELL32.dll:SHELL32.dll (7C9C0000), size: 8482816 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5622n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\libmpi.dll:libmpi.dll (02730000), size: 94208 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\mpsc.dll:mpsc.dll (02760000), size: 94208 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\libsman.dll:libsman.dll (02790000), size: 69632 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\libem.dll:libem.dll (027C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\mpss.dll:mpss.dll (027E0000), size: 86016 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\il.dll:il.dll (02810000), size: 778240 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\ems.dll:ems.dll (028E0000), size: 77824 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\virtuos.dll:virtuos.dll (02900000), size: 73728 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cdsIlIpc.dll:cdsIlIpc.dll (02930000), size: 61440 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\consmgr.dll:consmgr.dll (02950000), size: 4648960 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.2.0.0n
+\d (00:04:19) C:\WINDOWS\system32\OLEAUT32.dll:OLEAUT32.dll (77120000), size: 569344 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:19) C:\WINDOWS\system32\ole32.dll:ole32.dll (774E0000), size: 1298432 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cdn_og1101as.dll:cdn_og1101as.dll (02DD0000), size: 2453504 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 11.0.0.1n
+\d (00:04:19) C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\COMCTL32.dll:COMCTL32.dll (773D0000), size: 1060864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:04:19) C:\WINDOWS\system32\ODBC32.dll:ODBC32.dll (74320000), size: 249856 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 3.525.1132.0n
+\d (00:04:19) C:\WINDOWS\system32\comdlg32.dll:comdlg32.dll (763B0000), size: 299008 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:04:19) C:\Cadence\SPB_16.2\tools\bin\cdn_RWUXThemeS80.dll:cdn_RWUXThemeS80.dll (03040000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.8.0n
+\d (00:04:19) C:\WINDOWS\system32\oledlg.dll:oledlg.dll (7DF70000), size: 139264 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\Cadence\SPB_16.2\tools\bin\cdn_sfl401as.dll:cdn_sfl401as.dll (4E000000), size: 671744 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 4.0.0.1n
+\d (00:04:20) C:\WINDOWS\system32\MSIMG32.dll:MSIMG32.dll (76380000), size: 20480 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\WINSPOOL.DRV:WINSPOOL.DRV (73000000), size: 155648 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\Cadence\SPB_16.2\tools\bin\acnsdb.dll:acnsdb.dll (03080000), size: 159744 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:20) C:\Cadence\SPB_16.2\tools\bin\acnsui.dll:acnsui.dll (030C0000), size: 282624 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 16.2.0.0n
+\d (00:04:20) C:\Cadence\SPB_16.2\tools\bin\htmlmsg.dll:htmlmsg.dll (03120000), size: 81920 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:20) C:\Cadence\SPB_16.2\tools\bin\cdn_ot1001as.dll:cdn_ot1001as.dll (4C000000), size: 2568192 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 10.0.0.1n
+\d (00:04:20) C:\WINDOWS\system32\MSVFW32.dll:MSVFW32.dll (75A70000), size: 135168 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\WINMM.dll:WINMM.dll (76B40000), size: 184320 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\WININET.dll:WININET.dll (78050000), size: 851968 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.6000.16762n
+\d (00:04:20) C:\WINDOWS\system32\Normaliz.dll:Normaliz.dll (03160000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.5441.0n
+\d (00:04:20) C:\WINDOWS\system32\iertutil.dll:iertutil.dll (78000000), size: 282624 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.6000.16762n
+\d (00:04:20) C:\WINDOWS\system32\OPENGL32.dll:OPENGL32.dll (5ED00000), size: 835584 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\GLU32.dll:GLU32.dll (68B20000), size: 131072 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\DDRAW.dll:DDRAW.dll (73760000), size: 307200 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\DCIMAN32.dll:DCIMAN32.dll (73BC0000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\Cadence\SPB_16.2\tools\pcb\bin\tcl80.dll:tcl80.dll (03170000), size: 385024 (result: 0), SymType: '-exported-', PDB: ''
+\d (00:04:20) C:\WINDOWS\system32\NETAPI32.dll:NETAPI32.dll (5B860000), size: 348160 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5694n
+\d (00:04:20) C:\WINDOWS\system32\VERSION.dll:VERSION.dll (77C00000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\IMM32.DLL:IMM32.DLL (76390000), size: 118784 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\PROGRA~1\Sophos\SOPHOS~1\SOPHOS~1.DLL:SOPHOS~1.DLL (6FA00000), size: 217088 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 1.0.0.4030n
+\d (00:04:20) C:\WINDOWS\system32\PSAPI.DLL:PSAPI.DLL (76BF0000), size: 45056 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\WinSxS\x86_Microsoft.VC80.MFCLOC_1fc8b3b9a1e18e3b_8.0.50727.4053_x-ww_0ccc058c\MFC80ENU.DLL:MFC80ENU.DLL (5D360000), size: 57344 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 8.0.50727.4053n
+\d (00:04:20) C:\WINDOWS\system32\odbcint.dll:odbcint.dll (03950000), size: 94208 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 3.525.1132.0n
+\d (00:04:20) C:\WINDOWS\system32\UXTHEME.DLL:UXTHEME.DLL (5AD70000), size: 229376 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.5512n
+\d (00:04:20) C:\WINDOWS\system32\MSCTF.dll:MSCTF.dll (74720000), size: 311296 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\tabhook.dll:tabhook.dll (03ED0000), size: 65536 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 4.7.8.6n
+\d (00:04:20) C:\WINDOWS\system32\msctfime.ime:msctfime.ime (755C0000), size: 188416 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\System32\mswsock.dll:mswsock.dll (71A50000), size: 258048 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5625n
+\d (00:04:20) C:\WINDOWS\system32\DNSAPI.dll:DNSAPI.dll (76F20000), size: 159744 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5625n
+\d (00:04:20) C:\WINDOWS\System32\winrnr.dll:winrnr.dll (76FB0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\WLDAP32.dll:WLDAP32.dll (76F60000), size: 180224 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\pnrpnsp.dll:pnrpnsp.dll (66580000), size: 73728 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\hnetcfg.dll:hnetcfg.dll (662B0000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\System32\wshtcpip.dll:wshtcpip.dll (71A90000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\rasadhlp.dll:rasadhlp.dll (76FC0000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\IBFS32.DLL:IBFS32.DLL (03F70000), size: 151552 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 3.2.1.11n
+\d (00:04:20) C:\WINDOWS\system32\icmp.Dll:icmp.Dll (74290000), size: 16384 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\iphlpapi.dll:iphlpapi.dll (76D60000), size: 102400 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\SETUPAPI.dll:SETUPAPI.dll (77920000), size: 995328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\atioglxx.dll:atioglxx.dll (69000000), size: 5492736 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.14.10.7275n
+\d (00:04:20) C:\WINDOWS\system32\atioglx2.dll:atioglx2.dll (04A20000), size: 10915840 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.14.10.7275n
+\d (00:04:20) C:\WINDOWS\system32\mslbui.dll:mslbui.dll (605D0000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\appHelp.dll:appHelp.dll (77B40000), size: 139264 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\CLBCATQ.DLL:CLBCATQ.DLL (76FD0000), size: 520192 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.700n
+\d (00:04:20) C:\WINDOWS\system32\COMRes.dll:COMRes.dll (77050000), size: 806912 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.700n
+\d (00:04:20) C:\WINDOWS\system32\ntshrui.dll:ntshrui.dll (76990000), size: 151552 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\ATL.DLL:ATL.DLL (76B20000), size: 69632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 3.5.2284.2n
+\d (00:04:20) C:\WINDOWS\system32\USERENV.dll:USERENV.dll (769C0000), size: 737280 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\xpsp2res.dll:xpsp2res.dll (0BFF0000), size: 2904064 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) C:\WINDOWS\system32\dbghelp.dll:dbghelp.dll (59A60000), size: 659456 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.5512n
+\d (00:04:20) 
+\d (00:04:20) <<< STACK TRACE >>>
+\d (00:04:20) 013C95A1 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D85AA (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D8467 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013CA4BF (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013CAEC1 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D86D7 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 01393F18 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D39A0 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D3A15 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 01399542 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 01395957 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 01393EB5 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 01394B51 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 01393E98 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D96B3 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D8E79 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 7E418734 (USER32): (unknown file): GetDC
+\d (00:04:20) 7E418816 (USER32): (unknown file): GetDC
+\d (00:04:20) 7E428EA0 (USER32): (unknown file): DefWindowProcW
+\d (00:04:20) 7E428EEC (USER32): (unknown file): DefWindowProcW
+\d (00:04:20) 7C90E473 (ntdll): (unknown file): KiUserCallbackDispatcher
+\d (00:04:20) 7E4292E3 (USER32): (unknown file): SendMessageW
+\d (00:04:20) 773EB001 (COMCTL32): (unknown file): Ordinal414
+\d (00:04:20) 774073A2 (COMCTL32): (unknown file): Ordinal384
+\d (00:04:20) 774096CD (COMCTL32): (unknown file): Ordinal384
+\d (00:04:20) 7740A4DB (COMCTL32): (unknown file): Ordinal384
+\d (00:04:20) 7740AB8F (COMCTL32): (unknown file): Ordinal384
+\d (00:04:20) 7E418734 (USER32): (unknown file): GetDC
+\d (00:04:20) 7E418816 (USER32): (unknown file): GetDC
+\d (00:04:20) 7E42A013 (USER32): (unknown file): IsWindowUnicode
+\d (00:04:20) 7E42A998 (USER32): (unknown file): CallWindowProcA
+\d (00:04:20) 013BC45B (allegro): (unknown file): (unknown function)
+\d (00:04:20) 013D7973 (allegro): (unknown file): (unknown function)
+\d (00:04:20) 7E418734 (USER32): (unknown file): GetDC
+\d (00:04:20) 7E418816 (USER32): (unknown file): GetDC
+\d (00:04:20) 7E4189CD (USER32): (unknown file): GetWindowLongW
+\d (00:04:20) 7E4196C7 (USER32): (unknown file): DispatchMessageA
+\d (00:04:20) 78237D3C (MFC80): (unknown file): Ordinal1106
+\e (00:04:20) Saving database as 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Lib/local/3x3_2_layer_B_template.SAV'.

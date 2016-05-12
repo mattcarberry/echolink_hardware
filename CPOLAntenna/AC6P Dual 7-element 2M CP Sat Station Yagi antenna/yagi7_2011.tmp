@@ -1,0 +1,20 @@
+CM AC6P Dual 7-element 2M CP Yagi antenna
+CE     
+CM *** Define a 7-element horizontal ref. yagi                      
+GW 1 9 -41.5 -49 0 -41.5 49 0 .35    !Reflector
+GW 2 9 0 -55 0 0 55 0 .35    !Driven Element
+GW 3 9 41.5 -44.768 0 41.5 44.768 0 .35    !Directors
+GM 1 4 0 0 0 41.5 0 0 003.300   
+CM *** Create an identical vertical beam 0.25 wavelength away
+GM 50 1 90 0 0 51.379 0 0 001.300   
+GS 0 0 0.010000         
+GE 0
+CM  LD 1 2 5 5 1e8 1e8 7e-12
+CM  LD 0 5 5 5 0 0 1.86E-12
+EX 0 2 5 00 1 0    
+EX 0 52 5 00 1 0     
+CM TL 2 5 52 5 50.00 1.09      ! RG-58A Polyethylene
+CM TL 2 5 52 5 50 2.0548      ! User Defined VF =  1
+FR 0 4 0 0 144 1     
+RP 0 1 19 1000 90 0 1 10
+EN

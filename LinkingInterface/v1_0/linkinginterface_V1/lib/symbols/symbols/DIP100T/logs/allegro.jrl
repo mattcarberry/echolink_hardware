@@ -1,0 +1,257 @@
+\t (00:11:36) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:11:36)     Journal start - Sun Dec 08 10:47:32 2013
+\t (00:11:36)         Host=OWNER-PC130616 User=Owner Pid=11548 CPUs=8
+\t (00:11:36) 
+\d (00:11:36) Database opened: C:/Users/Owner/Desktop/EE174 FINAL PROJECT/Lib/symbols/DIP100T/DIP100T_1_LLB.brd
+\i (00:11:36) placementedit 
+\i (00:11:37) zoom in 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom in 6242.8 6652.4
+\i (00:11:37) trapsize 476
+\i (00:11:37) zoom in 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom in 1376.0 6719.1
+\i (00:11:37) trapsize 238
+\i (00:11:37) zoom in 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom in 1366.5 6723.8
+\i (00:11:37) trapsize 119
+\i (00:11:37) zoom out 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom out 1371.3 6731.0
+\i (00:11:37) trapsize 238
+\i (00:11:37) zoom out 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom out 1371.2 6730.9
+\i (00:11:37) trapsize 476
+\i (00:11:37) zoom out 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom out 1376.0 6731.0
+\i (00:11:37) trapsize 952
+\i (00:11:38) zoom out 1 
+\i (00:11:38) setwindow pcb
+\i (00:11:38) zoom out 6014.2 6862.0
+\i (00:11:38) trapsize 952
+\i (00:11:38) zoom in 1 
+\i (00:11:38) setwindow pcb
+\i (00:11:38) zoom in 1556.9 10805.0
+\i (00:11:38) trapsize 476
+\i (00:11:38) zoom in 1 
+\i (00:11:38) setwindow pcb
+\i (00:11:38) zoom in -852.7 10805.0
+\i (00:11:38) trapsize 238
+\i (00:11:43) open 
+\i (00:11:46) fillin "DIP100T_LLB.brd"
+\t (00:11:46) Opening existing design...
+\i (00:11:47) fillin yes 
+\i (00:11:47) trapsize 921
+\d (00:11:47) Database opened: C:/Users/Owner/Desktop/EE174 FINAL PROJECT/Lib/symbols/DIP100T/DIP100T_LLB.brd
+\i (00:11:47) placementedit 
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 3142.5 8902.0
+\i (00:11:48) trapsize 461
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 3142.5 8911.2
+\i (00:11:48) trapsize 230
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 3142.5 8911.2
+\i (00:11:48) trapsize 461
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 3142.6 8911.3
+\i (00:11:48) trapsize 921
+\i (00:11:49) zoom in 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom in 2350.2 10173.4
+\i (00:11:49) trapsize 461
+\i (00:11:51) zoom out 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom out 894.6 10247.1
+\i (00:11:51) trapsize 921
+\i (00:11:51) zoom in 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom in -432.0 10523.4
+\i (00:11:51) trapsize 461
+\i (00:11:51) zoom in 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom in -432.0 10523.4
+\i (00:11:51) trapsize 230
+\i (00:11:53) zoom in 1 
+\i (00:11:53) setwindow pcb
+\i (00:11:53) zoom in 1180.2 10214.9
+\i (00:11:53) trapsize 115
+\i (00:11:53) zoom out 1 
+\i (00:11:53) setwindow pcb
+\i (00:11:53) zoom out 1180.2 10214.9
+\i (00:11:53) trapsize 230
+\i (00:11:57) pick grid 3994.6 10035.2
+\t (00:11:57) last pick:  4000.0  10000.0
+\i (00:11:57) move 
+\t (00:11:57) last pick:  3720.0  10007.0
+\t (00:11:57) Pick new location for the element(s).
+\i (00:11:58) prepopup 3520.2 9956.9
+\i (00:11:59) cancel 
+\i (00:11:59) placementedit 
+\i (00:12:07) zoom out 1 
+\i (00:12:07) setwindow pcb
+\i (00:12:07) zoom out 5565.4 9404.1
+\i (00:12:07) trapsize 461
+\i (00:12:08) zoom in 1 
+\i (00:12:08) setwindow pcb
+\i (00:12:08) zoom in 5777.4 9666.7
+\i (00:12:08) trapsize 230
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 5468.8 9731.2
+\i (00:12:09) trapsize 461
+\i (00:12:09) zoom in 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom in 3340.6 10136.6
+\i (00:12:09) trapsize 230
+\i (00:12:55) zoom in 1 
+\i (00:12:55) setwindow pcb
+\i (00:12:55) zoom in 4275.7 9196.9
+\i (00:12:55) trapsize 115
+\i (00:12:56) zoom in 1 
+\i (00:12:56) setwindow pcb
+\i (00:12:56) zoom in 4266.5 9203.9
+\i (00:12:56) trapsize 58
+\i (00:12:56) zoom in 1 
+\i (00:12:56) setwindow pcb
+\i (00:12:56) zoom in 4261.9 9206.2
+\i (00:12:56) trapsize 29
+\i (00:12:56) zoom in 1 
+\i (00:12:56) setwindow pcb
+\i (00:12:56) zoom in 4261.9 9206.2
+\i (00:12:56) trapsize 14
+\i (00:12:56) zoom out 1 
+\i (00:12:56) setwindow pcb
+\i (00:12:56) zoom out 4251.0 9183.0
+\i (00:12:56) trapsize 29
+\i (00:12:56) zoom out 1 
+\i (00:12:56) setwindow pcb
+\i (00:12:56) zoom out 4249.9 9181.8
+\i (00:12:56) trapsize 58
+\i (00:12:57) zoom out 1 
+\i (00:12:57) setwindow pcb
+\i (00:12:57) zoom out 4093.3 8850.1
+\i (00:12:57) trapsize 115
+\i (00:12:57) zoom in 1 
+\i (00:12:57) setwindow pcb
+\i (00:12:57) zoom in 4077.2 9273.8
+\i (00:12:57) trapsize 58
+\i (00:12:58) zoom out 1 
+\i (00:12:58) setwindow pcb
+\i (00:12:58) zoom out 4081.8 9316.5
+\i (00:12:58) trapsize 115
+\i (00:13:04) setwindow form.find
+\i (00:13:04) FORM find all_on  
+\i (00:13:08) setwindow pcb
+\i (00:13:08) zoom in 1 
+\i (00:13:08) setwindow pcb
+\i (00:13:08) zoom in 5362.4 9351.0
+\i (00:13:08) trapsize 58
+\i (00:13:08) zoom in 1 
+\i (00:13:08) setwindow pcb
+\i (00:13:08) zoom in 5356.6 9357.9
+\i (00:13:08) trapsize 29
+\i (00:13:09) zoom out 1 
+\i (00:13:09) setwindow pcb
+\i (00:13:09) zoom out 5354.3 9361.4
+\i (00:13:09) trapsize 58
+\i (00:13:17) setwindow form.mini
+\i (00:13:17) FORM mini class PIN 
+\i (00:13:22) FORM mini class BOARD GEOMETRY 
+\i (00:13:29) FORM mini class ETCH 
+\i (00:13:42) FORM mini class PACKAGE GEOMETRY 
+\i (00:13:45) FORM mini subclass PIN_NUMBER 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 5615.7 9415.6
+\i (00:13:53) trapsize 115
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 5489.0 9431.7
+\i (00:13:53) trapsize 230
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 5060.7 9509.9
+\i (00:13:53) trapsize 461
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 4302.7 8948.3
+\i (00:13:54) trapsize 230
+\i (00:13:54) zoom out 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom out 4192.2 8952.9
+\i (00:13:54) trapsize 461
+\i (00:13:54) zoom out 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom out 4192.2 8953.0
+\i (00:13:54) trapsize 921
+\i (00:13:55) zoom out 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom out 11489.2 6414.6
+\i (00:13:55) trapsize 921
+\i (00:13:55) zoom in 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom in 3124.1 10302.3
+\i (00:13:55) trapsize 461
+\i (00:13:56) zoom in 1 
+\i (00:13:56) setwindow pcb
+\i (00:13:56) zoom in 3124.1 10311.6
+\i (00:13:56) trapsize 230
+\i (00:13:56) zoom out 1 
+\i (00:13:56) setwindow pcb
+\i (00:13:56) zoom out 3124.1 10311.6
+\i (00:13:56) trapsize 461
+\i (00:13:57) zoom in 1 
+\i (00:13:57) setwindow pcb
+\i (00:13:57) zoom in 1272.4 10127.4
+\i (00:13:57) trapsize 230
+\i (00:13:57) zoom out 1 
+\i (00:13:57) setwindow pcb
+\i (00:13:57) zoom out 1267.8 10122.8
+\i (00:13:57) trapsize 461
+\i (00:13:57) zoom out 1 
+\i (00:13:57) setwindow pcb
+\i (00:13:57) zoom out 1277.1 10104.3
+\i (00:13:57) trapsize 921
+\i (00:13:58) zoom in 1 
+\i (00:13:58) setwindow pcb
+\i (00:13:58) zoom in 2442.3 7280.6
+\i (00:13:58) trapsize 461
+\i (00:13:59) zoom in 1 
+\i (00:13:59) setwindow pcb
+\i (00:13:59) zoom in 2562.1 7418.8
+\i (00:13:59) trapsize 230
+\i (00:14:00) zoom out 1 
+\i (00:14:00) setwindow pcb
+\i (00:14:00) zoom out 2562.2 7418.9
+\i (00:14:00) trapsize 461
+\i (00:14:00) zoom out 1 
+\i (00:14:00) setwindow pcb
+\i (00:14:00) zoom out 2562.2 7418.8
+\i (00:14:00) trapsize 921
+\i (00:14:00) zoom out 1 
+\i (00:14:00) setwindow pcb
+\i (00:14:00) zoom out 2681.9 7557.0
+\i (00:14:00) trapsize 921
+\i (00:14:00) zoom in 1 
+\i (00:14:00) setwindow pcb
+\i (00:14:00) zoom in 1926.4 10541.9
+\i (00:14:00) trapsize 461
+\i (00:14:01) zoom in 1 
+\i (00:14:01) setwindow pcb
+\i (00:14:01) zoom in 1926.4 10551.1
+\i (00:14:01) trapsize 230
+\i (00:18:23) open 
+\i (00:18:55) fillin "C:\Users\Owner\Desktop\EE174 OLD\EE174 FINAL PROJECT\Design\pcb\VCF-1.brd"
+\i (00:18:55) cd "C:\Users\Owner\Desktop\EE174 OLD\EE174 FINAL PROJECT\Design\pcb"
+\t (00:18:55) Opening existing design...
+\i (00:18:55) trapsize 529
+\t (00:18:55)     Journal end - Sun Dec 08 10:54:51 2013

@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : LinkingInterfaceV2_0.brd                      )
+(    Software Version : 16.5S031                                      )
+(    Date/Time        : Fri May 29 13:42:03 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (12963.9 7507.1)  Net: GND

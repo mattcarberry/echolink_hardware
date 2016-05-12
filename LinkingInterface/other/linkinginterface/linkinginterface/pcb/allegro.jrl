@@ -1,0 +1,1082 @@
+\t (00:00:08) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:08)     Journal start - Fri Jun 12 16:46:29 2015
+\t (00:00:08)         Host=ETCH-A-SKETCH User=BELS Pid=5984 CPUs=2
+\t (00:00:08) 
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Database opened: C:/Users/BELS/Desktop/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_16.1.brd
+\t (00:00:14) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:14) trapsize 138
+\i (00:00:14) trapsize 134
+\i (00:00:14) trapsize 139
+\i (00:00:15) trapsize 139
+\i (00:00:16) etchedit 
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 982.1 3749.4
+\t (00:00:17) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:17) trapsize 278
+\i (00:00:18) roam start
+\i (00:00:18) roam y 32
+\i (00:00:18) roam y 32
+\i (00:00:19) roam x 16
+\i (00:00:19) roam y 32
+\i (00:00:19) roam x 16
+\i (00:00:19) roam x 32
+\i (00:00:19) roam y 16
+\i (00:00:19) roam x 48
+\i (00:00:19) roam x 16
+\i (00:00:19) roam x 16
+\i (00:00:19) roam x 16
+\i (00:00:19) roam y 16
+\i (00:00:19) roam x 16
+\i (00:00:19) roam x 16
+\i (00:00:19) roam x 16
+\i (00:00:19) roam x 32
+\i (00:00:20) roam end
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 2606.7 2232.4
+\i (00:00:21) trapsize 556
+\i (00:00:22) roam start
+\i (00:00:22) roam y -32
+\i (00:00:22) roam y -32
+\i (00:00:22) roam end
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 2439.8 2950.0
+\i (00:00:22) trapsize 278
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1894.7 2549.5
+\t (00:00:23) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:23) trapsize 139
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1936.4 2532.8
+\i (00:00:23) trapsize 70
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1936.4 2548.1
+\t (00:00:23) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:00:23) trapsize 35
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1936.4 2548.1
+\i (00:00:23) trapsize 17
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1936.4 2548.2
+\i (00:00:23) trapsize 9
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 1937.8 2555.4
+\i (00:00:24) trapsize 17
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 1937.8 2555.3
+\i (00:00:25) trapsize 35
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 1937.8 2554.6
+\t (00:00:25) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:25) trapsize 70
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 1937.8 2547.7
+\i (00:00:26) trapsize 139
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 1217.3 2422.5
+\t (00:00:32) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:32) trapsize 278
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 505.3 2600.6
+\t (00:00:36) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:36) trapsize 139
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 533.1 2628.4
+\i (00:00:37) trapsize 70
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 541.5 2646.5
+\t (00:00:37) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:00:37) trapsize 35
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 542.2 2646.5
+\t (00:00:37) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:37) trapsize 70
+\i (00:10:22) xymode toggle 
+\t (00:10:22) XY readout mode is relative to last pick
+\i (00:10:25) setwindow form.find
+\i (00:10:25) FORM find all_off  
+\i (00:10:27) setwindow pcb
+\i (00:10:27) pick grid 898.2 2718.8
+\t (00:10:27) last pick:  898.0  2719.0
+\i (00:10:45) zoom out 1 
+\i (00:10:45) setwindow pcb
+\i (00:10:45) zoom out 1087.3 2853.7
+\i (00:10:45) trapsize 139
+\i (00:10:46) zoom in 1 
+\i (00:10:46) setwindow pcb
+\i (00:10:46) zoom in 1198.6 2839.8
+\i (00:10:46) trapsize 70
+\i (00:10:50) setwindow form.vf_vis
+\i (00:10:50) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:10:58) FORM vf_vis colorview_list File: AST_ASB 
+\i (00:10:58) color -globvis off 
+\i (00:10:58) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:10:58) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:10:58) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:10:58) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:10:58) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:10:58) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:10:58) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:10:58) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:10:58) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:10:58) color -vis ETCH/TOP 
+\i (00:10:58) color -vis ETCH/BOTTOM 
+\i (00:10:58) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:10:58) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:10:58) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:10:58) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:10:58) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:10:58) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:10:58) color -vis PIN/TOP 
+\i (00:10:58) color -vis PIN/BOTTOM 
+\i (00:10:58) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:10:58) color -vis PIN/SOLDERMASK_TOP 
+\i (00:10:58) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:10:58) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:10:58) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:10:58) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:10:58) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:10:58) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:10:58) color -vis 'VIA CLASS/TOP' 
+\i (00:10:58) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:10:58) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:10:58) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:10:58) setwindow pcb
+\i (00:10:58) trapsize 70
+\i (00:10:58) etchedit 
+\i (00:11:06) setwindow form.vf_vis
+\i (00:11:06) FORM vf_vis all_all_visible_pln NO 
+\i (00:11:09) FORM vf_vis plane_checkbox NO 
+\i (00:11:11) FORM vf_vis plane_checkbox YES 
+\i (00:11:15) FORM vf_vis 2 all_colorvisible NO 
+\i (00:11:19) setwindow pcb
+\i (00:11:19) pick grid 748.1 2920.5
+\t (00:11:19) last pick:  748.0  2921.0
+\i (00:11:48) setwindow form.vf_vis
+\i (00:11:48) FORM vf_vis colorview_list File: Etch_only 
+\i (00:11:48) color -globvis off 
+\i (00:11:48) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:11:48) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:11:48) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:11:48) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:11:48) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:11:48) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:11:48) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:11:48) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:11:48) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:11:48) color -vis ETCH/TOP 
+\i (00:11:48) color -vis ETCH/BOTTOM 
+\i (00:11:48) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:11:48) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:11:48) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:11:48) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:11:48) color -vis PIN/TOP 
+\i (00:11:48) color -vis PIN/BOTTOM 
+\i (00:11:48) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:11:48) color -vis PIN/SOLDERMASK_TOP 
+\i (00:11:48) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:11:48) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:11:48) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:11:48) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:11:48) color -vis 'VIA CLASS/TOP' 
+\i (00:11:48) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:11:48) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:11:48) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) trapsize 70
+\i (00:11:48) etchedit 
+\i (00:11:52) setwindow form.find
+\i (00:11:52) FORM find clines YES 
+\i (00:11:55) FORM find cline_segs YES 
+\i (00:11:56) FORM find vias YES 
+\i (00:11:57) setwindow pcb
+\i (00:11:57) zoom in 1 
+\i (00:11:57) setwindow pcb
+\i (00:11:57) zoom in 1323.8 2917.7
+\t (00:11:57) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:11:57) trapsize 35
+\i (00:11:59) drag_start grid 1152.1 2920.5
+\i (00:11:59) slide 
+\t (00:11:59) Waiting for the destination pick.
+\i (00:12:04) drag_stop grid 1149.3 2945.6
+\t (00:12:04) No DRC errors detected.
+\i (00:12:04) etchedit 
+\i (00:12:05) drag_start grid 1248.8 2923.3
+\i (00:12:05) slide 
+\t (00:12:05) Waiting for the destination pick.
+\i (00:12:07) drag_stop grid 1246.7 2954.6
+\t (00:12:07) No DRC errors detected.
+\i (00:12:07) etchedit 
+\i (00:12:08) drag_start grid 1145.2 2948.4
+\i (00:12:08) slide 
+\t (00:12:08) Waiting for the destination pick.
+\i (00:12:12) drag_stop grid 1149.3 2957.4
+\t (00:12:12) No DRC errors detected.
+\i (00:12:12) etchedit 
+\i (00:12:15) drag_start grid 1183.4 2949.1
+\i (00:12:15) slide 
+\t (00:12:15) Waiting for the destination pick.
+\i (00:12:16) drag_stop grid 1183.4 2956.7
+\t (00:12:16) No DRC errors detected.
+\i (00:12:16) etchedit 
+\i (00:12:21) zoom out 1 
+\i (00:12:21) setwindow pcb
+\i (00:12:21) zoom out 1192.4 2804.4
+\t (00:12:21) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:12:21) trapsize 70
+\i (00:12:26) setwindow form.vf_vis
+\i (00:12:26) FORM vf_vis colorview_list File: AST_ASB 
+\i (00:12:26) color -globvis off 
+\i (00:12:26) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:12:26) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:12:26) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:12:26) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:12:26) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:12:26) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:12:26) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:12:26) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:12:26) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:12:26) color -vis ETCH/TOP 
+\i (00:12:26) color -vis ETCH/BOTTOM 
+\i (00:12:26) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:12:26) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:12:26) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:12:26) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:12:26) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:12:26) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:12:26) color -vis PIN/TOP 
+\i (00:12:26) color -vis PIN/BOTTOM 
+\i (00:12:26) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:12:26) color -vis PIN/SOLDERMASK_TOP 
+\i (00:12:26) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:12:26) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:12:26) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:12:26) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:12:26) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:12:26) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:12:26) color -vis 'VIA CLASS/TOP' 
+\i (00:12:26) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:12:26) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:12:26) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:12:26) setwindow pcb
+\i (00:12:26) trapsize 70
+\i (00:12:27) etchedit 
+\i (00:12:32) drag_start grid 1399.7 2714.1
+\i (00:12:32) slide 
+\t (00:12:32) Waiting for the destination pick.
+\i (00:12:36) drag_stop grid 1481.8 2718.2
+\t (00:12:36) No DRC errors detected.
+\i (00:12:36) etchedit 
+\i (00:12:40) zoom out 1 
+\i (00:12:40) setwindow pcb
+\i (00:12:40) zoom out 982.5 2627.8
+\i (00:12:40) trapsize 139
+\i (00:12:47) save 
+\i (00:12:50) fillin yes 
+\i (00:12:53) etchedit 
+\i (00:13:04) zoom out 1 
+\i (00:13:04) setwindow pcb
+\i (00:13:04) zoom out 1202.2 2958.9
+\t (00:13:04) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:13:04) trapsize 278
+\i (00:13:05) roam start
+\i (00:13:05) roam y 64
+\i (00:13:05) roam y 16
+\i (00:13:05) roam y 48
+\i (00:13:05) roam x 16
+\i (00:13:05) roam y 32
+\i (00:13:05) roam y 48
+\i (00:13:06) roam x 16
+\i (00:13:06) roam y 16
+\i (00:13:06) roam y 16
+\i (00:13:06) roam y 16
+\i (00:13:06) roam y 16
+\i (00:13:06) roam y 16
+\i (00:13:06) roam y 16
+\i (00:13:06) roam x 16
+\i (00:13:06) roam y 16
+\i (00:13:07) roam x 16
+\i (00:13:07) roam x 16
+\i (00:13:07) roam x 16
+\i (00:13:07) roam x 16
+\i (00:13:08) roam y -16
+\i (00:13:08) roam y -16
+\i (00:13:08) roam y -16
+\i (00:13:08) roam x -16
+\i (00:13:08) roam y -16
+\i (00:13:09) roam y -16
+\i (00:13:09) roam y -16
+\i (00:13:09) roam y -16
+\i (00:13:09) roam y -16
+\i (00:13:09) roam y -16
+\i (00:13:10) roam y -16
+\i (00:13:10) roam y -16
+\i (00:13:10) roam y -16
+\i (00:13:10) roam y -16
+\i (00:13:10) roam y -16
+\i (00:13:10) roam end
+\i (00:13:18) ncdrill legend 
+\i (00:13:21) setwindow form.nc_drilllegend
+\i (00:13:21) FORM nc_drilllegend browse  
+\i (00:13:25) fillin "default-mil_small.dlt"
+   (00:13:25) Loading mfg.cxt 
+\i (00:13:26) FORM nc_drilllegend done  
+   (00:13:27) Loading axlcore.cxt 
+\i (00:13:29) setwindow pcb
+\i (00:13:29) pick grid 3619.1 2566.2
+\t (00:13:29) last pick:  3619.0  2566.0
+\t (00:13:29) NC Drill Legend generation successful
+\i (00:13:29) done 
+\i (00:13:29) etchedit 
+\i (00:13:40) artwork 
+\i (00:13:41) setwindow form.film_control
+\i (00:13:41) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:13:45) FORM film_control filmtree 'MULTISEL YES' MECH 
+\i (00:13:45) FORM film_control filmtree  MECH 
+\i (00:13:46) FORM film_control filmtree 'MULTISEL YES' SMB 
+\i (00:13:46) FORM film_control filmtree  SMB 
+\i (00:13:46) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:13:46) FORM film_control filmtree  SMT 
+\i (00:13:47) FORM film_control filmtree 'MULTISEL YES' SSB 
+\i (00:13:47) FORM film_control filmtree  SSB 
+\i (00:13:47) FORM film_control filmtree 'MULTISEL YES' SST 
+\i (00:13:47) FORM film_control filmtree  SST 
+\i (00:13:48) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:13:48) FORM film_control filmtree  TOP 
+\i (00:13:51) FORM film_control undefined_line_width 1 
+\i (00:13:51) FORM film_control filmtree  MECH 
+\i (00:13:54) FORM film_control undefined_line_width 1 
+\i (00:13:54) FORM film_control filmtree  BOTTOM 
+\i (00:13:57) FORM film_control undefined_line_width 1 
+\i (00:13:57) FORM film_control filmtree  SMB 
+\i (00:13:59) FORM film_control undefined_line_width 1 
+\i (00:13:59) FORM film_control filmtree  SMT 
+\i (00:14:02) FORM film_control undefined_line_width 1 
+\i (00:14:02) FORM film_control filmtree  SSB 
+\i (00:14:04) FORM film_control undefined_line_width 1 
+\i (00:14:04) FORM film_control filmtree  SST 
+\i (00:14:06) FORM film_control undefined_line_width 1 
+\i (00:14:06) FORM film_control filmtree  TOP 
+\i (00:14:08) FORM film_control general_parameters  
+\i (00:14:16) FORM film_control film_control  
+\i (00:14:19) FORM film_control create  
+\t (00:14:19) Checking db records
+\t (00:14:19)     checking for orphans...
+\t (00:14:19)     Checked 100 percent
+\w (00:14:20) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:14:20) Done dbdoctor.
+\t (00:14:20) Starting Create artwork films...
+\w (00:14:23) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:14:24) Artwork generated with warnings.
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom out 1 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom out 1889.1 2944.4
+\i (00:14:28) trapsize 556
+\i (00:14:29) zoom in 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom in 1889.0 2944.5
+\i (00:14:29) trapsize 278
+\i (00:14:34) setwindow text
+\i (00:14:34) close 
+\i (00:14:36) setwindow form.film_control
+\i (00:14:36) FORM film_control cancel  
+\i (00:14:36) setwindow pcb
+\i (00:14:36) etchedit 
+\i (00:14:43) nctape_full 
+\i (00:14:46) setwindow form.nc_drill
+\i (00:14:46) FORM nc_drill parameters  
+\i (00:14:48) setwindow form.nc_parameters
+\i (00:14:48) FORM nc_parameters done  
+\i (00:14:54) setwindow form.nc_drill
+\i (00:14:54) FORM nc_drill execute  
+\t (00:14:54) Starting NC Drill...
+\e (00:14:56) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:14:57) A problem occurred - please check the logfile (using Viewlog).
+\i (00:14:58) setwindow text
+\i (00:14:58) close 
+\i (00:15:00) setwindow form.nc_drill
+\i (00:15:00) FORM nc_drill cancel  
+\i (00:15:00) setwindow pcb
+\i (00:15:00) etchedit 
+\i (00:16:45) artwork 
+\i (00:16:48) setwindow form.film_control
+\i (00:16:48) FORM film_control general_parameters  
+\i (00:17:11) FORM film_control filename_prefix LinkingInterface_v2_16_1_ 
+\i (00:17:11) FORM film_control film_control  
+\i (00:17:15) FORM film_control create  
+\w (00:17:15) No film records selected.
+\i (00:17:17) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:17:18) FORM film_control filmtree 'MULTISEL YES' MECH 
+\i (00:17:18) FORM film_control filmtree  MECH 
+\i (00:17:18) FORM film_control filmtree 'MULTISEL YES' SMB 
+\i (00:17:18) FORM film_control filmtree  SMB 
+\i (00:17:19) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:17:19) FORM film_control filmtree  SMT 
+\i (00:17:19) FORM film_control filmtree 'MULTISEL YES' SSB 
+\i (00:17:19) FORM film_control filmtree  SSB 
+\i (00:17:20) FORM film_control filmtree 'MULTISEL YES' SST 
+\i (00:17:20) FORM film_control filmtree  SST 
+\i (00:17:20) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:17:20) FORM film_control filmtree  TOP 
+\i (00:17:22) FORM film_control create  
+\t (00:17:22) Checking db records
+\t (00:17:22)     checking for orphans...
+\t (00:17:22)     Checked 100 percent
+\w (00:17:22) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:17:22) Done dbdoctor.
+\t (00:17:22) Starting Create artwork films...
+\w (00:17:22) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:17:23) Artwork generated with warnings.
+\i (00:17:37) setwindow text
+\i (00:17:37) close 
+\i (00:17:38) setwindow form.film_control
+\i (00:17:38) FORM film_control cancel  
+\i (00:17:39) setwindow pcb
+\i (00:17:39) etchedit 
+\i (00:22:46) prepopup 976.8 3667.7
+\i (00:22:47) pick grid 3624.7 4541.1
+\t (00:22:47) last pick:  3625.0  4541.0
+\i (00:22:50) prepopup 3596.9 4585.6
+\i (00:23:15) enved 
+\i (00:23:16) etchedit 
+\i (00:23:26) setwindow form.prfedit
+\i (00:23:26) FORM prfedit treelist  Config Paths 
+\i (00:23:40) FORM prfedit next_prfs  
+\i (00:23:44) FORM prfedit treelist  Editor Paths 
+\i (00:23:46) FORM prfedit treelist  Library Paths 
+\i (00:23:51) FORM prfedit treelist  MCM Paths 
+\i (00:23:52) FORM prfedit treelist  Signoise Paths 
+\i (00:23:55) FORM prfedit treelist  Paths 
+\i (00:23:59) FORM prfedit treelist  NC_legend Manufacture 
+\i (00:23:59) FORM prfedit treelist  IPC_netlist Manufacture 
+\i (00:24:01) FORM prfedit treelist  Draft Manufacture 
+\i (00:24:02) FORM prfedit treelist  Artwork Manufacture 
+\i (00:24:07) FORM prfedit treelist  NC_legend Manufacture 
+\i (00:24:08) FORM prfedit treelist  Plot Manufacture 
+\i (00:24:09) FORM prfedit treelist  Print Manufacture 
+\i (00:24:11) FORM prfedit treelist  Reports Manufacture 
+\i (00:24:11) FORM prfedit treelist  Silkscreen Manufacture 
+\i (00:24:14) FORM prfedit treelist  Artwork Manufacture 
+\i (00:24:14) FORM prfedit treelist  Draft Manufacture 
+\i (00:24:14) FORM prfedit treelist  Manufacture 
+\i (00:24:25) FORM prfedit treelist  Library Paths 
+\i (00:24:30) FORM prfedit done  
+\i (00:24:38) setwindow pcb
+\i (00:24:38) ncdrill customization 
+\i (00:24:38) etchedit 
+\i (00:24:39) setwindow form.nc_drillcustomization
+\i (00:24:39) FORM nc_drillcustomization cancel  
+\i (00:24:41) setwindow pcb
+\i (00:24:41) artwork 
+\i (00:24:43) setwindow form.film_control
+\i (00:24:43) FORM film_control general_parameters  
+\i (00:24:48) FORM film_control ok  
+\i (00:24:48) setwindow pcb
+\i (00:24:48) etchedit 
+\i (00:24:52) ncdrill param 
+\i (00:24:52) etchedit 
+\i (00:24:55) setwindow form.nc_parameters
+\i (00:24:55) FORM nc_parameters browse  
+\i (00:25:17) fillin "nc_param.txt"
+\i (00:25:23) FORM nc_parameters done  
+\i (00:25:31) setwindow pcb
+\i (00:25:31) nctape_full 
+\i (00:25:34) setwindow form.nc_drill
+\i (00:25:34) FORM nc_drill browse  
+\i (00:25:50) fillin "NCdrill.drl"
+\i (00:25:52) FORM nc_drill execute  
+\t (00:25:52) Starting NC Drill...
+\i (00:25:55) FORM nc_drill cancel  
+\i (00:25:55) setwindow pcb
+\i (00:25:55) etchedit 
+\i (00:34:41) trapsize 777
+\i (00:34:46) trapsize 473
+\i (00:34:47) zoom out 1 
+\i (00:34:47) setwindow pcb
+\i (00:34:47) zoom out 3032.4 4586.3
+\t (00:34:47) Grids are drawn 256.0, 256.0 apart for enhanced viewability.
+\i (00:34:47) trapsize 947
+\i (00:34:48) zoom in 1 
+\i (00:34:48) setwindow pcb
+\i (00:34:48) zoom in 4130.5 3810.3
+\t (00:34:48) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:34:48) trapsize 473
+\i (00:34:50) trapsize 474
+\i (00:34:50) trapsize 598
+\i (00:34:51) trapsize 605
+\i (00:34:51) trapsize 604
+\i (00:34:51) trapsize 575
+\i (00:34:52) trapsize 574
+\i (00:34:52) trapsize 573
+\i (00:34:52) trapsize 552
+\i (00:34:53) zoom in 1 
+\i (00:34:53) setwindow pcb
+\i (00:34:53) zoom in 2684.0 2621.0
+\i (00:34:53) trapsize 276
+\i (00:34:54) zoom in 1 
+\i (00:34:54) setwindow pcb
+\i (00:34:54) zoom in 2474.2 2560.2
+\t (00:34:54) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:34:54) trapsize 138
+\i (00:34:55) roam start
+\i (00:34:55) roam y -32
+\i (00:34:55) roam x -32
+\i (00:34:55) roam y -32
+\i (00:34:55) roam y -32
+\i (00:34:55) roam x -16
+\i (00:34:55) roam y -32
+\i (00:34:55) roam x -16
+\i (00:34:55) roam y -48
+\i (00:34:55) roam x -32
+\i (00:34:55) roam x -32
+\i (00:34:55) roam y 32
+\i (00:34:55) roam x -16
+\i (00:34:55) roam x -16
+\i (00:34:55) roam x -48
+\i (00:34:55) roam y -16
+\i (00:34:55) roam x -80
+\i (00:34:56) roam x -48
+\i (00:34:56) roam x -32
+\i (00:34:56) roam y -16
+\i (00:34:56) roam y -16
+\i (00:34:56) roam x -16
+\i (00:34:56) roam x -16
+\i (00:34:56) roam x -48
+\i (00:34:56) roam x -16
+\i (00:34:56) roam y 16
+\i (00:34:56) roam x -32
+\i (00:34:56) roam x -16
+\i (00:34:56) roam x -16
+\i (00:34:56) roam x -16
+\i (00:34:56) roam x -16
+\i (00:34:56) roam x -32
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -32
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -32
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -32
+\i (00:34:57) roam y -16
+\i (00:34:57) roam y -16
+\i (00:34:57) roam x -16
+\i (00:34:57) roam x -32
+\i (00:34:57) roam x -32
+\i (00:34:57) roam y 16
+\i (00:34:57) roam x -16
+\i (00:34:57) roam y 16
+\i (00:34:57) roam x -16
+\i (00:34:59) roam y 16
+\i (00:34:59) roam x 16
+\i (00:34:59) roam x 16
+\i (00:34:59) roam x 16
+\i (00:35:00) roam y 16
+\i (00:35:07) roam x 32
+\i (00:35:07) roam y -16
+\i (00:35:08) roam y -16
+\i (00:35:08) roam end
+\i (00:35:08) prepopup 913.4 3592.9
+\i (00:43:03) zoom in 1 
+\i (00:43:03) setwindow pcb
+\i (00:43:03) zoom in 1084.6 3684.1
+\i (00:43:03) trapsize 69
+\i (00:43:04) zoom in 1 
+\i (00:43:04) setwindow pcb
+\i (00:43:04) zoom in 1084.6 3680.0
+\t (00:43:04) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:43:04) trapsize 35
+\i (00:43:12) zoom out 1 
+\i (00:43:12) setwindow pcb
+\i (00:43:12) zoom out 1122.6 3651.7
+\t (00:43:12) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:43:12) trapsize 69
+\i (00:43:14) zoom out 1 
+\i (00:43:14) setwindow pcb
+\i (00:43:14) zoom out 1059.0 3657.3
+\i (00:43:14) trapsize 138
+\i (00:43:14) zoom out 1 
+\i (00:43:14) setwindow pcb
+\i (00:43:14) zoom out 1211.0 3690.4
+\t (00:43:14) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:43:14) trapsize 276
+\i (00:43:15) roam start
+\i (00:43:15) roam x 80
+\i (00:43:15) roam x 48
+\i (00:43:15) roam x 32
+\i (00:43:15) roam y 16
+\i (00:43:16) roam y 32
+\i (00:43:16) roam y 32
+\i (00:43:16) roam y 16
+\i (00:43:16) roam y 16
+\i (00:43:16) roam y 16
+\i (00:43:16) roam x 16
+\i (00:43:16) roam y 16
+\i (00:43:16) roam x 16
+\i (00:43:17) roam y 16
+\i (00:43:17) roam y 16
+\i (00:43:17) roam x 16
+\i (00:43:17) roam y 16
+\i (00:43:17) roam y 16
+\i (00:43:17) roam y 16
+\i (00:43:17) roam end
+\i (00:43:23) zoom in 1 
+\i (00:43:23) setwindow pcb
+\i (00:43:23) zoom in 1043.7 3609.8
+\t (00:43:23) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:43:23) trapsize 138
+\i (00:43:23) zoom in 1 
+\i (00:43:23) setwindow pcb
+\i (00:43:23) zoom in 1007.8 3609.8
+\i (00:43:23) trapsize 69
+\i (00:43:24) zoom in 1 
+\i (00:43:24) setwindow pcb
+\i (00:43:24) zoom in 1012.0 3607.0
+\t (00:43:24) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:43:24) trapsize 35
+\i (00:43:40) trapsize 14
+\i (00:44:14) showhide options 
+\i (00:44:14) trapsize 17
+\i (00:44:14) etchedit 
+\i (00:44:24) showhide find 
+\i (00:44:24) etchedit 
+\i (00:44:32) show allpanes 
+\i (00:44:32) etchedit 
+\i (00:44:48) setwindow form.mini
+\i (00:44:48) FORM mini subcolor 0 
+\i (00:44:48) FORM mini subcolor 1 
+\i (00:44:49) setwindow pcb
+\i (00:44:49) zoom out 1 
+\i (00:44:49) setwindow pcb
+\i (00:44:49) zoom out 982.0 3507.1
+\i (00:44:49) trapsize 35
+\i (00:44:50) zoom out 1 
+\i (00:44:50) setwindow pcb
+\i (00:44:50) zoom out 934.6 3511.3
+\t (00:44:50) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:44:50) trapsize 70
+\i (00:44:51) roam start
+\i (00:44:51) roam x -16
+\i (00:44:51) roam y -64
+\i (00:44:51) roam x -16
+\i (00:44:51) roam y -32
+\i (00:44:52) roam y -32
+\i (00:44:52) roam y -16
+\i (00:44:52) roam y -16
+\i (00:44:52) roam y -16
+\i (00:44:52) roam x -16
+\i (00:44:52) roam y -16
+\i (00:44:52) roam y -48
+\i (00:44:52) roam y -16
+\i (00:44:52) roam y -16
+\i (00:44:52) roam end
+\i (00:44:52) prepopup 879.8 3864.8
+\i (00:44:53) pick grid 1145.5 3909.4
+\t (00:44:53) last pick:  1146.0  3909.0
+\i (00:44:55) setwindow form.mini
+\i (00:44:55) FORM mini subcolor 0 
+\i (00:44:57) FORM mini subcolor 1 
+\i (00:44:58) FORM mini subcolor 0 
+\i (00:45:04) FORM mini subcolor 1 
+\i (00:48:40) setwindow pcb
+\i (00:48:40) roam start
+\i (00:48:40) roam x -80
+\i (00:48:40) roam y 16
+\i (00:48:40) roam x -144
+\i (00:48:40) roam y 16
+\i (00:48:40) roam x -80
+\i (00:48:40) roam x -80
+\i (00:48:40) roam x -80
+\i (00:48:41) roam end
+\i (00:48:43) roam start
+\i (00:48:43) roam y 80
+\i (00:48:43) roam y 32
+\i (00:48:43) roam y 48
+\i (00:48:43) roam y 32
+\i (00:48:43) roam y 32
+\i (00:48:44) roam end
+\i (00:48:46) pick grid 847.9 2822.9
+\t (00:48:46) last pick:  848.0  2823.0
+\i (00:48:46) slide 
+\t (00:48:46) Waiting for the destination pick.
+\i (00:48:49) pick grid 802.0 2807.6
+\t (00:48:49) last pick:  802.0  2808.0
+\t (00:48:49) No DRC errors detected.
+\i (00:48:49) etchedit 
+\e (00:48:50) Command not found: Del
+\i (00:48:54) setwindow form.find
+\i (00:48:54) FORM find vias NO 
+\i (00:48:54) FORM find clines NO 
+\i (00:48:57) setwindow pcb
+\i (00:48:57) pick grid 792.2 2818.8
+\t (00:48:57) last pick:  792.0  2819.0
+\i (00:48:57) slide 
+\t (00:48:57) Waiting for the destination pick.
+\i (00:48:58) pick grid 829.8 2789.6
+\t (00:48:58) last pick:  830.0  2790.0
+\t (00:48:58) No DRC errors detected.
+\i (00:48:58) etchedit 
+\i (00:48:59) pick grid 800.6 2820.2
+\t (00:48:59) last pick:  801.0  2820.0
+\i (00:48:59) slide 
+\t (00:48:59) Waiting for the destination pick.
+\i (00:49:02) pick grid 776.9 2704.7
+\t (00:49:02) last pick:  777.0  2705.0
+\t (00:49:02) No DRC errors detected.
+\i (00:49:02) etchedit 
+\i (00:49:04) zoom in 1 
+\i (00:49:04) setwindow pcb
+\i (00:49:04) zoom in 685.1 2811.8
+\t (00:49:04) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:49:04) trapsize 35
+\i (00:49:06) prepopup 665.0 2818.8
+\i (00:49:07) pop dyn_option_select @:@Delete 
+\i (00:49:07) delete 
+\i (00:49:07) etchedit 
+\i (00:49:08) zoom out 1 
+\i (00:49:08) setwindow pcb
+\i (00:49:08) zoom out 833.3 2826.5
+\t (00:49:08) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:49:08) trapsize 70
+\i (00:49:08) zoom out 1 
+\i (00:49:08) setwindow pcb
+\i (00:49:08) zoom out 831.9 2826.4
+\i (00:49:08) trapsize 139
+\i (00:49:09) zoom out 1 
+\i (00:49:09) setwindow pcb
+\i (00:49:09) zoom out 829.2 2818.1
+\t (00:49:09) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:49:09) trapsize 278
+\i (00:49:09) roam start
+\i (00:49:09) roam x 64
+\i (00:49:09) roam x 64
+\i (00:49:10) roam x 48
+\i (00:49:10) roam y 48
+\i (00:49:10) roam x -16
+\i (00:49:10) roam y 16
+\i (00:49:10) roam x 16
+\i (00:49:10) roam y 32
+\i (00:49:10) roam y 32
+\i (00:49:10) roam y 16
+\i (00:49:10) roam y 16
+\i (00:49:10) roam y 16
+\i (00:49:10) roam x -16
+\i (00:49:10) roam y 16
+\i (00:49:10) roam y 16
+\i (00:49:10) roam x 32
+\i (00:49:10) roam y 16
+\i (00:49:11) roam x 32
+\i (00:49:11) roam x 16
+\i (00:49:11) roam x 16
+\i (00:49:11) roam y -16
+\i (00:49:11) roam x 16
+\i (00:49:11) roam x 16
+\i (00:49:11) roam x 16
+\i (00:49:11) roam x 32
+\i (00:49:11) roam x 16
+\i (00:49:11) roam y 16
+\i (00:49:11) roam y 16
+\i (00:49:11) roam x -16
+\i (00:49:11) roam y 16
+\i (00:49:11) roam y 16
+\i (00:49:11) roam y 16
+\i (00:49:12) roam x -16
+\i (00:49:12) roam y 16
+\i (00:49:12) roam y 48
+\i (00:49:12) roam x 16
+\i (00:49:12) roam x 16
+\i (00:49:13) roam end
+\i (00:49:14) save 
+\i (00:49:15) fillin yes 
+\i (00:49:18) etchedit 
+\i (01:06:49) setwindow form.vf_vis
+\i (01:06:49) FORM vf_vis colorview_list File: AST_ASB 
+\i (01:06:49) color -globvis off 
+\i (01:06:49) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (01:06:49) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (01:06:49) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (01:06:49) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (01:06:49) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (01:06:49) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (01:06:49) color -vis 'DRC ERROR CLASS/TOP' 
+\i (01:06:49) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (01:06:49) color -vis 'DRC ERROR CLASS/ALL' 
+\i (01:06:49) color -vis ETCH/TOP 
+\i (01:06:49) color -vis ETCH/BOTTOM 
+\i (01:06:49) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (01:06:49) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (01:06:49) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (01:06:49) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (01:06:49) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (01:06:49) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (01:06:49) color -vis PIN/TOP 
+\i (01:06:49) color -vis PIN/BOTTOM 
+\i (01:06:49) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (01:06:49) color -vis PIN/SOLDERMASK_TOP 
+\i (01:06:49) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (01:06:49) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (01:06:49) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (01:06:49) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (01:06:49) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (01:06:49) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (01:06:49) color -vis 'VIA CLASS/TOP' 
+\i (01:06:49) color -vis 'VIA CLASS/BOTTOM' 
+\i (01:06:49) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (01:06:49) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (01:06:50) setwindow pcb
+\i (01:06:50) trapsize 278
+\i (01:06:50) etchedit 
+\i (01:06:53) setwindow form.vf_vis
+\i (01:06:53) FORM vf_vis colorview_list File: SST_edit 
+\i (01:06:53) color -globvis off 
+\i (01:06:53) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (01:06:53) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (01:06:53) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (01:06:53) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (01:06:53) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (01:06:53) color -vis PIN/TOP 
+\i (01:06:53) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (01:06:53) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (01:06:53) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (01:06:53) color -vis 'VIA CLASS/TOP' 
+\i (01:06:53) setwindow pcb
+\i (01:06:53) trapsize 278
+\i (01:06:53) etchedit 
+\i (01:06:57) pick grid 2749.7 1416.6
+\t (01:06:57) last pick:  2750.0  1417.0
+\i (01:06:57) pick grid dbl 2749.7 1416.6
+\t (01:06:57) last pick:  2750.0  1417.0
+\i (01:06:58) pick grid 2766.4 1383.3
+\t (01:06:58) last pick:  2766.0  1383.0
+\i (01:06:58) pick grid dbl 2766.4 1383.3
+\t (01:06:58) last pick:  2766.0  1383.0
+\i (01:06:59) pick grid 2888.8 1355.4
+\t (01:06:59) last pick:  2889.0  1355.0
+\i (01:07:07) text edit 
+\i (01:07:08) pick grid 2760.8 843.5
+\t (01:07:08) last pick:  2761.0  844.0
+\i (01:07:09) setwindow pcb
+\i (01:07:09) pick grid dbl 2760.8 843.5
+\t (01:07:09) last pick:  2761.0  844.0
+\i (01:07:09) setwindow pcb
+\i (01:07:09) pick 2760.8 843.5
+\i (01:07:10) setwindow pcb
+\i (01:07:10) pick grid 2766.4 715.5
+\t (01:07:10) last pick:  2766.0  716.0
+\i (01:07:10) setwindow pcb
+\i (01:07:10) pick 2760.8 843.5
+\i (01:07:28) setwindow pcb
+\i (01:07:28) pick grid 2549.4 1255.3
+\t (01:07:28) last pick:  2549.0  1255.0
+\i (01:07:28) setwindow pcb
+\i (01:07:28) pick 2766.4 715.5
+\t (01:07:28) Pick text to edit.
+\e (01:07:28) ERROR(SPMHA1-441): Text not found.
+\i (01:07:30) setwindow pcb
+\i (01:07:30) pick grid 2538.2 1171.8
+\t (01:07:30) last pick:  2538.0  1172.0
+\e (01:07:30) ERROR(SPMHA1-441): Text not found.
+\i (01:07:30) setwindow pcb
+\i (01:07:30) zoom out 1 
+\i (01:07:30) setwindow pcb
+\i (01:07:30) zoom out 2532.7 1149.6
+\i (01:07:30) trapsize 556
+\i (01:07:31) zoom in 1 
+\i (01:07:31) setwindow pcb
+\i (01:07:31) zoom in 2532.7 1149.5
+\i (01:07:31) trapsize 278
+\i (01:07:32) zoom in 1 
+\i (01:07:32) setwindow pcb
+\i (01:07:32) zoom in 2977.8 938.1
+\t (01:07:32) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (01:07:32) trapsize 139
+\i (01:07:32) zoom out 1 
+\i (01:07:32) setwindow pcb
+\i (01:07:32) zoom out 2977.8 938.1
+\t (01:07:32) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (01:07:32) trapsize 278
+\i (01:07:34) zoom out 1 
+\i (01:07:34) setwindow pcb
+\i (01:07:34) zoom out 3105.9 1005.0
+\i (01:07:34) trapsize 556
+\i (01:07:39) zoom out 1 
+\i (01:07:39) setwindow pcb
+\i (01:07:39) zoom out 1948.5 3264.1
+\t (01:07:39) Grids are drawn 256.0, 256.0 apart for enhanced viewability.
+\i (01:07:39) trapsize 1113
+\i (01:07:39) zoom in 1 
+\i (01:07:39) setwindow pcb
+\i (01:07:39) zoom in 2795.8 2349.2
+\t (01:07:39) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (01:07:39) trapsize 556
+\i (01:07:40) zoom in 1 
+\i (01:07:40) setwindow pcb
+\i (01:07:40) zoom in 2729.1 2137.8
+\i (01:07:40) trapsize 278
+\i (01:07:41) zoom out 1 
+\i (01:07:41) setwindow pcb
+\i (01:07:41) zoom out 2723.5 2110.0
+\i (01:07:41) trapsize 556
+\t (01:07:48) Grids are drawn 256.0, 256.0 apart for enhanced viewability.
+\i (01:07:48) trapsize 2034
+\t (01:22:13) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (01:22:13) trapsize 556
+\i (01:22:14) zoom in 1 
+\i (01:22:14) setwindow pcb
+\i (01:22:14) zoom in 2634.5 -699.2
+\i (01:22:14) trapsize 278
+\i (01:22:14) zoom in 1 
+\i (01:22:14) setwindow pcb
+\i (01:22:14) zoom in 2634.5 -699.2
+\t (01:22:14) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (01:22:14) trapsize 139
+\i (01:22:15) zoom out 1 
+\i (01:22:15) setwindow pcb
+\i (01:22:15) zoom out 2620.6 -693.7
+\t (01:22:15) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (01:22:15) trapsize 278
+\i (01:22:15) prepopup 2626.3 -665.8
+\i (01:22:17) pick grid 3677.6 107.5
+\t (01:22:17) last pick:  3678.0  108.0
+\e (01:22:17) ERROR(SPMHA1-441): Text not found.
+\i (01:22:17) setwindow pcb
+\i (01:22:17) roam start
+\i (01:22:17) roam x 16
+\i (01:22:17) roam y -32
+\i (01:22:17) roam y -32
+\i (01:22:17) roam y -16
+\i (01:22:17) roam y -64
+\i (01:22:17) roam y -64
+\i (01:22:18) roam y -48
+\i (01:22:18) roam end
+\i (01:22:22) text edit 
+\i (01:22:23) pick grid 2756.9 1386.8
+\t (01:22:23) last pick:  2757.0  1387.0
+\i (01:22:23) setwindow pcb
+\i (01:22:23) pick grid dbl 2756.9 1386.8
+\t (01:22:23) last pick:  2757.0  1387.0
+\i (01:22:23) setwindow pcb
+\i (01:22:23) pick 2756.9 1386.8
+\i (01:22:51) setwindow pcb
+\i (01:22:51) pick grid 2790.2 1303.4
+\t (01:22:51) last pick:  2790.0  1303.0
+\i (01:22:51) setwindow pcb
+\i (01:22:51) pick 2756.9 1386.8
+\t (01:22:51) Pick text to edit.
+\i (01:22:53) setwindow pcb
+\i (01:22:53) pick grid 3129.6 446.7
+\t (01:22:53) last pick:  3130.0  447.0
+\i (01:22:53) setwindow pcb
+\i (01:22:53) pick 2790.2 1303.4
+\e (01:22:53) ERROR(SPMHA1-441): Text not found.
+\i (01:22:54) setwindow pcb
+\i (01:22:54) prepopup 3051.7 285.4
+\i (01:22:55) done 
+\i (01:22:55) etchedit 
+\i (01:22:55) pick grid 3079.5 224.2
+\t (01:22:55) last pick:  3080.0  224.0
+\i (01:22:56) zoom out 1 
+\i (01:22:56) setwindow pcb
+\i (01:22:56) zoom out 2234.0 736.0
+\i (01:22:56) trapsize 556
+\i (01:22:57) zoom out 1 
+\i (01:22:57) setwindow pcb
+\i (01:22:57) zoom out 2111.5 2994.5
+\t (01:22:57) Grids are drawn 256.0, 256.0 apart for enhanced viewability.
+\i (01:22:57) trapsize 1113
+\i (01:22:58) zoom in 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom in 1727.8 3194.8
+\t (01:22:58) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (01:22:58) trapsize 556
+\i (01:22:58) zoom in 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom in 1772.3 3161.4
+\i (01:22:58) trapsize 278
+\i (01:23:00) zoom out 1 
+\i (01:23:00) setwindow pcb
+\i (01:23:00) zoom out 1928.1 1882.0
+\i (01:23:00) trapsize 556
+\i (01:23:01) roam start
+\i (01:23:01) roam x 16
+\i (01:23:01) roam y 32
+\i (01:23:01) roam y 48
+\i (01:23:01) roam x -16
+\i (01:23:01) roam y 16
+\i (01:23:01) roam x 16
+\i (01:23:01) roam x 48
+\i (01:23:01) roam y -16
+\i (01:23:01) roam x 64
+\i (01:23:01) roam y -16
+\i (01:23:02) roam x 16
+\i (01:23:02) roam end
+\i (01:23:02) zoom in 1 
+\i (01:23:02) setwindow pcb
+\i (01:23:02) zoom in 2439.8 1125.4
+\i (01:23:02) trapsize 278
+\i (01:23:47) zoom out 1 
+\i (01:23:47) setwindow pcb
+\i (01:23:47) zoom out 2017.1 953.0
+\i (01:23:47) trapsize 556
+\i (01:23:47) roam start
+\i (01:23:47) roam x -16
+\i (01:23:47) roam y 32
+\i (01:23:48) roam x -16
+\i (01:23:48) roam y 32
+\i (01:23:48) roam y 32
+\i (01:23:48) roam x 16
+\i (01:23:48) roam end
+\i (01:23:49) zoom in 1 
+\i (01:23:49) setwindow pcb
+\i (01:23:49) zoom in 1716.7 179.7
+\i (01:23:49) trapsize 278
+\i (01:23:51) roam start
+\i (01:23:51) roam x 32
+\i (01:23:51) roam y -400
+\i (01:23:51) roam x 16
+\i (01:23:51) roam y -48
+\i (01:23:51) roam end
+\i (01:23:51) zoom out 1 
+\i (01:23:51) setwindow pcb
+\i (01:23:51) zoom out 1922.5 2677.4
+\i (01:23:51) trapsize 556
+\i (01:23:52) zoom out 1 
+\i (01:23:52) setwindow pcb
+\i (01:23:52) zoom out 1900.2 2677.5
+\t (01:23:52) Grids are drawn 256.0, 256.0 apart for enhanced viewability.
+\i (01:23:52) trapsize 1113
+\i (01:23:53) zoom in 1 
+\i (01:23:53) setwindow pcb
+\i (01:23:53) zoom in 2306.3 1681.7
+\t (01:23:53) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (01:23:53) trapsize 556
+\i (01:23:53) zoom in 1 
+\i (01:23:53) setwindow pcb
+\i (01:23:53) zoom in 2261.8 1837.5
+\i (01:23:53) trapsize 278
+\i (01:26:37) exit 
+\e (01:26:37) Do you want to save the changes you made to C:/Users/BELS/Desktop/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_16.1.brd?
+\i (01:26:38) fillin yes 
+\t (01:26:39)     Journal end - Fri Jun 12 18:13:00 2015

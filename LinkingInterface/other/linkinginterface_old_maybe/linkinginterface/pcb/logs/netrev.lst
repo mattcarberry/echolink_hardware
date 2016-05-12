@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : LinkingInterfaceV2_1.brd                      )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Thu Jun 04 14:25:01 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_1.brd';
+NEW_BOARD_NAME 'G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_1.brd';
+
+CmdLine: netrev -$ -i G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface -y 1 G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pcb/#Taaaaaa75092.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pstchip.dat 
+   Finished reading G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pstchip.dat (00:00:00.03)
+Starting to read G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pstxprt.dat 
+   Finished reading G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pstxprt.dat (00:00:00.00)
+Starting to read G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pstxnet.dat 
+   Finished reading G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.5/share/local/pcb/modules 
+           G:\Users\Owner\Dropbox\Dropbox\SeniorDesign\Designs\linkinginterface\linkinginterface\lib\modules\ 
+
+PSMPATH =  G:\Users\Owner\Dropbox\SchoolShit\EE173\linkinginterface_V1\lib\symbols\ 
+
+PADPATH =  G:\Users\Owner\Dropbox\SchoolShit\EE173\linkinginterface_V1\lib\padstacks\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 4 14:25:01 2015
+   DESIGN NAME : 'AUDIOLINKINGINTERFACE'
+   PACKAGING ON Apr 21 2011 10:02:30
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:30
+elapsed time  0:00:00
+

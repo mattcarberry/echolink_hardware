@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : mj-3523-smt.dra                               )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Mon Mar 16 17:04:55 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : C:/Users/tgbodkin/Downloads/LinkingInterface New (1)/LinkingInterface New/linkinginterface/lib/local/parameter/symbol_mode.prm
+	Layout Name   : mj-3523-smt.dra
+
+Reading...db_common_type:
+	WARNING: Unmatched Data - Field Name: alternate_subclass , Value: "NAME UNDEFINED"
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 1.

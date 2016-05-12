@@ -1,0 +1,27 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Parameter File READ                                 )
+(                                                            )
+(        Drawing          : BLKCON100RHTM1SQSW3502.dra       )
+(        Software Version : 16.2p004                         )
+(        Date/Time        : Wed Sep 02 20:12:13 2009         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+	Paramfile Name : C:/Cadence/SPB_16.2/share/local/pcb/parameter/part_packgage.prm
+	Layout Name   : C:/Cadence/SPB_16.2/share/pcb/pcb_lib_Orcad/symbols/BCON100T/BLKCON100RHTM1SQSW3502.dra
+
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...ministat_parm_type:
+Reading...ats_parm_type:
+Reading...ifp_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

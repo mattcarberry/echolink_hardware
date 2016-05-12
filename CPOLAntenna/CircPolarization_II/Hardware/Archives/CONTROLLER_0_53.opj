@@ -1,0 +1,98 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\lib\library1.olb"
+        (Type "Schematic Library")))
+    (File ".\controller_0_53.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_0_53.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\controller_0_53.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("Diode Zener"
+      (FullPartName "Diode Zener.Normal")
+      (LibraryName
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\LIB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\LIB\AUDIOMIXER.OLB")
+      (DeviceIndex "0"))
+    (TPS1120
+      (FullPartName "TPS1120.Normal")
+      (LibraryName
+         "C:\ACADEMIC\UCSC\2010 - 2011\1 - 2010 FALL\CMPE174 F10\LABORATORY\DEVELOPMENT\LIB\CMPE174REFLIB_COMPLETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\controller_0_53.dsn")
+      (Path "Design Resources" ".\controller_0_53.dsn" "Interface Controller")
+      (Path "Outputs")
+      (Select "Design Resources" ".\controller_0_53.dsn" "Interface Controller"
+         "1 Radio Interface"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 424"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 198 1189 198 682")
+        (Scroll "173 323")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_0_53.DSN")
+      (Schematic "Interface Controller")
+      (Page "1 Radio Interface")))
+  (MPSSessionName "petersen"))

@@ -1,0 +1,14 @@
+\t (00:00:07) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:07)     Journal start - Fri Sep 23 17:13:40 2011
+\t (00:00:07)         Host=ENIAC User=petersen Pid=3088 CPUs=2
+\t (00:00:07) 
+\t (00:00:08) Opening existing design...
+\i (00:00:10) fillin no 
+\t (00:00:10) Starting new design...
+\i (00:00:11) trapsize 1036
+\i (00:00:11) trapsize 1006
+\i (00:00:11) trapsize 1041
+\i (00:00:11) trapsize 1150
+\i (00:00:12) etchedit 
+\i (00:00:18) exit 
+\t (00:00:18)     Journal end - Fri Sep 23 17:13:51 2011

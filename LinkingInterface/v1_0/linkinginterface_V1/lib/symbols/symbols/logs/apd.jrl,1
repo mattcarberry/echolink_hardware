@@ -1,0 +1,61 @@
+\t (00:07:33) apd 16.5 P003 (v16-5-13C) i86
+\t (00:07:33)     Journal start - Sun Dec 08 12:41:14 2013
+\t (00:07:33)         Host=OWNER-PC130616 User=Owner Pid=7864 CPUs=8
+\t (00:07:33) 
+\d (00:07:33) Database opened: C:/Users/Owner/Desktop/EE174 FINAL PROJECT/Lib/symbols/SOJ_LLB.brd
+\i (00:07:33) placementedit 
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 6274.4 5718.0
+\i (00:07:33) trapsize 463
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 6154.0 5764.3
+\i (00:07:33) trapsize 232
+\i (00:07:34) zoom out 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom out 6135.5 5773.6
+\i (00:07:34) trapsize 463
+\i (00:07:34) zoom out 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom out 6135.5 5773.5
+\i (00:07:34) trapsize 927
+\i (00:07:34) zoom in 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom in 696.2 9887.7
+\i (00:07:34) trapsize 463
+\i (00:07:35) zoom in 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom in 677.7 9952.6
+\i (00:07:35) trapsize 232
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out 677.8 9952.6
+\i (00:07:35) trapsize 463
+\i (00:07:37) zoom out 1 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom out 5523.8 9285.4
+\i (00:07:37) trapsize 927
+\i (00:07:38) zoom in 1 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom in 4402.6 7219.1
+\i (00:07:38) trapsize 463
+\i (00:07:38) zoom in 1 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom in 4393.4 7209.9
+\i (00:07:38) trapsize 232
+\i (00:07:38) zoom out 1 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom out 4393.4 7209.9
+\i (00:07:38) trapsize 463
+\i (00:07:38) zoom out 1 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom out 4393.4 7209.8
+\i (00:07:38) trapsize 927
+\i (00:07:39) open 
+\i (00:07:54) fillin "C:\Users\Owner\Desktop\EE174 FINAL PROJECT\Lib\symbols\SOG\SOG_LLB.brd"
+\i (00:07:54) cd "C:\Users\Owner\Desktop\EE174 FINAL PROJECT\Lib\symbols\SOG"
+\t (00:07:54) Opening existing design...
+\i (00:07:57) fillin yes 
+\i (00:07:57) trapsize 922
+\t (00:07:57)     Journal end - Sun Dec 08 12:41:39 2013

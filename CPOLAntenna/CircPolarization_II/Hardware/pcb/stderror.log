@@ -1,0 +1,11 @@
+ Creating padstack definitions.
+ Creating symbols.
+ ...  50 entities converted.
+ ...  100 entities converted.
+ ERROR ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol. in igu_inst_pksym - can't add sym JACK03PSWITCHCRAFTEN3P8MX3REV2 inst at x 5150 y 5650.Continuing.
+ Creating independent data.
+ ...  150 entities converted.
+ ...  200 entities converted.
+ ...  250 entities converted.
+ ...  300 entities converted.
+ ...  350 entities converted.

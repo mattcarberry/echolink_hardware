@@ -1,0 +1,315 @@
+\t (00:01:40) apd 16.5 P003 (v16-5-13C) i86
+\t (00:01:40)     Journal start - Sun Dec 08 12:49:58 2013
+\t (00:01:40)         Host=OWNER-PC130616 User=Owner Pid=4240 CPUs=8
+\t (00:01:40) 
+\d (00:01:40) Database opened: C:/Users/Owner/Desktop/EE174 FINAL PROJECT/Lib/symbols/DIP1008W300L550.dra
+\i (00:01:40) placementedit 
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 120.6 118.6
+\i (00:01:41) trapsize 50
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in -272.7 118.6
+\i (00:01:41) trapsize 25
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out -272.6 118.7
+\i (00:01:41) trapsize 50
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 146.4 23.5
+\i (00:01:43) trapsize 25
+\i (00:01:43) zoom out 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom out 145.4 23.0
+\i (00:01:43) trapsize 50
+\i (00:01:44) pick grid 5.7 -4.7
+\t (00:01:44) last pick:  0.0  0.0
+\i (00:01:44) pick grid dbl 5.7 -4.7
+\t (00:01:44) last pick:  0.0  0.0
+\i (00:01:45) prepopup 5.7 -4.7
+\i (00:01:49) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (00:01:49) define grid 
+\t (00:01:49) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:49) placementedit 
+\i (00:01:52) setwindow form.grid
+\i (00:01:52) FORM grid done  
+\i (00:01:53) setwindow pcb
+\i (00:01:53) pick grid 52.2 -183.0
+\t (00:01:53) last pick:  100.0  -200.0
+\i (00:01:54) pick grid 105.7 -26.5
+\t (00:01:54) last pick:  100.0  0.0
+\i (00:01:54) pick grid dbl 105.7 -26.5
+\t (00:01:54) last pick:  100.0  0.0
+\i (00:01:55) pick grid 106.7 -26.5
+\t (00:01:55) last pick:  100.0  0.0
+\i (00:01:56) prepopup 106.7 -26.5
+\i (00:01:58) pop dyn_option_select '@:@Show element' 
+\i (00:01:58) show element 
+\i (00:01:58) placementedit 
+\i (00:02:12) setwindow text
+\i (00:02:12) close 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) pick grid 98.8 289.5
+\t (00:02:13) last pick:  100.0  300.0
+\i (00:02:14) pick grid dbl 98.8 289.5
+\t (00:02:14) last pick:  100.0  300.0
+\i (00:02:14) prepopup 98.8 289.5
+\i (00:02:19) pop dyn_option_select '@:@Show element' 
+\i (00:02:19) show element 
+\i (00:02:19) placementedit 
+\i (00:02:26) setwindow text
+\i (00:02:26) close 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) pick grid -4.2 277.6
+\t (00:02:31) last pick:  0.0  300.0
+\i (00:02:33) prepopup -14.1 281.6
+\i (00:02:34) pick grid -72.6 296.4
+\t (00:02:34) last pick:  -100.0  300.0
+\i (00:02:37) pick grid -119.1 327.1
+\t (00:02:37) last pick:  -100.0  300.0
+\i (00:02:37) pick grid -125.1 352.9
+\t (00:02:37) last pick:  -100.0  400.0
+\i (00:06:06) zoom out 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom out -130.0 -110.7
+\i (00:06:06) trapsize 99
+\i (00:06:06) zoom out 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom out 419.8 -321.2
+\i (00:06:06) trapsize 99
+\i (00:06:06) zoom in 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom in 372.2 -257.8
+\i (00:06:06) trapsize 50
+\i (00:06:06) zoom in 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom in -158.8 -255.8
+\i (00:06:06) trapsize 25
+\i (00:06:07) zoom out 1 
+\i (00:06:07) setwindow pcb
+\i (00:06:07) zoom out -159.3 -255.8
+\i (00:06:07) trapsize 50
+\i (00:06:07) zoom out 1 
+\i (00:06:07) setwindow pcb
+\i (00:06:07) zoom out -159.8 -255.7
+\i (00:06:07) trapsize 99
+\i (00:06:07) zoom in 1 
+\i (00:06:07) setwindow pcb
+\i (00:06:07) zoom in 334.6 110.7
+\i (00:06:07) trapsize 50
+\i (00:06:12) setwindow form.mini
+\i (00:06:12) FORM mini class REF DES 
+\i (00:06:14) FORM mini subcolor 0 
+\i (00:06:15) FORM mini subcolor 1 
+\i (00:06:15) FORM mini subcolor 0 
+\i (00:06:16) FORM mini subcolor 1 
+\i (00:06:16) FORM mini subcolor 0 
+\i (00:06:21) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:06:22) FORM mini subcolor 0 
+\i (00:06:23) FORM mini subcolor 1 
+\i (00:06:24) FORM mini subcolor 0 
+\i (00:06:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:06:27) FORM mini subcolor 1 
+\i (00:06:27) FORM mini subcolor 0 
+\i (00:06:28) FORM mini subcolor 1 
+\i (00:06:29) FORM mini subcolor 0 
+\i (00:06:30) FORM mini subcolor 1 
+\i (00:06:30) FORM mini subcolor 0 
+\i (00:06:33) FORM mini subcolor 1 
+\i (00:06:35) FORM mini subcolor color 40 
+\i (00:06:37) FORM mini subcolor 0 
+\i (00:06:37) FORM mini subcolor 1 
+\i (00:06:40) setwindow pcb
+\i (00:06:40) pick grid 199.9 -11.1
+\t (00:06:40) last pick:  200.0  0.0
+\i (00:06:41) prepopup 199.9 -11.1
+\i (00:06:55) pop dyn_option_select 'Selection set@:@Select@:@Connect Pin Dip100t_Llb_Pad3_1, 3' 
+\i (00:06:57) prepopup 186.0 0.8
+\i (00:06:58) pick grid 182.0 63.2
+\t (00:06:58) last pick:  200.0  100.0
+\i (00:06:58) pick grid dbl 182.0 63.2
+\t (00:06:58) last pick:  200.0  100.0
+\i (00:06:59) pick grid 289.0 -18.0
+\t (00:06:59) last pick:  300.0  0.0
+\i (00:07:00) pick grid 227.6 -12.1
+\t (00:07:00) last pick:  200.0  0.0
+\i (00:07:00) pick grid 108.7 -4.2
+\t (00:07:00) last pick:  100.0  0.0
+\i (00:07:01) pick grid 16.6 -2.2
+\t (00:07:01) last pick:  0.0  0.0
+\i (00:07:03) prepopup -12.1 23.6
+\i (00:07:08) pick grid -180.6 94.9
+\t (00:07:08) last pick:  -200.0  100.0
+\i (00:07:09) open 
+\i (00:07:28) fillin "soic8.dra"
+\t (00:07:28) Opening existing design...
+\i (00:07:28) trapsize 746
+\d (00:07:28) Database opened: C:/Users/Owner/Desktop/EE174 FINAL PROJECT/Lib/symbols/soic8.dra
+\i (00:07:28) placementedit 
+\i (00:07:29) zoom in 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom in 205.97 -73.51
+\i (00:07:29) trapsize 373
+\i (00:07:29) zoom in 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom in -60.45 -70.52
+\i (00:07:29) trapsize 187
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out -95.90 -70.14
+\i (00:07:29) trapsize 373
+\i (00:07:30) zoom out 1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) zoom out -53.73 -68.65
+\i (00:07:30) trapsize 746
+\i (00:07:30) zoom in 1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) zoom in 11.94 202.61
+\i (00:07:30) trapsize 373
+\i (00:07:30) zoom in 1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) zoom in -148.51 205.60
+\i (00:07:30) trapsize 187
+\i (00:07:31) zoom out 1 
+\i (00:07:31) setwindow pcb
+\i (00:07:31) zoom out -148.13 205.61
+\i (00:07:31) trapsize 373
+\i (00:07:31) zoom in 1 
+\i (00:07:31) setwindow pcb
+\i (00:07:31) zoom in -116.42 177.99
+\i (00:07:31) trapsize 187
+\i (00:07:31) zoom out 1 
+\i (00:07:31) setwindow pcb
+\i (00:07:31) zoom out -117.54 167.54
+\i (00:07:31) trapsize 373
+\i (00:07:32) zoom in 1 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) zoom in -90.30 73.51
+\i (00:07:32) trapsize 187
+\i (00:07:35) setwindow form.mini
+\i (00:07:35) FORM mini class REF DES 
+\i (00:07:37) FORM mini subclass ASSEMBLY_EMBEDDED 
+\i (00:07:38) FORM mini subcolor 0 
+\i (00:07:39) FORM mini subcolor 1 
+\i (00:07:39) FORM mini subcolor 0 
+\i (00:07:39) FORM mini subcolor 1 
+\i (00:07:41) FORM mini subclass DISPLAY_EMBEDDED 
+\i (00:07:42) FORM mini subcolor 0 
+\i (00:07:42) FORM mini subcolor 1 
+\i (00:07:43) FORM mini subcolor 0 
+\i (00:07:45) FORM mini subcolor 1 
+\i (00:07:46) FORM mini subcolor color 40 
+\i (00:07:47) FORM mini subcolor 0 
+\i (00:07:47) FORM mini subcolor 1 
+\i (00:07:48) FORM mini subcolor 0 
+\i (00:07:48) FORM mini subcolor 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom out 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom out 31.34 11.95
+\i (00:07:49) trapsize 373
+\i (00:07:49) zoom in 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom in 88.81 -7.84
+\i (00:07:49) trapsize 187
+\i (00:07:51) pick grid -81.72 69.03
+\t (00:07:51) last pick:  -75.00  75.00
+\e (00:07:55) Command not found: Del
+\i (00:07:56) prepopup -120.90 65.67
+\i (00:07:58) pop dyn_option_select '@:@Show element' 
+\i (00:07:58) show element 
+\i (00:07:58) placementedit 
+\i (00:08:09) zoom in 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom in 290.67 -42.17
+\i (00:08:09) trapsize 93
+\i (00:08:09) zoom in 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom in 290.68 -42.16
+\i (00:08:09) trapsize 47
+\i (00:08:09) zoom in 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom in 290.68 -42.16
+\i (00:08:09) trapsize 23
+\i (00:08:09) zoom out 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom out 290.59 -42.01
+\i (00:08:09) trapsize 47
+\i (00:08:09) zoom out 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom out 290.22 -41.92
+\i (00:08:09) trapsize 93
+\i (00:08:10) zoom out 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom out 289.67 -41.55
+\i (00:08:10) trapsize 187
+\i (00:08:10) zoom out 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom out 284.33 -40.81
+\i (00:08:10) trapsize 373
+\i (00:08:10) zoom in 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom in 569.41 -37.69
+\i (00:08:10) trapsize 187
+\i (00:08:11) zoom out 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom out 217.54 -36.94
+\i (00:08:11) trapsize 373
+\i (00:08:12) zoom in 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom in 559.70 -10.07
+\i (00:08:12) trapsize 187
+\i (00:08:13) pick grid 210.82 7.10
+\t (00:08:13) last pick:  200.00  0.00
+\i (00:08:13) prepopup 116.42 22.03
+\i (00:08:14) pop dyn_option_select '@:@Show element' 
+\i (00:08:14) show element 
+\i (00:08:14) placementedit 
+\i (00:08:16) pick grid 101.86 -15.29
+\t (00:08:16) last pick:  100.00  -25.00
+\i (00:08:16) prepopup 99.63 -8.57
+\i (00:08:17) pop dyn_option_select '@:@Show element' 
+\i (00:08:17) show element 
+\i (00:08:17) placementedit 
+\i (00:08:18) pick grid 197.76 35.46
+\t (00:08:18) last pick:  200.00  25.00
+\i (00:08:20) pick grid 104.48 -59.32
+\t (00:08:20) last pick:  100.00  -50.00
+\i (00:08:20) prepopup 104.48 -59.69
+\i (00:08:22) pop dyn_option_select '@:@Show element' 
+\i (00:08:22) show element 
+\i (00:08:22) placementedit 
+\i (00:08:23) pick grid 222.76 43.29
+\t (00:08:23) last pick:  225.00  50.00
+\i (00:08:24) pick grid 10.82 -12.68
+\t (00:08:24) last pick:  0.00  -25.00
+\i (00:08:24) move 
+\t (00:08:24) last pick:  -30.00  -10.00
+\t (00:08:24) Pick new location for the element(s).
+\i (00:08:26) pick grid -25.00 -12.68
+\t (00:08:26) last pick:  -25.00  -25.00
+\i (00:08:26) placementedit 
+\i (00:08:27) pick grid 36.57 108.59
+\t (00:08:27) last pick:  25.00  100.00
+\i (00:08:27) zoom out 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom out 168.66 80.98
+\i (00:08:27) trapsize 373
+\i (00:08:33) open 
+\e (00:08:33) Do you want to save the changes you made to soic8.dra?
+\i (00:08:34) fillin no 
+\i (00:09:10) fillin "C:\Users\Owner\Desktop\EE174 FINAL PROJECT\Lib\symbols\SOG\SOG_LLB.brd"
+\i (00:09:10) cd "C:\Users\Owner\Desktop\EE174 FINAL PROJECT\Lib\symbols\SOG"
+\t (00:09:10) Opening existing design...
+\i (00:09:11) fillin yes 
+\w (00:09:11) You are opening a BOARD design in apd. Only a limited set of commands will be available.
+\i (00:09:13) fillin confirm
+\i (00:09:13) trapsize 886
+\i (00:09:13) trapsize 868
+\i (00:09:13) trapsize 921
+\i (00:09:13) trapsize 962
+\i (00:09:13) trapsize 922
+\i (00:09:13) trapsize 922
+\t (00:09:13)     Journal end - Sun Dec 08 12:57:31 2013

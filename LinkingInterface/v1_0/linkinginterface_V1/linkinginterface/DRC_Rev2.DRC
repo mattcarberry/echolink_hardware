@@ -1,0 +1,86 @@
+Date and Time : 05/25/15 12:54:37
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR(ORCAP-1628): Possible pin type conflict U5,Vout  Output Connected to Power
+                    SCHEMATIC1, LinkingInterfaceV2  (4.50, 5.40) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+    GND  -  LinkingInterfaceV2 (0.61, 5.20)
+    GND  -  LinkingInterfaceV2 (0.61, 5.20)
+    N14522952  -  LinkingInterfaceV2 (0.61, 5.00)
+    N14522952  -  LinkingInterfaceV2 (0.61, 5.00)
+
+Checking Misleading Tap connection
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U1A/4  Nets: 'GND' and '+9V'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (11.35, 3.55) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U1A/8  Nets: '+9V' and 'GND'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (11.35, 2.55) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U2D/14  Nets: '+3.3V' and '+5V'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (14.55, 8.60) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /U3C/14  Nets: '+5V' and '+3.3V'. 
+                    SCHEMATIC1, LinkingInterfaceV2  (11.00, 7.20) 
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: AUDIOLINKINGINTERFACE 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+
+Checking Missing PCB Footprint Property  
+#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D4: SCHEMATIC1, LinkingInterfaceV2 (6.40, 8.80).
+#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J10: SCHEMATIC1, LinkingInterfaceV2 (0.05, 2.10).
+#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J11: SCHEMATIC1, LinkingInterfaceV2 (19.65, 4.50).
+#4 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J12: SCHEMATIC1, LinkingInterfaceV2 (19.50, 2.25).
+#5 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J13: SCHEMATIC1, LinkingInterfaceV2 (19.50, 3.15).
+#6 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J14: SCHEMATIC1, LinkingInterfaceV2 (19.45, 1.20).
+#7 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J15: SCHEMATIC1, LinkingInterfaceV2 (19.50, 0.35).
+#8 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J16: SCHEMATIC1, LinkingInterfaceV2 (19.45, 6.50).
+#9 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J17: SCHEMATIC1, LinkingInterfaceV2 (19.50, 9.30).
+
+Check Power Ground Mismatch
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U2,+5V  +5V  +3.3V
+                    SCHEMATIC1, LinkingInterfaceV2  (14.55, 8.60) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U3,+5V  +5V  +3.3V
+                    SCHEMATIC1, LinkingInterfaceV2  (17.25, 7.70) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? GND  GND  GND_SIGNAL  DIGITAL_GND  
+                    SCHEMATIC1, LinkingInterfaceV2  (14.55, 9.35) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U5,Vin  Vin  +9V
+                    SCHEMATIC1, LinkingInterfaceV2  (3.30, 5.40) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U6,OUT  OUT  +9V
+                    SCHEMATIC1, LinkingInterfaceV2  (2.55, 5.00) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
+   74HC08_3	                       2	                       U3: D  B  
+   74HC04_4	                       4	                       U2: F  C  B  A  

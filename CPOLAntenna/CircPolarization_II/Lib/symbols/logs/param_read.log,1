@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : SMSOD123.dra                                  )
+(    Software Version : 16.3S020                                      )
+(    Date/Time        : Tue May 31 20:25:52 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : footprint_default.prm
+	Layout Name   : C:/Amateur Radio/Projects/UCSC_2m_Repeater/Lib/symbols/SMSOD123.dra
+
+Reading...parm_header:
+Reading...db_common_type:
+	WARNING: Unmatched Data - Field Name: alternate_subclass , Value: "NAME UNDEFINED"
+Reading...grid_parms_type:
+	WARNING: The value of element <etchcount> is not equal to the number of 
+		   user defined subclass under ETCH class. 
+
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 2.

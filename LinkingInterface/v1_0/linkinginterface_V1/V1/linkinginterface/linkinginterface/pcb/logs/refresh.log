@@ -1,0 +1,76 @@
+Mon Apr 13 22:04:34 2015				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Apr 13 22:04:34 2015
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : LinkingInterfaceV1.2.brd                      )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Mon Apr 13 22:04:35 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Apr 13 22:04:35 2015				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'G:/Users/Owner/Dropbox/Dropbox/SeniorDesign/Designs/linkinginterface/linkinginterface/linkinginterface/pcb/Linking~
+InterfaceV1.2.brd'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'NO'
+Update shape/flash symbols = 'NO'
+Update symbol padstacks = 'NO'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'NO'
+Ripup Etch = 'NO'
+Reset custom drill data = 'NO'
+Symbol list file = 'C:/Users/Owner/AppData/Local/Temp/#Taaaagx14728.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+           G:\Users\Owner\Dropbox\Dropbox\SeniorDesign\Designs\linkinginterface\linkinginterface\lib\symbols\ 
+           G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LinkingInterface New (1)\LinkingInterface New\linkinginterface\lib\symbols\ 
+           C:\Users\Owner\Desktop\EE174 FINAL PROJECT\Lib\symbols\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+           G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\linkinginterface\linkinginterface\lib\padstacks\ 
+
+
+------ Symbol Refresh Messages ------
+
+'35MMJACK'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

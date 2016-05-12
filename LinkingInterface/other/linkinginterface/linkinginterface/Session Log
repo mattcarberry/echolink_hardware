@@ -1,0 +1,64 @@
+INFO(ORCAP-32002): Netlisting the design
+INFO(ORCAP-32004): Design Name:
+g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface\linkinginterface\linkinginterface\linkinginterface\audiolinkinginterface.dsn
+Netlist Directory:
+G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LINKINGINTERFACE\PCB
+Configuration File:
+C:\Cadence\SPB_16.5\tools\Capture\allegro.cfg
+
+Spawning... "C:\Cadence\SPB_16.5\tools\Capture\pstswp.exe" -pst -d "g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface\linkinginterface\linkinginterface\linkinginterface\audiolinkinginterface.dsn" -n "G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LINKINGINTERFACE\PCB" -c "C:\Cadence\SPB_16.5\tools\Capture\allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+#1 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_TX_ECHOLINK" is renamed to "PHONE JACK-3_2_35MMJACK_TX_ECHO".
+#2 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_RX_ECHOLINK" is renamed to "PHONE JACK-3_2_35MMJACK_RX_ECHO".
+#3 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_TX_ALLSTAR" is renamed to "PHONE JACK-3_2_35MMJACK_TX_ALLS".
+#4 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_RX_ALLSTAR" is renamed to "PHONE JACK-3_2_35MMJACK_RX_ALLS".
+#5 WARNING(ORCAP-36006): Part Name "2PIN HEADER_BCON_2X1V_100S_1SQ_42D_2PIN HEADER" is renamed to "2PIN HEADER_BCON_2X1V_100S_1SQ_".
+#6 WARNING(ORCAP-36006): Part Name "CONNECTOR DB9_DB9_SYM_CONNECTOR DB9" is renamed to "CONNECTOR DB9_DB9_SYM_CONNECTOR".
+#7 WARNING(ORCAP-36006): Part Name "LM2936/SO_3_LM2936_SOT_LM2936/SOT" is renamed to "LM2936/SO_3_LM2936_SOT_LM2936/S".
+#8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package LM2936/SO_3 , U5: SCHEMATIC1, LinkingIn
+terfaceV2 (2.90, 5.40).
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package LM2936/SO_3 , U5: SCHEMATIC1, LinkingInterfaceV2 (2.90, 5.40).
+Scanning netlist files ...
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstchip.dat
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstchip.dat
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstxprt.dat
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstxnet.dat
+packaging the design view...
+
+Exiting... "C:\Cadence\SPB_16.5\tools\Capture\pstswp.exe" -pst -d "g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface\linkinginterface\linkinginterface\linkinginterface\audiolinkinginterface.dsn" -n "G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE NEW (1)\LINKINGINTERFACE NEW\LINKINGINTERFACE\LINKINGINTERFACE\PCB" -c "C:\Cadence\SPB_16.5\tools\Capture\allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+INFO(ORCAP-32005): *** Done ***
+INFO(ORCAP-32002): Netlisting the design
+INFO(ORCAP-32004): Design Name:
+g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface\linkinginterface\linkinginterface\linkinginterface\audiolinkinginterface.dsn
+Netlist Directory:
+G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\PCB
+Configuration File:
+C:\Cadence\SPB_16.5\tools\Capture\allegro.cfg
+
+Spawning... "C:\Cadence\SPB_16.5\tools\Capture\pstswp.exe" -pst -d "g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface\linkinginterface\linkinginterface\linkinginterface\audiolinkinginterface.dsn" -n "G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\PCB" -c "C:\Cadence\SPB_16.5\tools\Capture\allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+#1 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_TX_ECHOLINK" is renamed to "PHONE JACK-3_2_35MMJACK_TX_ECHO".
+#2 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_RX_ECHOLINK" is renamed to "PHONE JACK-3_2_35MMJACK_RX_ECHO".
+#3 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_TX_ALLSTAR" is renamed to "PHONE JACK-3_2_35MMJACK_TX_ALLS".
+#4 WARNING(ORCAP-36006): Part Name "PHONE JACK-3_2_35MMJACK_RX_ALLSTAR" is renamed to "PHONE JACK-3_2_35MMJACK_RX_ALLS".
+#5 WARNING(ORCAP-36006): Part Name "2PIN HEADER_BCON_2X1V_100S_1SQ_42D_2PIN HEADER" is renamed to "2PIN HEADER_BCON_2X1V_100S_1SQ_".
+#6 WARNING(ORCAP-36006): Part Name "CONNECTOR DB9_DB9_190-009-263-R001_CONNECTOR DB9" is renamed to "CONNECTOR DB9_DB9_190-009-263-R".
+#7 WARNING(ORCAP-36006): Part Name "LM2936/SO_3_LM2936_SOT_LM2936/SOT" is renamed to "LM2936/SO_3_LM2936_SOT_LM2936/S".
+#8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package LM2936/SO_3 , U5: SCHEMATI
+C1, LinkingInterfaceV2 (2.90, 5.40).
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package LM2936/SO_3 , U5: SCHEMATIC1, LinkingInterfaceV2 (2.90, 5.40).
+Scanning netlist files ...
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstchip.dat
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstchip.dat
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstxprt.dat
+
+Loading... G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\PCB/pstxnet.dat
+packaging the design view...
+
+Exiting... "C:\Cadence\SPB_16.5\tools\Capture\pstswp.exe" -pst -d "g:\users\owner\dropbox\dropbox\seniordesign\designs\linkinginterface\linkinginterface\linkinginterface\linkinginterface\audiolinkinginterface.dsn" -n "G:\USERS\OWNER\DROPBOX\DROPBOX\SENIORDESIGN\DESIGNS\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\LINKINGINTERFACE\PCB" -c "C:\Cadence\SPB_16.5\tools\Capture\allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+INFO(ORCAP-32005): *** Done ***

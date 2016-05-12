@@ -1,0 +1,631 @@
+\t (00:00:01) allegro 16.3 S028 (v16-3-85BV) i86
+\t (00:00:01) 
+
+\t (00:00:03) Starting new drawing...
+\i (00:00:04) trapsize 1090
+\i (00:00:04) trapsize 1055
+\i (00:00:04) trapsize 1041
+\i (00:00:04) trapsize 1022
+\i (00:00:04) trapsize 1213
+\i (00:00:04) etchedit 
+\i (00:00:06) open 
+\i (00:00:12) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\index\BCON100T_LLB.brd"
+\i (00:00:12) cd "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\index"
+\t (00:00:12) Opening existing drawing...
+\i (00:00:13) trapsize 1875
+\d (00:00:13) Database opened: C:/Cadence/SPB_16.3/share/pcb/pcb_lib_Orcad/processed/index/BCON100T_LLB.brd
+\i (00:00:13) etchedit 
+\i (00:00:19) orcad in 
+\i (00:00:20) setwindow form.orcad_in
+\i (00:00:20) FORM orcad_in filename_browse  
+\i (00:00:26) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\BCON100T_1_LLB.max"
+\i (00:00:27) FORM orcad_in execute  
+\t (00:00:27) Starting Performing Translation...
+\t (00:00:29) Opening existing drawing...
+\i (00:00:29) setwindow pcb
+\i (00:00:29) trapsize 1092
+\i (00:00:31) setwindow form.orcad_in
+\i (00:00:31) FORM orcad_in cancel  
+\i (00:00:31) setwindow pcb
+\i (00:00:31) etchedit 
+\i (00:00:32) zoom in 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 3922.8 9732.9 0.1
+\i (00:00:32) trapsize 993
+\i (00:00:32) zoom in 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 3267.4 9733.0 0.1
+\i (00:00:32) trapsize 903
+\i (00:00:32) zoom in 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 2671.6 9733.1 0.1
+\i (00:00:32) trapsize 821
+\i (00:00:32) zoom in 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 2113.5 9766.0 0.1
+\i (00:00:32) trapsize 746
+\i (00:00:32) zoom in 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 1592.7 9781.0 0.1
+\i (00:00:32) trapsize 678
+\i (00:00:32) zoom out 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 1135.6 9876.0 0.1
+\i (00:00:32) trapsize 746
+\i (00:00:32) zoom out 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 1592.7 9876.0 0.1
+\i (00:00:32) trapsize 821
+\i (00:00:32) zoom out 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 2113.4 9876.0 0.1
+\i (00:00:32) trapsize 903
+\i (00:00:40) orcad in 
+\i (00:00:42) setwindow form.orcad_in
+\i (00:00:42) FORM orcad_in filename_browse  
+\i (00:00:44) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\BCON100T_LLB.max"
+\i (00:00:46) FORM orcad_in execute  
+\t (00:00:46) Starting Performing Translation...
+\t (00:00:49) Opening existing drawing...
+\i (00:00:49) setwindow pcb
+\i (00:00:49) trapsize 1875
+\i (00:00:51) setwindow form.orcad_in
+\i (00:00:51) FORM orcad_in cancel  
+\i (00:00:51) setwindow pcb
+\i (00:00:51) etchedit 
+\i (00:06:05) orcad in 
+\i (00:06:07) setwindow form.orcad_in
+\i (00:06:07) FORM orcad_in filename_browse  
+\i (00:06:24) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\CLCC_LLB.max"
+\i (00:06:26) FORM orcad_in execute  
+\t (00:06:26) Starting Performing Translation...
+\t (00:06:28) Opening existing drawing...
+\i (00:06:28) setwindow pcb
+\i (00:06:28) trapsize 1141
+\i (00:06:30) setwindow form.orcad_in
+\i (00:06:30) FORM orcad_in cancel  
+\i (00:06:30) setwindow pcb
+\i (00:06:30) etchedit 
+\i (00:06:43) orcad in 
+\i (00:06:45) setwindow form.orcad_in
+\i (00:06:45) FORM orcad_in filename_browse  
+\i (00:06:50) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DCON050T_LLB.max"
+\i (00:06:52) FORM orcad_in execute  
+\t (00:06:52) Starting Performing Translation...
+\t (00:06:53) Opening existing drawing...
+\i (00:06:53) setwindow pcb
+\i (00:06:53) trapsize 1065
+\i (00:06:58) setwindow form.orcad_in
+\i (00:06:58) FORM orcad_in cancel  
+\i (00:06:58) setwindow pcb
+\i (00:06:58) etchedit 
+\i (00:07:14) orcad in 
+\i (00:07:16) setwindow form.orcad_in
+\i (00:07:16) FORM orcad_in filename_browse  
+\i (00:07:28) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DCON085T_LLB.max"
+\i (00:07:30) FORM orcad_in execute  
+\t (00:07:30) Starting Performing Translation...
+\t (00:07:31) Opening existing drawing...
+\i (00:07:31) setwindow pcb
+\i (00:07:31) trapsize 1117
+\i (00:07:33) setwindow form.orcad_in
+\i (00:07:33) FORM orcad_in cancel  
+\i (00:07:33) setwindow pcb
+\i (00:07:33) etchedit 
+\i (00:07:42) orcad in 
+\i (00:07:45) setwindow form.orcad_in
+\i (00:07:45) FORM orcad_in filename_browse  
+\i (00:07:47) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DIMM050F_LLB.max"
+\i (00:07:48) FORM orcad_in execute  
+\t (00:07:48) Starting Performing Translation...
+\t (00:07:50) Opening existing drawing...
+\i (00:07:50) setwindow pcb
+\i (00:07:50) trapsize 1094
+\i (00:07:52) setwindow form.orcad_in
+\i (00:07:52) FORM orcad_in cancel  
+\i (00:07:52) setwindow pcb
+\i (00:07:52) etchedit 
+\i (00:07:59) orcad in 
+\i (00:08:01) setwindow form.orcad_in
+\i (00:08:01) FORM orcad_in filename_browse  
+\i (00:08:03) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DIN_LLB.max"
+\i (00:08:04) FORM orcad_in execute  
+\t (00:08:04) Starting Performing Translation...
+\t (00:08:05) Opening existing drawing...
+\i (00:08:05) setwindow pcb
+\i (00:08:05) trapsize 1093
+\i (00:08:10) setwindow form.orcad_in
+\i (00:08:10) FORM orcad_in cancel  
+\i (00:08:10) setwindow pcb
+\i (00:08:10) etchedit 
+\i (00:08:16) orcad in 
+\i (00:08:17) setwindow form.orcad_in
+\i (00:08:17) FORM orcad_in filename_browse  
+\i (00:08:23) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DIP100B_LLB.max"
+\i (00:08:27) FORM orcad_in execute  
+\t (00:08:27) Starting Performing Translation...
+\t (00:08:29) Opening existing drawing...
+\i (00:08:29) setwindow pcb
+\i (00:08:29) trapsize 1093
+\i (00:08:36) setwindow form.orcad_in
+\i (00:08:36) FORM orcad_in cancel  
+\i (00:08:36) setwindow pcb
+\i (00:08:36) etchedit 
+\i (00:08:49) orcad in 
+\i (00:08:50) setwindow form.orcad_in
+\i (00:08:50) FORM orcad_in filename_browse  
+\i (00:08:55) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DIP100T_1_LLB.max"
+\i (00:08:57) FORM orcad_in execute  
+\t (00:08:57) Starting Performing Translation...
+\t (00:08:58) Opening existing drawing...
+\i (00:08:58) setwindow pcb
+\i (00:08:58) trapsize 1092
+\i (00:09:00) setwindow form.orcad_in
+\i (00:09:00) FORM orcad_in cancel  
+\i (00:09:00) setwindow pcb
+\i (00:09:00) etchedit 
+\i (00:09:05) orcad in 
+\i (00:09:06) setwindow form.orcad_in
+\i (00:09:06) FORM orcad_in filename_browse  
+\i (00:09:09) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DIP100T_LLB.max"
+\i (00:09:10) FORM orcad_in execute  
+\t (00:09:10) Starting Performing Translation...
+\t (00:09:12) Opening existing drawing...
+\i (00:09:12) setwindow pcb
+\i (00:09:12) trapsize 1464
+\i (00:09:13) setwindow form.orcad_in
+\i (00:09:13) FORM orcad_in cancel  
+\i (00:09:13) setwindow pcb
+\i (00:09:13) etchedit 
+\i (00:09:17) orcad in 
+\i (00:09:22) setwindow form.orcad_in
+\i (00:09:22) FORM orcad_in filename_browse  
+\i (00:09:30) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DSUBT_HD_LLB.max"
+\i (00:09:31) FORM orcad_in execute  
+\t (00:09:31) Starting Performing Translation...
+\t (00:09:33) Opening existing drawing...
+\i (00:09:33) setwindow pcb
+\i (00:09:33) trapsize 1117
+\i (00:09:35) setwindow form.orcad_in
+\i (00:09:35) FORM orcad_in cancel  
+\i (00:09:36) setwindow pcb
+\i (00:09:36) etchedit 
+\i (00:09:40) orcad in 
+\i (00:09:41) setwindow form.orcad_in
+\i (00:09:41) FORM orcad_in filename_browse  
+\i (00:09:44) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\DSUBT_LLB.max"
+\i (00:09:45) FORM orcad_in execute  
+\t (00:09:45) Starting Performing Translation...
+\t (00:09:47) Opening existing drawing...
+\i (00:09:47) setwindow pcb
+\i (00:09:47) trapsize 1119
+\i (00:09:48) setwindow form.orcad_in
+\i (00:09:48) FORM orcad_in cancel  
+\i (00:09:48) setwindow pcb
+\i (00:09:48) etchedit 
+\i (00:09:57) orcad in 
+\i (00:09:58) setwindow form.orcad_in
+\i (00:09:58) FORM orcad_in filename_browse  
+\i (00:10:02) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\ECON100T_LLB.max"
+\i (00:10:03) FORM orcad_in execute  
+\t (00:10:03) Starting Performing Translation...
+\w (00:10:03) Save Pending
+\t (00:10:05) Opening existing drawing...
+\i (00:10:05) setwindow pcb
+\i (00:10:05) trapsize 1516
+\i (00:10:06) setwindow form.orcad_in
+\i (00:10:06) FORM orcad_in cancel  
+\i (00:10:06) setwindow pcb
+\i (00:10:06) etchedit 
+\i (00:10:12) orcad in 
+\i (00:10:14) setwindow form.orcad_in
+\i (00:10:14) FORM orcad_in filename_browse  
+\i (00:10:18) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\EX_GUI_LLB.max"
+\i (00:10:19) FORM orcad_in execute  
+\t (00:10:19) Starting Performing Translation...
+\t (00:10:21) Opening existing drawing...
+\i (00:10:21) setwindow pcb
+\i (00:10:21) trapsize 1100
+\i (00:10:22) setwindow form.orcad_in
+\i (00:10:22) FORM orcad_in cancel  
+\i (00:10:22) setwindow pcb
+\i (00:10:22) etchedit 
+\i (00:10:37) orcad in 
+\i (00:10:39) setwindow form.orcad_in
+\i (00:10:39) FORM orcad_in filename_browse  
+\i (00:10:42) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\FBUS_LLB.max"
+\i (00:10:43) FORM orcad_in execute  
+\t (00:10:43) Starting Performing Translation...
+\t (00:10:44) Opening existing drawing...
+\i (00:10:45) setwindow pcb
+\i (00:10:45) trapsize 1079
+\i (00:10:46) setwindow form.orcad_in
+\i (00:10:46) FORM orcad_in cancel  
+\i (00:10:46) setwindow pcb
+\i (00:10:46) etchedit 
+\i (00:10:51) orcad in 
+\i (00:10:52) setwindow form.orcad_in
+\i (00:10:52) FORM orcad_in filename_browse  
+\i (00:10:55) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\ISA_LLB.max"
+\i (00:10:56) FORM orcad_in execute  
+\t (00:10:56) Starting Performing Translation...
+\t (00:10:57) Opening existing drawing...
+\i (00:10:57) setwindow pcb
+\i (00:10:57) trapsize 1110
+\i (00:10:59) setwindow form.orcad_in
+\i (00:10:59) FORM orcad_in cancel  
+\i (00:10:59) setwindow pcb
+\i (00:10:59) etchedit 
+\i (00:11:04) orcad in 
+\i (00:11:06) setwindow form.orcad_in
+\i (00:11:06) FORM orcad_in filename_browse  
+\i (00:11:07) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\JUMPER_LLB.max"
+\i (00:11:10) FORM orcad_in execute  
+\t (00:11:10) Starting Performing Translation...
+\t (00:11:12) Opening existing drawing...
+\i (00:11:12) setwindow pcb
+\i (00:11:12) trapsize 1092
+\i (00:11:13) setwindow form.orcad_in
+\i (00:11:13) FORM orcad_in cancel  
+\i (00:11:13) setwindow pcb
+\i (00:11:13) etchedit 
+\i (00:11:18) orcad in 
+\i (00:11:19) setwindow form.orcad_in
+\i (00:11:19) FORM orcad_in filename_browse  
+\i (00:11:25) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\JUMPER_LLB.max"
+\i (00:11:25) FORM orcad_in execute  
+\t (00:11:25) Starting Performing Translation...
+\t (00:11:27) Opening existing drawing...
+\i (00:11:27) setwindow pcb
+\i (00:11:27) trapsize 1092
+\i (00:11:28) setwindow form.orcad_in
+\i (00:11:28) FORM orcad_in cancel  
+\i (00:11:28) setwindow pcb
+\i (00:11:28) etchedit 
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 2589.0 9908.2 0.1
+\i (00:11:29) trapsize 993
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 2060.8 9928.1 0.1
+\i (00:11:29) trapsize 903
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 1562.6 9946.1 0.1
+\i (00:11:29) trapsize 820
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 1111.4 9979.0 0.1
+\i (00:11:29) trapsize 746
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 717.6 9979.2 0.1
+\i (00:11:29) trapsize 678
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 332.4 9992.8 0.1
+\i (00:11:29) trapsize 616
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 73.4 9992.8 0.1
+\i (00:11:29) trapsize 560
+\i (00:11:29) zoom in 0.100000 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom in 73.4 9992.9 0.1
+\i (00:11:29) trapsize 509
+\i (00:11:30) zoom in 0.100000 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom in 4485.4 10217.1 0.1
+\i (00:11:30) trapsize 463
+\i (00:11:30) zoom in 0.100000 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom in 4466.8 10244.9 0.1
+\i (00:11:30) trapsize 421
+\i (00:11:30) zoom in 0.100000 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom in 4441.5 10270.2 0.1
+\i (00:11:30) trapsize 383
+\i (00:11:30) zoom in 0.100000 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom in 4441.6 10293.2 0.1
+\i (00:11:30) trapsize 348
+\i (00:11:36) orcad in 
+\i (00:11:38) setwindow form.orcad_in
+\i (00:11:38) FORM orcad_in filename_browse  
+\i (00:11:40) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\LAYOUT_LLB.max"
+\i (00:11:42) FORM orcad_in execute  
+\t (00:11:42) Starting Performing Translation...
+\t (00:11:43) Opening existing drawing...
+\i (00:11:43) setwindow pcb
+\i (00:11:43) trapsize 1107
+\i (00:11:44) setwindow form.orcad_in
+\i (00:11:44) FORM orcad_in cancel  
+\i (00:11:44) setwindow pcb
+\i (00:11:44) etchedit 
+\i (00:11:50) orcad in 
+\i (00:11:51) setwindow form.orcad_in
+\i (00:11:51) FORM orcad_in filename_browse  
+\i (00:11:53) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\LCON100T_LLB.max"
+\i (00:11:54) FORM orcad_in execute  
+\t (00:11:54) Starting Performing Translation...
+\t (00:11:56) Opening existing drawing...
+\i (00:11:56) setwindow pcb
+\i (00:11:56) trapsize 1955
+\i (00:12:00) setwindow form.orcad_in
+\i (00:12:00) FORM orcad_in cancel  
+\i (00:12:00) setwindow pcb
+\i (00:12:00) etchedit 
+\i (00:12:07) orcad in 
+\i (00:12:08) setwindow form.orcad_in
+\i (00:12:08) FORM orcad_in filename_browse  
+\i (00:12:10) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\PC104_LLB.max"
+\i (00:12:14) FORM orcad_in execute  
+\t (00:12:14) Starting Performing Translation...
+\t (00:12:15) Opening existing drawing...
+\i (00:12:15) setwindow pcb
+\i (00:12:15) trapsize 1099
+\i (00:12:16) setwindow form.orcad_in
+\i (00:12:16) FORM orcad_in cancel  
+\i (00:12:16) setwindow pcb
+\i (00:12:16) etchedit 
+\i (00:12:21) orcad in 
+\i (00:12:24) setwindow form.orcad_in
+\i (00:12:24) FORM orcad_in filename_browse  
+\i (00:12:26) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\PCI_LLB.max"
+\i (00:12:27) FORM orcad_in execute  
+\t (00:12:27) Starting Performing Translation...
+\t (00:12:28) Opening existing drawing...
+\i (00:12:28) setwindow pcb
+\i (00:12:28) trapsize 1116
+\i (00:12:29) setwindow form.orcad_in
+\i (00:12:29) FORM orcad_in cancel  
+\i (00:12:29) setwindow pcb
+\i (00:12:29) etchedit 
+\i (00:12:34) orcad in 
+\i (00:12:36) setwindow form.orcad_in
+\i (00:12:36) FORM orcad_in filename_browse  
+\i (00:12:38) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\PCON100T_LLB.max"
+\i (00:12:39) FORM orcad_in execute  
+\t (00:12:39) Starting Performing Translation...
+\t (00:12:41) Opening existing drawing...
+\i (00:12:41) setwindow pcb
+\i (00:12:41) trapsize 1540
+\i (00:12:42) setwindow form.orcad_in
+\i (00:12:42) FORM orcad_in cancel  
+\i (00:12:42) setwindow pcb
+\i (00:12:42) etchedit 
+\i (00:12:46) orcad in 
+\i (00:12:48) setwindow form.orcad_in
+\i (00:12:48) FORM orcad_in filename_browse  
+\i (00:12:50) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\PCON156T_LLB.max"
+\i (00:12:51) FORM orcad_in execute  
+\t (00:12:51) Starting Performing Translation...
+\t (00:12:52) Opening existing drawing...
+\i (00:12:52) setwindow pcb
+\i (00:12:52) trapsize 1485
+\i (00:12:54) setwindow form.orcad_in
+\i (00:12:54) FORM orcad_in cancel  
+\i (00:12:54) setwindow pcb
+\i (00:12:54) etchedit 
+\i (00:12:59) orcad in 
+\i (00:13:01) setwindow form.orcad_in
+\i (00:13:01) FORM orcad_in filename_browse  
+\i (00:13:03) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\PGA_LLB.max"
+\i (00:13:04) FORM orcad_in execute  
+\t (00:13:04) Starting Performing Translation...
+\t (00:13:07) Opening existing drawing...
+\i (00:13:07) setwindow pcb
+\i (00:13:07) trapsize 1891
+\i (00:13:08) setwindow form.orcad_in
+\i (00:13:08) FORM orcad_in cancel  
+\i (00:13:08) setwindow pcb
+\i (00:13:08) etchedit 
+\i (00:13:12) orcad in 
+\i (00:13:13) setwindow form.orcad_in
+\i (00:13:13) FORM orcad_in filename_browse  
+\i (00:13:16) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\PLCC_LLB.max"
+\i (00:13:17) FORM orcad_in execute  
+\t (00:13:17) Starting Performing Translation...
+\t (00:13:19) Opening existing drawing...
+\i (00:13:19) setwindow pcb
+\i (00:13:19) trapsize 1115
+\i (00:13:20) setwindow form.orcad_in
+\i (00:13:20) FORM orcad_in cancel  
+\i (00:13:20) setwindow pcb
+\i (00:13:20) etchedit 
+\i (00:13:25) orcad in 
+\i (00:13:26) setwindow form.orcad_in
+\i (00:13:26) FORM orcad_in filename_browse  
+\i (00:13:29) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\PLCC_LLB.max"
+\i (00:13:30) FORM orcad_in execute  
+\t (00:13:30) Starting Performing Translation...
+\t (00:13:32) Opening existing drawing...
+\i (00:13:32) setwindow pcb
+\i (00:13:32) trapsize 1115
+\i (00:13:35) setwindow form.orcad_in
+\i (00:13:35) FORM orcad_in cancel  
+\i (00:13:35) setwindow pcb
+\i (00:13:35) etchedit 
+\i (00:13:39) orcad in 
+\i (00:13:40) setwindow form.orcad_in
+\i (00:13:40) FORM orcad_in filename_browse  
+\i (00:13:44) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\QUAD_LLB.max"
+\i (00:13:45) FORM orcad_in execute  
+\t (00:13:45) Starting Performing Translation...
+\t (00:13:49) Opening existing drawing...
+\i (00:13:49) setwindow pcb
+\i (00:13:49) trapsize 1929
+\i (00:13:51) setwindow form.orcad_in
+\i (00:13:51) FORM orcad_in cancel  
+\i (00:13:51) setwindow pcb
+\i (00:13:51) etchedit 
+\i (00:13:56) orcad in 
+\i (00:13:58) setwindow form.orcad_in
+\i (00:13:58) FORM orcad_in filename_browse  
+\i (00:14:01) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\QUADB_LLB.max"
+\i (00:14:02) FORM orcad_in execute  
+\t (00:14:02) Starting Performing Translation...
+\t (00:14:05) Opening existing drawing...
+\i (00:14:05) setwindow pcb
+\i (00:14:05) trapsize 1422
+\i (00:14:07) setwindow form.orcad_in
+\i (00:14:07) FORM orcad_in cancel  
+\i (00:14:07) setwindow pcb
+\i (00:14:07) etchedit 
+\i (00:14:11) orcad in 
+\i (00:14:12) setwindow form.orcad_in
+\i (00:14:12) FORM orcad_in filename_browse  
+\i (00:14:16) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\RELAY_LLB.max"
+\i (00:14:18) FORM orcad_in execute  
+\t (00:14:18) Starting Performing Translation...
+\t (00:14:19) Opening existing drawing...
+\i (00:14:19) setwindow pcb
+\i (00:14:19) trapsize 1105
+\i (00:14:20) setwindow form.orcad_in
+\i (00:14:20) FORM orcad_in cancel  
+\i (00:14:20) setwindow pcb
+\i (00:14:20) etchedit 
+\i (00:14:24) orcad in 
+\i (00:14:26) setwindow form.orcad_in
+\i (00:14:26) FORM orcad_in filename_browse  
+\i (00:14:28) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\RF_LLB.max"
+\i (00:14:29) FORM orcad_in execute  
+\t (00:14:29) Starting Performing Translation...
+\t (00:14:31) Opening existing drawing...
+\i (00:14:31) setwindow pcb
+\i (00:14:31) trapsize 1111
+\i (00:14:33) setwindow form.orcad_in
+\i (00:14:33) FORM orcad_in cancel  
+\i (00:14:33) setwindow pcb
+\i (00:14:33) etchedit 
+\i (00:14:39) orcad in 
+\i (00:14:41) setwindow form.orcad_in
+\i (00:14:41) FORM orcad_in filename_browse  
+\i (00:14:43) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SBUS_LLB.max"
+\i (00:14:44) FORM orcad_in execute  
+\t (00:14:44) Starting Performing Translation...
+\t (00:14:46) Opening existing drawing...
+\i (00:14:46) setwindow pcb
+\i (00:14:46) trapsize 1108
+\i (00:14:47) setwindow form.orcad_in
+\i (00:14:47) FORM orcad_in cancel  
+\i (00:14:47) setwindow pcb
+\i (00:14:47) etchedit 
+\i (00:14:51) orcad in 
+\i (00:14:55) setwindow form.orcad_in
+\i (00:14:55) FORM orcad_in filename_browse  
+\i (00:15:06) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SBUS_LLB.max"
+\i (00:15:10) FORM orcad_in execute  
+\t (00:15:10) Starting Performing Translation...
+\t (00:15:12) Opening existing drawing...
+\i (00:15:12) setwindow pcb
+\i (00:15:12) trapsize 1108
+\i (00:15:14) setwindow form.orcad_in
+\i (00:15:14) FORM orcad_in cancel  
+\i (00:15:14) setwindow pcb
+\i (00:15:14) etchedit 
+\i (00:15:25) orcad in 
+\i (00:15:27) setwindow form.orcad_in
+\i (00:15:27) FORM orcad_in filename_browse  
+\i (00:15:34) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SIMM050F_LLB.max"
+\i (00:15:36) FORM orcad_in execute  
+\t (00:15:36) Starting Performing Translation...
+\t (00:15:38) Opening existing drawing...
+\i (00:15:38) setwindow pcb
+\i (00:15:38) trapsize 1057
+\i (00:15:39) setwindow form.orcad_in
+\i (00:15:39) FORM orcad_in cancel  
+\i (00:15:39) setwindow pcb
+\i (00:15:39) etchedit 
+\i (00:15:44) orcad in 
+\i (00:15:45) setwindow form.orcad_in
+\i (00:15:45) FORM orcad_in filename_browse  
+\i (00:15:52) fillin "menu_cancel"
+\i (00:15:54) FORM orcad_in cancel  
+\i (00:15:54) setwindow pcb
+\i (00:15:54) etchedit 
+\i (00:20:44) orcad in 
+\i (00:20:46) setwindow form.orcad_in
+\i (00:20:46) FORM orcad_in filename_browse  
+\i (00:20:49) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SIMM050T_LLB.max"
+\i (00:20:51) FORM orcad_in execute  
+\t (00:20:51) Starting Performing Translation...
+\t (00:20:53) Opening existing drawing...
+\i (00:20:53) setwindow pcb
+\i (00:20:53) trapsize 1920
+\i (00:21:25) setwindow form.orcad_in
+\i (00:21:25) FORM orcad_in filename_browse  
+\i (00:21:28) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SIMM100F_LLB.max"
+\i (00:21:30) FORM orcad_in execute  
+\t (00:21:30) Starting Performing Translation...
+\t (00:21:32) Opening existing drawing...
+\i (00:21:32) setwindow pcb
+\i (00:21:32) trapsize 1093
+\i (00:21:56) orcad in 
+\i (00:21:59) setwindow form.orcad_in
+\i (00:21:59) FORM orcad_in filename_browse  
+\i (00:22:06) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SIMM100T_LLB.max"
+\i (00:22:07) FORM orcad_in execute  
+\t (00:22:07) Starting Performing Translation...
+\t (00:22:09) Opening existing drawing...
+\i (00:22:09) setwindow pcb
+\i (00:22:09) trapsize 1384
+\i (00:23:07) setwindow form.orcad_in
+\i (00:23:07) FORM orcad_in filename_browse  
+\i (00:23:11) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SIP_LLB.max"
+\i (00:23:12) FORM orcad_in execute  
+\t (00:23:12) Starting Performing Translation...
+\t (00:23:13) Opening existing drawing...
+\i (00:23:13) setwindow pcb
+\i (00:23:13) trapsize 1093
+\i (00:24:06) setwindow form.orcad_in
+\i (00:24:06) FORM orcad_in filename_browse  
+\i (00:24:11) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SOG_LLB.max"
+\i (00:24:12) FORM orcad_in execute  
+\t (00:24:12) Starting Performing Translation...
+\t (00:24:14) Opening existing drawing...
+\i (00:24:14) setwindow pcb
+\i (00:24:14) trapsize 1423
+\i (00:24:35) setwindow form.orcad_in
+\i (00:24:35) FORM orcad_in filename_browse  
+\i (00:24:38) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\SOJ_LLB.max"
+\i (00:24:40) FORM orcad_in execute  
+\t (00:24:40) Starting Performing Translation...
+\t (00:24:41) Opening existing drawing...
+\i (00:24:41) setwindow pcb
+\i (00:24:41) trapsize 1063
+\i (00:25:14) setwindow form.orcad_in
+\i (00:25:14) FORM orcad_in filename_browse  
+\i (00:25:17) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\TELE_LLB.max"
+\i (00:25:18) FORM orcad_in execute  
+\t (00:25:18) Starting Performing Translation...
+\t (00:25:20) Opening existing drawing...
+\i (00:25:20) setwindow pcb
+\i (00:25:20) trapsize 1064
+\i (00:25:39) setwindow form.orcad_in
+\i (00:25:39) FORM orcad_in filename_browse  
+\i (00:25:42) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\TM_AXIAL_LLB.max"
+\i (00:25:44) FORM orcad_in execute  
+\t (00:25:44) Starting Performing Translation...
+\t (00:25:46) Opening existing drawing...
+\i (00:25:46) setwindow pcb
+\i (00:25:46) trapsize 1949
+\i (00:26:09) setwindow form.orcad_in
+\i (00:26:09) FORM orcad_in filename_browse  
+\i (00:26:11) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\TM_CAP_P_LLB.max"
+\i (00:26:13) FORM orcad_in execute  
+\t (00:26:13) Starting Performing Translation...
+\t (00:26:15) Opening existing drawing...
+\i (00:26:15) setwindow pcb
+\i (00:26:15) trapsize 1967
+\i (00:26:35) setwindow form.orcad_in
+\i (00:26:35) FORM orcad_in filename_browse  
+\i (00:26:41) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\TM_CYLND_LLB.max"
+\i (00:26:42) FORM orcad_in execute  
+\t (00:26:42) Starting Performing Translation...
+\t (00:26:44) Opening existing drawing...
+\i (00:26:44) setwindow pcb
+\i (00:26:44) trapsize 1079
+\i (00:27:03) setwindow form.orcad_in
+\i (0

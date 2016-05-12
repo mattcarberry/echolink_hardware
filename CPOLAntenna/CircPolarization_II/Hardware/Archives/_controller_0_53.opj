@@ -1,0 +1,39 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\controller_0_53.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\controller_0_53.dsn")
+      (Path "Design Resources" ".\controller_0_53.dsn" "Interface Controller")
+      (Select "Design Resources" ".\controller_0_53.dsn" "Interface Controller"
+         "4 Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 255 0 525"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 132 1119 132 633")
+        (Scroll "427 575")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_0_53.DSN")
+      (Schematic "Interface Controller")
+      (Page "3 Status and Power")))
+  (MPSSessionName "petersen"))

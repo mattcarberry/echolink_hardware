@@ -1,0 +1,26 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  G:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_0.brd        |
+|                                                    Thu May 28 13:08:48 2015  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N14607577    pins MOVED FROM this net (to net name listed on right)
+                                 J1.3            13866.5  8317.8
+                                                                        N196050
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX_A         pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.3            13730.5  7539.8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX_E         pins ADDED TO this existing net (pins not previously on any net)
+                                 J4.3            13750.5  7944.8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX_A         pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.3            13862.5  8713.8
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  4                                              |
+|------------------------------------------------------------------------------|

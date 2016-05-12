@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="54"
+   id="svg7594"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="hw_antenne_0.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs7596" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.944444"
+     inkscape:cx="12"
+     inkscape:cy="27"
+     inkscape:document-units="px"
+     inkscape:current-layer="g11262"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1003"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7599">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hw_antenne_0</dc:title>
+        <dc:date>2008-05-22</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jean Cartier</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:language>fr-FR</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hardware</rdf:li>
+            <rdf:li>computer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jean-Victor Balin (jean.victor.balin@gmail.com)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>http://www.jcartier.net</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d=""
+       id="path8460" />
+    <path
+       style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d=""
+       id="path8462" />
+    <path
+       style="opacity:1;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d=""
+       id="path8464" />
+    <g
+       id="g11262"
+       transform="translate(-279.1135,-276.31506)">
+      <g
+         id="g5888">
+        <path
+           sodipodi:nodetypes="cccccccccccccccc"
+           id="path13409"
+           d="M 291.125,317.75 L 290.875,317.875 L 280.875,322.875 L 280.62407,323.73327 L 290.875,328.75 L 291.125,328.875 L 291.34375,328.75 L 301.34375,323.75 L 301.34375,322.875 L 291.34375,317.875 L 291.125,317.75 z M 291.125,318.875 L 300,323.3125 L 291.125,327.75 L 282.21875,323.3125 L 291.125,318.875 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccccsc"
+           id="path13411"
+           d="M 290.625,283.1875 C 290.625,283.1875 290.625,283.25 290.625,283.25 C 290.62498,283.25009 290.6103,283.79837 280.625,323.73954 L 281.34375,323.75 L 291.34375,318.75 L 291.625,318.625 L 291.625,318.3125 L 291.625,283.3125 L 290.625,283.1875 z M 290.625,287.3125 L 290.625,318 L 281.84375,322.375 C 286.54692,303.56235 289.13156,293.28624 290.34375,288.4375 C 290.50446,287.79464 290.50296,287.80068 290.625,287.3125 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccccccccc"
+           id="path13413"
+           d="M 291.59375,283.1875 L 290.625,283.3125 L 290.625,283.4375 L 290.625,328.3125 L 291.34375,328.75 L 301.34375,323.75 L 301.6875,323.59375 L 301.59375,323.1875 L 291.625,283.3125 L 291.59375,283.1875 z M 291.625,287.4375 L 300.53125,323.0625 L 291.625,327.5 L 291.625,287.4375 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+           id="path13415"
+           d="M 290.75,288.96875 L 288.75,290.96875 L 288.875,291.75 L 290.25,292.4375 L 288.1875,294.4375 L 288.28125,295.21875 L 290.21875,296.34375 L 286.8125,298.90625 L 286.875,299.75 L 290.15625,301.375 L 285.28125,304.90625 L 285.34375,305.75 L 290.15625,308.375 L 283.5625,312.90625 L 283.59375,313.75 L 289.96875,317.25 L 281.40625,320.84375 L 281.8125,321.78125 L 291.3125,317.78125 L 292.25,317.375 L 291.34375,316.875 L 284.78125,313.25 L 291.40625,308.71875 L 292.0625,308.25 L 291.34375,307.875 L 286.5,305.25 L 291.40625,301.71875 L 292.0625,301.25 L 291.34375,300.875 L 288.0625,299.21875 L 291.40625,296.71875 L 292,296.25 L 291.375,295.875 L 289.375,294.6875 L 291.46875,292.6875 L 291.96875,292.1875 L 291.34375,291.875 L 289.9375,291.1875 L 291.46875,289.65625 L 290.75,288.96875 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+           id="path13417"
+           d="M 291.46875,288.96875 L 290.75,289.65625 L 292.28125,291.1875 L 290.875,291.875 L 290.25,292.1875 L 290.78125,292.6875 L 292.84375,294.6875 L 290.875,295.875 L 290.21875,296.25 L 290.8125,296.71875 L 294.15625,299.21875 L 290.875,300.875 L 290.15625,301.25 L 290.8125,301.71875 L 295.71875,305.25 L 290.875,307.875 L 290.15625,308.25 L 290.84375,308.71875 L 297.4375,313.28125 L 290.875,316.875 L 289.96875,317.375 L 290.90625,317.78125 L 300.4375,321.78125 L 300.8125,320.84375 L 292.25,317.25 L 298.625,313.75 L 298.65625,312.90625 L 292.0625,308.375 L 296.875,305.75 L 296.9375,304.90625 L 292.0625,301.375 L 295.34375,299.75 L 295.40625,298.90625 L 292.03125,296.375 L 293.96875,295.21875 L 294.0625,294.4375 L 291.96875,292.4375 L 293.34375,291.75 L 293.46875,290.96875 L 291.46875,288.96875 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           id="path13419"
+           d="M 291.1135,280.82734 C 290.29097,280.82734 289.6135,281.50481 289.6135,282.32734 C 289.6135,283.14987 290.29097,283.82734 291.1135,283.82734 C 291.93603,283.82734 292.6135,283.14987 292.6135,282.32734 C 292.6135,281.50481 291.93603,280.82734 291.1135,280.82734 z M 291.1135,281.82734 C 291.39497,281.82734 291.6135,282.04587 291.6135,282.32734 C 291.6135,282.60881 291.39497,282.82734 291.1135,282.82734 C 290.83203,282.82734 290.6135,282.60881 290.6135,282.32734 C 290.6135,282.04587 290.83203,281.82734 291.1135,281.82734 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path13421"
+           d="M 294.34783,285.37234 C 296.05383,283.61057 295.99355,280.83088 294.25944,279.09677 C 292.50685,277.34418 289.64806,277.34419 287.89548,279.09677 C 286.1429,280.84935 286.14289,283.70814 287.89548,285.46073 L 288.60258,284.75362 C 287.23259,283.38362 287.23258,281.17388 288.60258,279.80387 C 289.97259,278.43387 292.18233,278.43388 293.55233,279.80387 C 294.90884,281.16038 294.88684,283.3755 293.55233,284.75362 L 294.34783,285.37234 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

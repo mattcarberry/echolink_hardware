@@ -1,0 +1,748 @@
+\t (00:00:05) allegro 16.2 p005 (v16-2-57E) i86
+\t (00:00:05) 
+
+\t (00:00:06) Opening existing drawing...
+\d (00:00:07) Database opened: C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Lib/local/templates/4x5_2_layer_B_template.brd
+\i (00:00:07) trapsize 738
+\i (00:00:07) trapsize 714
+\i (00:00:09) trapsize 714
+\i (00:00:09) etchedit 
+\i (00:00:16) opencd 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/8_cmpe174tutorial.brd' 
+\t (00:00:16) Opening existing drawing...
+\i (00:00:16) trapsize 292
+\d (00:00:16) Database opened: C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/8_cmpe174tutorial.brd
+\i (00:00:16) etchedit 
+\i (00:00:17) zoom out 0.100000 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 11275.3 8513.6 0.1
+\i (00:00:17) trapsize 321
+\i (00:00:18) zoom out 0.100000 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11275.3 8513.6 0.1
+\i (00:00:18) trapsize 353
+\i (00:00:18) zoom out 0.100000 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11275.4 8506.6 0.1
+\i (00:00:18) trapsize 389
+\i (00:00:18) zoom out 0.100000 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11275.4 8506.6 0.1
+\i (00:00:18) trapsize 427
+\i (00:00:19) zoom out 0.100000 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 11275.5 8506.6 0.1
+\i (00:00:19) trapsize 470
+\i (00:00:21) setwindow form.vf_vis
+\i (00:00:21) FORM vf_vis colorview_list File: ASB 
+\i (00:00:21) color -globvis off 
+\i (00:00:21) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:00:21) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:00:21) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:00:21) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:21) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:00:21) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:21) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:00:21) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:00:21) color -vis ETCH/BOTTOM 
+\i (00:00:21) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:00:21) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:00:21) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:00:21) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:00:21) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:21) color -vis PIN/BOTTOM 
+\i (00:00:21) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:00:21) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:00:22) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:00:22) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:22) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:00:22) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:22) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:22) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) trapsize 470
+\i (00:00:22) etchedit 
+\i (00:00:23) setwindow form.vf_vis
+\i (00:00:23) FORM vf_vis colorview_list File: AST 
+\i (00:00:23) color -globvis off 
+\i (00:00:23) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:00:23) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:00:23) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:00:23) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:23) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:00:23) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:23) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:23) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:00:23) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:00:23) color -vis ETCH/TOP 
+\i (00:00:23) color -vis ETCH/BOTTOM 
+\i (00:00:23) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:00:23) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:00:23) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:00:23) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:00:23) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:23) color -vis PIN/TOP 
+\i (00:00:23) color -vis PIN/BOTTOM 
+\i (00:00:23) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:00:23) color -vis PIN/SOLDERMASK_TOP 
+\i (00:00:23) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:23) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:00:23) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:23) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:00:23) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:23) color -vis 'VIA CLASS/TOP' 
+\i (00:00:23) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:23) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:23) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) trapsize 470
+\i (00:00:23) etchedit 
+\i (00:00:24) setwindow form.vf_vis
+\i (00:00:24) FORM vf_vis colorview_list File: AST_ASB 
+\i (00:00:24) color -globvis off 
+\i (00:00:24) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:00:24) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:00:24) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:00:24) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:24) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:00:24) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:24) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:24) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:00:24) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:00:24) color -vis ETCH/TOP 
+\i (00:00:24) color -vis ETCH/BOTTOM 
+\i (00:00:24) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:00:24) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:00:24) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:00:24) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:00:24) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:24) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:24) color -vis PIN/TOP 
+\i (00:00:24) color -vis PIN/BOTTOM 
+\i (00:00:24) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:00:24) color -vis PIN/SOLDERMASK_TOP 
+\i (00:00:24) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:00:24) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:24) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:00:24) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:24) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:00:24) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:24) color -vis 'VIA CLASS/TOP' 
+\i (00:00:24) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:24) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:24) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) trapsize 470
+\i (00:00:24) etchedit 
+\i (00:00:24) setwindow form.vf_vis
+\i (00:00:24) FORM vf_vis colorview_list File: Etch_only 
+\i (00:00:24) color -globvis off 
+\i (00:00:24) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:00:24) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:00:24) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:00:24) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:24) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:00:24) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:24) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:24) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:00:24) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:00:24) color -vis ETCH/TOP 
+\i (00:00:24) color -vis ETCH/BOTTOM 
+\i (00:00:24) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:00:24) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:00:24) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:00:24) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:00:24) color -vis PIN/TOP 
+\i (00:00:24) color -vis PIN/BOTTOM 
+\i (00:00:24) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:00:24) color -vis PIN/SOLDERMASK_TOP 
+\i (00:00:24) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:00:24) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:24) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:00:24) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:24) color -vis 'VIA CLASS/TOP' 
+\i (00:00:24) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:24) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:24) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) trapsize 470
+\i (00:00:24) etchedit 
+\i (00:00:25) setwindow form.vf_vis
+\i (00:00:25) FORM vf_vis colorview_list File: SSB_edit 
+\i (00:00:25) color -globvis off 
+\i (00:00:25) color -vis 'BOARD GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:00:25) color -vis 'COMPONENT VALUE/ASSEMBLY_TOP' 
+\i (00:00:25) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:00:25) color -vis PIN/BOTTOM 
+\i (00:00:25) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:00:25) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) trapsize 470
+\i (00:00:25) etchedit 
+\i (00:00:26) setwindow form.vf_vis
+\i (00:00:26) FORM vf_vis colorview_list File: SST_edit 
+\i (00:00:26) color -globvis off 
+\i (00:00:26) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:26) color -vis 'COMPONENT VALUE/ASSEMBLY_TOP' 
+\i (00:00:26) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:26) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) trapsize 470
+\i (00:00:26) etchedit 
+\i (00:00:27) setwindow form.vf_vis
+\i (00:00:27) FORM vf_vis colorview_list File: all_layers 
+\i (00:00:27) color -globvis off 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/NCROUTE_PATH' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/WB_GUIDE_LINE' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/OFF_GRID_AREA' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/ASSEMBLY_DETAIL' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/SWITCH_AREA_BOTTOM' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/SWITCH_AREA_TOP' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/BOTH_ROOMS' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/BOTTOM_ROOM' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/TOP_ROOM' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/PLACE_GRID_BOTTOM' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/PLACE_GRID_TOP' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/TOOLING_CORNERS' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/ASSEMBLY_NOTES' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/PLATING_BAR' 
+\i (00:00:27) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (00:00:27) color -vis 'COMPONENT VALUE/DISPLAY_BOTTOM' 
+\i (00:00:27) color -vis 'COMPONENT VALUE/DISPLAY_TOP' 
+\i (00:00:27) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (00:00:27) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:00:27) color -vis 'COMPONENT VALUE/ASSEMBLY_BOTTOM' 
+\i (00:00:27) color -vis 'COMPONENT VALUE/ASSEMBLY_TOP' 
+\i (00:00:27) color -vis 'DEVICE TYPE/DISPLAY_BOTTOM' 
+\i (00:00:27) color -vis 'DEVICE TYPE/DISPLAY_TOP' 
+\i (00:00:27) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (00:00:27) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:00:27) color -vis 'DEVICE TYPE/ASSEMBLY_BOTTOM' 
+\i (00:00:27) color -vis 'DEVICE TYPE/ASSEMBLY_TOP' 
+\i (00:00:27) color -vis 'DRAWING FORMAT/REVISION_DATA' 
+\i (00:00:27) color -vis 'DRAWING FORMAT/REVISION_BLOCK' 
+\i (00:00:27) color -vis 'DRAWING FORMAT/TITLE_DATA' 
+\i (00:00:27) color -vis 'DRAWING FORMAT/TITLE_BLOCK' 
+\i (00:00:27) color -vis 'DRAWING FORMAT/OUTLINE' 
+\i (00:00:27) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:27) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (00:00:27) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:27) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (00:00:27) color -vis 'DRC ERROR CLASS/PACKAGE_BOTTOM' 
+\i (00:00:27) color -vis 'DRC ERROR CLASS/PACKAGE_TOP' 
+\i (00:00:27) color -vis 'DRC ERROR CLASS/ALL' 
+\i (00:00:27) color -vis ETCH/TOP 
+\i (00:00:27) color -vis ETCH/BOTTOM 
+\i (00:00:27) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (00:00:27) color -vis MANUFACTURING/MARKUP 
+\i (00:00:27) color -vis MANUFACTURING/NO_PROBE_BOTTOM 
+\i (00:00:27) color -vis MANUFACTURING/NO_PROBE_TOP 
+\i (00:00:27) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (00:00:27) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (00:00:27) color -vis MANUFACTURING/PROBE_BOTTOM 
+\i (00:00:27) color -vis MANUFACTURING/PROBE_TOP 
+\i (00:00:27) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (00:00:27) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (00:00:27) color -vis MANUFACTURING/NO_GLOSS_INTERNAL 
+\i (00:00:27) color -vis MANUFACTURING/NO_GLOSS_BOTTOM 
+\i (00:00:27) color -vis MANUFACTURING/NO_GLOSS_TOP 
+\i (00:00:27) color -vis MANUFACTURING/NO_GLOSS_ALL 
+\i (00:00:27) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (00:00:27) color -vis ANALYSIS/PCB_TEMPERATURE 
+\i (00:00:27) color -vis ANALYSIS/HIGH_ISOCONTOUR 
+\i (00:00:27) color -vis ANALYSIS/MEDIUM3_ISOCONTOUR 
+\i (00:00:27) color -vis ANALYSIS/MEDIUM2_ISOCONTOUR 
+\i (00:00:27) color -vis ANALYSIS/MEDIUM1_ISOCONTOUR 
+\i (00:00:27) color -vis ANALYSIS/LOW_ISOCONTOUR 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/PASTEMASK_BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/PASTEMASK_TOP' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_TOP' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/MODULES' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/DISPLAY_BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/DISPLAY_TOP' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/SOLDERMASK_TOP' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/BODY_CENTER' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/PAD_STACK_NAME' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_TOP' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:27) color -vis 'PACKAGE KEEPIN/ALL' 
+\i (00:00:27) color -vis 'PACKAGE KEEPOUT/BOTTOM' 
+\i (00:00:27) color -vis 'PACKAGE KEEPOUT/TOP' 
+\i (00:00:27) color -vis 'PACKAGE KEEPOUT/ALL' 
+\i (00:00:27) color -vis PIN/TOP 
+\i (00:00:27) color -vis PIN/BOTTOM 
+\i (00:00:27) color -vis PIN/FILMMASKBOTTOM 
+\i (00:00:27) color -vis PIN/FILMMASKTOP 
+\i (00:00:27) color -vis PIN/PASTEMASK_BOTTOM 
+\i (00:00:27) color -vis PIN/PASTEMASK_TOP 
+\i (00:00:27) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:00:27) color -vis PIN/SOLDERMASK_TOP 
+\i (00:00:27) color -vis 'REF DES/DISPLAY_BOTTOM' 
+\i (00:00:27) color -vis 'REF DES/DISPLAY_TOP' 
+\i (00:00:27) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (00:00:27) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:00:27) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:00:27) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:27) color -vis 'ROUTE KEEPIN/ALL' 
+\i (00:00:27) color -vis 'ROUTE KEEPOUT/TOP' 
+\i (00:00:27) color -vis 'ROUTE KEEPOUT/BOTTOM' 
+\i (00:00:27) color -vis 'ROUTE KEEPOUT/ALL' 
+\i (00:00:27) color -vis TOLERANCE/DISPLAY_BOTTOM 
+\i (00:00:27) color -vis TOLERANCE/DISPLAY_TOP 
+\i (00:00:27) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (00:00:27) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:00:27) color -vis TOLERANCE/ASSEMBLY_BOTTOM 
+\i (00:00:27) color -vis TOLERANCE/ASSEMBLY_TOP 
+\i (00:00:27) color -vis 'USER PART NUMBER/DISPLAY_BOTTOM' 
+\i (00:00:27) color -vis 'USER PART NUMBER/DISPLAY_TOP' 
+\i (00:00:27) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (00:00:27) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:00:27) color -vis 'USER PART NUMBER/ASSEMBLY_BOTTOM' 
+\i (00:00:27) color -vis 'USER PART NUMBER/ASSEMBLY_TOP' 
+\i (00:00:27) color -vis 'VIA CLASS/TOP' 
+\i (00:00:27) color -vis 'VIA CLASS/BOTTOM' 
+\i (00:00:28) color -vis 'VIA CLASS/FILMMASKBOTTOM' 
+\i (00:00:28) color -vis 'VIA CLASS/FILMMASKTOP' 
+\i (00:00:28) color -vis 'VIA CLASS/PASTEMASK_BOTTOM' 
+\i (00:00:28) color -vis 'VIA CLASS/PASTEMASK_TOP' 
+\i (00:00:28) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:28) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:00:28) color -vis 'VIA KEEPOUT/TOP' 
+\i (00:00:28) color -vis 'VIA KEEPOUT/BOTTOM' 
+\i (00:00:28) color -vis 'VIA KEEPOUT/ALL' 
+\i (00:00:28) color -vis 'ANTI ETCH/TOP' 
+\i (00:00:28) color -vis 'ANTI ETCH/BOTTOM' 
+\i (00:00:28) color -vis 'ANTI ETCH/ALL' 
+\i (00:00:28) color -vis BOUNDARY/TOP 
+\i (00:00:28) color -vis BOUNDARY/BOTTOM 
+\i (00:00:28) color -vis BOUNDARY/ALL 
+\i (00:00:28) color -vis 'CONSTRAINT REGION/TOP' 
+\i (00:00:28) color -vis 'CONSTRAINT REGION/BOTTOM' 
+\i (00:00:28) color -vis 'CONSTRAINT REGION/INNER_PLANE_LAYERS' 
+\i (00:00:28) color -vis 'CONSTRAINT REGION/INNER_SIGNAL_LAYERS' 
+\i (00:00:28) color -vis 'CONSTRAINT REGION/OUTER_LAYERS' 
+\i (00:00:28) color -vis 'CONSTRAINT REGION/ALL' 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) trapsize 470
+\i (00:00:28) etchedit 
+\i (00:00:29) zoom out 0.100000 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 13099.7 6362.8 0.1
+\i (00:00:29) trapsize 517
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 13099.7 6362.8 0.1
+\i (00:00:30) trapsize 569
+\i (00:00:30) zoom out 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 13099.8 6362.8 0.1
+\i (00:00:30) trapsize 626
+\i (00:00:30) zoom in 0.100000 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 13099.7 6362.8 0.1
+\i (00:00:30) trapsize 569
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 13099.7 6362.9 0.1
+\i (00:00:31) trapsize 517
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 13099.7 6363.0 0.1
+\i (00:00:31) trapsize 470
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 13109.1 6325.4 0.1
+\i (00:00:31) trapsize 427
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 13117.6 6154.6 0.1
+\i (00:00:31) trapsize 389
+\i (00:00:31) zoom in 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 13117.6 6022.5 0.1
+\i (00:00:31) trapsize 353
+\i (00:00:31) zoom out 0.100000 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 13068.2 5944.9 0.1
+\i (00:00:31) trapsize 389
+\i (00:00:32) zoom out 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 13060.4 5952.7 0.1
+\i (00:00:32) trapsize 427
+\i (00:00:32) zoom out 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 13034.8 6004.0 0.1
+\i (00:00:32) trapsize 470
+\i (00:00:32) zoom out 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 13034.8 6004.0 0.1
+\i (00:00:32) trapsize 517
+\i (00:00:32) zoom in 0.100000 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 13034.8 6004.1 0.1
+\i (00:00:32) trapsize 470
+\i (00:00:33) zoom in 0.100000 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 13034.8 6013.5 0.1
+\i (00:00:33) trapsize 427
+\i (00:00:33) zoom in 0.100000 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 13034.8 6013.6 0.1
+\i (00:00:33) trapsize 389
+\i (00:00:33) zoom out 0.100000 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 13034.9 6013.7 0.1
+\i (00:00:33) trapsize 427
+\i (00:00:33) zoom out 0.100000 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 13034.8 6013.7 0.1
+\i (00:00:33) trapsize 470
+\i (00:00:34) zoom out 0.100000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 13034.8 6004.3 0.1
+\i (00:00:34) trapsize 517
+\i (00:00:34) zoom out 0.100000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 13034.8 6004.4 0.1
+\i (00:00:34) trapsize 569
+\i (00:00:34) zoom out 0.100000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 13034.9 6004.4 0.1
+\i (00:00:34) trapsize 626
+\i (00:00:34) zoom out 0.100000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 13034.9 6004.5 0.1
+\i (00:00:34) trapsize 688
+\i (00:00:34) zoom out 0.100000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 13007.4 5990.8 0.1
+\i (00:00:34) trapsize 757
+\i (00:00:34) zoom out 0.100000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 12962.0 6081.7 0.1
+\i (00:00:34) trapsize 833
+\i (00:00:34) zoom out 0.100000 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 12962.0 6081.7 0.1
+\i (00:00:34) trapsize 916
+\i (00:00:35) zoom out 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 13869.7 5200.7 0.1
+\i (00:00:35) trapsize 1008
+\i (00:00:35) zoom out 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 15256.7 4020.8 0.1
+\i (00:00:35) trapsize 1152
+\i (00:00:35) zoom out 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 17437.6 2165.3 0.1
+\i (00:00:35) trapsize 1152
+\i (00:00:35) zoom in 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 17437.6 2165.3 0.1
+\i (00:00:35) trapsize 1047
+\i (00:00:35) zoom in 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 16722.9 2165.4 0.1
+\i (00:00:35) trapsize 952
+\i (00:00:35) zoom in 0.100000 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 16722.9 2165.4 0.1
+\i (00:00:35) trapsize 865
+\i (00:00:36) zoom out 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 9350.4 8863.0 0.1
+\i (00:00:36) trapsize 952
+\i (00:00:36) zoom out 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 9092.8 9118.8 0.1
+\i (00:00:36) trapsize 1047
+\i (00:00:36) zoom out 0.100000 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 7802.1 9946.9 0.1
+\i (00:00:36) trapsize 1152
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10941.7 8085.3 0.1
+\i (00:00:37) trapsize 1047
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10817.5 8085.4 0.1
+\i (00:00:37) trapsize 952
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10817.5 8085.5 0.1
+\i (00:00:37) trapsize 865
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10817.5 8102.8 0.1
+\i (00:00:37) trapsize 787
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10817.6 8102.9 0.1
+\i (00:00:37) trapsize 715
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10817.6 8102.9 0.1
+\i (00:00:37) trapsize 650
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10817.6 8102.9 0.1
+\i (00:00:37) trapsize 591
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10817.6 8102.9 0.1
+\i (00:00:37) trapsize 537
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10882.2 8070.7 0.1
+\i (00:00:37) trapsize 488
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10882.2 8051.2 0.1
+\i (00:00:37) trapsize 444
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10882.2 8051.3 0.1
+\i (00:00:37) trapsize 404
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10882.2 8051.3 0.1
+\i (00:00:37) trapsize 367
+\i (00:00:37) zoom in 0.100000 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10882.3 8051.3 0.1
+\i (00:00:37) trapsize 334
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10889.0 8018.0 0.1
+\i (00:00:38) trapsize 303
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10913.2 7939.2 0.1
+\i (00:00:38) trapsize 276
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10891.2 7933.7 0.1
+\i (00:00:38) trapsize 251
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10891.3 7933.8 0.1
+\i (00:00:38) trapsize 228
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10891.2 7933.8 0.1
+\i (00:00:38) trapsize 207
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10891.2 7929.7 0.1
+\i (00:00:38) trapsize 188
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10891.3 7926.0 0.1
+\i (00:00:38) trapsize 171
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10894.7 7919.2 0.1
+\i (00:00:38) trapsize 156
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10897.9 7916.1 0.1
+\i (00:00:38) trapsize 141
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10897.9 7916.1 0.1
+\i (00:00:38) trapsize 129
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10897.9 7916.1 0.1
+\i (00:00:38) trapsize 117
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10897.9 7916.2 0.1
+\i (00:00:38) trapsize 106
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10897.9 7916.2 0.1
+\i (00:00:38) trapsize 97
+\i (00:00:38) zoom in 0.100000 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 10898.0 7916.3 0.1
+\i (00:00:38) trapsize 88
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10898.0 7916.3 0.1
+\i (00:00:39) trapsize 97
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10898.0 7916.3 0.1
+\i (00:00:39) trapsize 106
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10898.0 7916.3 0.1
+\i (00:00:39) trapsize 117
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10898.1 7916.4 0.1
+\i (00:00:39) trapsize 129
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10898.1 7916.4 0.1
+\i (00:00:39) trapsize 141
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10898.2 7916.5 0.1
+\i (00:00:39) trapsize 156
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10916.8 7932.1 0.1
+\i (00:00:39) trapsize 171
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10916.9 7928.7 0.1
+\i (00:00:39) trapsize 188
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10916.9 7928.8 0.1
+\i (00:00:39) trapsize 207
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10916.9 7928.8 0.1
+\i (00:00:39) trapsize 228
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10916.9 7924.3 0.1
+\i (00:00:39) trapsize 251
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10916.9 7924.3 0.1
+\i (00:00:39) trapsize 276
+\i (00:00:39) zoom out 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 10917.0 7924.4 0.1
+\i (00:00:39) trapsize 303
+\i (00:00:39) zoom in 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 10910.9 7936.5 0.1
+\i (00:00:39) trapsize 276
+\i (00:00:39) zoom in 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 10910.9 7936.6 0.1
+\i (00:00:39) trapsize 251
+\i (00:00:39) zoom in 0.100000 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 10910.8 7961.7 0.1
+\i (00:00:40) trapsize 228
+\i (00:00:40) zoom in 0.100000 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 10929.0 8021.0 0.1
+\i (00:00:40) trapsize 207
+\i (00:00:40) grid toggle 
+\t (00:00:41) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:41) etchedit 
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 10904.1 8153.6 0.1
+\t (00:00:42) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:42) trapsize 188
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 10904.2 8153.7 0.1
+\i (00:00:42) trapsize 171
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 10904.1 8153.7 0.1
+\i (00:00:42) trapsize 156
+\i (00:00:42) zoom in 0.100000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 10904.2 8153.7 0.1
+\i (00:00:42) trapsize 141
+\i (00:00:43) zoom in 0.100000 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 10938.1 8049.1 0.1
+\i (00:00:43) trapsize 129
+\i (00:00:43) zoom in 0.100000 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 10938.2 8049.1 0.1
+\i (00:00:43) trapsize 117
+\i (00:00:43) zoom in 0.100000 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 10938.2 8049.2 0.1
+\i (00:00:43) trapsize 106
+\i (00:00:44) zoom in 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 10936.1 8044.9 0.1
+\i (00:00:44) trapsize 97
+\i (00:00:44) zoom in 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 10936.2 8045.0 0.1
+\i (00:00:44) trapsize 88
+\i (00:00:44) zoom in 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 10936.2 8045.0 0.1
+\i (00:00:44) trapsize 80
+\i (00:00:44) zoom in 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 10936.3 8045.0 0.1
+\i (00:00:44) trapsize 73
+\i (00:00:44) zoom in 0.100000 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 10936.3 8045.0 0.1
+\i (00:00:44) trapsize 66
+\i (00:00:46) zoom out 0.100000 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 10936.4 8041.1 0.1
+\i (00:00:46) trapsize 73
+\i (00:00:46) zoom out 0.100000 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 10936.4 8038.2 0.1
+\i (00:00:46) trapsize 80
+\i (00:00:46) zoom out 0.100000 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 10936.4 8038.3 0.1
+\i (00:00:46) trapsize 88
+\i (00:00:47) zoom out 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 10936.4 8036.6 0.1
+\i (00:00:47) trapsize 97
+\i (00:00:47) zoom out 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 10936.5 8036.7 0.1
+\i (00:00:47) trapsize 106
+\i (00:00:47) zoom out 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 10936.4 8036.7 0.1
+\i (00:00:47) trapsize 117
+\i (00:00:47) zoom out 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 10936.5 8036.8 0.1
+\i (00:00:47) trapsize 129
+\i (00:00:47) zoom out 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 10936.4 8036.8 0.1
+\i (00:00:47) trapsize 141
+\i (00:00:48) zoom out 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 10936.5 8036.8 0.1
+\i (00:00:48) trapsize 156
+\i (00:00:48) zoom out 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 10936.5 8036.9 0.1
+\i (00:00:48) trapsize 171
+\i (00:04:02) exit 
+\f (00:04:02) Do you want to save the changes you made to 8_cmpe174tutorial.brd?
+\i (00:04:04) fillin no 

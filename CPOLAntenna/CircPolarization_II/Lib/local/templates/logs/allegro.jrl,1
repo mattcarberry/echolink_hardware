@@ -1,0 +1,163 @@
+\t (00:00:05) allegro 16.2 p005 (v16-2-57E) i86
+\t (00:00:05) 
+
+\t (00:00:06) Opening existing drawing...
+\d (00:00:06) Database opened: C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Lib/local/templates/4x5_2_layer_B_template.brd
+\i (00:00:07) trapsize 738
+\i (00:00:07) trapsize 714
+\i (00:00:08) trapsize 714
+\i (00:00:09) etchedit 
+\i (00:00:19) about 
+\i (00:00:28) new 
+\i (00:00:43) newdrawfillin "menu_cancel"
+\i (00:00:43) etchedit 
+\i (00:00:45) zoom out 0.100000 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 14068.2 12127.1 0.1
+\i (00:00:45) trapsize 786
+\i (00:00:46) zoom in 0.100000 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 13062.3 12378.6 0.1
+\i (00:00:46) trapsize 714
+\i (00:00:46) zoom in 0.100000 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 13062.3 12378.6 0.1
+\i (00:00:46) trapsize 649
+\i (00:00:46) zoom in 0.100000 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 13062.4 12378.6 0.1
+\i (00:00:46) trapsize 590
+\i (00:00:46) zoom in 0.100000 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 13003.5 12331.4 0.1
+\i (00:00:46) trapsize 537
+\i (00:00:47) zoom out 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 12724.4 12009.4 0.1
+\i (00:00:47) trapsize 590
+\i (00:00:47) zoom out 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 12724.4 12009.4 0.1
+\i (00:00:47) trapsize 649
+\i (00:00:47) zoom in 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 12724.4 12009.5 0.1
+\i (00:00:47) trapsize 590
+\i (00:00:47) zoom in 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 12724.4 12009.5 0.1
+\i (00:00:47) trapsize 537
+\i (00:00:47) zoom in 0.100000 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 12606.3 11794.9 0.1
+\i (00:00:47) trapsize 488
+\i (00:00:48) zoom out 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 12586.8 11765.6 0.1
+\i (00:00:48) trapsize 537
+\i (00:00:48) zoom out 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 12608.3 11851.6 0.1
+\i (00:00:48) trapsize 590
+\i (00:00:48) zoom out 0.100000 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 12608.4 11875.3 0.1
+\i (00:00:48) trapsize 649
+\i (00:00:57) cmgr 
+\i (00:00:58) setwindow cmgr
+\i (00:00:58) cm fetch DRC_IS_UPTODATE ( System "System" ) System
+\i (00:00:58) cm fetch ONLINE_DRC ( System "System" ) System
+\i (00:00:58) setwindow pcb
+\i (00:00:58) etchedit 
+\i (00:01:04) setwindow cmgr
+\i (00:01:04) cm newView ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 81:Line )
+\i (00:01:04) cm fetch SPACING_CONSTRAINT_SET ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch LINE_TO_THRUPIN_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_THRUPIN_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch LINE_TO_SMDPIN_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_SMDPIN_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch LINE_TO_TESTPIN_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_TESTPIN_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch LINE_TO_THRUVIA_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_THRUVIA_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch BBV_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch BBV_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch LINE_TO_TESTVIA_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_TESTVIA_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch MVIA_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch MVIA_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch LINE_TO_SHAPE_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch LINE_TO_SHAPE_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch BONDPAD_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch BONDPAD_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:04) cm fetch HOLE_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:04) cm fetch HOLE_TO_LINE_SPACING ( Design "4x5_2_layer_B_template" ) "Spacing CSet"
+\i (00:01:07) cm select ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 81:Line )
+\i (00:01:07) cm select ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 81:Line )
+\i (00:01:07) cm select ( worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" 81:Line )
+\i (00:01:08) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "58:All Layers" )
+\i (00:01:08) cm fetch PHYSICAL_CONSTRAINT_SET ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch MIN_LINE_WIDTH ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch MIN_LINE_WIDTH ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch MAX_LINE_WIDTH ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch MAX_LINE_WIDTH ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch MIN_NECK_WIDTH ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch MIN_NECK_WIDTH ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch MAXIMUM_NECK_LENGTH ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch MAXIMUM_NECK_LENGTH ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch DIFFP_MIN_SPACE ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch DIFFP_MIN_SPACE ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch DIFFP_PRIMARY_GAP ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch DIFFP_PRIMARY_GAP ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch DIFFP_NECK_GAP ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch DIFFP_COUPLED_PLUS ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch DIFFP_COUPLED_PLUS ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch DIFFP_COUPLED_MINUS ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch DIFFP_COUPLED_MINUS ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch DIFFP_NECK_GAP ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:08) cm fetch VIA_LIST ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:08) cm fetch VIA_LIST ( Design "4x5_2_layer_B_template" ) "Physical CSet"
+\i (00:01:19) cm newView ( worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR_MARGIN ( Design "4x5_2_layer_B_template" ) Design
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR_MARGIN ( Design "4x5_2_layer_B_template" ) XNet
+\i (00:01:19) cm fetch ELECTRICAL_CONSTRAINT_SET ( Design "4x5_2_layer_B_template" ) XNet
+\i (00:01:19) cm fetch ELECTRICAL_CONSTRAINT_SET ( Design "4x5_2_layer_B_template" ) "Diff Pair"
+\i (00:01:19) cm fetch ELECTRICAL_CONSTRAINT_SET ( Design "4x5_2_layer_B_template" ) "Net Class"
+\i (00:01:19) cm fetch ELECTRICAL_CONSTRAINT_SET ( Design "4x5_2_layer_B_template" ) Bus
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR ( Design "4x5_2_layer_B_template" ) XNet
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR_MARGIN ( Design "4x5_2_layer_B_template" ) Net
+\i (00:01:19) cm fetch ELECTRICAL_CONSTRAINT_SET ( Design "4x5_2_layer_B_template" ) Net
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR ( Design "4x5_2_layer_B_template" ) Net
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR_MARGIN ( Design "4x5_2_layer_B_template" ) "Diff Pair"
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR ( Design "4x5_2_layer_B_template" ) "Diff Pair"
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR_MARGIN ( Design "4x5_2_layer_B_template" ) Bus
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR ( Design "4x5_2_layer_B_template" ) Bus
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR_MARGIN ( Design "4x5_2_layer_B_template" ) "Net Class"
+\i (00:01:19) cm fetch ECSET_MAPPING_ERROR ( Design "4x5_2_layer_B_template" ) "Net Class"
+\i (00:01:23) cm newView ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:01:25) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:01:25) cm select ( worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:01:26) cm newView ( worksheet 53:Electrical "1:Electrical Constraint Set" "2:Signal Integrity" "3:Reflection/Edge Distortions" )
+\i (00:01:43) cm setColumnFilter ( column 53:Electrical "1:Electrical Constraint Set" "2:Signal Integrity" 4:Xtalk/SSN 0:Type ) *
+\i (00:01:43) cm select tab 4:Xtalk/SSN
+\i (00:01:46) cm select ( worksheet 53:Electrical "1:Electrical Constraint Set" "2:Signal Integrity" 4:Xtalk/SSN )
+\i (00:01:48) cm newView ( worksheet 53:Electrical "1:Electrical Constraint Set" 5:Timing "6:Switch/Settle Delays" )
+\i (00:01:50) cm select ( worksheet 53:Electrical "1:Electrical Constraint Set" 5:Timing "6:Switch/Settle Delays" )
+\i (00:01:51) cm newView ( worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:01:54) cm setColumnFilter ( column 53:Electrical "1:Electrical Constraint Set" 7:Routing 9:Impedance 0:Type ) *
+\i (00:01:54) cm select tab 9:Impedance
+\i (00:01:58) cm setColumnFilter ( column 53:Electrical "1:Electrical Constraint Set" 7:Routing "10:Min/Max Propagation Delays" 0:Type ) *
+\i (00:01:58) cm select tab "10:Min/Max Propagation Delays"
+\i (00:02:02) cm setColumnFilter ( column 53:Electrical "1:Electrical Constraint Set" 7:Routing "31:Total Etch Length" 0:Type ) *
+\i (00:02:02) cm select tab "31:Total Etch Length"
+\i (00:02:05) cm setColumnFilter ( column 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" 0:Type ) *
+\i (00:02:05) cm select tab "32:Differential Pair"
+\i (00:02:08) cm setColumnFilter ( column 53:Electrical "1:Electrical Constraint Set" 7:Routing "11:Relative Propagation Delay" 0:Type ) *
+\i (00:02:08) cm select tab "11:Relative Propagation Delay"
+\i (00:02:40) cm exit
+\i (00:04:20) setwindow pcb
+\i (00:04:20) exit 
+\f (00:04:20) Do you want to save the changes you made to 4x5_2_layer_B_template.brd?
+\i (00:04:22) fillin no 

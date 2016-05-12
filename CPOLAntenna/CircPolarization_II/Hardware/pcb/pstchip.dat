@@ -1,0 +1,447 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.3.0 p002Jun-15-2011 at 09:40:41}
+primitive 'C NP_SMC1210_1NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC1210';
+    VALUE='1nF';
+  end_body;
+end_primitive;
+primitive 'C NP_SMC0805_10NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC0805';
+    VALUE='10nF';
+  end_body;
+end_primitive;
+primitive 'C POL_EIAC_SMCT6032_12_47UF / T';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C POL';
+    JEDEC_TYPE='EIAC_SMCT6032_12';
+    VALUE='47uF / Tant';
+  end_body;
+end_primitive;
+primitive 'C NP_SMC0805_100N';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC0805';
+    VALUE='100n';
+  end_body;
+end_primitive;
+primitive 'C NP_SMC0805_1U';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC0805';
+    VALUE='1u';
+  end_body;
+end_primitive;
+primitive 'C NP_SMC0805_1NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C NP';
+    JEDEC_TYPE='SMC0805';
+    VALUE='1nF';
+  end_body;
+end_primitive;
+primitive 'TESTPOINT_BCON_1X1V_SQ_52D_TEST';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TestPoint';
+    JEDEC_TYPE='BCON_1X1V_SQ_52D';
+    VALUE='TestPoint';
+  end_body;
+end_primitive;
+primitive 'PIN DIODE_0_UM750XE_UM7504E';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Pin Diode_0';
+    JEDEC_TYPE='UM750XE';
+    VALUE='UM7504E';
+  end_body;
+end_primitive;
+primitive '1N4148_0_SMSOD123_1N4148';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='1N4148_0';
+    JEDEC_TYPE='SMSOD123';
+    VALUE='1N4148';
+  end_body;
+end_primitive;
+primitive 'DIODE SCHOTTKY_DAX400_38D_1N581';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE SCHOTTKY';
+    JEDEC_TYPE='DAX400_38D';
+    VALUE='1N5818';
+  end_body;
+end_primitive;
+primitive 'LED_SMSOD123_GRN';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='SMSOD123';
+    VALUE='GRN';
+  end_body;
+end_primitive;
+primitive '2X10HEADER_2_BCON_5X2V_100S_42D';
+  pin
+    '01':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '02':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '03':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '04':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '05':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '06':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '07':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '08':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '09':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='2x10Header_2';
+    JEDEC_TYPE='BCON_5X2V_100S_42D';
+    VALUE='2x10Header';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR/SM_0_AX400_35D_2UH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR/SM_0';
+    JEDEC_TYPE='AX400_35D';
+    VALUE='2uH';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR_AX400_35D_2UH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR';
+    JEDEC_TYPE='AX400_35D';
+    VALUE='2uH';
+  end_body;
+end_primitive;
+primitive 'COAX CONNECTOR_0_USTRIP2COAX_TP';
+  pin
+    'CENTER 1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'SHLD':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Coax Connector_0';
+    JEDEC_TYPE='USTRIP2Coax';
+    VALUE='TPADS';
+  end_body;
+end_primitive;
+primitive '2N2222_TO92R100_2N2222';
+  pin
+    'COLLECTOR':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'EMITTER':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'BASE':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='2N2222';
+    JEDEC_TYPE='TO92R100';
+    VALUE='2N2222';
+  end_body;
+end_primitive;
+primitive 'R SMALL_SMR2010_240';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R small';
+    JEDEC_TYPE='SMR2010';
+    VALUE='240';
+  end_body;
+end_primitive;
+primitive 'R SMALL_SMR0805_2.2K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R small';
+    JEDEC_TYPE='SMR0805';
+    VALUE='2.2k';
+  end_body;
+end_primitive;
+primitive 'R SMALL_SMR0805_4.7K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R small';
+    JEDEC_TYPE='SMR0805';
+    VALUE='4.7k';
+  end_body;
+end_primitive;
+primitive 'R_3_SMR0805_330';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_3';
+    JEDEC_TYPE='SMR0805';
+    VALUE='330';
+  end_body;
+end_primitive;
+primitive 'R SMALL_SMR0805_510';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R small';
+    JEDEC_TYPE='SMR0805';
+    VALUE='510';
+  end_body;
+end_primitive;
+primitive 'R SMALL_SMR0805_22K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R small';
+    JEDEC_TYPE='SMR0805';
+    VALUE='22k';
+  end_body;
+end_primitive;
+primitive 'R SMALL_SMR0805_10K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R small';
+    JEDEC_TYPE='SMR0805';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive '754410_DIP100_16_W300_L800_7544';
+  pin
+    '1A':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    '2A':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+    '1B':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(*)';
+    '2B':
+      PIN_NUMBER='(15)';
+      INPUT_LOAD='(*)';
+    'ENA':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'ENB':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+    '1A_O':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+    '2A_O':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(*)';
+    '1B_O':
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(*)';
+    '2B_O':
+      PIN_NUMBER='(14)';
+      OUTPUT_LOAD='(*)';
+    'GND#4':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'GND#5':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'GND#13':
+      PIN_NUMBER='(13)';
+      PINUSE='POWER';
+    'GND#12':
+      PIN_NUMBER='(12)';
+      PINUSE='POWER';
+    '+VCC1':
+      PIN_NUMBER='(16)';
+      PINUSE='POWER';
+    '+VCC2':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='754410';
+    JEDEC_TYPE='DIP100_16_W300_L800';
+    VALUE='754410';
+  end_body;
+end_primitive;
+primitive '78L05/TO92_1_TO92R100_78L05';
+  pin
+    'IN':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'OUT':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='78L05/TO92_1';
+    JEDEC_TYPE='TO92R100';
+    VALUE='78L05';
+  end_body;
+end_primitive;
+END.

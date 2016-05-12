@@ -1,0 +1,16 @@
+\t (00:00:34) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:34)     Journal start - Sun Jun 07 14:37:18 2015
+\t (00:00:34)         Host=OWNER-PC130616 User=Owner Pid=1175428 CPUs=8
+\t (00:00:34) 
+\d (00:00:34) Database opened: G:/Users/Owner/Dropbox/SeniorDesign/Designs/LinkingInterface_V2_6/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_7.brd
+\i (00:00:34) generaledit 
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 2296.3 1136.3
+\i (00:00:35) trapsize 489
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 1687.0 4168.9
+\i (00:00:35) trapsize 245
+\i (00:00:37) exit 
+\t (00:00:37)     Journal end - Sun Jun 07 14:37:22 2015

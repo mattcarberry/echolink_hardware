@@ -1,0 +1,53 @@
+\t (00:00:01) allegro 16.3 S028 (v16-3-85BV) i86
+\t (00:00:01) 
+
+\t (00:00:04) Starting new drawing...
+\i (00:00:04) trapsize 1090
+\i (00:00:04) trapsize 1055
+\i (00:00:04) trapsize 1041
+\i (00:00:04) trapsize 1022
+\i (00:00:04) trapsize 1213
+\i (00:00:04) generaledit 
+\i (00:00:13) open 
+\i (00:00:41) fillin "menu_cancel"
+\i (00:00:41) generaledit 
+\i (00:00:47) orcad in 
+\i (00:00:49) setwindow form.orcad_in
+\i (00:00:49) FORM orcad_in filename_browse  
+\i (00:00:56) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\processed\BCON156T_LLB.max"
+\i (00:00:58) FORM orcad_in execute  
+\t (00:00:58) Starting Performing Translation...
+\t (00:01:00) Opening existing drawing...
+\i (00:01:00) setwindow pcb
+\i (00:01:00) trapsize 1948
+\i (00:01:00) setwindow form.orcad_in
+\i (00:01:00) FORM orcad_in cancel  
+\i (00:01:01) setwindow pcb
+\i (00:01:01) generaledit 
+\i (00:01:05) open 
+\f (00:01:05) Do you want to save the changes you made to C:/Cadence/SPB_16.3/share/pcb/pcb_lib_Orcad/symbols/BCON156T/unnamed.brd?
+\i (00:01:08) fillin no 
+\i (00:01:15) fillin "menu_cancel"
+\i (00:01:15) generaledit 
+\i (00:01:21) open 
+\f (00:01:21) Do you want to save the changes you made to C:/Cadence/SPB_16.3/share/pcb/pcb_lib_Orcad/symbols/BCON156T/unnamed.brd?
+\i (00:01:24) fillin no 
+\i (00:01:56) fillin "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\symbols\BGA\BGA6M10020B60W700.dra"
+\i (00:01:56) cd "C:\Cadence\SPB_16.3\share\pcb\pcb_lib_Orcad\symbols\BGA"
+\t (00:01:56) Opening existing drawing...
+\i (00:01:56) trapsize 78
+\i (00:01:56) trapsize 109
+\d (00:01:56) Database opened: C:/Cadence/SPB_16.3/share/pcb/pcb_lib_Orcad/symbols/BGA/BGA6M10020B60W700.dra
+\i (00:01:56) generaledit 
+\i (00:02:09) open 
+\i (00:02:20) fillin "menu_cancel"
+\i (00:02:20) generaledit 
+\i (00:02:22) open 
+\i (00:02:25) fillin "menu_cancel"
+\i (00:02:25) generaledit 
+\i (00:02:31) etchedit 
+\i (00:02:32) generaledit 
+\i (00:02:33) generaledit 
+\i (00:02:33) generaledit 
+\i (00:02:34) etchedit 
+\i (00:02:42) exit 

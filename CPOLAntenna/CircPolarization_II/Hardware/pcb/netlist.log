@@ -1,0 +1,22 @@
+{ Using PSTWRITER 16.3.0 p002Jun-15-2011 at 09:40:41 }
+
+#1 Warning [ALG0016] Part Name "C POL_EIAC_SMCT6032_12_47UF / TANT" is renamed to "C POL_EIAC_SMCT6032_12_47UF / T".
+#2 Warning [ALG0016] Part Name "TESTPOINT_BCON_1X1V_SQ_52D_TESTPOINT" is renamed to "TESTPOINT_BCON_1X1V_SQ_52D_TEST".
+#3 Warning [ALG0016] Part Name "DIODE SCHOTTKY_DAX400_38D_1N5818" is renamed to "DIODE SCHOTTKY_DAX400_38D_1N581".
+#4 Warning [ALG0016] Part Name "2X10HEADER_2_BCON_5X2V_100S_42D_2X10HEADER" is renamed to "2X10HEADER_2_BCON_5X2V_100S_42D".
+#5 Warning [ALG0016] Part Name "COAX CONNECTOR_0_USTRIP2COAX_TPADS" is renamed to "COAX CONNECTOR_0_USTRIP2COAX_TP".
+#6 Warning [ALG0016] Part Name "754410_DIP100_16_W300_L800_754410" is renamed to "754410_DIP100_16_W300_L800_7544".
+#7 Warning [ALG0051] Pin "Gnd" is renamed to "GND#4" as visible power pin of same name already exists in Package 754410 , U1: Schematics, 1 Cpol Controller (5.46, 3.64).
+#8 Warning [ALG0051] Pin "Gnd" is renamed to "GND#5" as visible power pin of same name already exists in Package 754410 , U1: Schematics, 1 Cpol Controller (5.46, 3.64).
+#9 Warning [ALG0051] Pin "Gnd" is renamed to "GND#13" as visible power pin of same name already exists in Package 754410 , U1: Schematics, 1 Cpol Controller (5.46, 3.64).
+#10 Warning [ALG0051] Pin "Gnd" is renamed to "GND#12" as visible power pin of same name already exists in Package 754410 , U1: Schematics, 1 Cpol Controller (5.46, 3.64).
+Scanning netlist files ...
+
+Loading... c:\amateur radio\projects\circpolarization\hardware\PCB/pstchip.dat
+
+Loading... c:\amateur radio\projects\circpolarization\hardware\PCB/pstchip.dat
+
+Loading... c:\amateur radio\projects\circpolarization\hardware\PCB/pstxprt.dat
+
+Loading... c:\amateur radio\projects\circpolarization\hardware\PCB/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,630 @@
+\t (00:00:04) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:04)     Journal start - Mon Jun 08 17:08:11 2015
+\t (00:00:04)         Host=SRDSNPC18 User=tgbodkin Pid=4576 CPUs=4
+\t (00:00:04) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/Users/tgbodkin/Desktop/LinkingInterface_V2_8_ProjectFiles/LinkingInterface_V2_8_ProjectFiles/LinkingInterface_V2_8/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_10.brd
+\i (00:00:08) trapsize 260
+\i (00:00:08) trapsize 256
+\i (00:00:08) trapsize 261
+\i (00:00:08) trapsize 264
+\i (00:00:08) trapsize 264
+\i (00:00:08) generaledit 
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 3715.9 1575.7
+\i (00:00:09) trapsize 132
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3702.7 1581.0
+\i (00:00:10) trapsize 264
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 3692.1 1586.3
+\i (00:00:10) trapsize 132
+\i (00:00:10) roam start
+\i (00:00:10) roam x -80
+\i (00:00:10) roam y -16
+\i (00:00:10) roam x -176
+\i (00:00:10) roam y -48
+\i (00:00:10) roam x -112
+\i (00:00:10) roam y -16
+\i (00:00:11) roam x -64
+\i (00:00:11) roam y -64
+\i (00:00:11) roam x -16
+\i (00:00:11) roam y -64
+\i (00:00:11) roam x -32
+\i (00:00:11) roam y -48
+\i (00:00:11) roam y -32
+\i (00:00:11) roam x -16
+\i (00:00:11) roam y -48
+\i (00:00:11) roam y -48
+\i (00:00:11) roam y -48
+\i (00:00:11) roam x 32
+\i (00:00:11) roam y -80
+\i (00:00:11) roam x 48
+\i (00:00:11) roam y -96
+\i (00:00:11) roam x 32
+\i (00:00:11) roam y -64
+\i (00:00:11) roam x 16
+\i (00:00:11) roam y -16
+\i (00:00:11) roam x 16
+\i (00:00:11) roam y 48
+\i (00:00:11) roam y 16
+\i (00:00:11) roam y 16
+\i (00:00:12) roam y 16
+\i (00:00:12) roam x 16
+\i (00:00:12) roam y 16
+\i (00:00:12) roam y 16
+\i (00:00:12) roam x 16
+\i (00:00:12) roam end
+\i (00:00:58) roam start
+\i (00:00:58) roam y 64
+\i (00:00:58) roam y 32
+\i (00:00:58) roam x 16
+\i (00:00:58) roam y 48
+\i (00:00:58) roam y 32
+\i (00:00:58) roam x 16
+\i (00:00:58) roam y 32
+\i (00:00:58) roam y 48
+\i (00:00:58) roam y 32
+\i (00:00:58) roam y 16
+\i (00:00:58) roam y 48
+\i (00:00:58) roam y 48
+\i (00:00:58) roam y 32
+\i (00:00:58) roam y 48
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 32
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:00:59) roam y 16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -32
+\i (00:01:00) roam y -32
+\i (00:01:00) roam y -48
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam y 32
+\i (00:01:00) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam y 16
+\i (00:01:01) roam end
+\i (00:01:05) roam start
+\i (00:01:05) roam y 32
+\i (00:01:05) roam y 32
+\i (00:01:05) roam y 32
+\i (00:01:06) roam y -16
+\i (00:01:07) roam y -16
+\i (00:01:07) roam x 16
+\i (00:01:07) roam y -16
+\i (00:01:07) roam end
+\i (00:01:26) roam start
+\i (00:01:26) roam y 80
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 32
+\i (00:01:27) roam x -16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 48
+\i (00:01:27) roam end
+\i (00:03:28) pick grid 130.0 1089.3
+\t (00:03:28) last pick:  130.0  1089.0
+\i (00:03:28) zoom out 1 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom out 825.1 1105.2
+\i (00:03:28) trapsize 264
+\i (00:03:28) zoom out 1 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom out 851.5 1089.3
+\i (00:03:28) trapsize 529
+\i (00:03:29) zoom out 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom out 2647.9 2400.3
+\i (00:03:29) trapsize 978
+\i (00:03:29) zoom in 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom in 3222.1 5639.9
+\i (00:03:29) trapsize 489
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 2235.9 4368.4
+\i (00:03:30) trapsize 978
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in 3085.2 2040.3
+\i (00:03:30) trapsize 489
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in 2167.4 2333.8
+\i (00:03:30) trapsize 245
+\i (00:03:33) color192 
+\i (00:03:33) setwindow cvf.dialog
+\i (00:03:33) cvf layer_mode
+\i (00:03:33) setwindow pcb
+\i (00:03:33) generaledit 
+\i (00:03:35) setwindow cvf.dialog
+\i (00:03:35) cvf global_visible
+\i (00:03:36) cvf apply
+\i (00:03:37) cvf okay
+\i (00:03:37) setwindow pcb
+\i (00:03:37) pick grid 3610.2 2822.9
+\t (00:03:37) last pick:  3610.0  2823.0
+\i (00:03:42) artwork 
+\i (00:03:43) setwindow form.film_control
+\i (00:03:43) FORM film_control general_parameters  
+\i (00:03:47) FORM film_control filename_prefix LinkingInterface_v2_10_ 
+\i (00:03:47) FORM film_control film_control  
+\i (00:03:49) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:03:49) FORM film_control filmtree 'MULTISEL YES' MECH 
+\i (00:03:49) FORM film_control filmtree  MECH 
+\i (00:03:49) FORM film_control filmtree 'MULTISEL YES' SMB 
+\i (00:03:49) FORM film_control filmtree  SMB 
+\i (00:03:50) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:03:50) FORM film_control filmtree  SMT 
+\i (00:03:50) FORM film_control filmtree 'MULTISEL YES' SSB 
+\i (00:03:50) FORM film_control filmtree  SSB 
+\i (00:03:51) FORM film_control filmtree 'MULTISEL YES' SST 
+\i (00:03:51) FORM film_control filmtree  SST 
+\i (00:03:52) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:03:52) FORM film_control filmtree  TOP 
+\i (00:03:53) FORM film_control create  
+\t (00:03:53) Checking db records
+\t (00:03:53)     checking for orphans...
+\t (00:03:53)     Checked 100 percent
+\w (00:03:53) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:03:53) Done dbdoctor.
+\t (00:03:53) Starting Create artwork films...
+\w (00:03:53) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:03:54) Artwork generated with warnings.
+\i (00:04:15) FORM film_control cancel  
+\i (00:04:15) setwindow pcb
+\i (00:04:15) generaledit 
+\i (00:04:16) pick grid 4681.2 3556.5
+\t (00:04:16) last pick:  4681.0  3557.0
+\i (00:04:16) zoom in 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom in 3962.3 3703.2
+\i (00:04:16) trapsize 122
+\i (00:04:16) zoom in 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom in 3962.3 3703.2
+\i (00:04:16) trapsize 61
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in 3495.3 3524.7
+\i (00:04:17) trapsize 31
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in 3495.3 3524.7
+\i (00:04:17) trapsize 15
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 3495.3 3524.7
+\i (00:04:17) trapsize 31
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 3495.3 3524.7
+\i (00:04:17) trapsize 61
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 3495.3 3523.6
+\i (00:04:17) trapsize 122
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 3495.4 3523.5
+\i (00:04:17) trapsize 245
+\i (00:04:19) setwindow form.mini
+\i (00:04:19) FORM mini subcolor 0 
+\i (00:04:19) FORM mini subcolor 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) roam start
+\i (00:04:20) roam x -80
+\i (00:04:20) roam x -16
+\i (00:04:20) roam x -48
+\i (00:04:20) roam x -48
+\i (00:04:20) roam x -16
+\i (00:04:20) roam x -48
+\i (00:04:20) roam y 16
+\i (00:04:20) roam x -16
+\i (00:04:20) roam end
+\i (00:04:23) artwork 
+\i (00:04:25) setwindow form.film_control
+\i (00:04:25) FORM film_control filmtree 'MULTISEL YES' MECH 
+\i (00:04:25) FORM film_control filmtree  MECH 
+\i (00:04:26) FORM film_control create  
+\t (00:04:26) Checking db records
+\t (00:04:26)     checking for orphans...
+\t (00:04:26)     Checked 100 percent
+\w (00:04:26) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:04:26) Done dbdoctor.
+\t (00:04:26) Starting Create artwork films...
+\w (00:04:26) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:04:27) Artwork generated with warnings.
+\i (00:04:33) setwindow text
+\i (00:04:33) close 
+\i (00:04:35) setwindow form.film_control
+\i (00:04:35) FORM film_control filmtree 'MULTISEL NO' MECH 
+\i (00:04:35) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:04:35) FORM film_control filmtree  BOTTOM 
+\i (00:04:36) FORM film_control filmtree 'MULTISEL YES' SMB 
+\i (00:04:36) FORM film_control filmtree  SMB 
+\i (00:04:36) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:04:36) FORM film_control filmtree  SMT 
+\i (00:04:37) FORM film_control filmtree 'MULTISEL YES' SSB 
+\i (00:04:37) FORM film_control filmtree  SSB 
+\i (00:04:37) FORM film_control filmtree 'MULTISEL YES' SST 
+\i (00:04:37) FORM film_control filmtree  SST 
+\i (00:04:38) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:04:38) FORM film_control filmtree  TOP 
+\i (00:04:38) FORM film_control create  
+\t (00:04:38) Starting Create artwork films...
+\w (00:04:39) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:04:40) Artwork generated with warnings.
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out 8.4 3565.8
+\i (00:04:41) trapsize 489
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out -2292.4 3565.9
+\i (00:04:41) trapsize 978
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out -5737.6 5718.1
+\i (00:04:41) trapsize 978
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out -5737.6 5718.1
+\i (00:04:41) trapsize 978
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out -5737.6 5718.1
+\i (00:04:41) trapsize 978
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out -5737.6 5718.1
+\i (00:04:41) trapsize 978
+\i (00:04:41) zoom in 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom in -5737.6 5718.1
+\i (00:04:41) trapsize 489
+\i (00:04:42) zoom in 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in -5737.6 5718.2
+\i (00:04:42) trapsize 245
+\i (00:04:42) zoom in 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in -5737.6 5718.2
+\i (00:04:42) trapsize 122
+\i (00:04:42) zoom in 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in -5737.6 5718.2
+\i (00:04:42) trapsize 61
+\i (00:04:42) zoom out 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out -5737.6 5718.3
+\i (00:04:42) trapsize 122
+\i (00:04:42) zoom out 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out -5737.6 5718.2
+\i (00:04:42) trapsize 245
+\i (00:04:42) zoom out 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out -5737.6 5718.2
+\i (00:04:42) trapsize 489
+\i (00:04:43) zoom out 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom out 1393.0 2353.5
+\i (00:04:43) trapsize 978
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 4063.3 -698.4
+\i (00:04:43) trapsize 489
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out 2265.2 905.7
+\i (00:04:44) trapsize 978
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 3006.9 2529.4
+\i (00:04:44) trapsize 489
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 1766.4 2353.3
+\i (00:04:44) trapsize 245
+\i (00:05:04) pick grid 3947.6 2989.1
+\t (00:05:04) last pick:  3948.0  2989.0
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 3370.6 2974.4
+\i (00:05:04) trapsize 122
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 3368.1 2974.5
+\i (00:05:04) trapsize 61
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 3368.1 2974.5
+\i (00:05:04) trapsize 31
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 3368.1 2974.5
+\i (00:05:04) trapsize 15
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 3368.1 2974.5
+\i (00:05:04) trapsize 8
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 3368.1 2974.6
+\i (00:05:04) trapsize 4
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 3368.2 2974.6
+\i (00:05:04) trapsize 2
+\i (00:05:05) setwindow form.film_control
+\i (00:05:05) FORM film_control cancel  
+\i (00:05:05) setwindow pcb
+\i (00:05:05) generaledit 
+\i (00:05:06) zoom center 467.4 1993.7 
+\t (00:05:06) zoom center on 467.4 1993.7
+\i (00:05:06) generaledit 
+\i (00:05:08) pick grid 465.9 1998.9
+\t (00:05:08) last pick:  466.0  1999.0
+\i (00:05:08) zoom out 1 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) zoom out 465.9 1998.9
+\i (00:05:08) trapsize 4
+\i (00:05:08) zoom out 1 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) zoom out 465.9 1998.9
+\i (00:05:08) trapsize 8
+\i (00:05:08) zoom out 1 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) zoom out 465.9 1999.0
+\i (00:05:08) trapsize 15
+\i (00:05:09) zoom out 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 466.0 1998.9
+\i (00:05:09) trapsize 31
+\i (00:05:09) zoom out 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 466.0 1999.0
+\i (00:05:09) trapsize 61
+\i (00:05:09) zoom out 1 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 465.9 1998.9
+\i (00:05:09) trapsize 122
+\i (00:05:19) pick grid 580.9 2131.0
+\t (00:05:19) last pick:  581.0  2131.0
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.7 2008.7
+\i (00:05:19) trapsize 61
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.7 2008.7
+\i (00:05:19) trapsize 31
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.7 2008.7
+\i (00:05:19) trapsize 15
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.7 2008.7
+\i (00:05:19) trapsize 8
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.7 2008.8
+\i (00:05:19) trapsize 4
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.8 2008.8
+\i (00:05:19) trapsize 2
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.8 2008.9
+\i (00:05:19) trapsize 1
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.9 2008.9
+\i (00:05:19) trapsize 1
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 409.9 2008.9
+\i (00:05:19) trapsize 1
+\i (00:05:21) zoom center 467.4 1993.7 
+\t (00:05:21) zoom center on 467.4 1993.7
+\i (00:05:21) generaledit 
+\i (00:05:22) pick grid 467.2 1994.2
+\t (00:05:22) last pick:  467.0  1994.0
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 467.2 1994.2
+\i (00:05:23) trapsize 1
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 467.1 1994.3
+\i (00:05:23) trapsize 1
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 467.1 1994.2
+\i (00:05:23) trapsize 2
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 467.1 1994.3
+\i (00:05:23) trapsize 4
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 467.2 1994.3
+\i (00:05:23) trapsize 8
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 467.2 1994.3
+\i (00:05:23) trapsize 15
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 467.1 1994.3
+\i (00:05:23) trapsize 30
+\i (00:05:47) setwindow text
+\i (00:05:47) close 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) pick grid 188.3 2048.9
+\t (00:05:48) last pick:  188.0  2049.0
+\i (00:05:49) zoom in 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom in 381.0 2042.8
+\i (00:05:49) trapsize 15
+\i (00:05:49) zoom in 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom in 381.0 2042.9
+\i (00:05:49) trapsize 8
+\i (00:05:49) zoom in 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom in 381.0 2042.9
+\i (00:05:49) trapsize 4
+\i (00:05:49) zoom out 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom out 381.1 2043.0
+\i (00:05:49) trapsize 8
+\i (00:05:49) zoom out 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom out 381.1 2042.9
+\i (00:05:49) trapsize 15
+\i (00:05:49) zoom out 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom out 381.0 2043.0
+\i (00:05:49) trapsize 30
+\i (00:05:50) zoom in 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom in 571.4 2067.8
+\i (00:05:50) trapsize 15
+\i (00:05:50) zoom in 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom in 571.4 2067.8
+\i (00:05:50) trapsize 8
+\i (00:05:50) zoom in 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom in 571.4 2067.8
+\i (00:05:50) trapsize 4
+\i (00:05:50) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 565.2 2065.8
+\i (00:05:50) trapsize 8
+\i (00:05:50) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 557.7 2063.3
+\i (00:05:50) trapsize 15
+\i (00:05:51) zoom out 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom out 484.4 1978.4
+\i (00:05:51) trapsize 30
+\i (00:05:51) zoom out 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom out 484.3 1979.0
+\i (00:05:51) trapsize 61
+\i (00:05:51) zoom out 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom out 483.1 1988.7
+\i (00:05:51) trapsize 121
+\i (00:05:52) zoom in 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom in 369.1 1964.5
+\i (00:05:52) trapsize 61
+\i (00:05:53) prepopup 498.8 2249.4
+\i (00:05:55) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:05:55) placementedit 
+\i (00:05:57) pick grid 413.9 2060.3
+\t (00:05:57) last pick:  414.0  2060.0
+\i (00:05:57) move 
+\t (00:05:57) last pick:  437.0  1974.0
+\t (00:05:57) Moving D2 / 1N4148_1N4148_SOD523_1N4148 / 1N4148_SOD523.
+\t (00:05:57) Pick new location for the element(s).
+\i (00:05:58) prepopup 373.9 2048.2
+\i (00:05:59) cancel 
+\i (00:05:59) placementedit 
+\i (00:05:59) pick grid 593.3 2217.8
+\t (00:05:59) last pick:  593.0  2218.0
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 543.6 2034.8
+\i (00:06:00) trapsize 30
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 543.6 2034.8
+\i (00:06:00) trapsize 15
+\i (00:06:02) status 
+\i (00:06:02) placementedit 
+\i (00:06:04) setwindow form.status
+\i (00:06:04) FORM status drc_update  
+\t (00:06:04) Running DRC, please wait...
+\t (00:06:04) Performing DRC...
+\t (00:06:04) Multithreaded DRC update (4 threads).
+\t (00:06:04) No DRC errors detected.
+\t (00:06:04) DRC done.
+\i (00:06:05) FORM status done  
+\i (00:06:06) setwindow pcb
+\i (00:06:06) pick grid 544.3 2125.5
+\t (00:06:06) last pick:  544.0  2126.0
+\i (00:06:09) artwork 
+\i (00:06:10) setwindow form.film_control
+\i (00:06:10) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:06:10) FORM film_control filmtree 'MULTISEL YES' MECH 
+\i (00:06:10) FORM film_control filmtree  MECH 
+\i (00:06:11) FORM film_control filmtree 'MULTISEL YES' SMB 
+\i (00:06:11) FORM film_control filmtree  SMB 
+\i (00:06:11) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:06:11) FORM film_control filmtree  SMT 
+\i (00:06:11) FORM film_control filmtree 'MULTISEL YES' SSB 
+\i (00:06:11) FORM film_control filmtree  SSB 
+\i (00:06:12) FORM film_control filmtree 'MULTISEL YES' SST 
+\i (00:06:12) FORM film_control filmtree  SST 
+\i (00:06:12) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:06:12) FORM film_control filmtree  TOP 
+\i (00:06:13) FORM film_control create  
+\t (00:06:13) Checking db records
+\t (00:06:13)     checking for orphans...
+\t (00:06:13)     Checked 100 percent
+\t (00:06:13) Done dbdoctor.
+\t (00:06:13) Starting Create artwork films...
+\t (00:06:14) Plot generated.
+\i (00:06:18) FORM film_control ok  
+\i (00:06:18) setwindow pcb
+\i (00:06:18) placementedit 
+\i (00:06:19) pick grid 641.8 2064.0
+\t (00:06:19) last pick:  642.0  2064.0
+\i (00:07:07) pick grid 463.0 2137.9
+\t (00:07:07) last pick:  463.0  2138.0
+\i (00:07:10) exit 
+\e (00:07:10) Do you want to save the changes you made to LinkingInterfaceV2_10.brd?
+\i (00:07:11) fillin yes 
+\t (00:07:11)     Journal end - Mon Jun 08 17:15:19 2015

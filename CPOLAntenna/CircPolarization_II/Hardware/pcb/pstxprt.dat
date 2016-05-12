@@ -1,0 +1,570 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.3.0 p002Jun-15-2011 at 09:40:41 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CPOL';
+ POST_TIME='Nov 29 2010 15:06:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C NP_SMC1210_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14616118@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14616118@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14616118@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C NP_SMC0805_10NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14624757@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14624757@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14624757@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C NP_SMC1210_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613811@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613811@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613811@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C NP_SMC1210_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14621317@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14621317@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14621317@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C NP_SMC1210_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14621530@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14621530@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14621530@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C POL_EIAC_SMCT6032_12_47UF / T':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14656410@LOCALPROJECT.C POL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14656410@localproject.\c pol.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14656410@localproject.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14642638@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14642638@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14642638@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C NP_SMC0805_1U':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14643048@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14643048@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14643048@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C NP_SMC1210_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613551@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613551@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613551@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C NP_SMC1210_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14621040@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14621040@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14621040@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C NP_SMC1210_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14621482@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14621482@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14621482@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C NP_SMC0805_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14616813@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14616813@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14616813@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C NP_SMC0805_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14617393@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14617393@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14617393@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C NP_SMC0805_10NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14624655@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14624655@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14624655@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C NP_SMC0805_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14624214@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14624214@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14624214@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C NP_SMC0805_1NF':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14624230@LOCALPROJECT.C NP.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14624230@localproject.\c np.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14624230@localproject.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONN1 'TESTPOINT_BCON_1X1V_SQ_52D_TEST':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14668428@LOCALPROJECT.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14668428@localproject.\testpoint.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14668428@localproject.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONN2 'TESTPOINT_BCON_1X1V_SQ_52D_TEST':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14668418@LOCALPROJECT.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14668418@localproject.\testpoint.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14668418@localproject.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONN3 'TESTPOINT_BCON_1X1V_SQ_52D_TEST':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14675986@LOCALPROJECT.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14675986@localproject.\testpoint.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14675986@localproject.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'PIN DIODE_0_UM750XE_UM7504E':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613660@CPOL.PIN DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613660@cpol.\pin diode_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613660@cpol.\pin diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'PIN DIODE_0_UM750XE_UM7504E':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613676@CPOL.PIN DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613676@cpol.\pin diode_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613676@cpol.\pin diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'PIN DIODE_0_UM750XE_UM7504E':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613642@CPOL.PIN DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613642@cpol.\pin diode_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613642@cpol.\pin diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 '1N4148_0_SMSOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14655743@CPOL.1N4148_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14655743@cpol.\1n4148_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14655743@cpol.\1n4148_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 '1N4148_0_SMSOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14641948@CPOL.1N4148_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14641948@cpol.\1n4148_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14641948@cpol.\1n4148_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE SCHOTTKY_DAX400_38D_1N581':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14642433@MINIBUOY.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14642433@minibuoy.\diode schottky.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14642433@minibuoy.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_SMSOD123_GRN':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14652061@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14652061@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14652061@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 '2X10HEADER_2_BCON_5X2V_100S_42D':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14662682@CPOL.2X10HEADER_2.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14662682@cpol.\2x10header_2.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14662682@cpol.\2x10header_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 '2X10HEADER_2_BCON_5X2V_100S_42D':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14662650@CPOL.2X10HEADER_2.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14662650@cpol.\2x10header_2.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14662650@cpol.\2x10header_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR/SM_0_AX400_35D_2UH':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14623690@SLV DF.INDUCTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14623690@\slv df\.\inductor/sm_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14623690@\slv df\.\inductor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR/SM_0_AX400_35D_2UH':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14621666@SLV DF.INDUCTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14621666@\slv df\.\inductor/sm_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14621666@\slv df\.\inductor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_AX400_35D_2UH':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14624635@LOCALPROJECT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14624635@localproject.\inductor.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14624635@localproject.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_AX400_35D_2UH':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14623722@LOCALPROJECT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14623722@localproject.\inductor.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14623722@localproject.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR/SM_0_AX400_35D_2UH':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14623202@SLV DF.INDUCTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14623202@\slv df\.\inductor/sm_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14623202@\slv df\.\inductor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_AX400_35D_2UH':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14639588@LOCALPROJECT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14639588@localproject.\inductor.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14639588@localproject.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR_AX400_35D_2UH':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14624741@LOCALPROJECT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14624741@localproject.\inductor.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14624741@localproject.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'COAX CONNECTOR_0_USTRIP2COAX_TP':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14616102@CPOL.COAX CONNECTOR_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14616102@cpol.\coax connector_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14616102@cpol.\coax connector_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'COAX CONNECTOR_0_USTRIP2COAX_TP':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613494@CPOL.COAX CONNECTOR_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613494@cpol.\coax connector_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613494@cpol.\coax connector_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P3 'COAX CONNECTOR_0_USTRIP2COAX_TP':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613462@CPOL.COAX CONNECTOR_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613462@cpol.\coax connector_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613462@cpol.\coax connector_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P4 'COAX CONNECTOR_0_USTRIP2COAX_TP':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613526@CPOL.COAX CONNECTOR_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613526@cpol.\coax connector_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613526@cpol.\coax connector_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P5 'COAX CONNECTOR_0_USTRIP2COAX_TP':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14613478@CPOL.COAX CONNECTOR_0.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14613478@cpol.\coax connector_0.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14613478@cpol.\coax connector_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N2222_TO92R100_2N2222':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14653635@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14653635@transistor.\2n2222.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14653635@transistor.\2n2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '2N2222_TO92R100_2N2222':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14674667@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14674667@transistor.\2n2222.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14674667@transistor.\2n2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R SMALL_SMR2010_240':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14650572@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14650572@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14650572@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R SMALL_SMR0805_2.2K':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14674747@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14674747@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14674747@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R SMALL_SMR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14673904@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14673904@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14673904@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_3_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14652045@CPOL.R_3.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14652045@cpol.\r_3.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14652045@cpol.\r_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R SMALL_SMR2010_240':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14633319@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14633319@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14633319@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R SMALL_SMR2010_240':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14633303@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14633303@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14633303@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R SMALL_SMR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14653788@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14653788@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14653788@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R SMALL_SMR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14674695@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14674695@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14674695@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R SMALL_SMR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14644003@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14644003@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14644003@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R SMALL_SMR0805_510':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14640786@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14640786@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14640786@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R SMALL_SMR0805_22K':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14644255@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14644255@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14644255@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R SMALL_SMR0805_10K':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14654501@CMPE174REFLIB_COMPLETE.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14654501@cmpe174reflib_complete.\r small.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14654501@cmpe174reflib_complete.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '754410_DIP100_16_W300_L800_7544':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14632933@LOCALPROJECT.754410.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14632933@localproject.\754410.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14632933@localproject.\754410.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '78L05/TO92_1_TO92R100_78L05':;
+
+SECTION_NUMBER 1
+ '@CPOL.SCHEMATICS(SCH_1):INS14641975@LOCALPROJECT.78L05/TO92_1.NORMAL(CHIPS)':
+ C_PATH='@cpol.schematics(sch_1):ins14641975@localproject.\78l05/to92_1.normal\(chips)',
+ P_PATH='@cpol.schematics(sch_1):page2_ins14641975@localproject.\78l05/to92_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

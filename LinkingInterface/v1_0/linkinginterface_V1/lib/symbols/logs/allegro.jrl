@@ -1,0 +1,30 @@
+\t (00:00:47) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:47)     Journal start - Wed Jun 03 02:31:03 2015
+\t (00:00:47)         Host=OWNER-PC130616 User=Owner Pid=825700 CPUs=8
+\t (00:00:47) 
+\d (00:00:47) Database opened: G:/Users/Owner/Dropbox/SeniorDesign/Designs/linkinginterface_V1/lib/symbols/74HC157.dra
+\i (00:00:47) etchedit 
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 6.5712 0.4479
+\i (00:00:48) trapsize 1678
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 6.4033 0.4814
+\t (00:00:48) Grids are drawn 1.0000, 1.0000 apart for enhanced viewability.
+\i (00:00:48) trapsize 3356
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 6.0005 1.2871
+\i (00:00:48) trapsize 1678
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 5.9334 1.2871
+\i (00:00:48) trapsize 839
+\i (00:00:55) open 
+\i (00:01:23) fillin "G:\Users\Owner\Dropbox\SchoolShit\EE173\linkinginterface_V1\lib\symbols\DIP100_16_W300_L800.dra"
+\i (00:01:23) cd "G:\Users\Owner\Dropbox\SchoolShit\EE173\linkinginterface_V1\lib\symbols"
+\t (00:01:23) Opening existing design...
+\i (00:01:24) fillin yes 
+\i (00:01:24) trapsize 56
+\t (00:01:24)     Journal end - Wed Jun 03 02:31:40 2015

@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : CPOL.brd                                      )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Wed Jun 15 09:42:12 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on side Top
+
+         Placed symbol:  U1 / 754410_DIP100_16_W300_L800_7544 / DIP100_16_W300_L800 at (5541.0 2138.0)
+         Placed symbol:  J2 / 2X10HEADER_2_BCON_5X2V_100S_42D / BCON_5X2V_100S_42D at (2887.0 1895.0)
+         Placed symbol:  J1 / 2X10HEADER_2_BCON_5X2V_100S_42D / BCON_5X2V_100S_42D at (3403.0 1895.0)
+         Placed symbol:  U2 / 78L05/TO92_1_TO92R100_78L05 / TO92R100 at (3975.0 1939.0)
+         Placed symbol:  Q2 / 2N2222_TO92R100_2N2222 / TO92R100 at (4203.0 1939.0)
+ERROR:   Could not find symbol:  C13 / C NP_SMC1210_1NF / SMC1210
+ERROR:   Could not find symbol:  C3 / C NP_SMC1210_1NF / SMC1210
+ERROR:   Could not find symbol:  C4 / C NP_SMC1210_1NF / SMC1210
+ERROR:   Could not find symbol:  C12 / C NP_SMC1210_1NF / SMC1210
+ERROR:   Could not find symbol:  C2 / C NP_SMC1210_1NF / SMC1210
+         Placed symbol:  L6 / INDUCTOR_AX400_35D_2UH / AX400_35D at (4363.5 1995.0)
+         Placed symbol:  R5 / R SMALL_SMR0805_4.7K / SMR0805 at (4855.0 2008.5)
+         Placed symbol:  R11 / R SMALL_SMR0805_4.7K / SMR0805 at (5029.0 2008.5)
+         Placed symbol:  R4 / R SMALL_SMR0805_4.7K / SMR0805 at (5203.0 2008.5)
+ERROR:   Could not find symbol:  C1 / C NP_SMC1210_1NF / SMC1210
+ERROR:   Could not find symbol:  C11 / C NP_SMC1210_1NF / SMC1210
+         Placed symbol:  CONN3 / TESTPOINT_BCON_1X1V_SQ_52D_TEST / BCON_1X1V_SQ_52D at (5390.0 1995.0)
+
+
+Placed 10 of 17 applicable (17 total) symbols.
+
+-----------------------------------------------------------------------
+

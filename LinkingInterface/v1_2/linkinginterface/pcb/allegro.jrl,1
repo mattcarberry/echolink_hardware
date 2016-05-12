@@ -1,0 +1,859 @@
+\t (04:14:39) allegro 16.5 P003 (v16-5-13C) i86
+\t (04:14:39)     Journal start - Mon May 25 18:42:46 2015
+\t (04:14:39)         Host=SRDSNPC18 User=tgbodkin Pid=9360 CPUs=4
+\t (04:14:39) 
+\d (04:14:39) Database opened: C:/Users/tgbodkin/Desktop/linkinginterface/linkinginterface/pcb/LinkingInterfaceV1.3.brd
+\i (04:14:40) generaledit 
+\i (04:14:40) zoom out 1 
+\i (04:14:40) setwindow pcb
+\i (04:14:40) zoom out 13172.3 6496.7
+\i (04:14:40) trapsize 1057
+\i (04:14:40) zoom out 1 
+\i (04:14:40) setwindow pcb
+\i (04:14:40) zoom out 17253.7 6470.1
+\i (04:14:40) trapsize 1057
+\i (04:14:40) zoom in 1 
+\i (04:14:40) setwindow pcb
+\i (04:14:40) zoom in 15519.9 5857.0
+\i (04:14:40) trapsize 529
+\i (04:14:48) netin 
+\i (04:14:50) setwindow form.niparams
+\i (04:14:50) FORM niparams import  
+\t (04:14:50) Starting Cadence Logic Import...
+\w (04:14:50) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (04:14:50) Opening existing design...
+\i (04:14:50) setwindow pcb
+\i (04:14:50) trapsize 529
+\i (04:14:51) generaledit 
+\i (04:16:20) pick grid 14261.2 10625.0
+\t (04:16:20) last pick:  14250.0  10625.0
+\i (04:16:26) netin 
+\i (04:16:27) setwindow form.niparams
+\i (04:16:27) FORM niparams import  
+\t (04:16:27) Starting Cadence Logic Import...
+\t (04:16:27) Opening existing design...
+\i (04:16:27) setwindow pcb
+\i (04:16:27) trapsize 529
+\i (04:16:28) generaledit 
+\i (04:16:31) place manual 
+\i (04:16:34) setwindow form.plc_manual
+\i (04:16:34) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\w (04:16:34) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:16:34) Placing C1 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:16:34) FORM plc_manual tree  C1 'Components by refdes' 
+\i (04:16:36) FORM plc_manual tree 'MULTISEL NO' C1 'Components by refdes' 
+\i (04:16:39) FORM plc_manual cancel  
+\i (04:16:39) setwindow pcb
+\i (04:16:39) generaledit 
+\i (04:16:40) zoom in 1 
+\i (04:16:40) setwindow pcb
+\i (04:16:40) zoom in 14166.0 6618.2
+\i (04:16:40) trapsize 264
+\i (04:16:40) zoom in 1 
+\i (04:16:40) setwindow pcb
+\i (04:16:40) zoom in 14166.0 6618.2
+\i (04:16:40) trapsize 132
+\i (04:16:40) zoom out 1 
+\i (04:16:40) setwindow pcb
+\i (04:16:40) zoom out 14145.0 6620.9
+\i (04:16:40) trapsize 264
+\i (04:16:40) zoom out 1 
+\i (04:16:40) setwindow pcb
+\i (04:16:40) zoom out 14144.9 6626.1
+\i (04:16:40) trapsize 529
+\i (04:16:41) zoom in 1 
+\i (04:16:41) setwindow pcb
+\i (04:16:41) zoom in 12823.3 6002.4
+\i (04:16:41) trapsize 264
+\i (04:16:42) roam start
+\i (04:16:42) roam y -32
+\i (04:16:42) roam y -32
+\i (04:16:43) roam end
+\i (04:16:46) place manual 
+\i (04:30:37) pick grid 12215.4 5677.3
+\t (04:30:37) last pick:  12225.0  5675.0
+\i (04:30:38) zoom out 1 
+\i (04:30:38) setwindow pcb
+\i (04:30:38) zoom out 12210.1 5677.3
+\i (04:30:38) trapsize 529
+\i (04:30:38) zoom in 1 
+\i (04:30:38) setwindow pcb
+\i (04:30:38) zoom in 11364.3 4503.7
+\i (04:30:38) trapsize 264
+\i (04:30:38) zoom in 1 
+\i (04:30:38) setwindow pcb
+\i (04:30:38) zoom in 11327.3 4593.6
+\i (04:30:38) trapsize 132
+\i (04:30:40) pick grid 10989.0 4802.4
+\t (04:30:40) last pick:  11000.0  4800.0
+\i (04:30:40) zoom out 1 
+\i (04:30:40) setwindow pcb
+\i (04:30:40) zoom out 11002.2 4810.4
+\i (04:30:40) trapsize 264
+\i (04:30:40) zoom out 1 
+\i (04:30:40) setwindow pcb
+\i (04:30:40) zoom out 11245.3 4815.6
+\i (04:30:40) trapsize 529
+\i (04:30:41) prepopup 12812.7 5069.4
+\i (04:30:42) cancel 
+\i (04:30:42) generaledit 
+\i (04:30:44) setwindow form.find
+\i (04:30:44) FORM find all_off  
+\i (04:30:44) setwindow pcb
+\i (04:30:44) zoom in 1 
+\i (04:30:44) setwindow pcb
+\i (04:30:44) zoom in 13341.3 4762.8
+\i (04:30:44) trapsize 264
+\i (04:30:45) zoom in 1 
+\i (04:30:45) setwindow pcb
+\i (04:30:45) zoom in 12733.4 4799.8
+\i (04:30:45) trapsize 132
+\i (04:30:47) pick grid 11007.5 4815.7
+\t (04:30:47) last pick:  11000.0  4825.0
+\i (04:41:32) place manual 
+\i (04:42:55) setwindow form.plc_manual
+\i (04:42:55) FORM plc_manual tree 'MULTISEL YES' J7 'Components by refdes' 
+\t (04:42:55) Placing J7 / HEADER 2_4_BLKCON156_VHTM1SQ_SW / BLKCON156_VHTM1SQ_SW156_2 on Bottom.
+\i (04:42:55) FORM plc_manual tree  J7 'Components by refdes' 
+\i (04:42:57) FORM plc_manual cancel  
+\i (04:42:57) setwindow pcb
+\i (04:42:57) generaledit 
+\i (04:42:58) zoom out 1 
+\i (04:42:58) setwindow pcb
+\i (04:42:58) zoom out 13140.4 5664.1
+\i (04:42:58) trapsize 264
+\i (04:42:58) zoom out 1 
+\i (04:42:58) setwindow pcb
+\i (04:42:58) zoom out 13140.4 5664.1
+\i (04:42:58) trapsize 529
+\i (04:42:59) zoom in 1 
+\i (04:42:59) setwindow pcb
+\i (04:42:59) zoom in 11977.5 8508.0
+\i (04:42:59) trapsize 264
+\i (04:42:59) zoom in 1 
+\i (04:42:59) setwindow pcb
+\i (04:42:59) zoom in 11977.5 8508.0
+\i (04:42:59) trapsize 132
+\i (04:42:59) zoom out 1 
+\i (04:42:59) setwindow pcb
+\i (04:42:59) zoom out 11996.0 8468.4
+\i (04:42:59) trapsize 264
+\i (04:43:05) place manual 
+\i (04:43:07) setwindow form.plc_manual
+\i (04:43:07) FORM plc_manual tree 'MULTISEL YES' C8 'Components by refdes' 
+\w (04:43:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:43:07) Placing C8 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:43:07) FORM plc_manual tree  C8 'Components by refdes' 
+\i (04:43:08) FORM plc_manual tree 'MULTISEL NO' C8 'Components by refdes' 
+\i (04:43:10) FORM plc_manual tree 'MULTISEL YES' J7 'Components by refdes' 
+\t (04:43:10) Placing J7 / HEADER 2_4_BLKCON156_VHTM1SQ_SW / BLKCON156_VHTM1SQ_SW156_2 on Bottom.
+\i (04:43:10) FORM plc_manual tree  J7 'Components by refdes' 
+\i (04:43:16) setwindow pcb
+\i (04:43:16) pick grid 11736.9 8595.3
+\t (04:43:16) last pick:  11725.0  8600.0
+\i (04:43:24) setwindow form.plc_manual
+\i (04:43:24) FORM plc_manual tree 'MULTISEL YES' D1 'Components by refdes' 
+\t (04:43:24) Placing D1 / DIODE SCHOTTKY_0_DAX600_60D_SB1 / DAX600_60D on Bottom.
+\i (04:43:24) FORM plc_manual tree  D1 'Components by refdes' 
+\i (04:43:29) setwindow pcb
+\i (04:43:29) pick grid 11810.9 8198.8
+\t (04:43:29) last pick:  11800.0  8200.0
+\i (04:43:35) setwindow form.plc_manual
+\i (04:43:35) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\t (04:43:35) Placing U3 / 78L05/TO92_0_SOT223_1234_LM2940 / SOT223_1234 on Bottom.
+\i (04:43:35) FORM plc_manual tree  U3 'Components by refdes' 
+\i (04:43:48) setwindow pcb
+\i (04:43:48) pick grid 12186.3 8161.8
+\t (04:43:48) last pick:  12175.0  8150.0
+\i (04:44:12) zoom in 1 
+\i (04:44:12) setwindow pcb
+\i (04:44:12) zoom in 16092.7 7675.5
+\i (04:44:12) trapsize 132
+\i (04:44:12) zoom in 1 
+\i (04:44:12) setwindow pcb
+\i (04:44:12) zoom in 16092.7 7675.6
+\i (04:44:12) trapsize 66
+\i (04:44:12) zoom in 1 
+\i (04:44:12) setwindow pcb
+\i (04:44:12) zoom in 16092.8 7675.6
+\i (04:44:12) trapsize 33
+\i (04:44:13) zoom out 1 
+\i (04:44:13) setwindow pcb
+\i (04:44:13) zoom out 16117.3 7628.7
+\i (04:44:13) trapsize 66
+\i (04:44:13) zoom out 1 
+\i (04:44:13) setwindow pcb
+\i (04:44:13) zoom out 16113.3 7627.4
+\i (04:44:13) trapsize 132
+\i (04:44:13) zoom out 1 
+\i (04:44:13) setwindow pcb
+\i (04:44:13) zoom out 16113.3 7627.4
+\i (04:44:13) trapsize 264
+\i (04:44:19) setwindow form.plc_manual
+\i (04:44:19) FORM plc_manual tree 'MULTISEL YES' C12 'Components by refdes' 
+\t (04:44:19) Placing C12 / C NP_SMC0805_470NF / SMC0805 on Bottom.
+\i (04:44:19) FORM plc_manual tree  C12 'Components by refdes' 
+\i (04:44:33) setwindow pcb
+\i (04:44:33) pick grid 12127.2 7907.6
+\t (04:44:33) last pick:  12125.0  7900.0
+\i (04:44:37) setwindow form.plc_manual
+\i (04:44:37) FORM plc_manual tree 'MULTISEL YES' C13 'Components by refdes' 
+\t (04:44:37) Placing C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12 on Bottom.
+\i (04:44:37) FORM plc_manual tree  C13 'Components by refdes' 
+\i (04:44:50) setwindow pcb
+\i (04:44:50) pick grid 12513.1 8256.5
+\t (04:44:50) last pick:  12525.0  8250.0
+\i (04:44:56) setwindow form.plc_manual
+\i (04:44:56) FORM plc_manual tree 'MULTISEL YES' U7 'Components by refdes' 
+\w (04:44:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:44:56) Placing U7 / LM2936/SO_13_LM2936_SOT_LM2936/ / LM2936_SOT on Bottom.
+\i (04:44:56) FORM plc_manual tree  U7 'Components by refdes' 
+\i (04:45:00) setwindow pcb
+\i (04:45:00) pick grid 13094.6 8076.7
+\t (04:45:00) last pick:  13100.0  8075.0
+\i (04:45:09) setwindow form.plc_manual
+\i (04:45:09) FORM plc_manual tree 'MULTISEL YES' C14 'Components by refdes' 
+\t (04:45:09) Placing C14 / C NP_SMC0805_100NF / SMC0805 on Bottom.
+\i (04:45:09) FORM plc_manual tree  C14 'Components by refdes' 
+\i (04:45:11) setwindow pcb
+\i (04:45:11) pick grid 13290.2 8214.2
+\t (04:45:11) last pick:  13300.0  8225.0
+\i (04:45:18) setwindow form.plc_manual
+\i (04:45:18) FORM plc_manual tree 'MULTISEL YES' C15 'Components by refdes' 
+\t (04:45:18) Placing C15 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:45:18) FORM plc_manual tree  C15 'Components by refdes' 
+\i (04:45:20) setwindow pcb
+\i (04:45:20) pick grid 13332.5 7939.3
+\t (04:45:20) last pick:  13325.0  7950.0
+\i (04:45:22) setwindow form.plc_manual
+\i (04:45:22) FORM plc_manual tree 'MULTISEL YES' C16 'Components by refdes' 
+\t (04:45:22) Placing C16 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:45:22) FORM plc_manual tree  C16 'Components by refdes' 
+\i (04:45:24) setwindow pcb
+\i (04:45:24) pick grid 13538.7 7944.6
+\t (04:45:24) last pick:  13550.0  7950.0
+\i (04:45:26) setwindow form.plc_manual
+\i (04:45:26) FORM plc_manual tree 'MULTISEL YES' C17 'Components by refdes' 
+\t (04:45:26) Placing C17 / C NP_SMC0805_100NF / SMC0805 on Bottom.
+\i (04:45:26) FORM plc_manual tree  C17 'Components by refdes' 
+\i (04:45:27) setwindow pcb
+\i (04:45:27) pick grid 13861.2 7928.7
+\t (04:45:27) last pick:  13850.0  7925.0
+\i (04:45:36) setwindow form.plc_manual
+\i (04:45:36) FORM plc_manual tree 'MULTISEL YES' R13 'Components by refdes' 
+\t (04:45:36) Placing R13 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:45:36) FORM plc_manual tree  R13 'Components by refdes' 
+\i (04:45:40) setwindow pcb
+\i (04:45:40) pick grid 12016.2 7632.7
+\t (04:45:40) last pick:  12025.0  7625.0
+\i (04:45:42) setwindow form.plc_manual
+\i (04:45:42) FORM plc_manual tree 'MULTISEL YES' R16 'Components by refdes' 
+\t (04:45:42) Placing R16 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:45:42) FORM plc_manual tree  R16 'Components by refdes' 
+\i (04:45:43) setwindow pcb
+\i (04:45:43) pick grid 12053.2 7442.3
+\t (04:45:43) last pick:  12050.0  7450.0
+\i (04:45:56) setwindow form.plc_manual
+\i (04:45:56) FORM plc_manual tree 'MULTISEL YES' J10 'Components by refdes' 
+\t (04:45:56) Placing J10 / HEADER 10_BLKCON100VHTM2OEW2001 / BLKCON100VHTM2OEW20010 on Bottom.
+\i (04:45:56) FORM plc_manual tree  J10 'Components by refdes' 
+\i (04:46:04) setwindow pcb
+\i (04:46:04) pick grid 12766.9 8658.3
+\t (04:46:04) last pick:  12775.0  8650.0
+\i (04:46:13) setwindow form.plc_manual
+\i (04:46:13) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\t (04:46:13) Placing U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450 on Bottom.
+\i (04:46:13) FORM plc_manual tree  U1 'Components by refdes' 
+\i (04:46:17) setwindow pcb
+\i (04:46:17) pick grid 11968.6 6691.6
+\t (04:46:17) last pick:  11975.0  6700.0
+\i (04:46:25) setwindow form.plc_manual
+\i (04:46:25) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\t (04:46:25) Placing C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:46:25) FORM plc_manual tree  C4 'Components by refdes' 
+\i (04:46:34) setwindow pcb
+\i (04:46:34) pick grid 11630.3 7241.4
+\t (04:46:34) last pick:  11625.0  7250.0
+\i (04:46:37) pick grid 11640.8 7357.8
+\t (04:46:37) last pick:  11650.0  7350.0
+\t (04:46:37) Moving C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (04:46:37) last pick:  11625.0  7250.0
+\i (04:46:40) pick grid 12238.2 7569.2
+\t (04:46:40) last pick:  12250.0  7575.0
+\i (04:46:42) prepopup 11788.9 6649.4
+\i (04:46:43) pick grid 11699.0 6691.6
+\t (04:46:43) last pick:  11700.0  6700.0
+\t (04:46:43) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\t (04:46:43) last pick:  11975.0  6700.0
+\i (04:46:44) pick grid 11788.9 6633.5
+\t (04:46:44) last pick:  11800.0  6625.0
+\i (04:46:44) prepopup 11799.4 6622.9
+\i (04:46:45) pick grid 11778.3 6585.9
+\t (04:46:45) last pick:  11775.0  6575.0
+\t (04:46:45) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\t (04:46:45) last pick:  11800.0  6625.0
+\i (04:46:46) pick grid 11942.2 6765.7
+\t (04:46:46) last pick:  11950.0  6775.0
+\i (04:46:48) prepopup 11741.3 6691.6
+\i (04:46:50) pick grid 11165.0 6829.1
+\t (04:46:50) last pick:  11175.0  6825.0
+\i (04:46:54) spin 
+\t (04:46:54) Select element(s) to spin.
+\i (04:46:56) pick grid 11672.5 6818.5
+\t (04:46:56) last pick:  11675.0  6825.0
+\t (04:46:56) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\i (04:47:16) iangle 90.000
+\t (04:47:16) last angle:  90.000 Degrees
+\t (04:47:16) Select element(s) to spin.
+\i (04:47:17) pick grid 11952.7 6813.2
+\t (04:47:17) last pick:  11950.0  6825.0
+\t (04:47:17) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\i (04:47:18) iangle 0.000
+\t (04:47:18) last angle:  90.000 Degrees
+\t (04:47:18) Select element(s) to spin.
+\i (04:47:18) prepopup 11836.4 6913.7
+\i (04:47:19) done 
+\i (04:47:19) generaledit 
+\i (04:47:20) prepopup 11783.6 6823.8
+\i (04:47:21) pick grid 11704.3 7019.4
+\t (04:47:21) last pick:  11700.0  7025.0
+\i (04:47:22) pick grid 11905.2 6977.1
+\t (04:47:22) last pick:  11900.0  6975.0
+\i (04:47:22) pick grid 11873.4 6866.1
+\t (04:47:22) last pick:  11875.0  6875.0
+\i (04:47:23) pick grid 11260.2 7542.8
+\t (04:47:23) last pick:  11250.0  7550.0
+\i (04:47:24) pick grid 11683.1 6533.0
+\t (04:47:24) last pick:  11675.0  6525.0
+\i (04:47:26) move 
+\t (04:47:26) Select element(s) to move.
+\i (04:47:27) pick grid 11757.1 6681.1
+\t (04:47:27) last pick:  11750.0  6675.0
+\t (04:47:27) last pick:  11950.0  6775.0
+\t (04:47:27) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\t (04:47:27) Pick new location for the element(s).
+\i (04:47:29) pick grid 11936.9 7104.0
+\t (04:47:29) last pick:  11925.0  7100.0
+\i (04:47:34) place manual 
+\i (04:47:36) setwindow form.plc_manual
+\i (04:47:36) FORM plc_manual tree 'MULTISEL YES' C7 'Components by refdes' 
+\t (04:47:36) Placing C7 / CAPACITOR POL_1_UF_CAP_1UF / 1_UF_CAP on Bottom.
+\i (04:47:36) FORM plc_manual tree  C7 'Components by refdes' 
+\i (04:47:40) setwindow pcb
+\i (04:47:40) pick grid 12238.2 7167.4
+\t (04:47:40) last pick:  12250.0  7175.0
+\i (04:47:47) setwindow form.plc_manual
+\i (04:47:47) FORM plc_manual tree 'MULTISEL YES' C2 'Components by refdes' 
+\t (04:47:47) Placing C2 / C NP_SMC0603_100PF / SMC0603 on Bottom.
+\i (04:47:47) FORM plc_manual tree  C2 'Components by refdes' 
+\i (04:47:48) setwindow pcb
+\i (04:47:48) pick grid 12264.6 6813.2
+\t (04:47:48) last pick:  12275.0  6825.0
+\i (04:47:51) setwindow form.plc_manual
+\i (04:47:51) FORM plc_manual tree 'MULTISEL YES' R2 'Components by refdes' 
+\t (04:47:51) Placing R2 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:47:51) FORM plc_manual tree  R2 'Components by refdes' 
+\i (04:47:55) setwindow pcb
+\i (04:47:55) pick grid 12312.2 6982.4
+\t (04:47:55) last pick:  12300.0  6975.0
+\i (04:48:06) setwindow form.plc_manual
+\i (04:48:06) FORM plc_manual tree 'MULTISEL YES' R8 'Components by refdes' 
+\t (04:48:06) Placing R8 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:48:06) FORM plc_manual tree  R8 'Components by refdes' 
+\i (04:48:11) setwindow pcb
+\i (04:48:11) pick grid 12312.2 7389.5
+\t (04:48:11) last pick:  12300.0  7400.0
+\i (04:48:26) setwindow form.plc_manual
+\i (04:48:26) FORM plc_manual tree 'MULTISEL YES' C6 'Components by refdes' 
+\t (04:48:26) Placing C6 / C NP_SMC0805_100NF / SMC0805 on Bottom.
+\i (04:48:26) FORM plc_manual tree  C6 'Components by refdes' 
+\i (04:48:39) setwindow pcb
+\i (04:48:39) pick grid 11339.5 7341.9
+\t (04:48:39) last pick:  11350.0  7350.0
+\i (04:48:40) pick grid 11392.4 7326.0
+\t (04:48:40) last pick:  11400.0  7325.0
+\t (04:48:40) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\t (04:48:40) last pick:  11350.0  7350.0
+\i (04:48:42) pick grid 11445.2 7114.6
+\t (04:48:42) last pick:  11450.0  7125.0
+\i (04:48:46) setwindow form.plc_manual
+\i (04:48:46) FORM plc_manual tree 'MULTISEL YES' C9 'Components by refdes' 
+\t (04:48:46) Placing C9 / CAP POL_1_UF_CAP_4.7UF / 1_UF_CAP on Bottom.
+\i (04:48:46) FORM plc_manual tree  C9 'Components by refdes' 
+\i (04:48:51) setwindow pcb
+\i (04:48:51) pick grid 11365.9 6712.8
+\t (04:48:51) last pick:  11375.0  6725.0
+\i (04:48:59) setwindow form.plc_manual
+\i (04:48:59) FORM plc_manual tree 'MULTISEL YES' R4 'Components by refdes' 
+\t (04:48:59) Placing R4 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:48:59) FORM plc_manual tree  R4 'Components by refdes' 
+\i (04:49:02) setwindow pcb
+\i (04:49:02) pick grid 11693.7 7384.2
+\t (04:49:02) last pick:  11700.0  7375.0
+\i (04:57:36) setwindow form.plc_manual
+\i (04:57:36) FORM plc_manual tree 'MULTISEL YES' R6 'Components by refdes' 
+\w (04:57:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (04:57:36) Placing R6 / POT_P60-20748_10K / P60-20748 on Bottom.
+\i (04:57:36) FORM plc_manual tree  R6 'Components by refdes' 
+\i (04:57:43) setwindow pcb
+\i (04:57:43) pick grid 11514.0 6395.6
+\t (04:57:43) last pick:  11525.0  6400.0
+\i (04:57:47) setwindow form.plc_manual
+\i (04:57:47) FORM plc_manual tree 'MULTISEL YES' R9 'Components by refdes' 
+\t (04:57:47) Placing R9 / POT_P60-20748_10K / P60-20748 on Bottom.
+\i (04:57:47) FORM plc_manual tree  R9 'Components by refdes' 
+\i (04:57:48) setwindow pcb
+\i (04:57:48) pick grid 11524.5 5914.5
+\t (04:57:48) last pick:  11525.0  5925.0
+\i (04:57:50) setwindow form.plc_manual
+\i (04:57:50) FORM plc_manual tree 'MULTISEL YES' R11 'Components by refdes' 
+\t (04:57:50) Placing R11 / RESISTOR_SMR0805_10K / SMR0805 on Bottom.
+\i (04:57:50) FORM plc_manual tree  R11 'Components by refdes' 
+\i (04:57:52) FORM plc_manual tree 'MULTISEL NO' R11 'Components by refdes' 
+\i (04:57:59) FORM plc_manual tree 'MULTISEL YES' R11 'Components by refdes' 
+\t (04:57:59) Placing R11 / RESISTOR_SMR0805_10K / SMR0805 on Bottom.
+\i (04:58:23) setwindow pcb
+\i (04:58:23) pick grid 12259.4 6617.6
+\t (04:58:23) last pick:  12250.0  6625.0
+\i (04:58:29) setwindow form.plc_manual
+\i (04:58:29) FORM plc_manual tree 'MULTISEL YES' R10 'Components by refdes' 
+\t (04:58:29) Placing R10 / RESISTOR_SMR0805_7.5K / SMR0805 on Bottom.
+\i (04:58:29) FORM plc_manual tree  R10 'Components by refdes' 
+\i (04:58:32) setwindow pcb
+\i (04:58:32) pick grid 11915.7 6464.3
+\t (04:58:32) last pick:  11925.0  6475.0
+\i (04:58:34) setwindow form.plc_manual
+\i (04:58:34) FORM plc_manual tree 'MULTISEL YES' R7 'Components by refdes' 
+\t (04:58:34) Placing R7 / RESISTOR_SMR0805_7.5K / SMR0805 on Bottom.
+\i (04:58:34) FORM plc_manual tree  R7 'Components by refdes' 
+\i (04:58:36) setwindow pcb
+\i (04:58:36) pick grid 11852.3 5914.5
+\t (04:58:36) last pick:  11850.0  5925.0
+\i (04:58:37) setwindow form.plc_manual
+\i (04:58:37) FORM plc_manual tree 'MULTISEL YES' R5 'Components by refdes' 
+\t (04:58:37) Placing R5 / RESISTOR_SMR0805_7.5K / SMR0805 on Bottom.
+\i (04:58:37) FORM plc_manual tree  R5 'Components by refdes' 
+\i (04:58:40) setwindow pcb
+\i (04:58:40) pick grid 11841.7 6326.9
+\t (04:58:40) last pick:  11850.0  6325.0
+\i (04:58:51) setwindow form.plc_manual
+\i (04:58:51) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\t (04:58:51) Placing R1 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:58:51) FORM plc_manual tree  R1 'Components by refdes' 
+\i (04:58:55) setwindow pcb
+\i (04:58:55) pick grid 13189.8 6184.1
+\t (04:58:55) last pick:  13200.0  6175.0
+\i (04:58:57) setwindow form.plc_manual
+\i (04:58:57) FORM plc_manual tree 'MULTISEL YES' R3 'Components by refdes' 
+\t (04:58:57) Placing R3 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:58:57) FORM plc_manual tree  R3 'Components by refdes' 
+\i (04:58:58) setwindow pcb
+\i (04:58:58) pick grid 13189.8 5935.7
+\t (04:58:58) last pick:  13200.0  5925.0
+\i (04:59:04) setwindow form.plc_manual
+\i (04:59:04) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (04:59:04) Placing C1 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:59:04) FORM plc_manual tree  C1 'Components by refdes' 
+\i (04:59:05) setwindow pcb
+\i (04:59:05) pick grid 12814.5 6126.0
+\t (04:59:05) last pick:  12825.0  6125.0
+\i (04:59:07) setwindow form.plc_manual
+\i (04:59:07) FORM plc_manual tree 'MULTISEL YES' C3 'Components by refdes' 
+\t (04:59:07) Placing C3 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:59:07) FORM plc_manual tree  C3 'Components by refdes' 
+\i (04:59:08) setwindow pcb
+\i (04:59:08) pick grid 12809.2 5851.1
+\t (04:59:08) last pick:  12800.0  5850.0
+\i (04:59:16) setwindow form.plc_manual
+\i (04:59:16) FORM plc_manual tree 'MULTISEL YES' C11 'Components by refdes' 
+\t (04:59:16) Placing C11 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (04:59:16) FORM plc_manual tree  C11 'Components by refdes' 
+\i (04:59:20) setwindow pcb
+\i (04:59:20) pick grid 12798.6 6416.7
+\t (04:59:20) last pick:  12800.0  6425.0
+\i (04:59:23) setwindow form.plc_manual
+\i (04:59:23) FORM plc_manual tree 'MULTISEL YES' R12 'Components by refdes' 
+\t (04:59:23) Placing R12 / RESISTOR_SMR0805_51K / SMR0805 on Bottom.
+\i (04:59:23) FORM plc_manual tree  R12 'Components by refdes' 
+\i (04:59:25) setwindow pcb
+\i (04:59:25) pick grid 12835.6 6707.5
+\t (04:59:25) last pick:  12825.0  6700.0
+\i (04:59:40) setwindow form.plc_manual
+\i (04:59:40) FORM plc_manual tree 'MULTISEL YES' J6 'Components by refdes' 
+\t (04:59:40) Placing J6 / HEADER 6_BLKCON100VHTM1SQSW1006 / BLKCON100VHTM1SQSW1006 on Bottom.
+\i (04:59:40) FORM plc_manual tree  J6 'Components by refdes' 
+\i (04:59:42) setwindow pcb
+\i (04:59:42) pick grid 12539.6 6268.7
+\t (04:59:42) last pick:  12550.0  6275.0
+\i (04:59:43) zoom out 1 
+\i (04:59:43) setwindow pcb
+\i (04:59:43) zoom out 14590.8 6379.7
+\i (04:59:43) trapsize 529
+\i (04:59:43) zoom in 1 
+\i (04:59:43) setwindow pcb
+\i (04:59:43) zoom in 13660.3 6559.5
+\i (04:59:43) trapsize 264
+\i (04:59:44) zoom out 1 
+\i (04:59:44) setwindow pcb
+\i (04:59:44) zoom out 13681.5 6522.5
+\i (04:59:44) trapsize 529
+\i (04:59:45) pick grid 12381.0 6247.6
+\t (04:59:45) last pick:  12375.0  6250.0
+\t (04:59:45) Moving J6 / HEADER 6_BLKCON100VHTM1SQSW1006 / BLKCON100VHTM1SQSW1006.
+\t (04:59:45) last pick:  12550.0  6275.0
+\i (04:59:48) pick grid 12920.2 7061.7
+\t (04:59:48) last pick:  12925.0  7050.0
+\i (04:59:49) zoom in 1 
+\i (04:59:49) setwindow pcb
+\i (04:59:49) zoom in 13385.4 7040.6
+\i (04:59:49) trapsize 264
+\i (04:59:50) pick grid 12740.5 6998.4
+\t (04:59:50) last pick:  12750.0  7000.0
+\t (04:59:50) Moving J6 / HEADER 6_BLKCON100VHTM1SQSW1006 / BLKCON100VHTM1SQSW1006.
+\t (04:59:50) last pick:  12925.0  7050.0
+\i (04:59:51) pick grid 13078.8 7035.4
+\t (04:59:51) last pick:  13075.0  7025.0
+\i (05:00:07) setwindow form.plc_manual
+\i (05:00:07) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\t (05:00:07) Placing J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002 on Bottom.
+\i (05:00:07) FORM plc_manual tree  J1 'Components by refdes' 
+\i (05:00:39) setwindow pcb
+\i (05:00:39) pick grid 14014.6 7537.6
+\t (05:00:39) last pick:  14025.0  7550.0
+\i (05:00:42) setwindow form.plc_manual
+\i (05:00:42) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\t (05:00:42) Placing J4 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002 on Bottom.
+\i (05:00:42) FORM plc_manual tree  J4 'Components by refdes' 
+\i (05:00:44) setwindow pcb
+\i (05:00:44) pick grid 14014.6 7241.5
+\t (05:00:44) last pick:  14025.0  7250.0
+\i (05:00:49) setwindow form.plc_manual
+\i (05:00:49) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (05:00:50) Placing J2 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002 on Bottom.
+\i (05:00:50) FORM plc_manual tree  J2 'Components by refdes' 
+\i (05:00:59) setwindow pcb
+\i (05:00:59) pick grid 14046.3 6337.5
+\t (05:00:59) last pick:  14050.0  6350.0
+\i (05:01:01) setwindow form.plc_manual
+\i (05:01:01) FORM plc_manual tree 'MULTISEL YES' J5 'Components by refdes' 
+\t (05:01:01) Placing J5 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002 on Bottom.
+\i (05:01:01) FORM plc_manual tree  J5 'Components by refdes' 
+\i (05:01:03) setwindow pcb
+\i (05:01:03) pick grid 14041.0 6089.1
+\t (05:01:03) last pick:  14050.0  6100.0
+\i (05:01:18) setwindow form.plc_manual
+\i (05:01:18) FORM plc_manual tree 'MULTISEL YES' J8 'Components by refdes' 
+\t (05:01:18) Placing J8 / HEADER 3_BLKCON100VHTM1SQW1003_ / BLKCON100VHTM1SQW1003 on Bottom.
+\i (05:01:18) FORM plc_manual tree  J8 'Components by refdes' 
+\i (05:01:21) setwindow pcb
+\i (05:01:21) pick grid 13982.8 6940.2
+\t (05:01:21) last pick:  13975.0  6950.0
+\i (05:01:45) setwindow form.plc_manual
+\i (05:01:45) FORM plc_manual tree 'MULTISEL YES' J9 'Components by refdes' 
+\t (05:01:45) Placing J9 / HEADER 3_BLKCON100VHTM1SQW1003_ / BLKCON100VHTM1SQW1003 on Bottom.
+\i (05:01:45) FORM plc_manual tree  J9 'Components by refdes' 
+\i (05:01:47) setwindow pcb
+\i (05:01:47) pick grid 14014.6 5898.7
+\t (05:01:47) last pick:  14025.0  5900.0
+\i (05:02:07) setwindow form.plc_manual
+\i (05:02:07) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\w (05:02:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (05:02:07) Placing U5 / 74HC08_4_74HC0_74HC08 / 74HC0 on Bottom.
+\i (05:02:07) FORM plc_manual tree  U5 'Components by refdes' 
+\i (05:02:08) setwindow pcb
+\i (05:02:08) roam start
+\i (05:02:09) roam y 80
+\i (05:02:09) roam x 32
+\i (05:02:09) roam y 112
+\i (05:02:09) roam y 32
+\i (05:02:09) roam y 32
+\i (05:02:09) roam y 48
+\i (05:02:09) roam end
+\i (05:02:11) pick grid 13274.6 5265.5
+\t (05:02:11) last pick:  13275.0  5275.0
+\i (05:02:15) setwindow form.plc_manual
+\i (05:02:15) FORM plc_manual tree 'MULTISEL YES' U6 'Components by refdes' 
+\t (05:02:15) Placing U6 / 74HC04_5_74HC0_74HC04 / 74HC0 on Bottom.
+\i (05:02:15) FORM plc_manual tree  U6 'Components by refdes' 
+\i (05:02:17) setwindow pcb
+\i (05:02:17) pick grid 12709.0 5254.9
+\t (05:02:17) last pick:  12700.0  5250.0
+\i (05:02:29) setwindow form.plc_manual
+\i (05:02:29) FORM plc_manual tree 'MULTISEL YES' C18 'Components by refdes' 
+\t (05:02:29) Placing C18 / C NP_SMC0805_100NF / SMC0805 on Bottom.
+\i (05:02:29) FORM plc_manual tree  C18 'Components by refdes' 
+\i (05:02:30) setwindow pcb
+\i (05:02:30) pick grid 13486.1 5476.9
+\t (05:02:30) last pick:  13475.0  5475.0
+\i (05:02:42) setwindow form.plc_manual
+\i (05:02:42) FORM plc_manual tree 'MULTISEL YES' R14 'Components by refdes' 
+\t (05:02:42) Placing R14 / RESISTOR_SMR0805_7.5K / SMR0805 on Bottom.
+\i (05:02:42) FORM plc_manual tree  R14 'Components by refdes' 
+\i (05:03:10) FORM plc_manual cancel  
+\i (05:03:11) setwindow pcb
+\i (05:03:11) generaledit 
+\i (05:03:12) zoom out 1 
+\i (05:03:12) setwindow pcb
+\i (05:03:12) zoom out 13887.9 6026.7
+\i (05:03:12) trapsize 529
+\i (05:03:13) zoom in 1 
+\i (05:03:13) setwindow pcb
+\i (05:03:13) zoom in 14913.5 8204.8
+\i (05:03:13) trapsize 264
+\i (05:05:17) place manual 
+\i (05:05:24) setwindow form.plc_manual
+\i (05:05:24) FORM plc_manual tree 'MULTISEL YES' R17 'Components by refdes' 
+\t (05:05:24) Placing R17 / RESISTOR_SMR0805_120 / SMR0805 on Bottom.
+\i (05:05:24) FORM plc_manual tree  R17 'Components by refdes' 
+\i (05:05:27) setwindow pcb
+\i (05:05:27) pick grid 11360.9 7919.4
+\t (05:05:27) last pick:  11350.0  7925.0
+\i (05:05:33) setwindow form.plc_manual
+\i (05:05:33) FORM plc_manual tree 'MULTISEL YES' D3 'Components by refdes' 
+\t (05:05:33) Placing D3 / LED_SMR0805_RED / SMR0805 on Bottom.
+\i (05:05:33) FORM plc_manual tree  D3 'Components by refdes' 
+\i (05:05:35) setwindow pcb
+\i (05:05:35) pick grid 11339.8 7750.2
+\t (05:05:35) last pick:  11350.0  7750.0
+\i (05:05:41) setwindow form.plc_manual
+\i (05:05:41) FORM plc_manual tree 'MULTISEL YES' D4 'Components by refdes' 
+\w (05:05:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (05:05:41) Placing D4 / 1N4148_1N4148_SOD523_1N4148 / 1N4148_SOD523 on Bottom.
+\i (05:05:41) FORM plc_manual tree  D4 'Components by refdes' 
+\i (05:05:48) setwindow pcb
+\i (05:05:48) pick grid 13613.0 5915.8
+\t (05:05:48) last pick:  13625.0  5925.0
+\i (05:05:50) setwindow form.plc_manual
+\i (05:05:50) FORM plc_manual tree 'MULTISEL YES' D2 'Components by refdes' 
+\t (05:05:50) Placing D2 / 1N4148_1N4148_SOD523_1N4148 / 1N4148_SOD523 on Bottom.
+\i (05:05:50) FORM plc_manual tree  D2 'Components by refdes' 
+\i (05:05:54) setwindow pcb
+\i (05:05:54) pick grid 13565.4 6957.2
+\t (05:05:54) last pick:  13575.0  6950.0
+\i (05:06:04) setwindow form.plc_manual
+\i (05:06:04) FORM plc_manual tree 'MULTISEL YES' R14 'Components by refdes' 
+\t (05:06:04) Placing R14 / RESISTOR_SMR0805_7.5K / SMR0805 on Bottom.
+\i (05:06:04) FORM plc_manual tree  R14 'Components by refdes' 
+\i (05:06:08) setwindow pcb
+\i (05:06:08) pick grid 13702.9 6766.9
+\t (05:06:08) last pick:  13700.0  6775.0
+\i (05:06:16) pick grid 13660.6 6751.1
+\t (05:06:16) last pick:  13650.0  6750.0
+\t (05:06:16) Moving R14 / RESISTOR_SMR0805_7.5K / SMR0805.
+\t (05:06:16) last pick:  13700.0  6775.0
+\i (05:06:17) pick grid 13655.3 6687.6
+\t (05:06:17) last pick:  13650.0  6700.0
+\i (05:06:19) setwindow form.plc_manual
+\i (05:06:19) FORM plc_manual cancel  
+\i (05:06:19) setwindow pcb
+\i (05:06:19) generaledit 
+\i (05:06:20) pick grid 13713.4 6751.1
+\t (05:06:20) last pick:  13725.0  6750.0
+\i (05:06:21) prepopup 13713.4 6751.1
+\i (05:06:22) pick grid 13628.9 6576.6
+\t (05:06:22) last pick:  13625.0  6575.0
+\i (05:06:22) prepopup 14702.0 6914.9
+\i (05:06:23) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (05:06:23) etchedit 
+\i (05:06:24) prepopup 14369.0 7026.0
+\i (05:06:25) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (05:06:25) placementedit 
+\i (05:06:26) prepopup 13613.0 6766.9
+\i (05:06:28) pop dyn_option_select '@:@Unplace component' 
+\i (05:06:28) unplace component 
+\i (05:06:28) placementedit 
+\i (05:06:44) place manual 
+\i (05:06:49) setwindow form.plc_manual
+\i (05:06:49) FORM plc_manual tree 'MULTISEL YES' C5 'Components by refdes' 
+\t (05:06:49) Placing C5 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (05:06:49) FORM plc_manual tree  C5 'Components by refdes' 
+\i (05:07:40) setwindow pcb
+\i (05:07:40) pick grid 12000.6 6190.7
+\t (05:07:40) last pick:  12000.0  6200.0
+\i (05:07:42) setwindow form.plc_manual
+\i (05:07:42) FORM plc_manual tree 'MULTISEL YES' C8 'Components by refdes' 
+\t (05:07:42) Placing C8 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (05:07:42) FORM plc_manual tree  C8 'Components by refdes' 
+\i (05:07:44) setwindow pcb
+\i (05:07:44) pick grid 12011.2 5815.3
+\t (05:07:44) last pick:  12000.0  5825.0
+\i (05:07:46) setwindow form.plc_manual
+\i (05:07:46) FORM plc_manual tree 'MULTISEL YES' C10 'Components by refdes' 
+\t (05:07:46) Placing C10 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (05:07:46) FORM plc_manual tree  C10 'Components by refdes' 
+\i (05:07:57) setwindow pcb
+\i (05:07:57) pick grid 12101.0 6412.7
+\t (05:07:57) last pick:  12100.0  6425.0
+\i (05:08:00) setwindow form.plc_manual
+\i (05:08:00) FORM plc_manual tree 'MULTISEL YES' C19 'Components by refdes' 
+\t (05:08:00) Placing C19 / C NP_SMC0805_100NF / SMC0805 on Bottom.
+\i (05:08:00) FORM plc_manual tree  C19 'Components by refdes' 
+\i (05:08:16) setwindow pcb
+\i (05:08:16) pick grid 13861.5 7739.6
+\t (05:08:16) last pick:  13850.0  7750.0
+\i (05:08:18) setwindow form.plc_manual
+\i (05:08:18) FORM plc_manual done  
+\i (05:08:18) setwindow pcb
+\i (05:08:18) placementedit 
+\i (05:08:19) zoom out 1 
+\i (05:08:19) setwindow pcb
+\i (05:08:19) zoom out 13375.1 6840.9
+\i (05:08:19) trapsize 529
+\i (05:08:19) zoom in 1 
+\i (05:08:19) setwindow pcb
+\i (05:08:19) zoom in 12412.9 5593.3
+\i (05:08:19) trapsize 264
+\i (05:08:19) zoom out 1 
+\i (05:08:19) setwindow pcb
+\i (05:08:19) zoom out 12508.1 5847.1
+\i (05:08:19) trapsize 529
+\i (05:08:20) zoom in 1 
+\i (05:08:20) setwindow pcb
+\i (05:08:20) zoom in 13480.8 7824.2
+\i (05:08:20) trapsize 264
+\i (06:06:58) pick grid 13681.7 6640.1
+\t (06:06:58) last pick:  13680.0  6640.0
+\i (06:06:59) zoom in 1 
+\i (06:06:59) setwindow pcb
+\i (06:06:59) zoom in 13898.5 6782.8
+\i (06:06:59) trapsize 132
+\i (06:07:00) prepopup 13843.0 6907.0
+\i (06:07:01) pick grid 13798.0 7078.8
+\t (06:07:01) last pick:  13800.0  7080.0
+\i (06:07:01) zoom out 1 
+\i (06:07:01) setwindow pcb
+\i (06:07:01) zoom out 13866.8 6957.3
+\i (06:07:01) trapsize 264
+\i (06:07:01) zoom out 1 
+\i (06:07:01) setwindow pcb
+\i (06:07:01) zoom out 13882.6 6862.1
+\i (06:07:01) trapsize 529
+\i (06:07:02) zoom in 1 
+\i (06:07:02) setwindow pcb
+\i (06:07:02) zoom in 13586.6 5720.1
+\i (06:07:02) trapsize 264
+\i (06:07:03) pick grid 13988.4 5952.7
+\t (06:07:03) last pick:  13990.0  5955.0
+\i (06:07:03) move 
+\t (06:07:03) last pick:  14025.0  5900.0
+\t (06:07:03) Moving J9 / HEADER 3_BLKCON100VHTM1SQW1003_ / BLKCON100VHTM1SQW1003.
+\t (06:07:03) Pick new location for the element(s).
+\i (06:07:04) pick grid 13983.1 5878.7
+\t (06:07:04) last pick:  13985.0  5880.0
+\i (06:07:04) placementedit 
+\i (06:07:06) pick grid tgl 13813.9 6893.7
+\t (06:07:06) last pick:  13815.0  6895.0
+\i (06:07:07) prepopup 13829.8 6973.0
+\i (06:07:09) pop dyn_option_select '@:@Unplace component' 
+\i (06:07:09) unplace component 
+\i (06:07:09) placementedit 
+\i (06:07:45) pick grid 16092.4 7036.5
+\t (06:07:45) last pick:  16090.0  7035.0
+\i (06:08:35) pick grid 9790.8 6555.4
+\t (06:08:35) last pick:  9790.0  6555.0
+\i (06:08:38) zoom in 1 
+\i (06:08:38) setwindow pcb
+\i (06:08:38) zoom in 13147.8 7078.8
+\i (06:08:38) trapsize 132
+\i (06:08:38) zoom in 1 
+\i (06:08:38) setwindow pcb
+\i (06:08:38) zoom in 13147.8 7078.8
+\i (06:08:38) trapsize 66
+\i (06:08:38) zoom out 1 
+\i (06:08:38) setwindow pcb
+\i (06:08:38) zoom out 13147.8 7078.8
+\i (06:08:38) trapsize 132
+\i (06:08:38) zoom out 1 
+\i (06:08:38) setwindow pcb
+\i (06:08:38) zoom out 13147.9 7078.8
+\i (06:08:38) trapsize 264
+\i (06:08:39) zoom out 1 
+\i (06:08:39) setwindow pcb
+\i (06:08:39) zoom out 12465.9 6634.8
+\i (06:08:39) trapsize 529
+\i (06:08:40) zoom in 1 
+\i (06:08:40) setwindow pcb
+\i (06:08:40) zoom in 13692.4 8104.4
+\i (06:08:40) trapsize 264
+\i (06:08:58) pick grid 13592.0 7565.2
+\t (06:08:58) last pick:  13590.0  7565.0
+\i (06:08:59) zoom out 1 
+\i (06:08:59) setwindow pcb
+\i (06:08:59) zoom out 13338.3 5778.3
+\i (06:08:59) trapsize 529
+\i (06:08:59) zoom in 1 
+\i (06:08:59) setwindow pcb
+\i (06:08:59) zoom in 13285.4 5186.2
+\i (06:08:59) trapsize 264
+\i (06:08:59) zoom in 1 
+\i (06:08:59) setwindow pcb
+\i (06:08:59) zoom in 13296.0 5397.7
+\i (06:08:59) trapsize 132
+\i (06:09:00) zoom out 1 
+\i (06:09:00) setwindow pcb
+\i (06:09:00) zoom out 13496.9 6050.7
+\i (06:09:00) trapsize 264
+\i (06:09:01) zoom in 1 
+\i (06:09:01) setwindow pcb
+\i (06:09:01) zoom in 13629.0 7795.2
+\i (06:09:01) trapsize 132
+\i (06:09:01) zoom out 1 
+\i (06:09:01) setwindow pcb
+\i (06:09:01) zoom out 13629.1 7795.2
+\i (06:09:01) trapsize 264
+\i (06:09:02) roam start
+\i (06:09:03) roam y -80
+\i (06:09:03) roam end
+\i (06:09:08) zoom out 1 
+\i (06:09:08) setwindow pcb
+\i (06:09:08) zoom out 12481.9 6666.4
+\i (06:09:08) trapsize 529
+\i (06:17:16) pick grid 5514.1 7776.6
+\t (06:17:16) last pick:  5515.0  7775.0
+\i (06:17:20) netin 
+\i (06:17:21) setwindow form.niparams
+\i (06:17:21) FORM niparams import  
+\t (06:17:21) Starting Cadence Logic Import...
+\t (06:17:22) Opening existing design...
+\i (06:17:22) setwindow pcb
+\i (06:17:22) trapsize 529
+\i (06:17:23) placementedit 
+\i (06:17:28) place manual 
+\i (06:17:35) setwindow form.plc_manual
+\i (06:17:35) FORM plc_manual cancel  
+\i (06:17:35) setwindow pcb
+\i (06:17:35) placementedit 
+\i (06:18:16) pick grid 7565.3 7025.9
+\t (06:18:16) last pick:  7565.0  7025.0
+\i (06:18:22) netin 
+\i (06:18:23) setwindow form.niparams
+\i (06:18:23) FORM niparams import  
+\t (06:18:23) Starting Cadence Logic Import...
+\t (06:18:23) Opening existing design...
+\i (06:18:23) setwindow pcb
+\i (06:18:23) trapsize 529
+\i (06:18:25) placementedit 
+\i (06:18:26) place manual 
+\i (06:18:27) setwindow form.plc_manual
+\i (06:18:27) FORM plc_manual tree 'MULTISEL YES' J9 'Components by refdes' 
+\t (06:18:27) Placing J9 / HEADER 4_BLKCON100VHTM2OEW2004_ / BLKCON100VHTM2OEW2004 on Bottom.
+\i (06:18:27) FORM plc_manual tree  J9 'Components by refdes' 
+\i (06:18:32) FORM plc_manual cancel  
+\i (06:18:32) setwindow pcb
+\i (06:18:32) placementedit 
+\i (06:19:04) pick grid 7427.8 7988.1
+\t (06:19:04) last pick:  7430.0  7990.0
+\i (06:19:06) save 
+\i (06:19:07) fillin yes 
+\i (06:19:07) placementedit 
+\i (06:19:09) open 
+\i (06:19:21) fillin "C:\Users\tgbodkin\Desktop\linkinginterface\lib\symbols\symbols\BCON100T\BCON100T_LLB.brd"
+\i (06:19:21) cd "C:\Users\tgbodkin\Desktop\linkinginterface\lib\symbols\symbols\BCON100T"
+\t (06:19:21) Opening existing design...
+\i (06:19:22) fillin yes 
+\w (06:19:22) WARNING(SPMHDB-214): Allegro PCB Design L (legacy) opening an Allegro XL design.
+\w (06:19:22) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (06:19:22) WARNING(SPMHOD-33): Design was last saved by a higher capability product (Allegro XL). There may be constraints and other design data that may be ignored at the tool's current license levels.
+\i (06:19:23) fillin confirm
+\i (06:19:23) trapsize 1635
+\t (06:19:24)     Journal end - Mon May 25 20:47:30 2015

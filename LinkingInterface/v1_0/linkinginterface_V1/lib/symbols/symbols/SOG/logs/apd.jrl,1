@@ -1,0 +1,129 @@
+\t (00:07:57) apd 16.5 P003 (v16-5-13C) i86
+\t (00:07:57)     Journal start - Sun Dec 08 12:41:39 2013
+\t (00:07:57)         Host=OWNER-PC130616 User=Owner Pid=7864 CPUs=8
+\t (00:07:57) 
+\d (00:07:57) Database opened: C:/Users/Owner/Desktop/EE174 FINAL PROJECT/Lib/symbols/SOG/SOG_LLB.brd
+\i (00:07:57) placementedit 
+\i (00:07:58) zoom out 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom out 4160.6 6891.5
+\i (00:07:58) trapsize 922
+\i (00:07:58) zoom in 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in 2169.7 10320.2
+\i (00:07:58) trapsize 461
+\i (00:07:58) zoom in 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in 2105.3 10412.4
+\i (00:07:58) trapsize 230
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 2105.3 10412.4
+\i (00:07:59) trapsize 461
+\i (00:07:59) zoom in 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom in 1109.9 10338.8
+\i (00:07:59) trapsize 230
+\i (00:08:00) zoom in 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom in 1096.1 10343.4
+\i (00:08:00) trapsize 115
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 1096.1 10343.5
+\i (00:08:00) trapsize 230
+\i (00:08:03) zoom in 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom in 801.3 10219.0
+\i (00:08:03) trapsize 115
+\i (00:08:04) zoom out 1 
+\i (00:08:04) setwindow pcb
+\i (00:08:04) zoom out 799.0 10221.3
+\i (00:08:04) trapsize 230
+\i (00:08:04) zoom in 1 
+\i (00:08:04) setwindow pcb
+\i (00:08:04) zoom in 1679.2 10249.0
+\i (00:08:04) trapsize 115
+\i (00:08:05) zoom in 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom in 1679.2 10249.1
+\i (00:08:05) trapsize 58
+\i (00:08:05) zoom out 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom out 1679.2 10249.1
+\i (00:08:05) trapsize 115
+\i (00:08:06) zoom out 1 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom out 2105.6 10380.4
+\i (00:08:06) trapsize 230
+\i (00:08:06) zoom out 1 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom out 870.5 10246.8
+\i (00:08:06) trapsize 461
+\i (00:08:09) zoom in 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom in 215.9 10209.9
+\i (00:08:09) trapsize 230
+\i (00:08:10) zoom out 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom out 239.0 10209.9
+\i (00:08:10) trapsize 461
+\i (00:08:10) zoom in 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom in -28.4 9988.8
+\i (00:08:10) trapsize 230
+\i (00:08:11) roam start
+\i (00:08:11) roam y -32
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y -32
+\i (00:08:11) roam y -32
+\i (00:08:12) roam end
+\i (00:08:12) zoom in 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom in 40.6 10477.0
+\i (00:08:12) trapsize 115
+\i (00:08:12) zoom in 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom in 42.9 10477.0
+\i (00:08:12) trapsize 58
+\i (00:08:14) zoom out 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out 401.3 10335.3
+\i (00:08:14) trapsize 115
+\i (00:08:14) zoom out 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out 401.2 10328.4
+\i (00:08:14) trapsize 230
+\i (00:08:14) zoom out 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out 405.9 10305.3
+\i (00:08:14) trapsize 461
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 2455.5 8513.7
+\i (00:08:16) trapsize 230
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 2455.6 8513.7
+\i (00:08:16) trapsize 115
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 2455.6 8513.7
+\i (00:08:16) trapsize 58
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 2455.6 8512.6
+\i (00:08:19) trapsize 115
+\i (00:08:28) pick grid 2287.5 8438.8
+\t (00:08:28) last pick:  2300.0  8400.0
+\i (00:14:24) pick grid 2354.3 8600.1
+\t (00:14:24) last pick:  2400.0  8600.0
+\i (00:14:25) pick grid 2352.0 8586.3
+\t (00:14:25) last pick:  2400.0  8600.0
+\i (00:14:25) pick grid dbl 2352.0 8586.3
+\t (00:14:25) last pick:  2400.0  8600.0
+\i (00:14:25) prepopup 2377.4 8554.0
+\i (00:14:27) pick grid 2759.9 8740.7
+\t (00:14:27) last pick:  2800.0  8700.0
+\i (00:14:31) exit 
+\t (00:14:31)     Journal end - Sun Dec 08 12:48:13 2013

@@ -1,0 +1,244 @@
+\t (01:05:49) allegro 16.5 P003 (v16-5-13C) i86
+\t (01:05:49)     Journal start - Sun Dec 08 11:41:45 2013
+\t (01:05:49)         Host=OWNER-PC130616 User=Owner Pid=11548 CPUs=8
+\t (01:05:49) 
+\d (01:05:49) Database opened: C:/Users/Owner/Desktop/EE174 FINAL PROJECT/Lib/symbols/SOG/SOG_LLB.brd
+\i (01:05:49) placementedit 
+\i (01:05:50) zoom in 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom in 8307.6 6146.7
+\i (01:05:50) trapsize 443
+\i (01:05:50) zoom in 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom in 8254.4 6208.8
+\i (01:05:50) trapsize 222
+\i (01:05:50) zoom in 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom in 8245.6 6222.1
+\i (01:05:50) trapsize 111
+\i (01:05:50) zoom out 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom out 8245.7 6222.1
+\i (01:05:50) trapsize 222
+\i (01:05:50) zoom out 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom out 8245.6 6222.1
+\i (01:05:50) trapsize 443
+\i (01:05:50) zoom out 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom out 8245.6 6222.1
+\i (01:05:50) trapsize 886
+\i (01:05:50) zoom out 1 
+\i (01:05:50) setwindow pcb
+\i (01:05:50) zoom out 8165.8 6324.0
+\i (01:05:50) trapsize 886
+\i (01:05:51) zoom in 1 
+\i (01:05:51) setwindow pcb
+\i (01:05:51) zoom in 12225.1 10117.4
+\i (01:05:51) trapsize 443
+\i (01:05:51) zoom in 1 
+\i (01:05:51) setwindow pcb
+\i (01:05:51) zoom in 12225.1 10117.4
+\i (01:05:51) trapsize 222
+\i (01:05:51) zoom out 1 
+\i (01:05:51) setwindow pcb
+\i (01:05:51) zoom out 12225.1 10117.5
+\i (01:05:51) trapsize 443
+\i (01:05:51) zoom out 1 
+\i (01:05:51) setwindow pcb
+\i (01:05:51) zoom out 12225.2 10117.4
+\i (01:05:51) trapsize 886
+\i (01:05:53) zoom in 1 
+\i (01:05:53) setwindow pcb
+\i (01:05:53) zoom in 1447.6 10471.9
+\i (01:05:53) trapsize 443
+\i (01:05:53) zoom in 1 
+\i (01:05:53) setwindow pcb
+\i (01:05:53) zoom in 1421.0 10471.9
+\i (01:05:53) trapsize 222
+\i (01:05:53) zoom in 1 
+\i (01:05:53) setwindow pcb
+\i (01:05:53) zoom in 1421.1 10472.0
+\i (01:05:53) trapsize 111
+\i (01:05:53) zoom in 1 
+\i (01:05:53) setwindow pcb
+\i (01:05:53) zoom in 1421.1 10472.0
+\i (01:05:53) trapsize 55
+\i (01:05:53) zoom out 1 
+\i (01:05:53) setwindow pcb
+\i (01:05:53) zoom out 1421.1 10472.0
+\i (01:05:53) trapsize 111
+\i (01:05:55) zoom out 1 
+\i (01:05:55) setwindow pcb
+\i (01:05:55) zoom out 2161.2 9386.3
+\i (01:05:55) trapsize 222
+\i (01:05:57) zoom in 1 
+\i (01:05:57) setwindow pcb
+\i (01:05:57) zoom in 1039.9 8530.7
+\i (01:05:57) trapsize 111
+\i (01:06:45) pick grid 1562.9 8790.0
+\t (01:06:45) last pick:  1600.0  8800.0
+\i (01:06:45) zoom in 1 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) zoom in 2342.9 8739.1
+\i (01:06:45) trapsize 55
+\i (01:06:45) zoom in 1 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) zoom in 2344.0 8740.2
+\i (01:06:45) trapsize 28
+\i (01:06:45) zoom in 1 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) zoom in 2344.0 8740.2
+\i (01:06:45) trapsize 14
+\i (01:06:45) zoom in 1 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) zoom in 2344.0 8740.2
+\i (01:06:45) trapsize 7
+\i (01:06:45) zoom in 1 
+\i (01:06:45) setwindow pcb
+\i (01:06:45) zoom in 2344.0 8740.3
+\i (01:06:45) trapsize 3
+\i (01:06:46) zoom out 1 
+\i (01:06:46) setwindow pcb
+\i (01:06:46) zoom out 2354.7 8755.2
+\i (01:06:46) trapsize 7
+\i (01:06:46) zoom out 1 
+\i (01:06:46) setwindow pcb
+\i (01:06:46) zoom out 2354.7 8754.7
+\i (01:06:46) trapsize 14
+\i (01:06:48) pick grid 2371.2 8810.2
+\t (01:06:48) last pick:  2400.0  8800.0
+\i (01:06:48) move 
+\t (01:06:48) last pick:  2263.2  8567.0
+\t (01:06:48) Moving SOG0506WG275L250 / SOG0506WG275L250 / SOG0506WG275L250.
+\t (01:06:48) Pick new location for the element(s).
+\i (01:06:49) zoom out 1 
+\i (01:06:49) setwindow pcb
+\i (01:06:49) zoom out 2371.2 8810.2
+\i (01:06:49) trapsize 28
+\i (01:06:49) zoom out 1 
+\i (01:06:49) setwindow pcb
+\i (01:06:49) zoom out 2371.3 8810.3
+\i (01:06:49) trapsize 55
+\i (01:06:49) zoom out 1 
+\i (01:06:49) setwindow pcb
+\i (01:06:49) zoom out 2371.3 8810.2
+\i (01:06:49) trapsize 111
+\i (01:06:50) pick grid 2362.3 8668.4
+\t (01:06:50) last pick:  2400.0  8700.0
+\i (01:06:50) placementedit 
+\i (01:06:51) zoom out 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom out 1925.3 8537.5
+\i (01:06:51) trapsize 222
+\i (01:06:51) zoom out 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom out 1881.0 8510.9
+\i (01:06:51) trapsize 444
+\i (01:06:51) zoom out 1 
+\i (01:06:51) setwindow pcb
+\i (01:06:51) zoom out 5037.1 8502.0
+\i (01:06:51) trapsize 886
+\i (01:06:52) zoom in 1 
+\i (01:06:52) setwindow pcb
+\i (01:06:52) zoom in 12331.4 6572.2
+\i (01:06:52) trapsize 443
+\i (01:06:52) zoom in 1 
+\i (01:06:52) setwindow pcb
+\i (01:06:52) zoom in 12331.4 6572.2
+\i (01:06:52) trapsize 222
+\i (01:06:52) zoom in 1 
+\i (01:06:52) setwindow pcb
+\i (01:06:52) zoom in 12331.4 6572.2
+\i (01:06:52) trapsize 111
+\i (01:06:52) zoom out 1 
+\i (01:06:52) setwindow pcb
+\i (01:06:52) zoom out 12331.5 6572.2
+\i (01:06:52) trapsize 222
+\i (01:06:52) zoom out 1 
+\i (01:06:52) setwindow pcb
+\i (01:06:52) zoom out 12331.4 6572.2
+\i (01:06:52) trapsize 443
+\i (01:06:53) zoom out 1 
+\i (01:06:53) setwindow pcb
+\i (01:06:53) zoom out 12464.4 7502.9
+\i (01:06:53) trapsize 886
+\i (01:06:53) zoom out 1 
+\i (01:06:53) setwindow pcb
+\i (01:06:53) zoom out 12561.9 8451.1
+\i (01:06:53) trapsize 886
+\i (01:06:54) zoom in 1 
+\i (01:06:54) setwindow pcb
+\i (01:06:54) zoom in 2511.2 9745.1
+\i (01:06:54) trapsize 443
+\i (01:06:54) zoom in 1 
+\i (01:06:54) setwindow pcb
+\i (01:06:54) zoom in 2511.2 9745.1
+\i (01:06:54) trapsize 222
+\i (01:06:55) zoom in 1 
+\i (01:06:55) setwindow pcb
+\i (01:06:55) zoom in 2511.2 9745.2
+\i (01:06:55) trapsize 111
+\i (01:06:56) pick grid 2526.7 9302.1
+\t (01:06:56) last pick:  2500.0  9300.0
+\i (01:07:33) pick grid 2830.3 9198.0
+\t (01:07:33) last pick:  2800.0  9200.0
+\i (01:07:33) zoom out 1 
+\i (01:07:33) setwindow pcb
+\i (01:07:33) zoom out 2834.7 9213.5
+\i (01:07:33) trapsize 222
+\i (01:07:34) zoom out 1 
+\i (01:07:34) setwindow pcb
+\i (01:07:34) zoom out 2564.4 9807.3
+\i (01:07:34) trapsize 443
+\i (01:07:35) zoom in 1 
+\i (01:07:35) setwindow pcb
+\i (01:07:35) zoom in 1341.4 8858.8
+\i (01:07:35) trapsize 222
+\i (01:07:39) zoom in 1 
+\i (01:07:39) setwindow pcb
+\i (01:07:39) zoom in 1363.5 8881.0
+\i (01:07:39) trapsize 111
+\i (01:07:40) zoom out 1 
+\i (01:07:40) setwindow pcb
+\i (01:07:40) zoom out 1339.2 8905.4
+\i (01:07:40) trapsize 222
+\t (01:07:40) Pick to complete the window.
+\i (01:07:41) prepopup 886.8 9018.8
+\i (01:07:42) cancel 
+\i (01:07:42) placementedit 
+\i (01:07:42) zoom out 1 
+\i (01:07:42) setwindow pcb
+\i (01:07:42) zoom out 1374.6 8989.5
+\i (01:07:42) trapsize 443
+\i (01:07:43) zoom in 1 
+\i (01:07:43) setwindow pcb
+\i (01:07:43) zoom in 532.7 9397.2
+\i (01:07:43) trapsize 222
+\i (01:07:43) zoom in 1 
+\i (01:07:43) setwindow pcb
+\i (01:07:43) zoom in 532.7 9397.3
+\i (01:07:43) trapsize 111
+\i (01:07:44) zoom out 1 
+\i (01:07:44) setwindow pcb
+\i (01:07:44) zoom out 532.7 9397.3
+\i (01:07:44) trapsize 222
+\i (01:07:45) zoom in 1 
+\i (01:07:45) setwindow pcb
+\i (01:07:45) zoom in 1060.1 8674.9
+\i (01:07:45) trapsize 111
+\i (01:07:46) roam start
+\i (01:07:46) roam x 16
+\i (01:07:46) roam y -64
+\i (01:07:46) roam y -48
+\i (01:07:46) roam y -32
+\i (01:07:47) roam y -32
+\i (01:07:47) roam end
+\i (01:13:46) open 
+\e (01:13:46) Do you want to save the changes you made to SOG_LLB.brd?
+\i (01:13:47) fillin no 
+\i (01:13:57) fillin "C:\Users\Owner\Desktop\EE174 FINAL PROJECT\Design\pcb\vcf-1.brd"
+\i (01:13:57) cd "C:\Users\Owner\Desktop\EE174 FINAL PROJECT\Design\pcb"
+\t (01:13:57) Opening existing design...
+\i (01:13:57) trapsize 1057
+\t (01:13:57)     Journal end - Sun Dec 08 11:49:53 2013

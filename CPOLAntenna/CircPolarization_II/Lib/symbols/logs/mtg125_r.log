@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : mtg125_R.dra                                  )
+(    Software Version : 16.3S028                                      )
+(    Date/Time        : Fri May 13 18:13:12 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/Amateur Radio/Projects/UCSC_2m_Repeater/Lib/symbols
+    Name      = mtg125_r.bsm
+    User      = petersen
+    Machine   = ENIAC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,106 @@
+Steps to installing IRLP on a Raspberry Pi 	
+Posted By: 	ve7ltd
+Date: Wed Jan 2, 2013 3:35 pm 
+
+First thing, back up your existing install using the "backup_for_reinstall"
+script. It will create an irlp_backup.tgz file on a USB stick - More on this
+later.
+
+Second thing - This is experimental and not supported. If it breaks something, I
+apologize, but I can not forsee all possible issues. I will try to help where I
+can, but can not promise it will all work.
+
+Hardware required:
+- IRLP Ver 3.0 board
+- Raspberry Pi Model B (any Revision SHOULD work, tested on a Rev 2)
+- DB-25 to IDC 26 parallel cable (or similar)
+- USB sound card (most all should work, I am using the one listed below)
+- 2G (min) SD card (larger is better, but not required)
+- USB keyboard (for initial boot only)
+
+USB sound card I use is a Syba SD-CM-UAUD, based on Cmedia CM119.
+Some Pics of the sound card:
+http://www.steila.com/USB4IO/Syba/Syba.html
+
+Where you can get it from ($8.99 free shipping to US):
+http://www.newegg.com/Product/Product.aspx?Item=N82E16812186035
+
+Modifications required:
+- Please prepare the IRLP board/parallel cable as shown at:
+http://www.irlp.net/R_Pi/
+
+Software Required:
+- The official Raspbian release from the Raspberry Pi Foundation:
+http://www.raspberrypi.org/downloads
+(no support will be offered for this, besides what buttons to press) Follow the
+directions on the RPi site for creating the card.
+
+SPECIAL NOTE ABOUT THE PI - Do not "hotplug" USB devices, as the unit tends to
+reset without warning when USB devices are plugged in. So if you are going to
+run an irlp-reinstall, I would suggest plugging your USB key with the backup
+file in before you boot the PC.
+
+Boot your Pi, and perform the following steps in the config:
+1) expand_rootfs Expand root partition to fill SD card
+2) change_pass Change password for 'pi' user
+3) change_locale Set locale (as required)
+4) change_timezone Set timezone
+5) NEW - Set up the keyboard layout (defaults to UK keyboard)
+6) memory_split Change memory split (set to 16)
+7) ssh Enable ssh server
+8) boot_behaviour DO NOT BOOT INTO DESKTOP
+
+Then click Finish.
+
+On initial boot, log in using user pi, and the password set above. The pi user
+is essentially a root user, and we want to create a root password, and carry on.
+That makes this more like other IRLP nodes...
+
+At the prompt, type:
+
+sudo su -
+passwd root (set a password)
+
+Now in the future, you can log in as root, or you can also choose to remove the
+pi user (optional):
+
+userdel -r pi
+
+Now we download the IRLP "get-irlp-files" script, which will carry us through
+the rest of the install.
+
+wget ftp://ftp.irlp.net/get-irlp-files
+chmod +x get-irlp-files
+./get-irlp-files
+
+(This process will take several minutes (up to 50), as it basically strips the
+default install of about 200 unneeded packages, and configures your Pi for the
+packages it needs for IRLP to run). Lets be honest - the Pi is not the fastest
+beast on the block.... so this process takes time.
+
+Then progress with your install as usual. All of the commands are the same as a
+normal node, and the installer automatically picks up the special binary files
+for the ARM processor.
+
+Your node should work at this point.
+
+The last step we will do is update the firmware on your Pi. This will help keep
+everyone on a "level" playing field, and will help instructions work for all
+users.
+
+Follow the directions at:
+https://github.com/Hexxeh/rpi-update/
+
+EXCEPT, as you are already logged in as root, you can remove the "sudo" in the
+front of all of the commands. So the command string is:
+
+wget http://goo.gl/1BOfJ -O /usr/bin/rpi-update && sudo chmod +x /usr/bin/rpi-update
+
+rpi-update
+
+Then reboot, and enjoy your new PiRLP node.
+
+If there are questions, please email directly. I will do what I can to help.
+
+Dave Cameron
+VE7LTD

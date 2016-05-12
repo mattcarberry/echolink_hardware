@@ -1,0 +1,23 @@
+\t (00:00:01) allegro 16.3 S032 (v16-3-85CB) i86
+\t (00:00:01) 
+
+\t (00:00:03) Opening existing drawing...
+\d (00:00:04) Database opened: C:/Amateur Radio/Projects/CircPolarization_II/Hardware/pcb/CPOL_2m.brd
+\t (00:00:04) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:00:04) trapsize 176
+\i (00:00:04) trapsize 172
+\i (00:00:04) trapsize 171
+\i (00:00:05) trapsize 212
+\i (00:00:06) etchedit 
+\i (00:00:11) open 
+\i (00:00:32) fillin "I:\CircPolarization\Control_Head\pcb\CPOL_ControlHead.brd"
+\i (00:00:32) cd "I:\CircPolarization\Control_Head\pcb"
+\t (00:00:32) Opening existing drawing...
+\e (00:00:32) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\e (00:00:32) ERROR(SPMHOD-29): Unable to open design because database was saved under a newer release and contains features not compatible with this version of software. See the newer release's documentation for any conversion capability.
+\i (00:00:38) fillin confirm
+\t (00:00:38) Starting new drawing...
+\i (00:00:38) trapsize 905
+\i (00:00:41) fillin "menu_cancel"
+\i (00:00:41) etchedit 
+\i (00:00:42) exit 

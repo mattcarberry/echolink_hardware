@@ -1,0 +1,3288 @@
+\t (06:21:28) allegro 16.5 P003 (v16-5-13C) i86
+\t (06:21:28)     Journal start - Mon May 25 20:49:35 2015
+\t (06:21:28)         Host=SRDSNPC18 User=tgbodkin Pid=9360 CPUs=4
+\t (06:21:28) 
+\d (06:21:28) Database opened: C:/Users/tgbodkin/Desktop/linkinginterface/linkinginterface/pcb/LinkingInterfaceV1.3.brd
+\i (06:21:28) placementedit 
+\i (06:21:31) netin 
+\i (06:21:32) setwindow form.niparams
+\i (06:21:32) FORM niparams import  
+\t (06:21:32) Starting Cadence Logic Import...
+\t (06:21:33) Opening existing design...
+\i (06:21:33) setwindow pcb
+\i (06:21:33) trapsize 529
+\i (06:21:34) placementedit 
+\i (06:21:35) zoom in 1 
+\i (06:21:35) setwindow pcb
+\i (06:21:35) zoom in 13496.8 6433.8
+\i (06:21:35) trapsize 264
+\i (06:21:36) zoom out 1 
+\i (06:21:36) setwindow pcb
+\i (06:21:36) zoom out 13343.6 6999.5
+\i (06:21:36) trapsize 529
+\i (06:21:38) place manual 
+\i (06:21:40) setwindow form.plc_manual
+\i (06:21:40) FORM plc_manual tree 'MULTISEL YES' J8 'Components by refdes' 
+\t (06:21:40) Placing J8 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004 on Bottom.
+\i (06:21:40) FORM plc_manual tree  J8 'Components by refdes' 
+\i (06:21:43) setwindow pcb
+\i (06:21:43) pick grid 13851.0 7390.7
+\t (06:21:43) last pick:  13850.0  7400.0
+\i (06:21:44) setwindow form.plc_manual
+\i (06:21:44) FORM plc_manual tree 'MULTISEL YES' J9 'Components by refdes' 
+\t (06:21:44) Placing J9 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004 on Bottom.
+\i (06:21:44) FORM plc_manual tree  J9 'Components by refdes' 
+\i (06:21:46) setwindow pcb
+\i (06:21:46) pick grid 13893.3 6333.4
+\t (06:21:46) last pick:  13900.0  6325.0
+\i (06:21:47) setwindow form.plc_manual
+\i (06:21:47) FORM plc_manual done  
+\i (06:21:47) setwindow pcb
+\i (06:21:47) placementedit 
+\i (06:21:48) pick grid 14548.9 6862.0
+\t (06:21:48) last pick:  14550.0  6860.0
+\i (06:21:48) zoom in 1 
+\i (06:21:48) setwindow pcb
+\i (06:21:48) zoom in 13618.4 6576.5
+\i (06:21:48) trapsize 264
+\i (06:21:48) zoom in 1 
+\i (06:21:48) setwindow pcb
+\i (06:21:48) zoom in 13618.4 6576.5
+\i (06:21:48) trapsize 132
+\i (06:21:49) zoom out 1 
+\i (06:21:49) setwindow pcb
+\i (06:21:49) zoom out 13467.7 6737.8
+\i (06:21:49) trapsize 264
+\i (06:21:52) save_as 
+\i (06:21:57) fillin "LinkingInterfaceV2_0.brd"
+\i (06:21:57) placementedit 
+\i (06:22:00) zoom in 1 
+\i (06:22:00) setwindow pcb
+\i (06:22:00) zoom in 13504.8 6600.3
+\i (06:22:00) trapsize 132
+\i (06:22:00) zoom out 1 
+\i (06:22:00) setwindow pcb
+\i (06:22:00) zoom out 13452.0 6600.3
+\i (06:22:00) trapsize 264
+\i (06:22:00) zoom out 1 
+\i (06:22:00) setwindow pcb
+\i (06:22:00) zoom out 13446.7 6600.4
+\i (06:22:00) trapsize 529
+\i (06:22:00) zoom in 1 
+\i (06:22:00) setwindow pcb
+\i (06:22:00) zoom in 13446.6 6600.3
+\i (06:22:00) trapsize 264
+\i (06:22:00) zoom in 1 
+\i (06:22:00) setwindow pcb
+\i (06:22:00) zoom in 13446.7 6600.4
+\i (06:22:00) trapsize 132
+\i (06:22:00) zoom out 1 
+\i (06:22:00) setwindow pcb
+\i (06:22:00) zoom out 13446.7 6600.4
+\i (06:22:00) trapsize 264
+\i (06:22:01) zoom out 1 
+\i (06:22:01) setwindow pcb
+\i (06:22:01) zoom out 13267.0 6880.6
+\i (06:22:01) trapsize 529
+\i (06:22:02) zoom in 1 
+\i (06:22:02) setwindow pcb
+\i (06:22:02) zoom in 12568.7 8424.4
+\i (06:22:02) trapsize 264
+\i (06:22:04) zoom in 1 
+\i (06:22:04) setwindow pcb
+\i (06:22:04) zoom in 13055.1 7858.7
+\i (06:22:04) trapsize 132
+\i (06:22:04) zoom out 1 
+\i (06:22:04) setwindow pcb
+\i (06:22:04) zoom out 13055.2 7858.7
+\i (06:22:04) trapsize 264
+\i (06:22:06) zoom in 1 
+\i (06:22:06) setwindow pcb
+\i (06:22:06) zoom in 11474.4 8339.8
+\i (06:22:06) trapsize 132
+\i (06:22:07) zoom out 1 
+\i (06:22:07) setwindow pcb
+\i (06:22:07) zoom out 11548.4 8292.3
+\i (06:22:07) trapsize 264
+\i (06:22:08) roam start
+\i (06:22:08) roam x 64
+\i (06:22:08) roam y -96
+\i (06:22:08) roam x 16
+\i (06:22:08) roam y -32
+\i (06:22:08) roam x 16
+\i (06:22:08) roam y -32
+\i (06:22:08) roam end
+\i (06:22:08) zoom in 1 
+\i (06:22:08) setwindow pcb
+\i (06:22:08) zoom in 10996.1 8548.4
+\i (06:22:08) trapsize 132
+\i (06:22:10) prepopup 11900.2 8804.9
+\i (06:22:11) prepopup 11955.7 8929.1
+\i (06:22:12) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (06:22:12) placementedit 
+\i (06:22:13) prepopup 11215.6 8297.4
+\i (06:22:14) pop dyn_option_select @:@Move 
+\i (06:22:14) move 
+\t (06:22:14) last pick:  11215.0  8295.0
+\t (06:22:14) last pick:  11800.0  8200.0
+\t (06:22:14) Moving D1 / DIODE SCHOTTKY_0_DAX600_60D_SB1 / DAX600_60D.
+\t (06:22:14) Pick new location for the element(s).
+\i (06:22:16) pick grid 11614.7 8236.6
+\t (06:22:16) last pick:  11615.0  8235.0
+\i (06:22:16) placementedit 
+\i (06:22:16) prepopup 11612.1 8236.6
+\i (06:22:20) pick grid 11432.3 8315.9
+\t (06:22:20) last pick:  11430.0  8315.0
+\i (06:22:22) pick grid 11466.7 8144.0
+\t (06:22:22) last pick:  11465.0  8145.0
+\i (06:22:22) move 
+\t (06:22:22) last pick:  11615.0  8235.0
+\t (06:22:22) Moving D1 / DIODE SCHOTTKY_0_DAX600_60D_SB1 / DAX600_60D.
+\t (06:22:22) Pick new location for the element(s).
+\i (06:22:24) pick grid 11683.4 8268.3
+\t (06:22:24) last pick:  11685.0  8270.0
+\i (06:22:24) placementedit 
+\i (06:22:24) prepopup 11683.4 8268.3
+\i (06:22:26) pop dyn_option_select @:@Mirror 
+\i (06:22:26) mirror 
+\i (06:22:26) placementedit 
+\i (06:22:29) undo 
+\i (06:22:29) trapsize 132
+\i (06:22:29) placementedit 
+\i (06:22:29) prepopup 11662.3 8265.6
+\i (06:22:31) pop dyn_option_select @:@Rotate 
+\i (06:22:31) spin 
+\t (06:22:31) Moving D1 / DIODE SCHOTTKY_0_DAX600_60D_SB1 / DAX600_60D.
+\i (06:22:33) iangle 90.000
+\t (06:22:33) last angle:  90.000 Degrees
+\i (06:22:33) placementedit 
+\i (06:22:33) pick grid 11664.9 8191.6
+\t (06:22:33) last pick:  11665.0  8190.0
+\i (06:22:34) pick grid 11786.5 8292.1
+\t (06:22:34) last pick:  11785.0  8290.0
+\i (06:22:34) move 
+\t (06:22:34) last pick:  11685.0  8270.0
+\t (06:22:34) Moving D1 / DIODE SCHOTTKY_0_DAX600_60D_SB1 / DAX600_60D.
+\t (06:22:34) Pick new location for the element(s).
+\i (06:22:37) pick grid 11728.4 8358.1
+\t (06:22:37) last pick:  11730.0  8360.0
+\i (06:22:37) placementedit 
+\i (06:22:39) roam start
+\i (06:22:39) roam x 32
+\i (06:22:39) roam y 112
+\i (06:22:39) roam y 16
+\i (06:22:39) roam y 32
+\i (06:22:39) roam y 32
+\i (06:22:39) roam x 16
+\i (06:22:39) roam y 32
+\i (06:22:39) roam end
+\i (06:22:45) roam start
+\i (06:22:45) roam y 64
+\i (06:22:46) roam y 32
+\i (06:22:46) roam y 32
+\i (06:22:46) roam y -16
+\i (06:22:47) roam end
+\i (06:22:47) prepopup 12111.6 7869.1
+\i (06:22:51) pop dyn_option_select @:@Rotate 
+\i (06:22:51) spin 
+\t (06:22:51) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\i (06:22:55) iangle -180.000
+\t (06:22:55) last angle:  180.000 Degrees
+\i (06:22:55) placementedit 
+\i (06:22:55) pick grid 12122.1 7877.0
+\t (06:22:55) last pick:  12120.0  7875.0
+\i (06:22:55) move 
+\t (06:22:55) last pick:  12125.0  7900.0
+\t (06:22:55) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:22:55) Pick new location for the element(s).
+\i (06:22:57) pick grid 11908.0 7758.1
+\t (06:22:57) last pick:  11910.0  7760.0
+\i (06:22:57) placementedit 
+\i (06:22:57) zoom out 1 
+\i (06:22:57) setwindow pcb
+\i (06:22:57) zoom out 12164.4 7853.2
+\i (06:22:57) trapsize 264
+\i (06:22:58) roam start
+\i (06:22:58) roam y -64
+\i (06:22:58) roam y -32
+\i (06:22:58) roam end
+\i (06:22:58) zoom in 1 
+\i (06:22:58) setwindow pcb
+\i (06:22:58) zoom in 12101.0 8236.6
+\i (06:22:58) trapsize 132
+\i (06:23:00) pick grid 12156.5 8107.1
+\t (06:23:00) last pick:  12155.0  8105.0
+\i (06:23:00) move 
+\t (06:23:00) last pick:  12175.0  8150.0
+\t (06:23:00) Moving U3 / 78L05/TO92_0_SOT223_1234_LM2940 / SOT223_1234.
+\t (06:23:00) Pick new location for the element(s).
+\i (06:23:08) pick grid 12103.7 7898.3
+\t (06:23:08) last pick:  12105.0  7900.0
+\i (06:23:08) placementedit 
+\i (06:23:13) pick grid 12124.8 7930.0
+\t (06:23:13) last pick:  12125.0  7930.0
+\i (06:23:13) move 
+\t (06:23:13) last pick:  12105.0  7900.0
+\t (06:23:13) Moving U3 / 78L05/TO92_0_SOT223_1234_LM2940 / SOT223_1234.
+\t (06:23:13) Pick new location for the element(s).
+\i (06:23:22) pick grid 12135.4 8017.2
+\t (06:23:22) last pick:  12135.0  8015.0
+\i (06:23:22) placementedit 
+\i (06:23:22) prepopup 12135.4 8017.2
+\i (06:49:00) pop dyn_option_select '@:@Swap components' 
+\i (06:49:00) swap components 
+\i (06:49:01) pick grid 12135.4 8017.2
+\t (06:49:01) last pick:  12135.0  8015.0
+\i (06:49:02) create fanout 
+\i (06:49:04) placementedit 
+\i (06:49:05) pick grid 12864.9 7546.7
+\t (06:49:05) last pick:  12865.0  7545.0
+\i (06:49:07) pick grid 13102.8 7668.3
+\t (06:49:07) last pick:  13105.0  7670.0
+\i (06:49:07) zoom out 1 
+\i (06:49:07) setwindow pcb
+\i (06:49:07) zoom out 13102.8 7668.3
+\i (06:49:07) trapsize 264
+\i (06:49:07) zoom out 1 
+\i (06:49:07) setwindow pcb
+\i (06:49:07) zoom out 13102.8 7668.3
+\i (06:49:07) trapsize 529
+\i (06:49:07) zoom in 1 
+\i (06:49:07) setwindow pcb
+\i (06:49:07) zoom in 13282.6 6558.2
+\i (06:49:07) trapsize 264
+\i (06:49:10) zoom in 1 
+\i (06:49:10) setwindow pcb
+\i (06:49:10) zoom in 11516.9 6616.4
+\i (06:49:10) trapsize 132
+\i (06:49:10) zoom out 1 
+\i (06:49:10) setwindow pcb
+\i (06:49:10) zoom out 11474.6 6563.6
+\i (06:49:10) trapsize 264
+\i (06:49:10) zoom out 1 
+\i (06:49:10) setwindow pcb
+\i (06:49:10) zoom out 11437.6 6563.6
+\i (06:49:10) trapsize 529
+\i (06:49:11) roam start
+\i (06:49:11) roam x 16
+\i (06:49:11) roam y 112
+\i (06:49:11) roam y 80
+\i (06:49:11) roam y 32
+\i (06:49:11) roam end
+\i (06:49:11) zoom in 1 
+\i (06:49:11) setwindow pcb
+\i (06:49:11) zoom in 11123.0 5952.7
+\i (06:49:11) trapsize 264
+\i (06:49:11) zoom in 1 
+\i (06:49:11) setwindow pcb
+\i (06:49:11) zoom in 11123.0 6026.7
+\i (06:49:11) trapsize 132
+\i (06:50:30) prepopup 11371.5 5696.3
+\i (06:50:32) pop dyn_option_select @:@Rotate 
+\i (06:50:32) spin 
+\t (06:50:32) Moving R9 / POT_P60-20748_10K / P60-20748.
+\i (06:50:33) iangle 90.000
+\t (06:50:33) last angle:  90.000 Degrees
+\i (06:50:33) placementedit 
+\i (06:50:34) pick grid 11392.7 5852.3
+\t (06:50:34) last pick:  11395.0  5850.0
+\i (06:50:34) move 
+\t (06:50:34) last pick:  11525.0  5925.0
+\t (06:50:34) Moving R9 / POT_P60-20748_10K / P60-20748.
+\t (06:50:34) Pick new location for the element(s).
+\i (06:50:35) zoom out 1 
+\i (06:50:35) setwindow pcb
+\i (06:50:35) zoom out 11154.8 5907.8
+\i (06:50:35) trapsize 264
+\i (06:50:36) zoom out 1 
+\i (06:50:36) setwindow pcb
+\i (06:50:36) zoom out 11376.8 6172.1
+\i (06:50:36) trapsize 529
+\i (06:50:39) zoom in 1 
+\i (06:50:39) setwindow pcb
+\i (06:50:39) zoom in 11725.7 7218.8
+\i (06:50:39) trapsize 264
+\i (06:50:42) pick grid 11160.1 6029.4
+\t (06:50:42) last pick:  11160.0  6030.0
+\i (06:50:42) placementedit 
+\i (06:50:42) zoom out 1 
+\i (06:50:42) setwindow pcb
+\i (06:50:42) zoom out 11345.1 6674.3
+\i (06:50:42) trapsize 529
+\i (06:50:43) zoom in 1 
+\i (06:50:43) setwindow pcb
+\i (06:50:43) zoom in 11017.3 6462.9
+\i (06:50:43) trapsize 264
+\i (06:50:43) zoom in 1 
+\i (06:50:43) setwindow pcb
+\i (06:50:43) zoom in 11027.9 6494.6
+\i (06:50:43) trapsize 132
+\i (06:50:43) zoom in 1 
+\i (06:50:43) setwindow pcb
+\i (06:50:43) zoom in 11027.9 6494.7
+\i (06:50:43) trapsize 66
+\i (06:50:44) pick grid 11105.9 6554.2
+\t (06:50:44) last pick:  11105.0  6555.0
+\i (06:50:44) move 
+\t (06:50:44) last pick:  11525.0  6400.0
+\t (06:50:44) Moving R6 / POT_P60-20748_10K / P60-20748.
+\t (06:50:44) Pick new location for the element(s).
+\i (06:50:45) zoom out 1 
+\i (06:50:45) setwindow pcb
+\i (06:50:45) zoom out 11105.9 6574.0
+\i (06:50:45) trapsize 132
+\i (06:50:45) zoom out 1 
+\i (06:50:45) setwindow pcb
+\i (06:50:45) zoom out 11161.4 6600.4
+\i (06:50:45) trapsize 264
+\i (06:50:45) pick grid 11510.3 6436.5
+\t (06:50:45) last pick:  11510.0  6435.0
+\i (06:50:45) placementedit 
+\i (06:50:46) prepopup 11346.4 6563.4
+\i (06:50:47) pop dyn_option_select @:@Rotate 
+\i (06:50:47) spin 
+\t (06:50:47) Moving R6 / POT_P60-20748_10K / P60-20748.
+\i (06:50:48) iangle 90.000
+\t (06:50:48) last angle:  90.000 Degrees
+\i (06:50:48) placementedit 
+\i (06:50:49) pick grid 11378.2 6383.6
+\t (06:50:49) last pick:  11380.0  6385.0
+\i (06:50:49) move 
+\t (06:50:49) last pick:  11510.0  6435.0
+\t (06:50:49) Moving R6 / POT_P60-20748_10K / P60-20748.
+\t (06:50:49) Pick new location for the element(s).
+\i (06:50:50) pick grid 11140.3 7636.6
+\t (06:50:50) last pick:  11140.0  7635.0
+\i (06:50:50) placementedit 
+\i (06:50:50) zoom out 1 
+\i (06:50:50) setwindow pcb
+\i (06:50:50) zoom out 11172.0 7171.3
+\i (06:50:50) trapsize 529
+\i (06:50:50) zoom out 1 
+\i (06:50:50) setwindow pcb
+\i (06:50:50) zoom out 11193.1 7171.4
+\i (06:50:50) trapsize 1057
+\i (06:50:51) roam start
+\i (06:50:51) roam end
+\i (06:50:51) zoom in 1 
+\i (06:50:51) setwindow pcb
+\i (06:50:51) zoom in 11523.6 5793.5
+\i (06:50:51) trapsize 529
+\i (06:50:51) zoom in 1 
+\i (06:50:51) setwindow pcb
+\i (06:50:51) zoom in 10328.3 5793.6
+\i (06:50:51) trapsize 264
+\i (06:50:52) zoom in 1 
+\i (06:50:52) setwindow pcb
+\i (06:50:52) zoom in 10328.3 5793.6
+\i (06:50:52) trapsize 132
+\i (06:50:52) zoom out 1 
+\i (06:50:52) setwindow pcb
+\i (06:50:52) zoom out 10420.9 5859.7
+\i (06:50:52) trapsize 264
+\i (06:50:52) zoom out 1 
+\i (06:50:52) setwindow pcb
+\i (06:50:52) zoom out 10457.8 5880.8
+\i (06:50:52) trapsize 529
+\i (06:50:52) zoom in 1 
+\i (06:50:52) setwindow pcb
+\i (06:50:52) zoom in 13058.6 7392.6
+\i (06:50:52) trapsize 264
+\i (06:50:54) zoom in 1 
+\i (06:50:54) setwindow pcb
+\i (06:50:54) zoom in 12498.3 7730.9
+\i (06:50:54) trapsize 132
+\i (06:50:54) zoom in 1 
+\i (06:50:54) setwindow pcb
+\i (06:50:54) zoom in 12490.4 7736.2
+\i (06:50:54) trapsize 66
+\i (06:50:54) zoom out 1 
+\i (06:50:54) setwindow pcb
+\i (06:50:54) zoom out 12384.7 7764.0
+\i (06:50:54) trapsize 132
+\i (06:50:55) roam start
+\i (06:50:55) roam x -32
+\i (06:50:55) roam y -80
+\i (06:50:55) roam y -80
+\i (06:50:55) roam y -64
+\i (06:50:55) roam y -32
+\i (06:50:55) roam end
+\i (06:50:57) pick grid 12353.6 8222.5
+\t (06:50:57) last pick:  12355.0  8225.0
+\i (06:50:57) move 
+\t (06:50:57) last pick:  12525.0  8250.0
+\t (06:50:57) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:50:57) Pick new location for the element(s).
+\i (06:50:59) pick grid 12393.3 8259.5
+\t (06:50:59) last pick:  12395.0  8260.0
+\i (06:50:59) placementedit 
+\i (06:51:00) prepopup 12345.7 8193.4
+\i (06:51:04) pick grid 12451.4 8383.7
+\t (06:51:04) last pick:  12450.0  8385.0
+\i (06:51:04) move 
+\t (06:51:04) last pick:  12395.0  8260.0
+\t (06:51:04) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:51:04) Pick new location for the element(s).
+\i (06:51:05) prepopup 12382.7 8259.5
+\i (06:51:07) done 
+\i (06:51:07) placementedit 
+\i (06:51:07) prepopup 12277.0 8275.4
+\i (06:51:08) pop dyn_option_select @:@Mirror 
+\i (06:51:08) mirror 
+\i (06:51:08) placementedit 
+\i (06:51:09) pick grid 12319.3 8270.1
+\t (06:51:09) last pick:  12320.0  8270.0
+\i (06:51:09) move 
+\t (06:51:09) last pick:  12395.0  8260.0
+\t (06:51:09) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:51:09) Pick new location for the element(s).
+\i (06:51:09) zoom in 1 
+\i (06:51:09) setwindow pcb
+\i (06:51:09) zoom in 12277.0 8256.9
+\i (06:51:09) trapsize 66
+\i (06:51:09) zoom in 1 
+\i (06:51:09) setwindow pcb
+\i (06:51:09) zoom in 12277.0 8258.2
+\i (06:51:09) trapsize 33
+\i (06:51:10) pick grid 12317.3 8241.8
+\t (06:51:10) last pick:  12315.0  8240.0
+\i (06:51:10) placementedit 
+\i (06:51:11) prepopup 12307.4 8246.4
+\i (06:51:12) pop dyn_option_select @:@Rotate 
+\i (06:51:12) spin 
+\t (06:51:12) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\i (06:51:13) iangle 180.000
+\t (06:51:13) last angle:  180.000 Degrees
+\i (06:51:13) placementedit 
+\i (06:51:13) pick grid 12353.0 8197.5
+\t (06:51:13) last pick:  12355.0  8200.0
+\i (06:51:13) move 
+\t (06:51:13) last pick:  12315.0  8240.0
+\t (06:51:13) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:51:13) Pick new location for the element(s).
+\i (06:51:17) pick grid 12379.4 8257.6
+\t (06:51:17) last pick:  12380.0  8260.0
+\i (06:51:17) placementedit 
+\i (06:51:18) zoom out 1 
+\i (06:51:18) setwindow pcb
+\i (06:51:18) zoom out 12425.7 8218.6
+\i (06:51:18) trapsize 66
+\i (06:51:18) zoom out 1 
+\i (06:51:18) setwindow pcb
+\i (06:51:18) zoom out 12429.6 8216.0
+\i (06:51:18) trapsize 132
+\i (06:52:45) pick grid 12960.9 7674.2
+\t (06:52:45) last pick:  12960.0  7675.0
+\i (06:53:25) pick grid 12826.1 7814.3
+\t (06:53:25) last pick:  12825.0  7815.0
+\i (06:53:26) zoom out 1 
+\i (06:53:26) setwindow pcb
+\i (06:53:26) zoom out 12828.7 7816.9
+\i (06:53:26) trapsize 264
+\i (06:53:26) zoom in 1 
+\i (06:53:26) setwindow pcb
+\i (06:53:26) zoom in 11882.5 7055.7
+\i (06:53:26) trapsize 132
+\i (06:53:26) zoom in 1 
+\i (06:53:26) setwindow pcb
+\i (06:53:26) zoom in 11882.5 7055.7
+\i (06:53:26) trapsize 66
+\i (06:53:27) roam start
+\i (06:53:27) roam y 64
+\i (06:53:27) roam x 16
+\i (06:53:27) roam y 32
+\i (06:53:27) roam x 16
+\i (06:53:27) roam y 48
+\i (06:53:27) roam y 48
+\i (06:53:28) roam y 32
+\i (06:53:28) roam end
+\i (06:53:29) roam start
+\i (06:53:29) roam y -64
+\i (06:53:29) roam x 16
+\i (06:53:29) roam y -32
+\i (06:53:29) roam y 32
+\i (06:53:29) roam y 32
+\i (06:53:29) roam y 32
+\i (06:53:29) roam x -16
+\i (06:53:29) roam y 16
+\i (06:53:30) roam y 32
+\i (06:53:30) roam x -16
+\i (06:53:30) roam y 32
+\i (06:53:30) roam y 16
+\i (06:53:31) roam y 16
+\i (06:53:31) roam y 16
+\i (06:53:31) roam y 16
+\i (06:53:32) roam x 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:32) roam y 16
+\i (06:53:33) roam x 16
+\i (06:53:33) roam y -16
+\i (06:53:33) roam y -32
+\i (06:53:33) roam y 48
+\i (06:53:33) roam y 48
+\i (06:53:33) roam y 16
+\i (06:53:33) roam y 16
+\i (06:53:33) roam y 16
+\i (06:53:34) roam y 16
+\i (06:53:34) roam y 16
+\i (06:53:34) roam y 32
+\i (06:53:34) roam y -32
+\i (06:53:34) roam y -48
+\i (06:53:34) roam y -64
+\i (06:53:34) roam x 16
+\i (06:53:34) roam y -48
+\i (06:53:34) roam y -16
+\i (06:53:34) roam x 16
+\i (06:53:34) roam y -32
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -32
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -16
+\i (06:53:34) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam x -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:35) roam y -16
+\i (06:53:36) roam y 16
+\i (06:53:36) roam y 16
+\i (06:53:36) roam y -16
+\i (06:53:36) roam y -16
+\i (06:53:36) roam y -16
+\i (06:53:36) roam x -16
+\i (06:53:36) roam y -16
+\i (06:53:36) roam y -16
+\i (06:53:37) roam y -16
+\i (06:53:37) roam x -16
+\i (06:53:37) roam y -16
+\i (06:53:37) roam x -16
+\i (06:53:37) roam y -16
+\i (06:53:37) roam x -16
+\i (06:53:37) roam y -16
+\i (06:53:37) roam x -16
+\i (06:53:37) roam y -16
+\i (06:53:37) roam x -16
+\i (06:53:37) roam y -16
+\i (06:53:37) roam y -16
+\i (06:53:37) roam y -16
+\i (06:53:38) roam x -16
+\i (06:53:38) roam y 16
+\i (06:53:38) roam y 16
+\i (06:53:38) roam x -16
+\i (06:53:38) roam y 16
+\i (06:53:38) roam y 16
+\i (06:53:38) roam y 16
+\i (06:53:38) roam x -16
+\i (06:53:38) roam y 16
+\i (06:53:38) roam end
+\i (06:53:42) netin 
+\i (06:53:43) setwindow form.niparams
+\i (06:53:43) FORM niparams import  
+\t (06:53:43) Starting Cadence Logic Import...
+\t (06:53:43) Opening existing design...
+\i (06:53:43) setwindow pcb
+\i (06:53:43) trapsize 66
+\i (06:53:44) placementedit 
+\i (06:53:45) zoom out 1 
+\i (06:53:45) setwindow pcb
+\i (06:53:45) zoom out 11971.5 7295.5
+\i (06:53:45) trapsize 132
+\i (06:53:46) roam start
+\i (06:53:46) roam y 96
+\i (06:53:46) roam y 32
+\i (06:53:47) roam y 48
+\i (06:53:47) roam end
+\i (06:53:50) roam start
+\i (06:53:50) roam y 64
+\i (06:53:50) roam y 32
+\i (06:53:50) roam y 32
+\i (06:53:50) roam y 48
+\i (06:53:50) roam end
+\i (06:53:52) zoom in 1 
+\i (06:53:52) setwindow pcb
+\i (06:53:52) zoom in 12399.7 6013.5
+\i (06:53:52) trapsize 66
+\i (06:53:52) roam start
+\i (06:53:53) roam end
+\i (06:53:53) zoom out 1 
+\i (06:53:53) setwindow pcb
+\i (06:53:53) zoom out 12411.6 6008.2
+\i (06:53:53) trapsize 132
+\i (06:53:54) zoom in 1 
+\i (06:53:54) setwindow pcb
+\i (06:53:54) zoom in 12319.1 6082.3
+\i (06:53:54) trapsize 66
+\i (06:53:54) roam start
+\i (06:53:54) roam y -48
+\i (06:53:54) roam y -32
+\i (06:53:54) roam y -32
+\i (06:53:54) roam x -16
+\i (06:53:54) roam y -32
+\i (06:53:54) roam y -32
+\i (06:53:55) roam x -16
+\i (06:53:55) roam y -32
+\i (06:53:55) roam end
+\i (06:53:57) zoom in 1 
+\i (06:53:57) setwindow pcb
+\i (06:53:57) zoom in 11546.0 6651.9
+\i (06:53:57) trapsize 33
+\i (06:53:58) zoom out 1 
+\i (06:53:58) setwindow pcb
+\i (06:53:58) zoom out 11546.0 6651.9
+\i (06:53:58) trapsize 66
+\i (06:53:58) zoom out 1 
+\i (06:53:58) setwindow pcb
+\i (06:53:58) zoom out 11546.0 6651.9
+\i (06:53:58) trapsize 132
+\i (06:53:59) roam start
+\i (06:53:59) roam x 16
+\i (06:53:59) roam y -80
+\i (06:53:59) roam x 16
+\i (06:53:59) roam y -96
+\i (06:54:00) roam y -32
+\i (06:54:00) roam y -32
+\i (06:54:00) roam y -32
+\i (06:54:00) roam end
+\i (06:54:02) pick grid 12262.3 7721.1
+\t (06:54:02) last pick:  12260.0  7720.0
+\i (06:54:02) move 
+\t (06:54:02) last pick:  12250.0  7575.0
+\t (06:54:02) Moving C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (06:54:02) Pick new location for the element(s).
+\i (06:54:02) pick grid 12331.0 7752.8
+\t (06:54:02) last pick:  12330.0  7755.0
+\i (06:54:02) placementedit 
+\i (06:54:03) prepopup 12323.1 7721.1
+\i (06:54:04) pop dyn_option_select '@:@Unplace component' 
+\i (06:54:04) unplace component 
+\i (06:54:04) placementedit 
+\i (06:54:07) netin 
+\i (06:54:08) setwindow form.niparams
+\i (06:54:08) FORM niparams import  
+\t (06:54:08) Starting Cadence Logic Import...
+\t (06:54:08) Opening existing design...
+\i (06:54:08) setwindow pcb
+\i (06:54:08) trapsize 132
+\i (06:54:09) placementedit 
+\i (06:54:11) place manual 
+\i (06:54:13) setwindow form.plc_manual
+\i (06:54:13) FORM plc_manual tree 'MULTISEL YES' C4 'Components by refdes' 
+\t (06:54:13) Placing C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP on Bottom.
+\i (06:54:13) FORM plc_manual tree  C4 'Components by refdes' 
+\i (06:54:14) setwindow pcb
+\i (06:54:14) pick grid 12410.3 7620.6
+\t (06:54:14) last pick:  12400.0  7625.0
+\i (06:54:18) setwindow form.plc_manual
+\i (06:54:18) FORM plc_manual done  
+\i (06:54:18) setwindow pcb
+\i (06:54:18) placementedit 
+\i (06:54:19) roam start
+\i (06:54:19) roam x -16
+\i (06:54:19) roam y -96
+\i (06:54:20) roam x -16
+\i (06:54:20) roam y -64
+\i (06:54:20) roam x -16
+\i (06:54:20) roam y -64
+\i (06:54:20) roam y -80
+\i (06:54:20) roam x -16
+\i (06:54:20) roam y -80
+\i (06:54:20) roam y -48
+\i (06:54:20) roam y -32
+\i (06:54:20) roam end
+\i (06:54:21) roam start
+\i (06:54:21) roam y 48
+\i (06:54:21) roam end
+\i (06:54:23) pick grid 11612.0 8712.3
+\t (06:54:23) last pick:  11610.0  8710.0
+\i (06:54:23) move 
+\t (06:54:23) last pick:  11725.0  8600.0
+\t (06:54:23) Moving J7 / HEADER 2_4_BLKCON156_VHTM1SQ_SW / BLKCON156_VHTM1SQ_SW156_2.
+\t (06:54:23) Pick new location for the element(s).
+\i (06:54:29) pick grid 11514.2 8622.4
+\t (06:54:29) last pick:  11515.0  8620.0
+\i (06:54:29) placementedit 
+\i (06:54:30) prepopup 11493.1 8717.6
+\i (06:55:16) pop dyn_option_select @:@Rotate 
+\i (06:55:16) spin 
+\t (06:55:16) Moving J7 / HEADER 2_4_BLKCON156_VHTM1SQ_SW / BLKCON156_VHTM1SQ_SW156_2.
+\i (06:55:23) iangle -180.000
+\t (06:55:23) last angle:  180.000 Degrees
+\i (06:55:23) placementedit 
+\i (06:55:23) pick grid 11519.5 8582.8
+\t (06:55:23) last pick:  11520.0  8585.0
+\i (06:55:23) move 
+\t (06:55:23) last pick:  11515.0  8620.0
+\t (06:55:23) Moving J7 / HEADER 2_4_BLKCON156_VHTM1SQ_SW / BLKCON156_VHTM1SQ_SW156_2.
+\t (06:55:23) Pick new location for the element(s).
+\i (06:55:25) pick grid 11427.0 8677.9
+\t (06:55:25) last pick:  11425.0  8680.0
+\i (06:55:25) placementedit 
+\i (06:55:26) pick grid 11664.9 8352.8
+\t (06:55:26) last pick:  11665.0  8355.0
+\i (06:55:27) pick grid 11723.0 8395.1
+\t (06:55:27) last pick:  11725.0  8395.0
+\i (06:55:27) move 
+\t (06:55:27) last pick:  11730.0  8360.0
+\t (06:55:27) Moving D1 / DIODE SCHOTTKY_0_DAX600_60D_SB1 / DAX600_60D.
+\t (06:55:27) Pick new location for the element(s).
+\i (06:55:30) pick grid 11427.0 8434.8
+\t (06:55:30) last pick:  11425.0  8435.0
+\i (06:55:30) placementedit 
+\i (06:55:31) roam start
+\i (06:55:31) roam x -16
+\i (06:55:31) roam x -32
+\i (06:55:31) roam y 112
+\i (06:55:31) roam x -16
+\i (06:55:31) roam y 80
+\i (06:55:31) roam y 48
+\i (06:55:31) roam y 32
+\i (06:55:31) roam y 32
+\i (06:55:32) roam y 32
+\i (06:55:32) roam y 48
+\i (06:55:32) roam y 16
+\i (06:55:32) roam end
+\i (06:55:32) zoom out 1 
+\i (06:55:32) setwindow pcb
+\i (06:55:32) zoom out 11144.1 7144.8
+\i (06:55:32) trapsize 264
+\i (06:55:32) zoom out 1 
+\i (06:55:32) setwindow pcb
+\i (06:55:32) zoom out 11144.2 7139.6
+\i (06:55:32) trapsize 529
+\i (06:55:33) zoom in 1 
+\i (06:55:33) setwindow pcb
+\i (06:55:33) zoom in 10845.3 6410.1
+\i (06:55:33) trapsize 264
+\i (06:55:34) pick grid 11152.0 7123.8
+\t (06:55:34) last pick:  11150.0  7125.0
+\i (06:55:34) move 
+\t (06:55:34) last pick:  11140.0  7635.0
+\t (06:55:34) Moving R6 / POT_P60-20748_10K / P60-20748.
+\t (06:55:34) Pick new location for the element(s).
+\i (06:55:35) pick grid 10797.8 7187.3
+\t (06:55:35) last pick:  10800.0  7185.0
+\i (06:55:35) placementedit 
+\i (06:55:35) zoom in 1 
+\i (06:55:35) setwindow pcb
+\i (06:55:35) zoom in 11284.1 7890.4
+\i (06:55:35) trapsize 132
+\i (06:55:44) pick grid 11984.6 7787.4
+\t (06:55:44) last pick:  11985.0  7785.0
+\i (06:55:44) move 
+\t (06:55:44) last pick:  11910.0  7760.0
+\t (06:55:44) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:55:44) Pick new location for the element(s).
+\i (06:55:45) pick grid 11580.2 7713.3
+\t (06:55:45) last pick:  11580.0  7715.0
+\i (06:55:45) placementedit 
+\i (06:55:46) prepopup 11601.3 7700.1
+\i (06:55:46) pop dyn_option_select @:@Mirror 
+\i (06:55:46) mirror 
+\i (06:55:47) placementedit 
+\i (06:55:47) pick grid 11566.9 7692.2
+\t (06:55:47) last pick:  11565.0  7690.0
+\i (06:55:47) move 
+\t (06:55:47) last pick:  11580.0  7715.0
+\t (06:55:47) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:55:47) Pick new location for the element(s).
+\i (06:55:52) pick grid 11619.8 7668.4
+\t (06:55:52) last pick:  11620.0  7670.0
+\i (06:55:52) placementedit 
+\i (06:55:53) pick grid 11257.7 7753.0
+\t (06:55:53) last pick:  11260.0  7755.0
+\i (06:55:53) move 
+\t (06:55:53) last pick:  11350.0  7750.0
+\t (06:55:53) Moving D3 / LED_SMR0805_RED / SMR0805.
+\t (06:55:53) Pick new location for the element(s).
+\i (06:55:59) pick grid 11289.4 7649.9
+\t (06:55:59) last pick:  11290.0  7650.0
+\i (06:55:59) placementedit 
+\i (06:56:00) zoom out 1 
+\i (06:56:00) setwindow pcb
+\i (06:56:00) zoom out 11672.7 7507.2
+\i (06:56:00) trapsize 264
+\i (06:56:00) zoom out 1 
+\i (06:56:00) setwindow pcb
+\i (06:56:00) zoom out 11672.7 7507.1
+\i (06:56:00) trapsize 529
+\i (06:56:03) pick grid 11556.3 7464.9
+\t (06:56:03) last pick:  11555.0  7465.0
+\i (06:56:03) move 
+\t (06:56:03) last pick:  11700.0  7375.0
+\t (06:56:03) Moving R4 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:56:03) Pick new location for the element(s).
+\i (06:56:04) zoom in 1 
+\i (06:56:04) setwindow pcb
+\i (06:56:04) zoom in 11545.7 7464.9
+\i (06:56:04) trapsize 264
+\i (06:56:04) zoom in 1 
+\i (06:56:04) setwindow pcb
+\i (06:56:04) zoom in 11545.7 7464.9
+\i (06:56:04) trapsize 132
+\i (06:56:04) zoom in 1 
+\i (06:56:04) setwindow pcb
+\i (06:56:04) zoom in 11545.8 7464.9
+\i (06:56:04) trapsize 66
+\i (06:56:04) zoom out 1 
+\i (06:56:04) setwindow pcb
+\i (06:56:04) zoom out 11573.5 7470.2
+\i (06:56:04) trapsize 132
+\i (06:56:04) zoom out 1 
+\i (06:56:04) setwindow pcb
+\i (06:56:04) zoom out 11586.8 7464.9
+\i (06:56:04) trapsize 264
+\i (06:56:05) prepopup 11750.7 7396.1
+\i (06:56:05) cancel 
+\i (06:56:05) placementedit 
+\i (06:56:06) zoom in 1 
+\i (06:56:06) setwindow pcb
+\i (06:56:06) zoom in 11449.3 7665.7
+\i (06:56:06) trapsize 132
+\i (06:56:06) zoom in 1 
+\i (06:56:06) setwindow pcb
+\i (06:56:06) zoom in 11449.4 7665.7
+\i (06:56:06) trapsize 66
+\i (06:56:06) zoom out 1 
+\i (06:56:06) setwindow pcb
+\i (06:56:06) zoom out 11448.1 7672.4
+\i (06:56:06) trapsize 132
+\i (06:56:07) roam start
+\i (06:56:07) roam x 48
+\i (06:56:07) roam y -48
+\i (06:56:07) roam x 32
+\i (06:56:07) roam y -48
+\i (06:56:07) roam x 48
+\i (06:56:07) roam y -64
+\i (06:56:07) roam x 16
+\i (06:56:07) roam y -48
+\i (06:56:07) roam end
+\i (06:56:07) zoom out 1 
+\i (06:56:07) setwindow pcb
+\i (06:56:07) zoom out 12024.4 8619.8
+\i (06:56:07) trapsize 264
+\i (06:56:09) pick grid 11522.1 8360.7
+\t (06:56:09) last pick:  11520.0  8360.0
+\i (06:56:09) move 
+\t (06:56:09) last pick:  11425.0  8435.0
+\t (06:56:09) Moving D1 / DIODE SCHOTTKY_0_DAX600_60D_SB1 / DAX600_60D.
+\t (06:56:09) Pick new location for the element(s).
+\i (06:56:11) pick grid 11426.9 8418.9
+\t (06:56:11) last pick:  11425.0  8420.0
+\i (06:56:11) placementedit 
+\i (06:56:12) zoom in 1 
+\i (06:56:12) setwindow pcb
+\i (06:56:12) zoom in 11300.1 7324.5
+\i (06:56:12) trapsize 132
+\i (06:56:14) pick grid 11234.0 7892.9
+\t (06:56:14) last pick:  11235.0  7895.0
+\i (06:56:14) move 
+\t (06:56:14) last pick:  11350.0  7925.0
+\t (06:56:14) Moving R17 / RESISTOR_SMR0805_120 / SMR0805.
+\t (06:56:14) Pick new location for the element(s).
+\i (06:56:21) zoom out 1 
+\i (06:56:21) setwindow pcb
+\i (06:56:21) zoom out 11694.0 7998.6
+\i (06:56:21) trapsize 264
+\i (06:56:25) zoom in 1 
+\i (06:56:25) setwindow pcb
+\i (06:56:25) zoom in 11694.0 8294.7
+\i (06:56:25) trapsize 132
+\i (06:56:25) pick grid 11694.0 8294.7
+\t (06:56:25) last pick:  11695.0  8295.0
+\i (06:56:25) placementedit 
+\i (06:56:26) prepopup 11694.0 8294.7
+\i (06:56:27) pop dyn_option_select @:@Mirror 
+\i (06:56:27) mirror 
+\i (06:56:27) placementedit 
+\i (06:56:27) pick grid 11670.2 8289.4
+\t (06:56:27) last pick:  11670.0  8290.0
+\i (06:56:27) move 
+\t (06:56:27) last pick:  11695.0  8295.0
+\t (06:56:27) Moving R17 / RESISTOR_SMR0805_120 / SMR0805.
+\t (06:56:27) Pick new location for the element(s).
+\i (06:56:30) pick grid 11606.8 8297.4
+\t (06:56:30) last pick:  11605.0  8295.0
+\i (06:56:30) placementedit 
+\i (06:56:31) pick grid 11178.5 7618.0
+\t (06:56:31) last pick:  11180.0  7620.0
+\i (06:56:31) move 
+\t (06:56:31) last pick:  11290.0  7650.0
+\t (06:56:31) Moving D3 / LED_SMR0805_RED / SMR0805.
+\t (06:56:31) Pick new location for the element(s).
+\i (06:56:31) pick grid 11699.3 8019.8
+\t (06:56:31) last pick:  11700.0  8020.0
+\i (06:56:31) placementedit 
+\i (06:56:32) prepopup 11701.9 8019.8
+\i (06:56:32) pop dyn_option_select @:@Mirror 
+\i (06:56:32) mirror 
+\i (06:56:32) placementedit 
+\i (06:56:33) pick grid 11675.5 8009.3
+\t (06:56:33) last pick:  11675.0  8010.0
+\i (06:56:33) move 
+\t (06:56:33) last pick:  11700.0  8020.0
+\t (06:56:33) Moving D3 / LED_SMR0805_RED / SMR0805.
+\t (06:56:33) Pick new location for the element(s).
+\i (06:56:35) pick grid 11606.8 8159.9
+\t (06:56:35) last pick:  11605.0  8160.0
+\i (06:56:35) placementedit 
+\i (06:56:37) roam start
+\i (06:56:37) roam y 64
+\i (06:56:37) roam x -16
+\i (06:56:37) roam y 32
+\i (06:56:38) roam y 32
+\i (06:56:38) roam y -32
+\i (06:56:38) roam y -32
+\i (06:56:38) roam x -16
+\i (06:56:38) roam y -48
+\i (06:56:38) roam y -32
+\i (06:56:38) roam x 16
+\i (06:56:38) roam y -16
+\i (06:56:38) roam end
+\i (06:56:39) pick grid 11622.6 7631.2
+\t (06:56:39) last pick:  11625.0  7630.0
+\i (06:56:39) move 
+\t (06:56:39) last pick:  11620.0  7670.0
+\t (06:56:39) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:56:39) Pick new location for the element(s).
+\i (06:56:41) pick grid 11493.1 7596.8
+\t (06:56:41) last pick:  11495.0  7595.0
+\i (06:56:41) placementedit 
+\i (06:56:42) pick grid 11577.7 7660.3
+\t (06:56:42) last pick:  11580.0  7660.0
+\i (06:56:45) pick grid 11516.9 7610.0
+\t (06:56:45) last pick:  11515.0  7610.0
+\i (06:56:45) move 
+\t (06:56:45) last pick:  11495.0  7595.0
+\t (06:56:45) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:56:45) Pick new location for the element(s).
+\i (06:56:51) pick grid 11427.0 7694.6
+\t (06:56:51) last pick:  11425.0  7695.0
+\i (06:56:51) placementedit 
+\i (06:56:53) zoom out 1 
+\i (06:56:53) setwindow pcb
+\i (06:56:53) zoom out 12806.8 7863.8
+\i (06:56:53) trapsize 264
+\i (06:56:54) zoom in 1 
+\i (06:56:54) setwindow pcb
+\i (06:56:54) zoom in 13615.7 8096.4
+\i (06:56:54) trapsize 132
+\i (06:56:56) pick grid 12040.3 7990.7
+\t (06:56:56) last pick:  12040.0  7990.0
+\i (06:56:56) move 
+\t (06:56:56) last pick:  12135.0  8015.0
+\t (06:56:56) Moving U3 / 78L05/TO92_0_SOT223_1234_LM2940 / SOT223_1234.
+\t (06:56:56) Pick new location for the element(s).
+\i (06:57:00) pick grid 11984.8 7914.0
+\t (06:57:00) last pick:  11985.0  7915.0
+\i (06:57:00) placementedit 
+\i (06:57:01) pick grid 11421.8 7662.9
+\t (06:57:01) last pick:  11420.0  7665.0
+\i (06:57:01) move 
+\t (06:57:01) last pick:  11425.0  7695.0
+\t (06:57:01) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:57:01) Pick new location for the element(s).
+\i (06:57:04) pick grid 11831.5 7729.0
+\t (06:57:04) last pick:  11830.0  7730.0
+\i (06:57:04) placementedit 
+\i (06:57:04) prepopup 11828.9 7731.6
+\i (06:57:06) pop dyn_option_select @:@Rotate 
+\i (06:57:06) spin 
+\t (06:57:06) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\i (06:57:09) iangle 180.000
+\t (06:57:09) last angle:  0.000 Degrees
+\i (06:57:09) placementedit 
+\i (06:57:09) pick grid 11860.6 7747.5
+\t (06:57:09) last pick:  11860.0  7750.0
+\i (06:57:09) move 
+\t (06:57:09) last pick:  11830.0  7730.0
+\t (06:57:09) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:57:09) Pick new location for the element(s).
+\i (06:57:14) pick grid 11749.6 7736.9
+\t (06:57:14) last pick:  11750.0  7735.0
+\i (06:57:14) placementedit 
+\i (06:57:14) prepopup 11749.6 7734.3
+\i (06:57:16) pick grid 11699.3 7832.1
+\t (06:57:16) last pick:  11700.0  7830.0
+\i (06:57:17) pick grid 11731.1 7718.4
+\t (06:57:17) last pick:  11730.0  7720.0
+\i (06:57:17) move 
+\t (06:57:17) last pick:  11750.0  7735.0
+\t (06:57:17) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:57:17) Pick new location for the element(s).
+\i (06:57:18) pick grid 11746.9 7723.7
+\t (06:57:18) last pick:  11745.0  7725.0
+\i (06:57:18) placementedit 
+\i (06:57:18) prepopup 11744.3 7723.7
+\i (06:57:18) pop dyn_option_select @:@Rotate 
+\i (06:57:18) spin 
+\t (06:57:18) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\i (06:57:24) iangle 90.000
+\t (06:57:24) last angle:  90.000 Degrees
+\i (06:57:24) placementedit 
+\i (06:57:24) pick grid 11762.8 7697.3
+\t (06:57:24) last pick:  11765.0  7695.0
+\i (06:57:24) move 
+\t (06:57:24) last pick:  11745.0  7725.0
+\t (06:57:24) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (06:57:24) Pick new location for the element(s).
+\i (06:57:32) pick grid 11424.4 7618.0
+\t (06:57:32) last pick:  11425.0  7620.0
+\i (06:57:32) placementedit 
+\i (06:57:37) pick grid 12360.2 8204.8
+\t (06:57:37) last pick:  12360.0  8205.0
+\i (06:57:37) move 
+\t (06:57:37) last pick:  12380.0  8260.0
+\t (06:57:37) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:57:37) Pick new location for the element(s).
+\i (06:57:43) pick grid 11776.0 7707.8
+\t (06:57:43) last pick:  11775.0  7710.0
+\i (06:57:43) placementedit 
+\i (06:57:43) pick grid 11995.4 7921.9
+\t (06:57:43) last pick:  11995.0  7920.0
+\i (06:57:43) move 
+\t (06:57:43) last pick:  11985.0  7915.0
+\t (06:57:43) Moving U3 / 78L05/TO92_0_SOT223_1234_LM2940 / SOT223_1234.
+\t (06:57:43) Pick new location for the element(s).
+\i (06:57:44) pick grid 11995.4 7916.7
+\t (06:57:44) last pick:  11995.0  7915.0
+\i (06:57:44) placementedit 
+\i (06:57:44) prepopup 11992.7 7914.0
+\i (06:57:45) pop dyn_option_select @:@Mirror 
+\i (06:57:45) mirror 
+\i (06:57:45) placementedit 
+\i (06:57:46) pick grid 11955.7 7911.4
+\t (06:57:46) last pick:  11955.0  7910.0
+\i (06:57:46) move 
+\t (06:57:46) last pick:  11995.0  7915.0
+\t (06:57:46) Moving U3 / 78L05/TO92_0_SOT223_1234_LM2940 / SOT223_1234.
+\t (06:57:46) Pick new location for the element(s).
+\i (06:57:48) pick grid 11797.1 7916.7
+\t (06:57:48) last pick:  11795.0  7915.0
+\i (06:57:48) placementedit 
+\i (06:57:49) roam start
+\i (06:57:49) roam y 80
+\i (06:57:49) roam y 64
+\i (06:57:49) roam end
+\i (06:57:50) pick grid 11773.3 7652.4
+\t (06:57:50) last pick:  11775.0  7650.0
+\i (06:57:50) move 
+\t (06:57:50) last pick:  11775.0  7710.0
+\t (06:57:50) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:57:50) Pick new location for the element(s).
+\i (06:57:52) pick grid 11781.3 7602.2
+\t (06:57:52) last pick:  11780.0  7600.0
+\i (06:57:52) placementedit 
+\i (06:57:57) pick grid 12056.2 7655.0
+\t (06:57:57) last pick:  12055.0  7655.0
+\i (06:57:57) move 
+\t (06:57:57) last pick:  12025.0  7625.0
+\t (06:57:57) Moving R13 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:57:57) Pick new location for the element(s).
+\i (06:58:03) pick grid 12085.3 7718.5
+\t (06:58:04) last pick:  12085.0  7720.0
+\i (06:58:04) placementedit 
+\i (06:58:04) prepopup 12080.0 7721.1
+\i (06:58:05) pop dyn_option_select @:@Mirror 
+\i (06:58:05) mirror 
+\i (06:58:05) placementedit 
+\i (06:58:05) pick grid 12064.1 7715.8
+\t (06:58:05) last pick:  12065.0  7715.0
+\i (06:58:05) move 
+\t (06:58:05) last pick:  12085.0  7720.0
+\t (06:58:05) Moving R13 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:05) Pick new location for the element(s).
+\i (06:58:06) pick grid 11950.5 7739.6
+\t (06:58:06) last pick:  11950.0  7740.0
+\i (06:58:06) placementedit 
+\i (06:58:06) prepopup 11950.5 7739.6
+\i (06:58:08) pop dyn_option_select @:@Rotate 
+\i (06:58:08) spin 
+\t (06:58:08) Moving R13 / RESISTOR_SMR0805_51K / SMR0805.
+\i (06:58:11) iangle 270.000
+\t (06:58:11) last angle:  270.000 Degrees
+\i (06:58:11) placementedit 
+\i (06:58:11) pick grid 11937.2 7668.3
+\t (06:58:11) last pick:  11935.0  7670.0
+\i (06:58:11) move 
+\t (06:58:11) last pick:  11950.0  7740.0
+\t (06:58:11) Moving R13 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:11) Pick new location for the element(s).
+\i (06:58:13) pick grid 11976.9 7789.9
+\t (06:58:13) last pick:  11975.0  7790.0
+\i (06:58:13) placementedit 
+\i (06:58:17) pick grid 12109.0 7493.8
+\t (06:58:17) last pick:  12110.0  7495.0
+\i (06:58:17) pick grid 12066.8 7472.7
+\t (06:58:17) last pick:  12065.0  7475.0
+\i (06:58:17) move 
+\t (06:58:17) last pick:  12050.0  7450.0
+\t (06:58:17) Moving R16 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:17) Pick new location for the element(s).
+\i (06:58:18) pick grid 12053.5 7538.7
+\t (06:58:18) last pick:  12055.0  7540.0
+\i (06:58:18) placementedit 
+\i (06:58:18) prepopup 12053.5 7538.7
+\i (06:58:19) pop dyn_option_select @:@Mirror 
+\i (06:58:19) mirror 
+\i (06:58:19) placementedit 
+\i (06:58:20) pick grid 12032.4 7522.9
+\t (06:58:20) last pick:  12030.0  7525.0
+\i (06:58:20) move 
+\t (06:58:20) last pick:  12055.0  7540.0
+\t (06:58:20) Moving R16 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:20) Pick new location for the element(s).
+\i (06:58:20) pick grid 11990.1 7554.6
+\t (06:58:20) last pick:  11990.0  7555.0
+\i (06:58:20) placementedit 
+\i (06:58:21) pick grid 11987.5 7554.6
+\t (06:58:21) last pick:  11990.0  7555.0
+\i (06:58:21) move 
+\t (06:58:21) last pick:  11990.0  7555.0
+\t (06:58:21) Moving R16 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:21) Pick new location for the element(s).
+\i (06:58:25) pick grid 11979.5 7578.4
+\t (06:58:25) last pick:  11980.0  7580.0
+\i (06:58:25) placementedit 
+\i (06:58:25) prepopup 11974.2 7575.7
+\i (06:58:26) pop dyn_option_select @:@Rotate 
+\i (06:58:26) spin 
+\t (06:58:26) Moving R16 / RESISTOR_SMR0805_51K / SMR0805.
+\i (06:58:27) iangle 90.000
+\t (06:58:27) last angle:  90.000 Degrees
+\i (06:58:27) placementedit 
+\i (06:58:27) pick grid 12006.0 7578.4
+\t (06:58:27) last pick:  12005.0  7580.0
+\i (06:58:27) move 
+\t (06:58:27) last pick:  11980.0  7580.0
+\t (06:58:27) Moving R16 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:27) Pick new location for the element(s).
+\i (06:58:30) pick grid 12077.3 7705.3
+\t (06:58:30) last pick:  12075.0  7705.0
+\i (06:58:30) placementedit 
+\i (06:58:34) pick grid 11969.0 7670.9
+\t (06:58:34) last pick:  11970.0  7670.0
+\i (06:58:34) move 
+\t (06:58:34) last pick:  12075.0  7705.0
+\t (06:58:34) Moving R16 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:34) Pick new location for the element(s).
+\i (06:58:41) pick grid 11939.9 7454.2
+\t (06:58:41) last pick:  11940.0  7455.0
+\i (06:58:41) placementedit 
+\i (06:58:42) pick grid 11757.5 7559.9
+\t (06:58:42) last pick:  11760.0  7560.0
+\i (06:58:42) move 
+\t (06:58:42) last pick:  11780.0  7600.0
+\t (06:58:42) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:58:42) Pick new location for the element(s).
+\i (06:58:43) pick grid 11736.3 7649.8
+\t (06:58:43) last pick:  11735.0  7650.0
+\i (06:58:43) placementedit 
+\i (06:58:43) prepopup 11736.3 7652.4
+\i (06:58:44) pop dyn_option_select @:@Rotate 
+\i (06:58:44) spin 
+\t (06:58:44) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\i (06:58:45) iangle 90.000
+\t (06:58:45) last angle:  270.000 Degrees
+\i (06:58:46) placementedit 
+\i (06:58:46) pick grid 11712.6 7657.7
+\t (06:58:46) last pick:  11715.0  7660.0
+\i (06:58:46) move 
+\t (06:58:46) last pick:  11735.0  7650.0
+\t (06:58:46) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:58:46) Pick new location for the element(s).
+\i (06:58:50) pick grid 11739.0 7700.0
+\t (06:58:50) last pick:  11740.0  7700.0
+\i (06:58:50) placementedit 
+\i (06:58:51) pick grid 11918.7 7544.0
+\t (06:58:51) last pick:  11920.0  7545.0
+\i (06:58:51) move 
+\t (06:58:51) last pick:  11940.0  7455.0
+\t (06:58:51) Moving R16 / RESISTOR_SMR0805_51K / SMR0805.
+\t (06:58:51) Pick new location for the element(s).
+\i (06:58:59) pick grid 12072.0 7705.3
+\t (06:58:59) last pick:  12070.0  7705.0
+\i (06:58:59) placementedit 
+\i (06:59:00) pick grid 11717.8 7618.0
+\t (06:59:00) last pick:  11720.0  7620.0
+\i (06:59:01) pick grid 11744.3 7670.9
+\t (06:59:01) last pick:  11745.0  7670.0
+\i (06:59:01) pick grid 11770.7 7641.8
+\t (06:59:01) last pick:  11770.0  7640.0
+\i (06:59:01) pick grid 11791.9 7633.9
+\t (06:59:01) last pick:  11790.0  7635.0
+\i (06:59:01) move 
+\t (06:59:01) last pick:  11740.0  7700.0
+\t (06:59:01) Moving C13 / C POL_EIAB_SMCT3528_12_22UF/TAN / EIAB_SMCT3528_12.
+\t (06:59:01) Pick new location for the element(s).
+\i (06:59:03) pick grid 11828.9 7739.6
+\t (06:59:03) last pick:  11830.0  7740.0
+\i (06:59:03) placementedit 
+\i (06:59:06) unrats all 
+\i (06:59:06) placementedit 
+\i (06:59:09) pick grid 12394.5 7589.0
+\t (06:59:09) last pick:  12395.0  7590.0
+\i (06:59:09) move 
+\t (06:59:09) last pick:  12400.0  7625.0
+\t (06:59:09) Moving C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (06:59:09) Pick new location for the element(s).
+\i (06:59:14) pick grid 12590.1 8009.2
+\t (06:59:14) last pick:  12590.0  8010.0
+\i (06:59:14) placementedit 
+\i (06:59:20) roam start
+\i (06:59:20) roam y 32
+\i (06:59:21) roam x 16
+\i (06:59:21) roam y -16
+\i (06:59:21) roam x 16
+\i (06:59:21) roam y -16
+\i (06:59:21) roam x 16
+\i (06:59:21) roam y -16
+\i (06:59:21) roam x 32
+\i (06:59:21) roam y -16
+\i (06:59:21) roam y -16
+\i (06:59:21) roam x 16
+\i (06:59:21) roam y -16
+\i (06:59:21) roam x 16
+\i (06:59:21) roam y -32
+\i (06:59:21) roam x 16
+\i (06:59:21) roam y -16
+\i (06:59:21) roam y -16
+\i (06:59:21) roam end
+\i (06:59:23) pick grid 12915.1 8154.6
+\t (06:59:23) last pick:  12915.0  8155.0
+\i (06:59:23) move 
+\t (06:59:23) last pick:  13100.0  8075.0
+\t (06:59:23) Moving U7 / LM2936/SO_13_LM2936_SOT_LM2936/ / LM2936_SOT.
+\t (06:59:23) Pick new location for the element(s).
+\i (06:59:27) pick grid 13060.5 7911.4
+\t (06:59:27) last pick:  13060.0  7910.0
+\i (06:59:27) placementedit 
+\i (06:59:28) prepopup 12920.4 8114.9
+\i (06:59:29) pop dyn_option_select @:@Mirror 
+\i (06:59:29) mirror 
+\i (06:59:29) placementedit 
+\i (06:59:30) pick grid 13081.6 8117.6
+\t (06:59:30) last pick:  13080.0  8120.0
+\i (06:59:30) move 
+\t (06:59:30) last pick:  13060.0  7910.0
+\t (06:59:30) Moving U7 / LM2936/SO_13_LM2936_SOT_LM2936/ / LM2936_SOT.
+\t (06:59:30) Pick new location for the element(s).
+\i (06:59:34) pick grid 13002.3 7919.3
+\t (06:59:34) last pick:  13000.0  7920.0
+\i (06:59:35) placementedit 
+\i (06:59:35) pick grid 13287.8 7940.5
+\t (06:59:35) last pick:  13290.0  7940.0
+\i (06:59:35) move 
+\t (06:59:35) last pick:  13325.0  7950.0
+\t (06:59:36) Moving C15 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (06:59:36) Pick new location for the element(s).
+\i (06:59:37) prepopup 13332.8 7922.0
+\i (06:59:38) cancel 
+\i (06:59:38) placementedit 
+\i (06:59:38) prepopup 13301.0 7977.5
+\i (06:59:40) pop dyn_option_select @:@Mirror 
+\i (06:59:40) mirror 
+\i (06:59:40) placementedit 
+\i (06:59:40) pick grid 13309.0 7959.0
+\t (06:59:40) last pick:  13310.0  7960.0
+\i (06:59:40) move 
+\t (06:59:40) last pick:  13325.0  7950.0
+\t (06:59:40) Moving C15 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (06:59:40) Pick new location for the element(s).
+\i (06:59:43) pick grid 13324.8 7932.5
+\t (06:59:43) last pick:  13325.0  7935.0
+\i (06:59:43) placementedit 
+\i (06:59:44) pick grid 13290.5 8202.2
+\t (06:59:44) last pick:  13290.0  8200.0
+\i (06:59:44) move 
+\t (06:59:44) last pick:  13300.0  8225.0
+\t (06:59:44) Moving C14 / C NP_SMC0805_100NF / SMC0805.
+\t (06:59:44) Pick new location for the element(s).
+\i (06:59:45) prepopup 13377.7 8286.7
+\i (06:59:46) pick grid 13340.7 8289.4
+\t (06:59:46) last pick:  13340.0  8290.0
+\i (06:59:46) placementedit 
+\i (06:59:46) prepopup 13338.0 8292.0
+\i (06:59:47) pop dyn_option_select @:@Mirror 
+\i (06:59:47) mirror 
+\i (06:59:47) placementedit 
+\i (06:59:48) pick grid 13335.4 8300.0
+\t (06:59:48) last pick:  13335.0  8300.0
+\i (06:59:48) move 
+\t (06:59:48) last pick:  13340.0  8290.0
+\t (06:59:48) Moving C14 / C NP_SMC0805_100NF / SMC0805.
+\t (06:59:48) Pick new location for the element(s).
+\i (06:59:49) pick grid 13324.8 8268.2
+\t (06:59:49) last pick:  13325.0  8270.0
+\i (06:59:49) placementedit 
+\i (06:59:49) prepopup 13324.8 8265.6
+\i (06:59:50) pop dyn_option_select @:@Rotate 
+\i (06:59:50) spin 
+\t (06:59:50) Moving C14 / C NP_SMC0805_100NF / SMC0805.
+\i (06:59:53) iangle -180.000
+\t (06:59:53) last angle:  180.000 Degrees
+\i (06:59:53) placementedit 
+\i (06:59:53) pick grid 13309.0 8255.0
+\t (06:59:53) last pick:  13310.0  8255.0
+\i (06:59:53) move 
+\t (06:59:53) last pick:  13325.0  8270.0
+\t (06:59:53) Moving C14 / C NP_SMC0805_100NF / SMC0805.
+\t (06:59:53) Pick new location for the element(s).
+\i (07:00:03) pick grid 13081.6 7808.3
+\t (07:00:03) last pick:  13080.0  7810.0
+\i (07:00:03) placementedit 
+\i (07:00:05) pick grid 13768.9 7718.4
+\t (07:00:05) last pick:  13770.0  7720.0
+\i (07:00:05) move 
+\t (07:00:05) last pick:  13850.0  7750.0
+\t (07:00:05) Moving C19 / C NP_SMC0805_100NF / SMC0805.
+\t (07:00:05) Pick new location for the element(s).
+\i (07:00:06) pick grid 13848.2 7713.2
+\t (07:00:06) last pick:  13850.0  7715.0
+\i (07:00:06) placementedit 
+\i (07:00:07) pick grid 13589.2 7932.5
+\t (07:00:07) last pick:  13590.0  7935.0
+\i (07:00:07) move 
+\t (07:00:07) last pick:  13550.0  7950.0
+\t (07:00:07) Moving C16 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:00:07) Pick new location for the element(s).
+\i (07:00:08) pick grid 13517.8 7945.8
+\t (07:00:08) last pick:  13520.0  7945.0
+\i (07:00:08) placementedit 
+\i (07:00:08) prepopup 13520.4 7943.1
+\i (07:00:10) pop dyn_option_select @:@Mirror 
+\i (07:00:10) mirror 
+\i (07:00:10) placementedit 
+\i (07:00:10) pick grid 13523.1 7951.1
+\t (07:00:10) last pick:  13525.0  7950.0
+\i (07:00:10) move 
+\t (07:00:10) last pick:  13520.0  7945.0
+\t (07:00:10) Moving C16 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:00:10) Pick new location for the element(s).
+\i (07:00:12) pick grid 13509.9 7937.8
+\t (07:00:12) last pick:  13510.0  7940.0
+\i (07:00:12) placementedit 
+\i (07:00:13) pick grid 13705.5 7903.5
+\t (07:00:13) last pick:  13705.0  7905.0
+\i (07:00:13) move 
+\t (07:00:13) last pick:  13700.0  7900.0
+\t (07:00:13) Pick new location for the element(s).
+\i (07:00:14) prepopup 13726.6 7940.5
+\i (07:00:15) cancel 
+\i (07:00:15) placementedit 
+\i (07:00:15) pick grid 13700.2 8255.0
+\t (07:00:15) last pick:  13700.0  8255.0
+\i (07:00:17) pick grid 13816.5 7866.5
+\t (07:00:17) last pick:  13815.0  7865.0
+\i (07:00:17) move 
+\t (07:00:17) last pick:  13850.0  7815.0
+\t (07:00:17) Pick new location for the element(s).
+\i (07:00:17) pick grid 13811.2 7892.9
+\t (07:00:17) last pick:  13810.0  7895.0
+\i (07:00:17) placementedit 
+\i (07:00:17) prepopup 13805.9 7892.9
+\i (07:00:18) pick grid 13808.5 8194.2
+\t (07:00:18) last pick:  13810.0  8195.0
+\i (07:00:19) pick grid 13872.0 7900.8
+\t (07:00:19) last pick:  13870.0  7900.0
+\i (07:00:19) move 
+\t (07:00:19) last pick:  13850.0  7925.0
+\t (07:00:19) Moving C17 / C NP_SMC0805_100NF / SMC0805.
+\t (07:00:19) Pick new location for the element(s).
+\i (07:00:20) prepopup 13856.1 8114.9
+\i (07:00:21) done 
+\i (07:00:21) placementedit 
+\i (07:00:21) prepopup 13776.8 7937.8
+\i (07:00:22) pop dyn_option_select @:@Mirror 
+\i (07:00:22) mirror 
+\i (07:00:22) placementedit 
+\i (07:00:23) pick grid 13816.5 7948.4
+\t (07:00:23) last pick:  13815.0  7950.0
+\i (07:00:23) move 
+\t (07:00:23) last pick:  13850.0  7925.0
+\t (07:00:23) Moving C17 / C NP_SMC0805_100NF / SMC0805.
+\t (07:00:23) Pick new location for the element(s).
+\i (07:00:25) pick grid 13747.8 8112.3
+\t (07:00:25) last pick:  13750.0  8110.0
+\i (07:00:25) placementedit 
+\i (07:00:25) prepopup 13747.8 8112.3
+\i (07:00:26) pop dyn_option_select @:@Rotate 
+\i (07:00:26) spin 
+\t (07:00:26) Moving C17 / C NP_SMC0805_100NF / SMC0805.
+\i (07:00:28) iangle -90.000
+\t (07:00:28) last angle:  270.000 Degrees
+\i (07:00:28) placementedit 
+\i (07:00:28) pick grid 13771.5 8099.1
+\t (07:00:28) last pick:  13770.0  8100.0
+\i (07:00:28) move 
+\t (07:00:28) last pick:  13750.0  8110.0
+\t (07:00:28) Moving C17 / C NP_SMC0805_100NF / SMC0805.
+\t (07:00:28) Pick new location for the element(s).
+\i (07:00:33) pick grid 13655.2 8014.5
+\t (07:00:33) last pick:  13655.0  8015.0
+\i (07:00:33) placementedit 
+\i (07:00:37) zoom out 1 
+\i (07:00:37) setwindow pcb
+\i (07:00:37) zoom out 13618.2 8381.9
+\i (07:00:37) trapsize 264
+\i (07:00:38) zoom in 1 
+\i (07:00:38) setwindow pcb
+\i (07:00:38) zoom in 13464.9 7472.6
+\i (07:00:38) trapsize 132
+\i (07:00:42) pick grid 13829.7 7663.0
+\t (07:00:42) last pick:  13830.0  7665.0
+\i (07:00:42) move 
+\t (07:00:42) last pick:  13850.0  7715.0
+\t (07:00:42) Moving C19 / C NP_SMC0805_100NF / SMC0805.
+\t (07:00:42) Pick new location for the element(s).
+\i (07:00:49) pick grid 13806.0 7578.4
+\t (07:00:49) last pick:  13805.0  7580.0
+\i (07:00:49) placementedit 
+\i (07:00:49) prepopup 13803.3 7599.5
+\i (07:00:50) pop dyn_option_select @:@Mirror 
+\i (07:00:50) mirror 
+\i (07:00:50) placementedit 
+\i (07:00:51) pick grid 13779.5 7610.1
+\t (07:00:51) last pick:  13780.0  7610.0
+\i (07:00:51) move 
+\t (07:00:51) last pick:  13805.0  7580.0
+\t (07:00:51) Moving C19 / C NP_SMC0805_100NF / SMC0805.
+\t (07:00:51) Pick new location for the element(s).
+\i (07:00:54) pick grid 13798.0 7818.9
+\t (07:00:54) last pick:  13800.0  7820.0
+\i (07:00:54) placementedit 
+\i (07:00:54) prepopup 13843.0 7813.6
+\i (07:00:55) drag_start grid 13840.3 7636.5
+\i (07:00:55) drag_stop 13869.4 7649.8
+\i (07:00:55) prepopup 13837.7 7789.9
+\i (07:00:56) pop dyn_option_select @:@Rotate 
+\i (07:00:56) spin 
+\t (07:00:56) Moving C19 / C NP_SMC0805_100NF / SMC0805.
+\i (07:00:57) iangle 90.000
+\t (07:00:57) last angle:  90.000 Degrees
+\i (07:00:57) placementedit 
+\i (07:00:57) pick grid 13832.4 7914.1
+\t (07:00:57) last pick:  13830.0  7915.0
+\i (07:00:57) move 
+\t (07:00:57) last pick:  13800.0  7820.0
+\t (07:00:57) Moving C19 / C NP_SMC0805_100NF / SMC0805.
+\t (07:00:57) Pick new location for the element(s).
+\i (07:01:00) pick grid 13761.0 7932.6
+\t (07:01:00) last pick:  13760.0  7935.0
+\i (07:01:00) placementedit 
+\i (07:01:01) pick grid 13716.1 7639.2
+\t (07:01:01) last pick:  13715.0  7640.0
+\i (07:01:04) pick grid 13972.5 7520.2
+\t (07:01:04) last pick:  13975.0  7520.0
+\i (07:01:04) move 
+\t (07:01:04) last pick:  14025.0  7550.0
+\t (07:01:04) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:01:04) Pick new location for the element(s).
+\i (07:01:06) pick grid 13914.3 7599.5
+\t (07:01:06) last pick:  13915.0  7600.0
+\i (07:01:06) placementedit 
+\i (07:01:06) prepopup 13893.2 7575.7
+\i (07:01:08) pop dyn_option_select @:@Rotate 
+\i (07:01:08) spin 
+\t (07:01:08) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\i (07:01:09) iangle -180.000
+\t (07:01:09) last angle:  180.000 Degrees
+\i (07:01:09) placementedit 
+\i (07:01:09) prepopup 13914.3 7610.1
+\i (07:01:11) pick grid 13766.3 7610.1
+\t (07:01:11) last pick:  13765.0  7610.0
+\i (07:01:11) pick grid 13895.8 7575.7
+\t (07:01:11) last pick:  13895.0  7575.0
+\i (07:01:11) move 
+\t (07:01:11) last pick:  13915.0  7600.0
+\t (07:01:11) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:01:11) Pick new location for the element(s).
+\i (07:01:12) pick grid 13948.7 7707.9
+\t (07:01:12) last pick:  13950.0  7710.0
+\i (07:01:12) placementedit 
+\i (07:01:12) prepopup 13948.7 7707.9
+\i (07:01:13) pop dyn_option_select @:@Mirror 
+\i (07:01:13) mirror 
+\i (07:01:13) placementedit 
+\i (07:01:13) pick grid 13935.5 7710.6
+\t (07:01:13) last pick:  13935.0  7710.0
+\i (07:01:13) move 
+\t (07:01:13) last pick:  13950.0  7710.0
+\t (07:01:13) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:01:13) Pick new location for the element(s).
+\i (07:01:15) pick grid 13993.6 7750.2
+\t (07:01:15) last pick:  13995.0  7750.0
+\i (07:01:15) placementedit 
+\i (07:01:15) prepopup 13988.3 7750.2
+\i (07:01:16) pop dyn_option_select @:@Rotate 
+\i (07:01:16) spin 
+\t (07:01:16) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\i (07:01:18) iangle 180.000
+\t (07:01:18) last angle:  0.000 Degrees
+\i (07:01:18) placementedit 
+\i (07:01:18) pick grid 14001.6 7734.3
+\t (07:01:18) last pick:  14000.0  7735.0
+\i (07:01:18) move 
+\t (07:01:18) last pick:  13995.0  7750.0
+\t (07:01:18) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:01:18) Pick new location for the element(s).
+\i (07:01:21) pick grid 14020.1 7493.8
+\t (07:01:21) last pick:  14020.0  7495.0
+\i (07:01:21) placementedit 
+\i (07:01:21) zoom out 1 
+\i (07:01:21) setwindow pcb
+\i (07:01:21) zoom out 13755.7 7663.0
+\i (07:01:21) trapsize 264
+\i (07:01:23) zoom in 1 
+\i (07:01:23) setwindow pcb
+\i (07:01:23) zoom in 14036.0 7546.7
+\i (07:01:23) trapsize 132
+\i (07:01:23) zoom out 1 
+\i (07:01:23) setwindow pcb
+\i (07:01:23) zoom out 12262.4 7256.0
+\i (07:01:23) trapsize 264
+\i (07:01:32) pick grid 13414.8 7631.3
+\t (07:01:32) last pick:  13415.0  7630.0
+\i (07:01:34) zoom in 1 
+\i (07:01:34) setwindow pcb
+\i (07:01:34) zoom in 13621.0 7641.8
+\i (07:01:34) trapsize 132
+\i (07:01:35) pick grid 14004.3 7525.5
+\t (07:01:35) last pick:  14005.0  7525.0
+\i (07:01:35) move 
+\t (07:01:35) last pick:  14020.0  7495.0
+\t (07:01:35) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:01:35) Pick new location for the element(s).
+\i (07:01:40) pick grid 14028.1 7491.2
+\t (07:01:40) last pick:  14030.0  7490.0
+\i (07:01:41) placementedit 
+\i (07:01:41) pick grid 13843.0 7314.1
+\t (07:01:41) last pick:  13845.0  7315.0
+\i (07:01:41) move 
+\t (07:01:41) last pick:  13955.6  7261.0
+\t (07:01:41) Pick new location for the element(s).
+\i (07:01:42) prepopup 13792.8 7327.3
+\i (07:01:42) cancel 
+\i (07:01:42) placementedit 
+\i (07:01:43) pick grid 13726.7 7398.6
+\t (07:01:43) last pick:  13725.0  7400.0
+\i (07:01:43) move 
+\t (07:01:43) last pick:  13850.0  7400.0
+\t (07:01:43) Moving J8 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:01:43) Pick new location for the element(s).
+\i (07:01:44) pick grid 13689.7 7351.1
+\t (07:01:44) last pick:  13690.0  7350.0
+\i (07:01:44) placementedit 
+\i (07:01:44) prepopup 13687.1 7353.7
+\i (07:01:46) pop dyn_option_select @:@Mirror 
+\i (07:01:46) mirror 
+\i (07:01:46) placementedit 
+\i (07:01:46) pick grid 13621.0 7335.2
+\t (07:01:46) last pick:  13620.0  7335.0
+\i (07:01:46) move 
+\t (07:01:46) last pick:  13690.0  7350.0
+\t (07:01:46) Moving J8 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:01:46) Pick new location for the element(s).
+\i (07:01:48) pick grid 13277.4 7329.9
+\t (07:01:48) last pick:  13275.0  7330.0
+\i (07:01:48) placementedit 
+\i (07:01:48) zoom out 1 
+\i (07:01:48) setwindow pcb
+\i (07:01:48) zoom out 13483.6 7525.5
+\i (07:01:48) trapsize 264
+\i (07:01:49) zoom in 1 
+\i (07:01:49) setwindow pcb
+\i (07:01:49) zoom in 13710.8 6251.5
+\i (07:01:49) trapsize 132
+\i (07:01:49) zoom out 1 
+\i (07:01:49) setwindow pcb
+\i (07:01:49) zoom out 13705.5 6256.8
+\i (07:01:49) trapsize 264
+\i (07:01:52) zoom in 1 
+\i (07:01:52) setwindow pcb
+\i (07:01:52) zoom in 12664.1 7784.6
+\i (07:01:52) trapsize 132
+\i (07:01:53) pick grid 12608.6 7985.5
+\t (07:01:53) last pick:  12610.0  7985.0
+\i (07:01:53) move 
+\t (07:01:53) last pick:  12590.0  8010.0
+\t (07:01:53) Moving C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:01:53) Pick new location for the element(s).
+\i (07:01:53) pick grid 12650.9 7818.9
+\t (07:01:53) last pick:  12650.0  7820.0
+\i (07:01:53) placementedit 
+\i (07:01:54) prepopup 12637.7 7826.9
+\i (07:01:55) pop dyn_option_select @:@Mirror 
+\i (07:01:55) mirror 
+\i (07:01:55) placementedit 
+\i (07:01:55) pick grid 12632.4 7842.7
+\t (07:01:55) last pick:  12630.0  7845.0
+\i (07:01:55) move 
+\t (07:01:55) last pick:  12650.0  7820.0
+\t (07:01:55) Moving C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:01:55) Pick new location for the element(s).
+\i (07:01:56) zoom out 1 
+\i (07:01:56) setwindow pcb
+\i (07:01:56) zoom out 12635.0 8038.3
+\i (07:01:56) trapsize 264
+\i (07:01:57) zoom in 1 
+\i (07:01:57) setwindow pcb
+\i (07:01:57) zoom in 12661.5 8043.7
+\i (07:01:57) trapsize 132
+\i (07:01:57) zoom in 1 
+\i (07:01:57) setwindow pcb
+\i (07:01:57) zoom in 12661.5 8043.7
+\i (07:01:57) trapsize 66
+\i (07:01:58) zoom out 1 
+\i (07:01:58) setwindow pcb
+\i (07:01:58) zoom out 12661.6 8043.7
+\i (07:01:58) trapsize 132
+\i (07:02:02) pick grid 12484.4 7174.0
+\t (07:02:02) last pick:  12485.0  7175.0
+\i (07:02:02) placementedit 
+\i (07:02:03) pick grid 12510.9 7768.8
+\t (07:02:03) last pick:  12510.0  7770.0
+\i (07:02:03) zoom out 1 
+\i (07:02:03) setwindow pcb
+\i (07:02:03) zoom out 12452.7 7554.7
+\i (07:02:03) trapsize 264
+\i (07:02:04) zoom in 1 
+\i (07:02:04) setwindow pcb
+\i (07:02:04) zoom in 11739.0 7327.3
+\i (07:02:04) trapsize 132
+\i (07:02:05) pick grid 11636.0 7351.1
+\t (07:02:05) last pick:  11635.0  7350.0
+\i (07:02:05) move 
+\t (07:02:05) last pick:  11700.0  7375.0
+\t (07:02:05) Moving R4 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:02:05) Pick new location for the element(s).
+\i (07:02:05) pick grid 11683.6 7348.5
+\t (07:02:05) last pick:  11685.0  7350.0
+\i (07:02:05) placementedit 
+\i (07:02:06) pick grid tgl 12291.5 7369.6
+\t (07:02:06) last pick:  12290.0  7370.0
+\i (07:02:07) pick grid tgl 12275.7 6957.2
+\t (07:02:07) last pick:  12275.0  6955.0
+\i (07:02:07) pick grid tgl 12241.3 6843.6
+\t (07:02:07) last pick:  12240.0  6845.0
+\i (07:02:08) pick grid tgl 12775.2 6695.6
+\t (07:02:08) last pick:  12775.0  6695.0
+\i (07:02:09) pick grid tgl 12101.2 6455.0
+\t (07:02:09) last pick:  12100.0  6455.0
+\i (07:02:10) pick grid tgl 12836.0 6481.5
+\t (07:02:10) last pick:  12835.0  6480.0
+\i (07:02:11) pick grid tgl 11942.6 6460.3
+\t (07:02:11) last pick:  11945.0  6460.0
+\i (07:02:11) prepopup 12259.8 7229.5
+\i (07:02:13) pop dyn_option_select '@:@Swap components' 
+\i (07:02:13) swap components 
+\i (07:02:14) prepopup 12270.4 7330.0
+\i (07:02:15) prepopup 12315.3 7377.5
+\i (07:02:16) cancel 
+\i (07:02:16) placementedit 
+\i (07:02:17) prepopup 12251.9 7377.5
+\i (07:02:18) pop dyn_option_select @:@Mirror 
+\i (07:02:18) mirror 
+\i (07:02:18) placementedit 
+\i (07:02:19) pick grid 11945.3 7417.2
+\t (07:02:19) last pick:  11945.0  7415.0
+\i (07:02:19) prepopup 11614.8 7322.0
+\i (07:02:20) pop dyn_option_select @:@Mirror 
+\i (07:02:20) mirror 
+\i (07:02:20) placementedit 
+\i (07:02:21) prepopup 12212.2 6981.0
+\i (07:02:23) pop dyn_option_select @:@Mirror 
+\i (07:02:23) mirror 
+\i (07:02:23) placementedit 
+\i (07:02:24) prepopup 12740.9 6677.1
+\i (07:02:25) pop dyn_option_select @:@Mirror 
+\i (07:02:25) mirror 
+\i (07:02:25) placementedit 
+\i (07:02:26) prepopup 12220.2 6806.6
+\i (07:02:28) pop dyn_option_select @:@Mirror 
+\i (07:02:28) mirror 
+\i (07:02:28) placementedit 
+\i (07:02:29) pick grid 12529.4 6587.2
+\t (07:02:29) last pick:  12530.0  6585.0
+\i (07:02:30) prepopup 12257.2 7155.5
+\i (07:02:31) pop dyn_option_select @:@Mirror 
+\i (07:02:31) mirror 
+\i (07:02:31) placementedit 
+\i (07:02:33) zoom out 1 
+\i (07:02:33) setwindow pcb
+\i (07:02:33) zoom out 12952.3 6774.9
+\i (07:02:33) trapsize 264
+\i (07:02:34) zoom in 1 
+\i (07:02:34) setwindow pcb
+\i (07:02:34) zoom in 12889.0 7959.0
+\i (07:02:34) trapsize 132
+\i (07:02:34) roam start
+\i (07:02:34) roam y 96
+\i (07:02:34) roam y 48
+\i (07:02:34) roam y 48
+\i (07:02:35) roam y 80
+\i (07:02:35) roam y 32
+\i (07:02:35) roam y 32
+\i (07:02:35) roam y 32
+\i (07:02:35) roam x -16
+\i (07:02:35) roam y 48
+\i (07:02:35) roam y 32
+\i (07:02:35) roam end
+\i (07:02:38) prepopup 11641.1 6949.2
+\i (07:02:39) pick grid 11508.9 7261.1
+\t (07:02:39) last pick:  11510.0  7260.0
+\i (07:02:40) prepopup 11630.5 7176.5
+\i (07:02:41) pop dyn_option_select @:@Mirror 
+\i (07:02:41) mirror 
+\i (07:02:41) placementedit 
+\i (07:02:42) pick grid 11630.5 7187.1
+\t (07:02:42) last pick:  11630.0  7185.0
+\i (07:02:42) move 
+\t (07:02:42) last pick:  11925.0  7100.0
+\t (07:02:42) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\t (07:02:42) Pick new location for the element(s).
+\i (07:02:44) pick grid 12040.2 6814.4
+\t (07:02:44) last pick:  12040.0  6815.0
+\i (07:02:44) placementedit 
+\i (07:02:45) prepopup 11839.3 6872.6
+\i (07:02:46) pop dyn_option_select @:@Rotate 
+\i (07:02:46) spin 
+\t (07:02:46) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\i (07:02:48) iangle -180.000
+\t (07:02:48) last angle:  270.000 Degrees
+\i (07:02:48) placementedit 
+\i (07:02:48) pick grid 12048.2 6795.9
+\t (07:02:48) last pick:  12050.0  6795.0
+\i (07:02:48) move 
+\t (07:02:48) last pick:  12040.0  6815.0
+\t (07:02:48) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\t (07:02:48) Pick new location for the element(s).
+\i (07:02:54) pick grid 11672.8 7078.7
+\t (07:02:54) last pick:  11675.0  7080.0
+\i (07:02:54) placementedit 
+\i (07:02:55) pick grid 11731.0 7308.7
+\t (07:02:55) last pick:  11730.0  7310.0
+\i (07:02:55) move 
+\t (07:02:55) last pick:  11685.0  7350.0
+\t (07:02:55) Moving R4 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:02:55) Pick new location for the element(s).
+\i (07:02:56) pick grid 12138.0 6946.6
+\t (07:02:56) last pick:  12140.0  6945.0
+\i (07:02:56) placementedit 
+\i (07:02:56) prepopup 12143.3 6941.3
+\i (07:02:57) pop dyn_option_select @:@Rotate 
+\i (07:02:57) spin 
+\t (07:02:57) Moving R4 / RESISTOR_SMR0805_51K / SMR0805.
+\i (07:02:58) iangle 90.000
+\t (07:02:58) last angle:  90.000 Degrees
+\i (07:02:58) placementedit 
+\i (07:02:59) pick grid 12153.9 6970.4
+\t (07:02:59) last pick:  12155.0  6970.0
+\i (07:02:59) move 
+\t (07:02:59) last pick:  12140.0  6945.0
+\t (07:02:59) Moving R4 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:02:59) Pick new location for the element(s).
+\i (07:03:01) pick grid 12132.7 6893.7
+\t (07:03:01) last pick:  12135.0  6895.0
+\i (07:03:01) placementedit 
+\i (07:03:02) zoom out 1 
+\i (07:03:02) setwindow pcb
+\i (07:03:02) zoom out 11889.6 7102.5
+\i (07:03:02) trapsize 264
+\i (07:03:04) zoom in 1 
+\i (07:03:04) setwindow pcb
+\i (07:03:04) zoom in 12909.8 5537.7
+\i (07:03:04) trapsize 132
+\i (07:03:04) zoom out 1 
+\i (07:03:04) setwindow pcb
+\i (07:03:04) zoom out 12909.8 5535.1
+\i (07:03:04) trapsize 264
+\i (07:03:05) zoom out 1 
+\i (07:03:05) setwindow pcb
+\i (07:03:05) zoom out 12999.7 5603.8
+\i (07:03:05) trapsize 529
+\i (07:03:06) zoom in 1 
+\i (07:03:06) setwindow pcb
+\i (07:03:06) zoom in 13591.8 7750.1
+\i (07:03:06) trapsize 264
+\i (07:03:07) zoom out 1 
+\i (07:03:07) setwindow pcb
+\i (07:03:07) zoom out 13459.7 7787.2
+\i (07:03:07) trapsize 529
+\i (07:03:08) roam start
+\i (07:03:08) roam y 80
+\i (07:03:08) roam y 16
+\i (07:03:09) roam x 16
+\i (07:03:09) roam y 48
+\i (07:03:09) roam x 16
+\i (07:03:09) roam y 32
+\i (07:03:09) roam end
+\i (07:03:09) zoom in 1 
+\i (07:03:09) setwindow pcb
+\i (07:03:09) zoom in 13026.2 4821.4
+\i (07:03:09) trapsize 264
+\i (07:03:10) zoom out 1 
+\i (07:03:10) setwindow pcb
+\i (07:03:10) zoom out 13147.8 4906.0
+\i (07:03:10) trapsize 529
+\i (07:03:10) zoom in 1 
+\i (07:03:10) setwindow pcb
+\i (07:03:10) zoom in 14014.9 6069.1
+\i (07:03:10) trapsize 264
+\i (07:03:11) zoom in 1 
+\i (07:03:11) setwindow pcb
+\i (07:03:11) zoom in 13988.5 6174.9
+\i (07:03:11) trapsize 132
+\i (07:03:11) prepopup 13755.9 6299.2
+\i (07:03:13) pick grid 13766.5 6478.9
+\t (07:03:13) last pick:  13765.0  6480.0
+\i (07:03:13) pick grid 13771.8 6354.7
+\t (07:03:13) last pick:  13770.0  6355.0
+\i (07:03:13) move 
+\t (07:03:13) last pick:  13900.0  6325.0
+\t (07:03:13) Moving J9 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:03:13) Pick new location for the element(s).
+\i (07:03:14) prepopup 13695.1 6592.6
+\i (07:03:15) pick grid 13708.3 6624.3
+\t (07:03:15) last pick:  13710.0  6625.0
+\i (07:03:15) placementedit 
+\i (07:03:15) prepopup 13708.3 6624.3
+\i (07:03:17) pop dyn_option_select @:@Mirror 
+\i (07:03:17) mirror 
+\i (07:03:17) placementedit 
+\i (07:03:17) prepopup 13835.2 6616.4
+\i (07:03:19) pop dyn_option_select @:@Rotate 
+\i (07:03:19) spin 
+\t (07:03:19) Moving J9 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\i (07:03:21) iangle 90.000
+\t (07:03:21) last angle:  90.000 Degrees
+\i (07:03:21) placementedit 
+\i (07:03:22) pick grid 13708.3 6634.9
+\t (07:03:22) last pick:  13710.0  6635.0
+\i (07:03:22) move 
+\t (07:03:22) last pick:  13710.0  6625.0
+\t (07:03:22) Moving J9 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:03:22) Pick new location for the element(s).
+\i (07:03:25) pick grid 14028.2 5519.4
+\t (07:03:25) last pick:  14030.0  5520.0
+\i (07:03:25) placementedit 
+\i (07:03:25) zoom out 1 
+\i (07:03:25) setwindow pcb
+\i (07:03:25) zoom out 13933.0 5643.6
+\i (07:03:25) trapsize 264
+\i (07:03:25) zoom out 1 
+\i (07:03:25) setwindow pcb
+\i (07:03:25) zoom out 13938.3 5707.1
+\i (07:03:25) trapsize 529
+\i (07:03:26) zoom in 1 
+\i (07:03:26) setwindow pcb
+\i (07:03:26) zoom in 14149.7 7663.2
+\i (07:03:26) trapsize 264
+\i (07:03:27) prepopup 13367.3 7309.0
+\i (07:03:28) pick grid 13372.6 7356.6
+\t (07:03:28) last pick:  13375.0  7355.0
+\i (07:03:28) move 
+\t (07:03:28) last pick:  13275.0  7330.0
+\t (07:03:28) Moving J8 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:03:28) Pick new location for the element(s).
+\i (07:03:28) pick grid 13356.7 7367.2
+\t (07:03:28) last pick:  13355.0  7365.0
+\i (07:03:28) placementedit 
+\i (07:03:28) pick grid dbl 13356.7 7367.2
+\t (07:03:28) last pick:  13355.0  7365.0
+\i (07:03:28) move 
+\t (07:03:28) last pick:  13355.0  7365.0
+\t (07:03:28) Moving J8 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:03:28) Pick new location for the element(s).
+\i (07:03:30) pick grid 13414.9 7546.9
+\t (07:03:30) last pick:  13415.0  7545.0
+\i (07:03:30) placementedit 
+\i (07:03:30) prepopup 13414.9 7546.9
+\i (07:03:31) pop dyn_option_select @:@Rotate 
+\i (07:03:31) spin 
+\t (07:03:31) Moving J8 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\i (07:03:33) zoom in 1 
+\i (07:03:33) setwindow pcb
+\i (07:03:33) zoom in 13383.1 7626.2
+\i (07:03:33) trapsize 132
+\i (07:03:33) zoom in 1 
+\i (07:03:33) setwindow pcb
+\i (07:03:33) zoom in 13383.1 7626.3
+\i (07:03:33) trapsize 66
+\i (07:03:35) iangle -90.000
+\t (07:03:35) last angle:  270.000 Degrees
+\i (07:03:35) placementedit 
+\i (07:03:36) zoom out 1 
+\i (07:03:36) setwindow pcb
+\i (07:03:36) zoom out 13496.8 7556.3
+\i (07:03:36) trapsize 132
+\i (07:03:36) zoom out 1 
+\i (07:03:36) setwindow pcb
+\i (07:03:36) zoom out 13488.9 7535.1
+\i (07:03:36) trapsize 264
+\i (07:03:37) zoom out 1 
+\i (07:03:37) setwindow pcb
+\i (07:03:37) zoom out 13404.3 7339.5
+\i (07:03:37) trapsize 529
+\i (07:03:38) zoom in 1 
+\i (07:03:38) setwindow pcb
+\i (07:03:38) zoom in 13436.1 7329.0
+\i (07:03:38) trapsize 264
+\i (07:03:39) pick grid 13452.0 7366.1
+\t (07:03:39) last pick:  13450.0  7365.0
+\i (07:03:39) move 
+\t (07:03:39) last pick:  13415.0  7545.0
+\t (07:03:39) Moving J8 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:03:39) Pick new location for the element(s).
+\i (07:03:42) pick grid 14028.2 7085.9
+\t (07:03:42) last pick:  14030.0  7085.0
+\i (07:03:42) placementedit 
+\i (07:03:43) zoom out 1 
+\i (07:03:43) setwindow pcb
+\i (07:03:43) zoom out 14022.9 7101.7
+\i (07:03:43) trapsize 529
+\i (07:03:43) zoom in 1 
+\i (07:03:43) setwindow pcb
+\i (07:03:43) zoom in 13642.3 5515.8
+\i (07:03:43) trapsize 264
+\i (07:03:48) roam start
+\i (07:03:48) roam y 16
+\i (07:03:48) roam y 96
+\i (07:03:48) roam y 80
+\i (07:03:48) roam end
+\i (07:03:49) zoom in 1 
+\i (07:03:49) setwindow pcb
+\i (07:03:49) zoom in 13996.5 6148.3
+\i (07:03:49) trapsize 132
+\i (07:03:50) pick grid 13985.9 5706.9
+\t (07:03:50) last pick:  13985.0  5705.0
+\i (07:03:50) move 
+\t (07:03:50) last pick:  14030.0  5520.0
+\t (07:03:50) Moving J9 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:03:50) Pick new location for the element(s).
+\i (07:03:51) pick grid 14046.7 5669.9
+\t (07:03:51) last pick:  14045.0  5670.0
+\i (07:03:51) placementedit 
+\i (07:03:52) zoom in 1 
+\i (07:03:52) setwindow pcb
+\i (07:03:52) zoom in 14033.5 5773.0
+\i (07:03:52) trapsize 66
+\i (07:03:53) zoom in 1 
+\i (07:03:53) setwindow pcb
+\i (07:03:53) zoom in 14011.1 6174.8
+\i (07:03:53) trapsize 33
+\i (07:03:54) pick grid 14001.2 6158.3
+\t (07:03:54) last pick:  14000.0  6160.0
+\i (07:03:54) move 
+\t (07:03:54) last pick:  14050.0  6100.0
+\t (07:03:54) Moving J5 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:03:54) Pick new location for the element(s).
+\i (07:03:55) pick grid 14031.6 6088.3
+\t (07:03:55) last pick:  14030.0  6090.0
+\i (07:03:55) placementedit 
+\i (07:03:56) pick grid 13999.9 6011.6
+\t (07:03:56) last pick:  14000.0  6010.0
+\i (07:03:56) move 
+\t (07:03:56) last pick:  14045.0  5670.0
+\t (07:03:56) Moving J9 / HEADER 4_BLKCON100VHTM1SQSW1004 / BLKCON100VHTM1SQSW1004.
+\t (07:03:56) Pick new location for the element(s).
+\i (07:03:57) zoom out 1 
+\i (07:03:57) setwindow pcb
+\i (07:03:57) zoom out 13847.9 6025.5
+\i (07:03:57) trapsize 66
+\i (07:03:57) roam start
+\i (07:03:57) roam y 96
+\i (07:03:57) roam y 96
+\i (07:03:58) roam y 96
+\i (07:03:58) roam y 32
+\i (07:03:58) roam y 32
+\i (07:03:58) roam end
+\i (07:03:58) zoom in 1 
+\i (07:03:58) setwindow pcb
+\i (07:03:58) zoom in 14021.1 5656.7
+\i (07:03:58) trapsize 33
+\i (07:03:59) roam start
+\i (07:03:59) roam y -96
+\i (07:03:59) roam x 16
+\i (07:03:59) roam y -48
+\i (07:03:59) roam y -32
+\i (07:03:59) roam y -48
+\i (07:03:59) roam y -64
+\i (07:03:59) roam x 16
+\i (07:03:59) roam y -32
+\i (07:04:00) roam end
+\i (07:04:02) pick grid 14028.0 5664.6
+\t (07:04:02) last pick:  14030.0  5665.0
+\i (07:04:02) placementedit 
+\i (07:04:02) zoom out 1 
+\i (07:04:02) setwindow pcb
+\i (07:04:02) zoom out 14026.7 5672.5
+\i (07:04:02) trapsize 66
+\i (07:04:03) pick grid 14039.9 6293.7
+\t (07:04:03) last pick:  14040.0  6295.0
+\i (07:04:03) move 
+\t (07:04:03) last pick:  14050.0  6350.0
+\t (07:04:03) Moving J2 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:04:03) Pick new location for the element(s).
+\i (07:04:04) zoom in 1 
+\i (07:04:04) setwindow pcb
+\i (07:04:04) zoom in 14026.7 6303.0
+\i (07:04:04) trapsize 33
+\i (07:04:06) pick grid 14030.7 6303.0
+\t (07:04:06) last pick:  14030.0  6305.0
+\i (07:04:06) placementedit 
+\i (07:04:06) zoom out 1 
+\i (07:04:06) setwindow pcb
+\i (07:04:06) zoom out 14008.8 6261.4
+\i (07:04:06) trapsize 66
+\i (07:04:07) roam start
+\i (07:04:07) roam x 16
+\i (07:04:07) roam y -96
+\i (07:04:07) roam x 32
+\i (07:04:07) roam y -112
+\i (07:04:07) roam x 16
+\i (07:04:07) roam y -48
+\i (07:04:07) roam y -64
+\i (07:04:07) roam x 16
+\i (07:04:07) roam y -48
+\i (07:04:07) roam y -16
+\i (07:04:07) roam x 16
+\i (07:04:07) roam y -48
+\i (07:04:07) roam y -48
+\i (07:04:07) roam y -32
+\i (07:04:07) roam y -32
+\i (07:04:07) roam y -48
+\i (07:04:08) roam y -64
+\i (07:04:08) roam y -16
+\i (07:04:08) roam y -32
+\i (07:04:08) roam y -16
+\i (07:04:08) roam end
+\i (07:04:08) zoom out 1 
+\i (07:04:08) setwindow pcb
+\i (07:04:08) zoom out 13987.0 6941.3
+\i (07:04:08) trapsize 132
+\i (07:04:09) zoom in 1 
+\i (07:04:09) setwindow pcb
+\i (07:04:09) zoom in 14050.4 7039.1
+\i (07:04:09) trapsize 66
+\i (07:04:09) zoom in 1 
+\i (07:04:09) setwindow pcb
+\i (07:04:09) zoom in 14050.4 7040.4
+\i (07:04:09) trapsize 33
+\i (07:04:11) pick grid 14033.9 7197.7
+\t (07:04:11) last pick:  14035.0  7200.0
+\i (07:04:11) move 
+\t (07:04:11) last pick:  14025.0  7250.0
+\t (07:04:11) Moving J4 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:04:11) Pick new location for the element(s).
+\i (07:04:12) pick grid 14029.2 7207.0
+\t (07:04:12) last pick:  14030.0  7205.0
+\i (07:04:12) placementedit 
+\i (07:04:12) prepopup 14029.2 7206.3
+\i (07:04:13) pop dyn_option_select @:@Mirror 
+\i (07:04:13) mirror 
+\i (07:04:13) placementedit 
+\i (07:04:14) zoom out 1 
+\i (07:04:14) setwindow pcb
+\i (07:04:14) zoom out 14029.2 7205.0
+\i (07:04:14) trapsize 66
+\i (07:04:14) zoom out 1 
+\i (07:04:14) setwindow pcb
+\i (07:04:14) zoom out 14046.5 7197.1
+\i (07:04:14) trapsize 132
+\i (07:04:16) roam start
+\i (07:04:16) roam x 16
+\i (07:04:16) roam y -96
+\i (07:04:16) roam x 16
+\i (07:04:16) roam y -64
+\i (07:04:16) roam y -16
+\i (07:04:16) roam y -32
+\i (07:04:16) roam y -32
+\i (07:04:16) roam y -32
+\i (07:04:16) roam end
+\i (07:04:17) zoom in 1 
+\i (07:04:17) setwindow pcb
+\i (07:04:17) zoom in 13975.1 7493.7
+\i (07:04:17) trapsize 66
+\i (07:04:17) pick grid 14024.0 7467.3
+\t (07:04:17) last pick:  14025.0  7465.0
+\i (07:04:17) move 
+\t (07:04:17) last pick:  14030.0  7490.0
+\t (07:04:17) Moving J1 / HEADER 2_BLKCON100VHTM2OEW2002_ / BLKCON100VHTM2OEW2002.
+\t (07:04:17) Pick new location for the element(s).
+\i (07:04:19) zoom in 1 
+\i (07:04:19) setwindow pcb
+\i (07:04:19) zoom in 14024.0 7431.6
+\i (07:04:19) trapsize 33
+\i (07:04:21) pick grid 14028.0 7421.0
+\t (07:04:21) last pick:  14030.0  7420.0
+\i (07:04:21) placementedit 
+\i (07:04:22) zoom out 1 
+\i (07:04:22) setwindow pcb
+\i (07:04:22) zoom out 14027.4 7421.0
+\i (07:04:22) trapsize 66
+\i (07:04:22) zoom out 1 
+\i (07:04:22) setwindow pcb
+\i (07:04:22) zoom out 14024.7 7417.1
+\i (07:04:22) trapsize 132
+\i (07:04:22) zoom out 1 
+\i (07:04:22) setwindow pcb
+\i (07:04:22) zoom out 13977.1 6769.5
+\i (07:04:22) trapsize 264
+\i (07:04:23) zoom in 1 
+\i (07:04:23) setwindow pcb
+\i (07:04:23) zoom in 13807.9 7208.2
+\i (07:04:23) trapsize 132
+\i (07:04:23) roam start
+\i (07:04:23) roam y 64
+\i (07:04:23) roam y 80
+\i (07:04:23) roam y 64
+\i (07:04:24) zoom out 1 
+\i (07:04:24) setwindow pcb
+\i (07:04:24) zoom out 13770.9 6893.8
+\i (07:04:24) trapsize 264
+\i (07:04:24) roam end
+\i (07:04:24) zoom out 1 
+\i (07:04:24) setwindow pcb
+\i (07:04:24) zoom out 14019.4 6772.1
+\i (07:04:24) trapsize 529
+\i (07:04:25) zoom in 1 
+\i (07:04:25) setwindow pcb
+\i (07:04:25) zoom in 13033.9 6539.6
+\i (07:04:25) trapsize 264
+\i (07:04:26) zoom out 1 
+\i (07:04:26) setwindow pcb
+\i (07:04:26) zoom out 13493.9 6957.3
+\i (07:04:26) trapsize 529
+\i (07:04:27) zoom in 1 
+\i (07:04:27) setwindow pcb
+\i (07:04:27) zoom in 12278.0 5709.6
+\i (07:04:27) trapsize 264
+\i (07:04:28) zoom in 1 
+\i (07:04:28) setwindow pcb
+\i (07:04:28) zoom in 12124.7 6322.9
+\i (07:04:28) trapsize 132
+\i (07:04:28) zoom in 1 
+\i (07:04:28) setwindow pcb
+\i (07:04:28) zoom in 12124.7 6322.9
+\i (07:04:28) trapsize 66
+\i (07:04:29) prepopup 12093.0 6398.3
+\i (07:04:30) pop dyn_option_select @:@Mirror 
+\i (07:04:30) mirror 
+\i (07:04:30) placementedit 
+\i (07:04:30) prepopup 11988.6 6313.7
+\i (07:04:31) pop dyn_option_select @:@Mirror 
+\i (07:04:31) mirror 
+\i (07:04:31) placementedit 
+\i (07:04:32) zoom out 1 
+\i (07:04:32) setwindow pcb
+\i (07:04:32) zoom out 11959.5 6145.8
+\i (07:04:32) trapsize 132
+\i (07:04:32) zoom out 1 
+\i (07:04:32) setwindow pcb
+\i (07:04:32) zoom out 11970.1 6132.6
+\i (07:04:32) trapsize 264
+\i (07:04:32) zoom in 1 
+\i (07:04:32) setwindow pcb
+\i (07:04:32) zoom in 11964.8 5921.2
+\i (07:04:32) trapsize 132
+\i (07:04:33) prepopup 11986.0 5939.7
+\i (07:04:34) pop dyn_option_select @:@Mirror 
+\i (07:04:34) mirror 
+\i (07:04:34) placementedit 
+\i (07:04:35) prepopup 11782.4 5876.3
+\i (07:04:36) pop dyn_option_select @:@Mirror 
+\i (07:04:36) mirror 
+\i (07:04:36) placementedit 
+\i (07:04:37) prepopup 11867.0 6251.6
+\i (07:04:38) pick grid 11631.8 6283.3
+\t (07:04:38) last pick:  11630.0  6285.0
+\i (07:04:38) pick grid 11803.6 5918.6
+\t (07:04:38) last pick:  11805.0  5920.0
+\i (07:04:38) move 
+\t (07:04:38) last pick:  11850.0  5925.0
+\t (07:04:38) Moving R7 / RESISTOR_SMR0805_7.5K / SMR0805.
+\t (07:04:38) Pick new location for the element(s).
+\i (07:04:40) pick grid 11433.5 6024.3
+\t (07:04:40) last pick:  11435.0  6025.0
+\i (07:04:40) placementedit 
+\i (07:04:41) pick grid 11933.1 5820.8
+\t (07:04:41) last pick:  11935.0  5820.0
+\i (07:04:41) move 
+\t (07:04:41) last pick:  12000.0  5825.0
+\t (07:04:41) Moving C8 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:04:41) Pick new location for the element(s).
+\i (07:04:43) pick grid 11676.7 5900.1
+\t (07:04:43) last pick:  11675.0  5900.0
+\i (07:04:43) placementedit 
+\i (07:04:43) prepopup 11682.0 5889.5
+\i (07:04:44) pop dyn_option_select @:@Rotate 
+\i (07:04:44) spin 
+\t (07:04:44) Moving C8 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\i (07:04:46) iangle 90.000
+\t (07:04:46) last angle:  90.000 Degrees
+\i (07:04:46) placementedit 
+\i (07:04:46) pick grid 11671.4 5855.1
+\t (07:04:46) last pick:  11670.0  5855.0
+\i (07:04:46) move 
+\t (07:04:46) last pick:  11675.0  5900.0
+\t (07:04:46) Moving C8 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:04:46) Pick new location for the element(s).
+\i (07:04:48) zoom in 1 
+\i (07:04:48) setwindow pcb
+\i (07:04:48) zoom in 11750.7 6016.4
+\i (07:04:48) trapsize 66
+\i (07:04:48) zoom in 1 
+\i (07:04:48) setwindow pcb
+\i (07:04:48) zoom in 11750.7 6016.4
+\i (07:04:48) trapsize 33
+\i (07:04:51) zoom out 1 
+\i (07:04:51) setwindow pcb
+\i (07:04:51) zoom out 11657.5 5884.2
+\i (07:04:51) trapsize 66
+\i (07:04:55) pick grid 11547.9 5884.3
+\t (07:04:55) last pick:  11550.0  5885.0
+\i (07:04:55) placementedit 
+\i (07:04:56) zoom out 1 
+\i (07:04:56) setwindow pcb
+\i (07:04:56) zoom out 11752.7 5938.5
+\i (07:04:56) trapsize 132
+\i (07:04:57) zoom in 1 
+\i (07:04:57) setwindow pcb
+\i (07:04:57) zoom in 11707.8 5959.6
+\i (07:04:57) trapsize 66
+\i (07:04:59) zoom out 1 
+\i (07:04:59) setwindow pcb
+\i (07:04:59) zoom out 11645.7 6007.2
+\i (07:04:59) trapsize 132
+\i (07:05:00) zoom out 1 
+\i (07:05:00) setwindow pcb
+\i (07:05:00) zoom out 11394.7 6395.8
+\i (07:05:00) trapsize 264
+\i (07:05:00) zoom out 1 
+\i (07:05:00) setwindow pcb
+\i (07:05:00) zoom out 11389.3 6395.9
+\i (07:05:00) trapsize 529
+\i (07:05:01) zoom in 1 
+\i (07:05:01) setwindow pcb
+\i (07:05:01) zoom in 12515.8 6797.7
+\i (07:05:01) trapsize 264
+\i (07:05:05) pick grid 12796.0 6966.8
+\t (07:05:05) last pick:  12795.0  6965.0
+\i (07:05:05) move 
+\t (07:05:05) last pick:  13075.0  7025.0
+\t (07:05:05) Moving J6 / HEADER 6_BLKCON100VHTM1SQSW1006 / BLKCON100VHTM1SQSW1006.
+\t (07:05:05) Pick new location for the element(s).
+\i (07:05:06) pick grid 13018.0 7019.7
+\t (07:05:06) last pick:  13020.0  7020.0
+\i (07:05:06) placementedit 
+\i (07:05:06) prepopup 13018.0 7019.7
+\i (07:05:07) pop dyn_option_select @:@Mirror 
+\i (07:05:07) mirror 
+\i (07:05:07) placementedit 
+\i (07:05:08) pick grid 13160.8 7009.1
+\t (07:05:08) last pick:  13160.0  7010.0
+\i (07:05:08) move 
+\t (07:05:08) last pick:  13020.0  7020.0
+\t (07:05:08) Moving J6 / HEADER 6_BLKCON100VHTM1SQSW1006 / BLKCON100VHTM1SQSW1006.
+\t (07:05:08) Pick new location for the element(s).
+\i (07:05:10) pick grid 12478.8 6977.4
+\t (07:05:10) last pick:  12480.0  6975.0
+\i (07:05:10) placementedit 
+\i (07:05:11) zoom out 1 
+\i (07:05:11) setwindow pcb
+\i (07:05:11) zoom out 12003.0 6929.8
+\i (07:05:11) trapsize 529
+\i (07:05:11) zoom in 1 
+\i (07:05:11) setwindow pcb
+\i (07:05:11) zoom in 11754.6 7278.8
+\i (07:05:11) trapsize 264
+\i (07:05:12) pick grid 10977.5 7009.2
+\t (07:05:12) last pick:  10980.0  7010.0
+\i (07:05:12) move 
+\t (07:05:12) last pick:  10800.0  7185.0
+\t (07:05:12) Moving R6 / POT_P60-20748_10K / P60-20748.
+\t (07:05:12) Pick new location for the element(s).
+\i (07:05:13) pick grid 11146.6 7553.7
+\t (07:05:13) last pick:  11145.0  7555.0
+\i (07:05:13) placementedit 
+\i (07:05:14) prepopup 11146.6 7553.7
+\i (07:05:15) pop dyn_option_select @:@Mirror 
+\i (07:05:15) mirror 
+\i (07:05:15) placementedit 
+\i (07:05:16) pick grid 11099.0 7537.8
+\t (07:05:16) last pick:  11100.0  7540.0
+\i (07:05:16) move 
+\t (07:05:16) last pick:  11145.0  7555.0
+\t (07:05:16) Moving R6 / POT_P60-20748_10K / P60-20748.
+\t (07:05:16) Pick new location for the element(s).
+\i (07:05:17) pick grid 10914.0 7225.9
+\t (07:05:17) last pick:  10915.0  7225.0
+\i (07:05:17) placementedit 
+\i (07:05:19) pick grid 12489.4 7315.8
+\t (07:05:19) last pick:  12490.0  7315.0
+\i (07:05:19) move 
+\t (07:05:19) last pick:  12485.0  7175.0
+\t (07:05:19) Moving C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:05:19) Pick new location for the element(s).
+\i (07:05:28) pick grid 12780.2 7337.0
+\t (07:05:28) last pick:  12780.0  7335.0
+\i (07:05:28) placementedit 
+\i (07:05:28) zoom in 1 
+\i (07:05:28) setwindow pcb
+\i (07:05:28) zoom in 12753.8 7337.0
+\i (07:05:28) trapsize 132
+\i (07:05:29) pick grid 12267.5 7212.7
+\t (07:05:29) last pick:  12270.0  7215.0
+\i (07:05:29) move 
+\t (07:05:29) last pick:  12250.0  7175.0
+\t (07:05:29) Moving C7 / CAPACITOR POL_1_UF_CAP_1UF / 1_UF_CAP.
+\t (07:05:29) Pick new location for the element(s).
+\i (07:05:30) zoom out 1 
+\i (07:05:30) setwindow pcb
+\i (07:05:30) zoom out 12605.8 7329.0
+\i (07:05:30) trapsize 264
+\i (07:05:31) zoom in 1 
+\i (07:05:31) setwindow pcb
+\i (07:05:31) zoom in 12600.5 7355.5
+\i (07:05:31) trapsize 132
+\i (07:05:33) pick grid 12600.6 7334.4
+\t (07:05:33) last pick:  12600.0  7335.0
+\i (07:05:33) placementedit 
+\i (07:05:34) pick grid 12357.4 7355.6
+\t (07:05:34) last pick:  12355.0  7355.0
+\i (07:05:34) move 
+\t (07:05:34) last pick:  12300.0  7400.0
+\t (07:05:34) Moving R8 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:05:34) Pick new location for the element(s).
+\i (07:05:36) pick grid 12373.2 7337.1
+\t (07:05:36) last pick:  12375.0  7335.0
+\i (07:05:37) placementedit 
+\i (07:05:45) pick grid 13079.0 7265.7
+\t (07:05:45) last pick:  13080.0  7265.0
+\i (07:05:45) zoom out 1 
+\i (07:05:45) setwindow pcb
+\i (07:05:45) zoom out 13076.4 7260.4
+\i (07:05:45) trapsize 264
+\i (07:05:46) zoom out 1 
+\i (07:05:46) setwindow pcb
+\i (07:05:46) zoom out 12552.9 6245.4
+\i (07:05:46) trapsize 529
+\i (07:05:47) zoom in 1 
+\i (07:05:47) setwindow pcb
+\i (07:05:47) zoom in 12383.8 5695.6
+\i (07:05:47) trapsize 264
+\i (07:05:48) drag_start grid 13013.0 7117.7
+\i (07:05:49) drag_stop 12553.0 7619.9
+\i (07:05:49) pick grid 12743.3 7297.4
+\t (07:05:49) last pick:  12745.0  7295.0
+\i (07:05:49) move 
+\t (07:05:49) last pick:  12780.0  7335.0
+\t (07:05:49) Moving C4 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:05:49) Pick new location for the element(s).
+\i (07:05:54) pick grid 12722.2 7794.4
+\t (07:05:54) last pick:  12720.0  7795.0
+\i (07:05:54) placementedit 
+\i (07:05:55) pick grid 12637.6 7387.3
+\t (07:05:55) last pick:  12640.0  7385.0
+\i (07:05:55) move 
+\t (07:05:55) last pick:  12600.0  7335.0
+\t (07:05:55) Moving C7 / CAPACITOR POL_1_UF_CAP_1UF / 1_UF_CAP.
+\t (07:05:55) Pick new location for the element(s).
+\i (07:05:55) zoom in 1 
+\i (07:05:55) setwindow pcb
+\i (07:05:55) zoom in 12558.3 7836.7
+\i (07:05:55) trapsize 132
+\i (07:05:57) pick grid 12537.2 7794.4
+\t (07:05:57) last pick:  12535.0  7795.0
+\i (07:05:57) placementedit 
+\i (07:05:57) pick grid 12452.6 7384.7
+\t (07:05:57) last pick:  12455.0  7385.0
+\i (07:05:57) move 
+\t (07:05:57) last pick:  12375.0  7335.0
+\t (07:05:57) Moving R8 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:05:57) Pick new location for the element(s).
+\i (07:05:59) pick grid 12526.6 7686.0
+\t (07:05:59) last pick:  12525.0  7685.0
+\i (07:05:59) placementedit 
+\i (07:06:00) prepopup 12526.6 7680.7
+\i (07:06:00) pop dyn_option_select @:@Rotate 
+\i (07:06:00) spin 
+\t (07:06:00) Moving R8 / RESISTOR_SMR0805_51K / SMR0805.
+\i (07:06:01) iangle -90.000
+\t (07:06:01) last angle:  270.000 Degrees
+\i (07:06:01) placementedit 
+\i (07:06:02) pick grid 12521.3 7651.6
+\t (07:06:02) last pick:  12520.0  7650.0
+\i (07:06:02) move 
+\t (07:06:02) last pick:  12525.0  7685.0
+\t (07:06:02) Moving R8 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:06:02) Pick new location for the element(s).
+\i (07:06:03) pick grid 12537.2 7688.7
+\t (07:06:03) last pick:  12535.0  7690.0
+\i (07:06:03) placementedit 
+\i (07:06:03) zoom out 1 
+\i (07:06:03) setwindow pcb
+\i (07:06:03) zoom out 12325.7 7204.9
+\i (07:06:03) trapsize 264
+\i (07:06:04) roam start
+\i (07:06:04) roam y 64
+\i (07:06:04) roam y 16
+\i (07:06:04) roam y 32
+\i (07:06:04) roam end
+\i (07:06:06) pick grid 12331.0 6936.0
+\t (07:06:06) last pick:  12330.0  6935.0
+\i (07:06:06) move 
+\t (07:06:06) last pick:  12300.0  6975.0
+\t (07:06:06) Moving R2 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:06:06) Pick new location for the element(s).
+\i (07:06:07) zoom in 1 
+\i (07:06:07) setwindow pcb
+\i (07:06:07) zoom in 12553.0 7216.2
+\i (07:06:07) trapsize 132
+\i (07:06:17) pick grid 12553.1 7372.2
+\t (07:06:17) last pick:  12555.0  7370.0
+\i (07:06:17) placementedit 
+\i (07:06:17) prepopup 12553.1 7372.2
+\i (07:06:18) pop dyn_option_select @:@Rotate 
+\i (07:06:18) spin 
+\t (07:06:18) Moving R2 / RESISTOR_SMR0805_51K / SMR0805.
+\i (07:06:19) iangle -90.000
+\t (07:06:19) last angle:  270.000 Degrees
+\i (07:06:19) placementedit 
+\i (07:06:19) pick grid 12558.3 7374.8
+\t (07:06:19) last pick:  12560.0  7375.0
+\i (07:06:19) move 
+\t (07:06:19) last pick:  12555.0  7370.0
+\t (07:06:19) Moving R2 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:06:19) Pick new location for the element(s).
+\i (07:06:26) pick grid 12722.2 7681.4
+\t (07:06:26) last pick:  12720.0  7680.0
+\i (07:06:26) placementedit 
+\i (07:06:27) pick grid 12336.3 6846.1
+\t (07:06:27) last pick:  12335.0  6845.0
+\i (07:06:27) move 
+\t (07:06:27) last pick:  12275.0  6825.0
+\t (07:06:27) Moving C2 / C NP_SMC0603_100PF / SMC0603.
+\t (07:06:27) Pick new location for the element(s).
+\i (07:06:32) pick grid 12666.7 7401.2
+\t (07:06:32) last pick:  12665.0  7400.0
+\i (07:06:32) placementedit 
+\i (07:06:32) prepopup 12674.6 7393.3
+\i (07:06:33) pop dyn_option_select @:@Rotate 
+\i (07:06:33) spin 
+\t (07:06:33) Moving C2 / C NP_SMC0603_100PF / SMC0603.
+\i (07:06:35) iangle 90.000
+\t (07:06:35) last angle:  90.000 Degrees
+\i (07:06:35) placementedit 
+\i (07:06:35) pick grid 12669.4 7409.2
+\t (07:06:35) last pick:  12670.0  7410.0
+\i (07:06:35) move 
+\t (07:06:35) last pick:  12665.0  7400.0
+\t (07:06:35) Moving C2 / C NP_SMC0603_100PF / SMC0603.
+\t (07:06:35) Pick new location for the element(s).
+\i (07:06:37) pick grid 12590.1 7390.7
+\t (07:06:37) last pick:  12590.0  7390.0
+\i (07:06:37) placementedit 
+\i (07:06:37) prepopup 12592.7 7390.7
+\i (07:06:40) pop dyn_option_select @:@Rotate 
+\i (07:06:40) spin 
+\t (07:06:40) Moving C2 / C NP_SMC0603_100PF / SMC0603.
+\i (07:06:42) iangle -360.000
+\t (07:06:42) last angle:  90.000 Degrees
+\i (07:06:42) placementedit 
+\i (07:06:42) pick grid 12629.7 7385.4
+\t (07:06:42) last pick:  12630.0  7385.0
+\i (07:06:42) move 
+\t (07:06:42) last pick:  12590.0  7390.0
+\t (07:06:42) Moving C2 / C NP_SMC0603_100PF / SMC0603.
+\t (07:06:42) Pick new location for the element(s).
+\i (07:06:44) pick grid 12896.7 7594.2
+\t (07:06:44) last pick:  12895.0  7595.0
+\i (07:06:44) placementedit 
+\i (07:06:44) prepopup 12891.4 7596.8
+\i (07:06:44) pop dyn_option_select @:@Rotate 
+\i (07:06:44) spin 
+\t (07:06:45) Moving C2 / C NP_SMC0603_100PF / SMC0603.
+\i (07:06:46) iangle 180.000
+\t (07:06:46) last angle:  270.000 Degrees
+\i (07:06:46) placementedit 
+\i (07:06:47) pick grid 12888.8 7575.7
+\t (07:06:47) last pick:  12890.0  7575.0
+\i (07:06:47) move 
+\t (07:06:47) last pick:  12895.0  7595.0
+\t (07:06:47) Moving C2 / C NP_SMC0603_100PF / SMC0603.
+\t (07:06:47) Pick new location for the element(s).
+\i (07:06:48) zoom in 1 
+\i (07:06:48) setwindow pcb
+\i (07:06:48) zoom in 12817.4 7668.2
+\i (07:06:48) trapsize 66
+\i (07:06:53) pick grid 12628.4 7672.2
+\t (07:06:53) last pick:  12630.0  7670.0
+\i (07:06:53) placementedit 
+\i (07:06:53) zoom out 1 
+\i (07:06:53) setwindow pcb
+\i (07:06:53) zoom out 12602.0 7588.9
+\i (07:06:53) trapsize 132
+\i (07:06:54) roam start
+\i (07:06:54) roam y 64
+\i (07:06:54) roam end
+\i (07:06:55) pick grid 12001.9 7049.7
+\t (07:06:55) last pick:  12000.0  7050.0
+\i (07:06:55) move 
+\t (07:06:55) last pick:  11675.0  7080.0
+\t (07:06:55) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\t (07:06:55) Pick new location for the element(s).
+\i (07:06:58) pick grid 12395.7 7372.1
+\t (07:06:58) last pick:  12395.0  7370.0
+\i (07:06:58) placementedit 
+\i (07:06:59) prepopup 12395.7 7372.1
+\i (07:07:00) pop dyn_option_select @:@Rotate 
+\i (07:07:00) spin 
+\t (07:07:00) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\i (07:07:01) iangle -90.000
+\t (07:07:01) last angle:  180.000 Degrees
+\i (07:07:01) placementedit 
+\i (07:07:02) pick grid 12282.1 7329.8
+\t (07:07:02) last pick:  12280.0  7330.0
+\i (07:07:02) move 
+\t (07:07:02) last pick:  12395.0  7370.0
+\t (07:07:02) Moving U1 / TL072_0_DIP100B8W300L450_TL072 / DIP100B8W300L450.
+\t (07:07:02) Pick new location for the element(s).
+\i (07:07:05) pick grid 12744.7 7469.9
+\t (07:07:05) last pick:  12745.0  7470.0
+\i (07:07:05) placementedit 
+\i (07:07:05) zoom out 1 
+\i (07:07:05) setwindow pcb
+\i (07:07:05) zoom out 12675.9 7269.0
+\i (07:07:05) trapsize 264
+\i (07:07:06) roam start
+\i (07:07:06) roam y 64
+\i (07:07:07) roam x -16
+\i (07:07:07) roam y 96
+\i (07:07:07) roam y 32
+\i (07:07:07) roam end
+\i (07:07:07) zoom in 1 
+\i (07:07:07) setwindow pcb
+\i (07:07:07) zoom in 11894.8 6338.7
+\i (07:07:07) trapsize 132
+\i (07:07:07) zoom out 1 
+\i (07:07:07) setwindow pcb
+\i (07:07:07) zoom out 11953.0 6447.1
+\i (07:07:07) trapsize 264
+\i (07:07:09) pick grid 12164.5 6901.8
+\t (07:07:09) last pick:  12165.0  6900.0
+\i (07:07:09) move 
+\t (07:07:09) last pick:  12135.0  6895.0
+\t (07:07:09) Moving R4 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:07:09) Pick new location for the element(s).
+\i (07:07:10) pick grid 12164.5 7182.0
+\t (07:07:10) last pick:  12165.0  7180.0
+\i (07:07:10) placementedit 
+\i (07:07:11) pick grid 12127.5 6642.7
+\t (07:07:11) last pick:  12130.0  6645.0
+\i (07:07:11) move 
+\t (07:07:11) last pick:  12250.0  6625.0
+\t (07:07:11) Moving R11 / RESISTOR_SMR0805_10K / SMR0805.
+\t (07:07:11) Pick new location for the element(s).
+\i (07:07:11) zoom in 1 
+\i (07:07:11) setwindow pcb
+\i (07:07:11) zoom in 12101.1 6796.0
+\i (07:07:11) trapsize 132
+\i (07:07:12) pick grid 12101.1 6798.7
+\t (07:07:12) last pick:  12100.0  6800.0
+\i (07:07:12) placementedit 
+\i (07:07:12) prepopup 12101.1 6801.4
+\i (07:07:15) pop dyn_option_select @:@Mirror 
+\i (07:07:15) mirror 
+\i (07:07:15) placementedit 
+\i (07:07:15) zoom in 1 
+\i (07:07:15) setwindow pcb
+\i (07:07:15) zoom in 12043.0 6642.8
+\i (07:07:15) trapsize 66
+\i (07:07:16) zoom out 1 
+\i (07:07:16) setwindow pcb
+\i (07:07:16) zoom out 12121.0 6752.5
+\i (07:07:16) trapsize 132
+\i (07:07:16) zoom out 1 
+\i (07:07:16) setwindow pcb
+\i (07:07:16) zoom out 12118.4 6752.5
+\i (07:07:16) trapsize 264
+\i (07:07:17) pick grid 12129.0 6821.1
+\t (07:07:17) last pick:  12130.0  6820.0
+\i (07:07:17) move 
+\t (07:07:17) last pick:  12100.0  6800.0
+\t (07:07:17) Moving R11 / RESISTOR_SMR0805_10K / SMR0805.
+\t (07:07:17) Pick new location for the element(s).
+\i (07:07:17) zoom in 1 
+\i (07:07:17) setwindow pcb
+\i (07:07:17) zoom in 12456.7 6741.8
+\i (07:07:17) trapsize 132
+\i (07:07:19) pick grid 12086.7 6940.1
+\t (07:07:19) last pick:  12085.0  6940.0
+\i (07:07:19) placementedit 
+\i (07:07:20) pick grid 12483.2 6958.6
+\t (07:07:20) last pick:  12485.0  6960.0
+\i (07:07:20) move 
+\t (07:07:20) last pick:  12480.0  6975.0
+\t (07:07:20) Moving J6 / HEADER 6_BLKCON100VHTM1SQSW1006 / BLKCON100VHTM1SQSW1006.
+\t (07:07:20) Pick new location for the element(s).
+\i (07:07:20) pick grid 12401.3 6789.4
+\t (07:07:20) last pick:  12400.0  6790.0
+\i (07:07:21) placementedit 
+\i (07:07:21) pick grid 12041.8 6905.8
+\t (07:07:21) last pick:  12040.0  6905.0
+\i (07:07:21) move 
+\t (07:07:21) last pick:  12085.0  6940.0
+\t (07:07:21) Moving R11 / RESISTOR_SMR0805_10K / SMR0805.
+\t (07:07:21) Pick new location for the element(s).
+\i (07:07:23) pick grid 12509.6 6905.8
+\t (07:07:23) last pick:  12510.0  6905.0
+\i (07:07:23) placementedit 
+\i (07:07:24) pick grid 11877.9 6482.8
+\t (07:07:24) last pick:  11880.0  6485.0
+\i (07:07:24) move 
+\t (07:07:24) last pick:  11925.0  6475.0
+\t (07:07:24) Moving R10 / RESISTOR_SMR0805_7.5K / SMR0805.
+\t (07:07:24) Pick new location for the element(s).
+\i (07:07:24) prepopup 11877.9 6482.8
+\i (07:07:25) pick grid 11851.4 6493.4
+\t (07:07:25) last pick:  11850.0  6495.0
+\i (07:07:25) placementedit 
+\i (07:07:25) prepopup 11848.8 6496.0
+\i (07:07:26) pop dyn_option_select @:@Mirror 
+\i (07:07:26) mirror 
+\i (07:07:26) placementedit 
+\i (07:07:27) pick grid 11846.2 6541.0
+\t (07:07:27) last pick:  11845.0  6540.0
+\i (07:07:27) move 
+\t (07:07:27) last pick:  11850.0  6495.0
+\t (07:07:27) Moving R10 / RESISTOR_SMR0805_7.5K / SMR0805.
+\t (07:07:27) Pick new location for the element(s).
+\i (07:07:30) pick grid 12520.2 6673.1
+\t (07:07:30) last pick:  12520.0  6675.0
+\i (07:07:30) placementedit 
+\i (07:07:31) pick grid 12152.8 6451.1
+\t (07:07:31) last pick:  12155.0  6450.0
+\i (07:07:31) move 
+\t (07:07:31) last pick:  12100.0  6425.0
+\t (07:07:31) Moving C10 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:07:31) Pick new location for the element(s).
+\i (07:07:34) pick grid 12530.8 6459.0
+\t (07:07:34) last pick:  12530.0  6460.0
+\i (07:07:34) placementedit 
+\i (07:07:35) zoom out 1 
+\i (07:07:35) setwindow pcb
+\i (07:07:35) zoom out 12340.5 6596.5
+\i (07:07:35) trapsize 264
+\i (07:07:36) prepopup 12773.9 6485.5
+\i (07:07:37) pop dyn_option_select @:@Mirror 
+\i (07:07:37) mirror 
+\i (07:07:37) placementedit 
+\i (07:07:37) pick grid 12763.3 6517.2
+\t (07:07:37) last pick:  12765.0  6515.0
+\i (07:07:38) move 
+\t (07:07:38) last pick:  12800.0  6425.0
+\t (07:07:38) Moving C11 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:07:38) Pick new location for the element(s).
+\i (07:07:38) zoom in 1 
+\i (07:07:38) setwindow pcb
+\i (07:07:38) zoom in 12795.1 6511.9
+\i (07:07:38) trapsize 132
+\i (07:07:44) pick grid 12842.7 6456.4
+\t (07:07:44) last pick:  12845.0  6455.0
+\i (07:07:44) placementedit 
+\i (07:07:44) zoom in 1 
+\i (07:07:44) setwindow pcb
+\i (07:07:44) zoom in 12840.0 6490.7
+\i (07:07:44) trapsize 66
+\i (07:07:45) pick grid 12828.2 6659.9
+\t (07:07:45) last pick:  12830.0  6660.0
+\i (07:07:45) move 
+\t (07:07:45) last pick:  12825.0  6700.0
+\t (07:07:45) Moving R12 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:07:45) Pick new location for the element(s).
+\i (07:07:47) pick grid 12663.0 6648.0
+\t (07:07:47) last pick:  12665.0  6650.0
+\i (07:07:47) placementedit 
+\i (07:07:47) prepopup 12666.9 6653.3
+\i (07:07:49) pop dyn_option_select @:@Rotate 
+\i (07:07:49) spin 
+\t (07:07:49) Moving R12 / RESISTOR_SMR0805_51K / SMR0805.
+\i (07:07:50) iangle 180.000
+\t (07:07:50) last angle:  180.000 Degrees
+\i (07:07:50) placementedit 
+\i (07:07:50) pick grid 12637.8 6649.3
+\t (07:07:50) last pick:  12640.0  6650.0
+\i (07:07:50) move 
+\t (07:07:50) last pick:  12665.0  6650.0
+\t (07:07:50) Moving R12 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:07:50) Pick new location for the element(s).
+\i (07:07:54) pick grid 12846.7 6669.1
+\t (07:07:54) last pick:  12845.0  6670.0
+\i (07:07:54) placementedit 
+\i (07:07:55) zoom out 1 
+\i (07:07:55) setwindow pcb
+\i (07:07:55) zoom out 12951.1 6554.2
+\i (07:07:55) trapsize 132
+\i (07:07:56) zoom out 1 
+\i (07:07:56) setwindow pcb
+\i (07:07:56) zoom out 12414.5 6263.4
+\i (07:07:56) trapsize 264
+\i (07:07:58) zoom out 1 
+\i (07:07:58) setwindow pcb
+\i (07:07:58) zoom out 13392.4 6797.3
+\i (07:07:58) trapsize 529
+\i (07:07:59) zoom in 1 
+\i (07:07:59) setwindow pcb
+\i (07:07:59) zoom in 13075.3 8372.6
+\i (07:07:59) trapsize 264
+\i (07:08:01) zoom in 1 
+\i (07:08:01) setwindow pcb
+\i (07:08:01) zoom in 11658.5 5866.8
+\i (07:08:01) trapsize 132
+\i (07:08:01) zoom out 1 
+\i (07:08:01) setwindow pcb
+\i (07:08:01) zoom out 11518.5 6289.8
+\i (07:08:01) trapsize 264
+\i (07:08:01) zoom out 1 
+\i (07:08:01) setwindow pcb
+\i (07:08:01) zoom out 11518.5 6289.8
+\i (07:08:01) trapsize 529
+\i (07:08:02) zoom in 1 
+\i (07:08:02) setwindow pcb
+\i (07:08:02) zoom in 11416.2 7061.6
+\i (07:08:02) trapsize 264
+\i (07:08:02) zoom in 1 
+\i (07:08:02) setwindow pcb
+\i (07:08:02) zoom in 11442.6 7759.4
+\i (07:08:02) trapsize 132
+\i (07:08:02) zoom in 1 
+\i (07:08:02) setwindow pcb
+\i (07:08:02) zoom in 11442.7 7759.5
+\i (07:08:02) trapsize 66
+\i (07:08:03) zoom out 1 
+\i (07:08:03) setwindow pcb
+\i (07:08:03) zoom out 11441.4 7755.6
+\i (07:08:03) trapsize 132
+\i (07:08:03) zoom out 1 
+\i (07:08:03) setwindow pcb
+\i (07:08:03) zoom out 11436.1 7750.2
+\i (07:08:03) trapsize 264
+\i (07:08:04) zoom in 1 
+\i (07:08:04) setwindow pcb
+\i (07:08:04) zoom in 11769.2 8289.5
+\i (07:08:04) trapsize 132
+\i (07:08:04) zoom out 1 
+\i (07:08:04) setwindow pcb
+\i (07:08:04) zoom out 11840.6 8329.2
+\i (07:08:04) trapsize 264
+\i (07:08:04) zoom out 1 
+\i (07:08:04) setwindow pcb
+\i (07:08:04) zoom out 11846.0 7969.7
+\i (07:08:04) trapsize 529
+\i (07:08:04) zoom in 1 
+\i (07:08:04) setwindow pcb
+\i (07:08:04) zoom in 11518.2 7166.2
+\i (07:08:04) trapsize 264
+\i (07:08:04) roam start
+\i (07:08:04) roam x 32
+\i (07:08:04) roam y -96
+\i (07:08:05) roam x 16
+\i (07:08:05) roam y -96
+\i (07:08:05) roam y -32
+\i (07:08:05) roam y -32
+\i (07:08:05) roam x 16
+\i (07:08:05) roam y -48
+\i (07:08:05) roam end
+\i (07:08:05) zoom in 1 
+\i (07:08:05) setwindow pcb
+\i (07:08:05) zoom in 11445.5 7623.3
+\i (07:08:05) trapsize 132
+\i (07:08:05) zoom in 1 
+\i (07:08:05) setwindow pcb
+\i (07:08:05) zoom in 11445.5 7644.4
+\i (07:08:05) trapsize 66
+\i (07:08:06) pick grid 11446.8 7628.6
+\t (07:08:06) last pick:  11445.0  7630.0
+\i (07:08:06) move 
+\t (07:08:06) last pick:  11425.0  7620.0
+\t (07:08:06) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (07:08:06) Pick new location for the element(s).
+\i (07:08:09) pick grid 11598.8 7832.1
+\t (07:08:09) last pick:  11600.0  7830.0
+\i (07:08:09) placementedit 
+\i (07:08:10) prepopup 11580.3 7896.9
+\i (07:08:11) pop dyn_option_select @:@Rotate 
+\i (07:08:11) spin 
+\t (07:08:11) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\i (07:08:12) iangle -180.000
+\t (07:08:12) last angle:  270.000 Degrees
+\i (07:08:12) placementedit 
+\i (07:08:12) pick grid 11610.7 7743.5
+\t (07:08:12) last pick:  11610.0  7745.0
+\i (07:08:12) move 
+\t (07:08:12) last pick:  11600.0  7830.0
+\t (07:08:12) Moving C12 / C NP_SMC0805_470NF / SMC0805.
+\t (07:08:12) Pick new location for the element(s).
+\i (07:08:15) pick grid 11589.6 7828.1
+\t (07:08:15) last pick:  11590.0  7830.0
+\i (07:08:15) placementedit 
+\i (07:08:15) zoom out 1 
+\i (07:08:15) setwindow pcb
+\i (07:08:15) zoom out 11353.0 7660.3
+\i (07:08:15) trapsize 132
+\i (07:08:16) zoom out 1 
+\i (07:08:16) setwindow pcb
+\i (07:08:16) zoom out 11350.3 7655.0
+\i (07:08:16) trapsize 264
+\i (07:08:17) pick grid 10885.1 7110.4
+\t (07:08:17) last pick:  10885.0  7110.0
+\i (07:08:17) move 
+\t (07:08:17) last pick:  10915.0  7225.0
+\t (07:08:17) Moving R6 / POT_P60-20748_10K / P60-20748.
+\t (07:08:17) Pick new location for the element(s).
+\i (07:08:19) pick grid 11154.8 7126.3
+\t (07:08:19) last pick:  11155.0  7125.0
+\i (07:08:19) placementedit 
+\i (07:08:20) roam start
+\i (07:08:20) roam y 112
+\i (07:08:20) roam y 16
+\i (07:08:20) roam x -16
+\i (07:08:20) roam y 80
+\i (07:08:20) roam y 16
+\i (07:08:20) roam end
+\i (07:08:20) zoom in 1 
+\i (07:08:20) setwindow pcb
+\i (07:08:20) zoom in 11641.1 6238.2
+\i (07:08:20) trapsize 132
+\i (07:08:21) zoom out 1 
+\i (07:08:21) setwindow pcb
+\i (07:08:21) zoom out 11612.0 6333.4
+\i (07:08:21) trapsize 264
+\i (07:08:22) pick grid 11490.5 7131.6
+\t (07:08:22) last pick:  11490.0  7130.0
+\i (07:08:22) move 
+\t (07:08:22) last pick:  11450.0  7125.0
+\t (07:08:22) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\t (07:08:22) Pick new location for the element(s).
+\i (07:08:22) pick grid 11696.6 7184.5
+\t (07:08:22) last pick:  11695.0  7185.0
+\i (07:08:22) placementedit 
+\i (07:08:22) prepopup 11696.6 7189.8
+\i (07:08:24) pop dyn_option_select @:@Mirror 
+\i (07:08:24) mirror 
+\i (07:08:24) placementedit 
+\i (07:08:24) zoom in 1 
+\i (07:08:24) setwindow pcb
+\i (07:08:24) zoom in 11670.2 7226.8
+\i (07:08:24) trapsize 132
+\i (07:08:25) pick grid 11662.3 7189.8
+\t (07:08:25) last pick:  11660.0  7190.0
+\i (07:08:25) move 
+\t (07:08:25) last pick:  11695.0  7185.0
+\t (07:08:25) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\t (07:08:25) Pick new location for the element(s).
+\i (07:08:30) pick grid 11593.6 7570.4
+\t (07:08:30) last pick:  11595.0  7570.0
+\i (07:08:30) placementedit 
+\i (07:08:30) prepopup 11598.8 7509.6
+\i (07:08:31) prepopup 11590.9 7557.2
+\i (07:08:32) pick grid 11551.3 7562.5
+\t (07:08:32) last pick:  11550.0  7565.0
+\i (07:08:32) move 
+\t (07:08:32) last pick:  11595.0  7570.0
+\t (07:08:32) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\t (07:08:32) Pick new location for the element(s).
+\i (07:08:32) pick grid dbl 11548.6 7559.8
+\t (07:08:32) last pick:  11550.0  7560.0
+\i (07:08:32) placementedit 
+\i (07:08:32) prepopup 11548.6 7559.8
+\i (07:08:33) pop dyn_option_select @:@Rotate 
+\i (07:08:33) spin 
+\t (07:08:33) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\i (07:08:35) iangle 90.000
+\t (07:08:35) last angle:  90.000 Degrees
+\i (07:08:35) placementedit 
+\i (07:08:35) pick grid 11524.8 7533.4
+\t (07:08:35) last pick:  11525.0  7535.0
+\i (07:08:35) move 
+\t (07:08:35) last pick:  11550.0  7560.0
+\t (07:08:35) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\t (07:08:35) Pick new location for the element(s).
+\i (07:08:40) pick grid 11427.0 7501.7
+\t (07:08:40) last pick:  11425.0  7500.0
+\i (07:08:40) placementedit 
+\i (07:08:40) prepopup 11427.0 7509.6
+\i (07:08:41) pop dyn_option_select @:@Rotate 
+\i (07:08:41) spin 
+\t (07:08:41) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\i (07:08:42) iangle -90.000
+\t (07:08:42) last angle:  0.000 Degrees
+\i (07:08:42) placementedit 
+\i (07:08:42) pick grid 11532.8 7507.0
+\t (07:08:42) last pick:  11535.0  7505.0
+\i (07:08:42) move 
+\t (07:08:42) last pick:  11425.0  7500.0
+\t (07:08:42) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\t (07:08:42) Pick new location for the element(s).
+\i (07:08:44) pick grid 11448.2 7517.5
+\t (07:08:44) last pick:  11450.0  7520.0
+\i (07:08:44) placementedit 
+\i (07:08:45) pick grid 11350.4 6888.4
+\t (07:08:45) last pick:  11350.0  6890.0
+\i (07:08:45) move 
+\t (07:08:45) last pick:  11375.0  6725.0
+\t (07:08:45) Moving C9 / CAP POL_1_UF_CAP_4.7UF / 1_UF_CAP.
+\t (07:08:45) Pick new location for the element(s).
+\i (07:08:46) pick grid 11543.3 7229.4
+\t (07:08:46) last pick:  11545.0  7230.0
+\i (07:08:46) placementedit 
+\i (07:08:46) pick grid 11530.1 7234.7
+\t (07:08:46) last pick:  11530.0  7235.0
+\i (07:08:46) move 
+\t (07:08:46) last pick:  11545.0  7230.0
+\t (07:08:46) Moving C9 / CAP POL_1_UF_CAP_4.7UF / 1_UF_CAP.
+\t (07:08:46) Pick new location for the element(s).
+\i (07:08:47) pick grid 11522.2 7237.4
+\t (07:08:47) last pick:  11520.0  7235.0
+\i (07:08:47) placementedit 
+\i (07:08:47) prepopup 11511.6 7245.3
+\i (07:08:48) pop dyn_option_select @:@Mirror 
+\i (07:08:48) mirror 
+\i (07:08:48) placementedit 
+\i (07:08:49) pick grid 11506.3 7287.6
+\t (07:08:49) last pick:  11505.0  7290.0
+\i (07:08:49) move 
+\t (07:08:49) last pick:  11520.0  7235.0
+\t (07:08:49) Moving C9 / CAP POL_1_UF_CAP_4.7UF / 1_UF_CAP.
+\t (07:08:49) Pick new location for the element(s).
+\i (07:08:52) pick grid 11458.7 7303.4
+\t (07:08:52) last pick:  11460.0  7305.0
+\i (07:08:52) placementedit 
+\i (07:08:52) zoom out 1 
+\i (07:08:52) setwindow pcb
+\i (07:08:52) zoom out 11561.8 7142.2
+\i (07:08:52) trapsize 264
+\i (07:08:53) zoom in 1 
+\i (07:08:53) setwindow pcb
+\i (07:08:53) zoom in 11403.3 6708.7
+\i (07:08:53) trapsize 132
+\i (07:08:53) pick grid 11435.1 7285.0
+\t (07:08:53) last pick:  11435.0  7285.0
+\i (07:08:53) move 
+\t (07:08:53) last pick:  11460.0  7305.0
+\t (07:08:53) Moving C9 / CAP POL_1_UF_CAP_4.7UF / 1_UF_CAP.
+\t (07:08:53) Pick new location for the element(s).
+\i (07:08:55) pick grid 11482.6 7282.3
+\t (07:08:55) last pick:  11485.0  7280.0
+\i (07:08:55) placementedit 
+\i (07:08:55) pick grid 11503.8 7475.3
+\t (07:08:55) last pick:  11505.0  7475.0
+\i (07:08:55) move 
+\t (07:08:55) last pick:  11450.0  7520.0
+\t (07:08:55) Moving C6 / C NP_SMC0805_100NF / SMC0805.
+\t (07:08:55) Pick new location for the element(s).
+\i (07:08:58) pick grid 11480.0 7499.1
+\t (07:08:58) last pick:  11480.0  7500.0
+\i (07:08:58) placementedit 
+\i (07:08:58) zoom out 1 
+\i (07:08:58) setwindow pcb
+\i (07:08:58) zoom out 11424.5 7126.4
+\i (07:08:58) trapsize 264
+\i (07:08:59) zoom in 1 
+\i (07:08:59) setwindow pcb
+\i (07:08:59) zoom in 11456.2 6809.2
+\i (07:08:59) trapsize 132
+\i (07:09:02) roam start
+\i (07:09:02) roam x -16
+\i (07:09:02) roam y 112
+\i (07:09:02) roam y 80
+\i (07:09:02) roam y 16
+\i (07:09:02) roam end
+\i (07:09:03) pick grid 11469.2 6026.7
+\t (07:09:03) last pick:  11470.0  6025.0
+\i (07:09:03) move 
+\t (07:09:03) last pick:  11435.0  6025.0
+\t (07:09:03) Moving R7 / RESISTOR_SMR0805_7.5K / SMR0805.
+\t (07:09:03) Pick new location for the element(s).
+\i (07:09:06) pick grid 11461.3 6032.0
+\t (07:09:06) last pick:  11460.0  6030.0
+\i (07:09:06) placementedit 
+\i (07:09:07) roam start
+\i (07:09:07) roam y 112
+\i (07:09:07) roam y 64
+\i (07:09:07) roam end
+\i (07:09:08) pick grid 11498.3 5865.5
+\t (07:09:08) last pick:  11500.0  5865.0
+\i (07:09:08) move 
+\t (07:09:08) last pick:  11550.0  5885.0
+\t (07:09:08) Moving C8 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:09:08) Pick new location for the element(s).
+\i (07:09:10) pick grid 11572.3 5884.0
+\t (07:09:10) last pick:  11570.0  5885.0
+\i (07:09:10) placementedit 
+\i (07:09:10) zoom out 1 
+\i (07:09:10) setwindow pcb
+\i (07:09:10) zoom out 11892.2 6098.1
+\i (07:09:10) trapsize 264
+\i (07:09:11) pick grid 12050.8 6187.9
+\t (07:09:11) last pick:  12050.0  6190.0
+\i (07:09:11) move 
+\t (07:09:11) last pick:  12000.0  6200.0
+\t (07:09:11) Moving C5 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:09:11) Pick new location for the element(s).
+\i (07:09:11) zoom in 1 
+\i (07:09:11) setwindow pcb
+\i (07:09:11) zoom in 11955.6 5876.0
+\i (07:09:11) trapsize 132
+\i (07:09:15) pick grid 11741.5 5899.8
+\t (07:09:15) last pick:  11740.0  5900.0
+\i (07:09:15) placementedit 
+\i (07:09:15) prepopup 11746.8 6010.9
+\i (07:09:16) pop dyn_option_select @:@Rotate 
+\i (07:09:16) spin 
+\t (07:09:17) Moving C5 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\i (07:09:17) iangle -90.000
+\t (07:09:17) last angle:  270.000 Degrees
+\i (07:09:17) placementedit 
+\i (07:09:18) pick grid 11871.0 5944.8
+\t (07:09:18) last pick:  11870.0  5945.0
+\i (07:09:18) move 
+\t (07:09:18) last pick:  11740.0  5900.0
+\t (07:09:18) Moving C5 / CAP POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:09:18) Pick new location for the element(s).
+\i (07:09:18) zoom in 1 
+\i (07:09:18) setwindow pcb
+\i (07:09:18) zoom in 11699.2 5881.3
+\i (07:09:18) trapsize 66
+\i (07:09:20) pick grid 11687.4 5886.6
+\t (07:09:20) last pick:  11685.0  5885.0
+\i (07:09:20) placementedit 
+\i (07:09:20) zoom out 1 
+\i (07:09:20) setwindow pcb
+\i (07:09:20) zoom out 11692.6 5891.9
+\i (07:09:20) trapsize 132
+\i (07:09:21) prepopup 11861.9 6320.1
+\i (07:09:22) pop dyn_option_select @:@Mirror 
+\i (07:09:22) mirror 
+\i (07:09:22) placementedit 
+\i (07:09:23) pick grid 11859.2 6272.5
+\t (07:09:23) last pick:  11860.0  6275.0
+\i (07:09:23) move 
+\t (07:09:23) last pick:  11850.0  6325.0
+\t (07:09:23) Moving R5 / RESISTOR_SMR0805_7.5K / SMR0805.
+\t (07:09:23) Pick new location for the element(s).
+\i (07:09:26) pick grid 11912.1 5886.6
+\t (07:09:26) last pick:  11910.0  5885.0
+\i (07:09:26) placementedit 
+\i (07:09:26) zoom out 1 
+\i (07:09:26) setwindow pcb
+\i (07:09:26) zoom out 11904.1 5889.2
+\i (07:09:26) trapsize 264
+\i (07:09:26) zoom out 1 
+\i (07:09:26) setwindow pcb
+\i (07:09:26) zoom out 11904.2 5894.6
+\i (07:09:26) trapsize 529
+\i (07:09:27) zoom in 1 
+\i (07:09:27) setwindow pcb
+\i (07:09:27) zoom in 13003.8 6872.6
+\i (07:09:27) trapsize 264
+\i (07:09:30) zoom in 1 
+\i (07:09:30) setwindow pcb
+\i (07:09:30) zoom in 12929.8 6074.3
+\i (07:09:30) trapsize 132
+\i (07:09:35) prepopup 12826.8 6201.2
+\i (07:09:36) pop dyn_option_select @:@Rotate 
+\i (07:09:36) spin 
+\t (07:09:36) Moving C1 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\i (07:09:36) iangle 0.000
+\t (07:09:36) last angle:  0.000 Degrees
+\i (07:09:36) placementedit 
+\i (07:09:36) prepopup 12826.8 6201.2
+\i (07:09:37) pop dyn_option_select @:@Mirror 
+\i (07:09:37) mirror 
+\i (07:09:37) placementedit 
+\i (07:09:38) pick grid 12771.2 5965.9
+\t (07:09:38) last pick:  12770.0  5965.0
+\i (07:09:38) move 
+\t (07:09:38) last pick:  12800.0  5850.0
+\t (07:09:38) Moving C3 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:09:38) Pick new location for the element(s).
+\i (07:09:38) prepopup 12771.2 5963.3
+\i (07:09:39) pick grid 12710.4 5960.6
+\t (07:09:39) last pick:  12710.0  5960.0
+\i (07:09:39) placementedit 
+\i (07:09:39) prepopup 12710.4 5923.6
+\i (07:09:40) pop dyn_option_select @:@Mirror 
+\i (07:09:40) mirror 
+\i (07:09:40) placementedit 
+\i (07:09:41) prepopup 13204.7 6140.4
+\i (07:09:42) pop dyn_option_select @:@Mirror 
+\i (07:09:42) mirror 
+\i (07:09:42) placementedit 
+\i (07:09:43) prepopup 13133.4 5934.2
+\i (07:09:44) pop dyn_option_select @:@Mirror 
+\i (07:09:44) mirror 
+\i (07:09:44) placementedit 
+\i (07:09:45) prepopup 13154.5 5437.3
+\i (07:09:47) pop dyn_option_select @:@Mirror 
+\i (07:09:47) mirror 
+\i (07:09:47) placementedit 
+\i (07:09:48) prepopup 12549.2 5270.7
+\i (07:09:49) pop dyn_option_select @:@Mirror 
+\i (07:09:49) mirror 
+\i (07:09:49) placementedit 
+\i (07:09:50) pick grid 13437.4 5495.4
+\t (07:09:50) last pick:  13435.0  5495.0
+\i (07:09:50) move 
+\t (07:09:51) last pick:  13275.0  5275.0
+\t (07:09:51) Moving U5 / 74HC08_4_74HC0_74HC08 / 74HC0.
+\t (07:09:51) Pick new location for the element(s).
+\i (07:09:51) pick grid 13270.8 5128.0
+\t (07:09:51) last pick:  13270.0  5130.0
+\i (07:09:51) placementedit 
+\i (07:09:52) pick grid 13447.9 5471.6
+\t (07:09:52) last pick:  13450.0  5470.0
+\i (07:09:52) move 
+\t (07:09:52) last pick:  13475.0  5475.0
+\t (07:09:52) Moving C18 / C NP_SMC0805_100NF / SMC0805.
+\t (07:09:52) Pick new location for the element(s).
+\i (07:09:53) pick grid 13413.6 5582.7
+\t (07:09:53) last pick:  13415.0  5585.0
+\i (07:09:53) placementedit 
+\i (07:09:53) prepopup 13410.9 5585.3
+\i (07:09:54) pop dyn_option_select @:@Mirror 
+\i (07:09:54) mirror 
+\i (07:09:54) placementedit 
+\i (07:09:55) prepopup 13609.2 5942.1
+\i (07:09:56) pop dyn_option_select @:@Mirror 
+\i (07:09:56) mirror 
+\i (07:09:56) placementedit 
+\i (07:09:56) zoom out 1 
+\i (07:09:56) setwindow pcb
+\i (07:09:56) zoom out 13202.1 5500.7
+\i (07:09:56) trapsize 264
+\i (07:09:56) zoom out 1 
+\i (07:09:56) setwindow pcb
+\i (07:09:56) zoom out 13202.1 5500.7
+\i (07:09:56) trapsize 529
+\i (07:09:57) zoom in 1 
+\i (07:09:57) setwindow pcb
+\i (07:09:57) zoom in 13413.6 7953.7
+\i (07:09:57) trapsize 264
+\i (07:09:59) zoom in 1 
+\i (07:09:59) setwindow pcb
+\i (07:09:59) zoom in 12134.3 6441.7
+\i (07:09:59) trapsize 132
+\i (07:09:59) roam start
+\i (07:09:59) roam x 16
+\i (07:09:59) roam y 112
+\i (07:10:00) roam end
+\i (07:10:00) zoom out 1 
+\i (07:10:00) setwindow pcb
+\i (07:10:00) zoom out 12177.6 6140.4
+\i (07:10:00) trapsize 264
+\i (07:10:00) roam start
+\i (07:10:00) roam x -64
+\i (07:10:00) roam y 48
+\i (07:10:01) roam x -48
+\i (07:10:01) roam y 32
+\i (07:10:01) roam x -48
+\i (07:10:01) roam y 16
+\i (07:10:01) roam end
+\i (07:10:01) zoom in 1 
+\i (07:10:01) setwindow pcb
+\i (07:10:01) zoom in 12709.0 5677.9
+\i (07:10:01) trapsize 132
+\i (07:10:02) pick grid 12828.0 6121.9
+\t (07:10:02) last pick:  12830.0  6120.0
+\i (07:10:02) move 
+\t (07:10:02) last pick:  12825.0  6125.0
+\t (07:10:02) Moving C1 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:10:02) Pick new location for the element(s).
+\i (07:10:03) pick grid 12931.1 6013.6
+\t (07:10:03) last pick:  12930.0  6015.0
+\i (07:10:03) placementedit 
+\i (07:10:03) prepopup 12944.3 6177.5
+\i (07:10:05) pop dyn_option_select @:@Rotate 
+\i (07:10:05) spin 
+\t (07:10:05) Moving C1 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\i (07:10:05) iangle -180.000
+\t (07:10:05) last angle:  180.000 Degrees
+\i (07:10:05) placementedit 
+\i (07:10:06) pick grid 12957.5 5886.7
+\t (07:10:06) last pick:  12960.0  5885.0
+\i (07:10:06) move 
+\t (07:10:06) last pick:  12930.0  6015.0
+\t (07:10:06) Moving C1 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:10:06) Pick new location for the element(s).
+\i (07:10:07) pick grid 12846.5 6299.1
+\t (07:10:07) last pick:  12845.0  6300.0
+\i (07:10:07) placementedit 
+\i (07:10:07) pick grid 12738.1 6045.3
+\t (07:10:07) last pick:  12740.0  6045.0
+\i (07:10:07) move 
+\t (07:10:07) last pick:  12710.0  5960.0
+\t (07:10:07) Moving C3 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:10:07) Pick new location for the element(s).
+\i (07:10:09) pick grid 12524.0 6082.3
+\t (07:10:09) last pick:  12525.0  6080.0
+\i (07:10:09) placementedit 
+\i (07:10:09) prepopup 12524.0 6082.3
+\i (07:10:10) pop dyn_option_select @:@Rotate 
+\i (07:10:10) spin 
+\t (07:10:10) Moving C3 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\i (07:10:12) iangle -180.000
+\t (07:10:12) last angle:  180.000 Degrees
+\i (07:10:12) placementedit 
+\i (07:10:13) pick grid 12603.3 5936.9
+\t (07:10:13) last pick:  12605.0  5935.0
+\i (07:10:13) move 
+\t (07:10:13) last pick:  12525.0  6080.0
+\t (07:10:13) Moving C3 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:10:13) Pick new location for the element(s).
+\i (07:10:15) pick grid 12553.1 6299.1
+\t (07:10:15) last pick:  12555.0  6300.0
+\i (07:10:15) placementedit 
+\i (07:10:17) pick grid 12558.4 6190.7
+\t (07:10:17) last pick:  12560.0  6190.0
+\i (07:10:17) move 
+\t (07:10:17) last pick:  12555.0  6300.0
+\t (07:10:17) Moving C3 / CAPACITOR POL_1_UF_CAP_10UF / 1_UF_CAP.
+\t (07:10:17) Pick new location for the element(s).
+\i (07:10:20) pick grid 12526.6 6301.7
+\t (07:10:20) last pick:  12525.0  6300.0
+\i (07:10:20) placementedit 
+\i (07:10:21) pick grid 13139.9 5923.7
+\t (07:10:21) last pick:  13140.0  5925.0
+\i (07:10:21) pick grid 13179.5 5918.4
+\t (07:10:21) last pick:  13180.0  5920.0
+\i (07:10:21) move 
+\t (07:10:21) last pick:  13200.0  5925.0
+\t (07:10:21) Moving R3 / RESISTOR_SMR0805_51K / SMR0805.
+\t (07:10:21) Pick new location for the element(s).
+\i (07:10:24) pick grid 12521.4 6063.8
+\t (07:10:24) last pick:  12520.0  6065.0
+\i (07:10:24) placementedit 
+\i (07:10:25) save 
+\i (07:10:26) fillin yes 
+\i (07:10:26) placementedit 
+\i (07:10:29) exit 
+\t (07:10:29)     Journal end - Mon May 25 21:38:36 2015

@@ -1,0 +1,222 @@
+\t (00:00:29) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:29)     Journal start - Tue Apr 14 13:35:14 2015
+\t (00:00:29)         Host=SRDSNPC18 User=tgbodkin Pid=5144 CPUs=4
+\t (00:00:29) 
+\d (00:00:29) Database opened: C:/Users/tgbodkin/Desktop/linkinginterface/linkinginterface/linkinginterface/linkinginterface/pcb/LinkingInterfaceV1.2.brd
+\i (00:00:30) etchedit 
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 13522.4 6827.0
+\i (00:00:30) trapsize 529
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 13490.7 6668.5
+\i (00:00:31) trapsize 264
+\i (01:47:11) xhilite 
+\i (01:47:11) xname_flush 
+\i (01:47:11) done 
+\i (01:47:11) etchedit 
+\i (01:51:57) xhilite 
+\i (01:51:57) xname_flush 
+\i (01:51:57) done 
+\i (01:51:57) etchedit 
+\i (02:14:30) xhilite 
+\i (02:14:30) xname_flush 
+\i (02:14:30) done 
+\i (02:14:30) etchedit 
+\i (02:22:38) xhilite 
+\i (02:22:38) xname_flush 
+\i (02:22:38) done 
+\i (02:22:38) etchedit 
+\i (04:08:13) setwindow form.vf_vis
+\i (04:08:13) FORM vf_vis colorview_list File: all_layers 
+\i (04:08:13) color -globvis off 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/NCROUTE_PATH' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/ASSEMBLY_TOP' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/CUT_MARKS' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/WB_GUIDE_LINE' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/OFF_GRID_AREA' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/SOLDERMASK_TOP' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/ASSEMBLY_DETAIL' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/SWITCH_AREA_BOTTOM' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/SWITCH_AREA_TOP' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/BOTH_ROOMS' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/BOTTOM_ROOM' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/TOP_ROOM' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/PLACE_GRID_BOTTOM' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/PLACE_GRID_TOP' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/DIMENSION' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/TOOLING_CORNERS' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/ASSEMBLY_NOTES' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/PLATING_BAR' 
+\i (04:08:13) color -vis 'BOARD GEOMETRY/OUTLINE' 
+\i (04:08:13) color -vis 'COMPONENT VALUE/DISPLAY_BOTTOM' 
+\i (04:08:13) color -vis 'COMPONENT VALUE/DISPLAY_TOP' 
+\i (04:08:13) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
+\i (04:08:13) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (04:08:13) color -vis 'COMPONENT VALUE/ASSEMBLY_BOTTOM' 
+\i (04:08:13) color -vis 'COMPONENT VALUE/ASSEMBLY_TOP' 
+\i (04:08:13) color -vis 'DEVICE TYPE/DISPLAY_BOTTOM' 
+\i (04:08:13) color -vis 'DEVICE TYPE/DISPLAY_TOP' 
+\i (04:08:13) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
+\i (04:08:13) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (04:08:14) color -vis 'DEVICE TYPE/ASSEMBLY_BOTTOM' 
+\i (04:08:14) color -vis 'DEVICE TYPE/ASSEMBLY_TOP' 
+\i (04:08:14) color -vis 'DRAWING FORMAT/REVISION_DATA' 
+\i (04:08:14) color -vis 'DRAWING FORMAT/REVISION_BLOCK' 
+\i (04:08:14) color -vis 'DRAWING FORMAT/TITLE_DATA' 
+\i (04:08:14) color -vis 'DRAWING FORMAT/TITLE_BLOCK' 
+\i (04:08:14) color -vis 'DRAWING FORMAT/OUTLINE' 
+\i (04:08:14) color -vis 'DRC ERROR CLASS/TOP' 
+\i (04:08:14) color -vis 'DRC ERROR CLASS/BOTTOM' 
+\i (04:08:14) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (04:08:14) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (04:08:14) color -vis 'DRC ERROR CLASS/PACKAGE_BOTTOM' 
+\i (04:08:14) color -vis 'DRC ERROR CLASS/PACKAGE_TOP' 
+\i (04:08:14) color -vis 'DRC ERROR CLASS/ALL' 
+\i (04:08:14) color -vis ETCH/TOP 
+\i (04:08:14) color -vis ETCH/BOTTOM 
+\i (04:08:14) color -vis MANUFACTURING/NCLEGEND-1-2 
+\i (04:08:14) color -vis MANUFACTURING/MARKUP 
+\i (04:08:14) color -vis MANUFACTURING/NO_PROBE_BOTTOM 
+\i (04:08:14) color -vis MANUFACTURING/NO_PROBE_TOP 
+\i (04:08:14) color -vis MANUFACTURING/AUTOSILK_BOTTOM 
+\i (04:08:14) color -vis MANUFACTURING/AUTOSILK_TOP 
+\i (04:08:14) color -vis MANUFACTURING/PROBE_BOTTOM 
+\i (04:08:14) color -vis MANUFACTURING/PROBE_TOP 
+\i (04:08:14) color -vis MANUFACTURING/NCDRILL_FIGURE 
+\i (04:08:14) color -vis MANUFACTURING/NCDRILL_LEGEND 
+\i (04:08:14) color -vis MANUFACTURING/NO_GLOSS_INTERNAL 
+\i (04:08:14) color -vis MANUFACTURING/NO_GLOSS_BOTTOM 
+\i (04:08:14) color -vis MANUFACTURING/NO_GLOSS_TOP 
+\i (04:08:14) color -vis MANUFACTURING/NO_GLOSS_ALL 
+\i (04:08:14) color -vis MANUFACTURING/PHOTOPLOT_OUTLINE 
+\i (04:08:14) color -vis ANALYSIS/PCB_TEMPERATURE 
+\t (04:08:14) Invalid class specified: ANALYSIS
+
+\i (04:08:14) color -vis ANALYSIS/HIGH_ISOCONTOUR 
+\t (04:08:14) Invalid class specified: ANALYSIS
+
+\i (04:08:14) color -vis ANALYSIS/MEDIUM3_ISOCONTOUR 
+\t (04:08:14) Invalid class specified: ANALYSIS
+
+\i (04:08:14) color -vis ANALYSIS/MEDIUM2_ISOCONTOUR 
+\t (04:08:14) Invalid class specified: ANALYSIS
+
+\i (04:08:14) color -vis ANALYSIS/MEDIUM1_ISOCONTOUR 
+\t (04:08:14) Invalid class specified: ANALYSIS
+
+\i (04:08:14) color -vis ANALYSIS/LOW_ISOCONTOUR 
+\t (04:08:14) Invalid class specified: ANALYSIS
+
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/PASTEMASK_BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/PASTEMASK_TOP' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/DFA_BOUND_TOP' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/MODULES' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/DISPLAY_BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/DISPLAY_TOP' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/SOLDERMASK_TOP' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/BODY_CENTER' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/PAD_STACK_NAME' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/PIN_NUMBER' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/PLACE_BOUND_TOP' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (04:08:14) color -vis 'PACKAGE KEEPIN/ALL' 
+\i (04:08:14) color -vis 'PACKAGE KEEPOUT/BOTTOM' 
+\i (04:08:14) color -vis 'PACKAGE KEEPOUT/TOP' 
+\i (04:08:14) color -vis 'PACKAGE KEEPOUT/ALL' 
+\i (04:08:14) color -vis PIN/TOP 
+\i (04:08:14) color -vis PIN/BOTTOM 
+\i (04:08:14) color -vis PIN/FILMMASKBOTTOM 
+\i (04:08:14) color -vis PIN/FILMMASKTOP 
+\i (04:08:14) color -vis PIN/PASTEMASK_BOTTOM 
+\i (04:08:14) color -vis PIN/PASTEMASK_TOP 
+\i (04:08:14) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (04:08:14) color -vis PIN/SOLDERMASK_TOP 
+\i (04:08:14) color -vis 'REF DES/DISPLAY_BOTTOM' 
+\i (04:08:14) color -vis 'REF DES/DISPLAY_TOP' 
+\i (04:08:14) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
+\i (04:08:14) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (04:08:14) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (04:08:14) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (04:08:14) color -vis 'ROUTE KEEPIN/ALL' 
+\i (04:08:14) color -vis 'ROUTE KEEPOUT/TOP' 
+\i (04:08:14) color -vis 'ROUTE KEEPOUT/BOTTOM' 
+\i (04:08:14) color -vis 'ROUTE KEEPOUT/ALL' 
+\i (04:08:14) color -vis TOLERANCE/DISPLAY_BOTTOM 
+\i (04:08:14) color -vis TOLERANCE/DISPLAY_TOP 
+\i (04:08:14) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
+\i (04:08:14) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (04:08:14) color -vis TOLERANCE/ASSEMBLY_BOTTOM 
+\i (04:08:14) color -vis TOLERANCE/ASSEMBLY_TOP 
+\i (04:08:14) color -vis 'USER PART NUMBER/DISPLAY_BOTTOM' 
+\i (04:08:14) color -vis 'USER PART NUMBER/DISPLAY_TOP' 
+\i (04:08:14) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
+\i (04:08:14) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (04:08:14) color -vis 'USER PART NUMBER/ASSEMBLY_BOTTOM' 
+\i (04:08:14) color -vis 'USER PART NUMBER/ASSEMBLY_TOP' 
+\i (04:08:14) color -vis 'VIA CLASS/TOP' 
+\i (04:08:14) color -vis 'VIA CLASS/BOTTOM' 
+\i (04:08:14) color -vis 'VIA CLASS/FILMMASKBOTTOM' 
+\i (04:08:14) color -vis 'VIA CLASS/FILMMASKTOP' 
+\i (04:08:14) color -vis 'VIA CLASS/PASTEMASK_BOTTOM' 
+\i (04:08:14) color -vis 'VIA CLASS/PASTEMASK_TOP' 
+\i (04:08:14) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (04:08:14) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (04:08:14) color -vis 'VIA KEEPOUT/TOP' 
+\i (04:08:14) color -vis 'VIA KEEPOUT/BOTTOM' 
+\i (04:08:14) color -vis 'VIA KEEPOUT/ALL' 
+\i (04:08:14) color -vis 'ANTI ETCH/TOP' 
+\i (04:08:14) color -vis 'ANTI ETCH/BOTTOM' 
+\i (04:08:14) color -vis 'ANTI ETCH/ALL' 
+\i (04:08:14) color -vis BOUNDARY/TOP 
+\i (04:08:14) color -vis BOUNDARY/BOTTOM 
+\i (04:08:14) color -vis BOUNDARY/ALL 
+\i (04:08:14) color -vis 'CONSTRAINT REGION/TOP' 
+\i (04:08:14) color -vis 'CONSTRAINT REGION/BOTTOM' 
+\i (04:08:14) color -vis 'CONSTRAINT REGION/INNER_PLANE_LAYERS' 
+\i (04:08:14) color -vis 'CONSTRAINT REGION/INNER_SIGNAL_LAYERS' 
+\i (04:08:14) color -vis 'CONSTRAINT REGION/OUTER_LAYERS' 
+\i (04:08:14) color -vis 'CONSTRAINT REGION/ALL' 
+\i (04:08:14) setwindow pcb
+\i (04:08:14) trapsize 264
+\i (04:08:14) etchedit 
+\i (04:08:18) zoom in 1 
+\i (04:08:18) setwindow pcb
+\i (04:08:18) zoom in 13358.6 7678.2
+\i (04:08:18) trapsize 132
+\i (04:08:18) zoom in 1 
+\i (04:08:18) setwindow pcb
+\i (04:08:18) zoom in 13358.7 7678.2
+\i (04:08:18) trapsize 66
+\i (04:08:21) pick grid 13341.5 7638.6
+\t (04:08:21) last pick:  13342.0  7639.0
+\i (04:08:21) move 
+\t (04:08:21) last pick:  13125.0  7445.0
+\t (04:08:21) Moving U5 / LM2936/SO_3_LM2936_SOT_LM2936/S / LM2936_SOT.
+\t (04:08:21) Pick new location for the element(s).
+\i (04:08:21) prepopup 13341.5 7638.6
+\i (04:08:22) cancel 
+\i (04:08:22) etchedit 
+\i (04:08:23) zoom out 1 
+\i (04:08:23) setwindow pcb
+\i (04:08:23) zoom out 13338.9 7635.9
+\i (04:08:23) trapsize 132
+\i (04:08:23) zoom out 1 
+\i (04:08:23) setwindow pcb
+\i (04:08:23) zoom out 13304.5 7638.6
+\i (04:08:23) trapsize 264
+\i (04:42:08) exit 
+\e (04:42:08) Do you want to save the changes you made to LinkingInterfaceV1.2.brd?
+\i (04:42:15) fillin yes 
+\t (04:42:16)     Journal end - Tue Apr 14 18:17:01 2015

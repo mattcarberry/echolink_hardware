@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 1N4148_SOD523.dra                             )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Apr 14 15:47:06 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/tgbodkin/Desktop/linkinginterface/linkinginterface/linkinginterface/lib/symbols
+    Name      = 1n4148_sod523.psm
+    User      = tgbodkin
+    Machine   = SRDSNPC18
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

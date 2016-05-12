@@ -1,0 +1,65 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\controller_0_52.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\amateur radio\projects\ucsc 2m repeater\controller\controller_0_52.dsn")
+      (Path "Design Resources"
+         "c:\amateur radio\projects\ucsc 2m repeater\controller\controller_0_52.dsn"
+         "Handset")
+      (Select "Design Resources"
+         "c:\amateur radio\projects\ucsc 2m repeater\controller\controller_0_52.dsn"
+         "Handset" "4 Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 424"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 157 1112 49 591")
+        (Scroll "0 48")
+        (Zoom "75")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_0_52.DSN")
+      (Schematic "Handset")
+      (Page "1 Radio Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 44 999 44 586")
+        (Scroll "46 110")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_0_52.DSN")
+      (Schematic "Handset")
+      (Page "2 Fan Driver & Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 66 1021 66 608")
+        (Scroll "-6 0")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC 2M REPEATER\CONTROLLER\CONTROLLER_0_52.DSN")
+      (Schematic "Handset")
+      (Page "3 Status and Power")))
+  (MPSSessionName "petersen"))
