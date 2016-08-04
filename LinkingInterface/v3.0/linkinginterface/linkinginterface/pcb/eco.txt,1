@@ -1,0 +1,661 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +3.3V        pins MOVED FROM this net (to net name listed on right)
+                                 C10.2            2447.0  1777.0
+                                                                            +5V
+                                 C15.1            1688.0  2202.8
+                                                                         N88575
+                                 C17.2            2214.0  2200.0
+                                                                            +9V
+                                 C18.2                          
+                                                                            GND
+                                 R14.2            1749.0  1197.0
+                                                                          PTT_A
+                                 R15.1            1749.0  1064.0
+                                                                         N88575
+                                 R17.2            1453.0  2305.0
+                                                                            +5V
+                                 R18.2            1861.0  1196.0
+                                                                           TX_A
+                                 R19.2            2691.0  2072.0
+                                                                            +5V
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +4.5V        pins MOVED FROM this net (to net name listed on right)
+                                 C9.1             2291.0  3845.0
+                                                                            +9V
+                                 R13.1             801.0  3577.0
+                                                                            GND
+                                 R16.2             698.0  3576.0
+                                                                        N195958
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this new net
+                                 C7.2                           
+                                 C8.2             1754.0  3220.0
+                                 C14.1            1601.2  2413.0
+                                 U2.14                          
+                                 U3.14                          
+                                 U4.16                          
+                                 U5.3             2120.0  1595.9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +9V          pins MOVED FROM this net (to net name listed on right)
+                                 C6.2              815.9  3143.0
+                                                                        N134567
+                                 C14.2            1731.1  2413.0
+                                                                            GND
+                                 R13.2             801.0  3661.0
+                                                                          +4.5V
+                                 U1.8                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                            GND
+                                 U1.8                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AUDIOOUT     pins MOVED FROM this net (to net name listed on right)
+                                 C4.2             1959.9  3380.0
+                                                                        N134575
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 P1.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AUDIO_AUX    pins MOVED FROM this net (to net name listed on right)
+                                 C3.2             1426.0  3613.9
+                                                                        N908811
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 P1.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COS          pins ADDED TO this existing net (pins not previously on any net)
+                                 P1.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  COS_ECHOLINK pins ADDED TO this new net
+                                 D1.1                           
+                                 J6.3             1211.0  2718.0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DTMF_AUDIO   pins MOVED FROM this net (to net name listed on right)
+                                 J6.1              899.0  2718.0
+                                                                          PTT_E
+                                 R10.2             900.0  2999.0
+                                                                            +9V
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DTMF_TONE_CONFIRMATION pins MOVED FROM this net (to net name listed on right)
+                                 R12.2            1452.0  3001.0
+                                                                          PTT_E
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 C6.1              945.8  3143.0
+                                                                         N89923
+                                 C13.2            2558.1  3663.0
+                                                                         N90145
+                                 C15.2            1688.0  2072.9
+                                                                       AUDIOOUT
+                                 C16.2            2559.1  4040.0
+                                                                         N90149
+                                 C18.1                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                          +4.5V
+                                 D3.2              853.0  2081.0
+                                                                      N14521945
+                                 J7.2                           
+                                                                    COS_ALLSTAR
+                                 R16.1             614.0  3576.0
+                                                                         N90145
+                                 U1.4                           
+                                                                            +9V
+                                 U1.4                           
+                                                                            +9V
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J3.1                           
+                                 J8.1                           
+                                 P1.1                           
+                                 P1.6                           
+                                 P1.7                           
+                                 Q2.1                           
+                                 R3.3                           
+                                 R8.3                           
+                                 U2.7                           
+                                 U3.7                           
+                                 U4.3                           
+                                 U4.8                           
+                                 U4.15                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  INHIBIT      pins ADDED TO this existing net (pins not previously on any net)
+                                 J8.2                           
+                                 P1.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUTE_A       pins ADDED TO this new net
+                                 J7.1                           
+                                 U4.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUTE_E       pins ADDED TO this new net
+                                 J6.2             1055.0  2718.0
+                                 U3.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N88507       pins ADDED TO this new net
+                                 U1.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N88559       pins MOVED FROM this net (to net name listed on right)
+                                 C1.1             1707.0  3491.0
+                                                                            GND
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C2.2             2005.1  3137.0
+                                                                        N134507
+                                 C11.1            2321.0  3631.0
+                                                                         N88575
+                                 C11.2            2321.0  3687.0
+                                                                         N88507
+                                 C13.1            2428.2  3663.0
+                                                                         N88507
+                                 C16.1            2429.2  4040.0
+                                                                         N88507
+                                 U1.2                           
+                                                                         N90849
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N88575       pins MOVED FROM this net (to net name listed on right)
+                                 C2.1             1875.2  3137.0
+                                                                         N89923
+                                 C4.1             2089.8  3380.0
+                                                                         N89923
+                                 R2.1                           
+                                                                        N134507
+                                 U1.1                           
+                                                                         N89923
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N89923       pins MOVED FROM this net (to net name listed on right)
+                                 C5.1                           
+                                                                          +4.5V
+                                 C8.1             1754.0  3136.0
+                                                                            GND
+                                 C10.1            2447.0  1861.0
+                                                                            GND
+                                 R4.2             1660.0  3750.0
+                                                                         N90849
+                                 U1.7                           
+                                                                         N88575
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N90145       pins MOVED FROM this net (to net name listed on right)
+                                 C1.2             1791.0  3491.0
+                                                                            +9V
+                                 R1.1             2656.0  3662.0
+                                                                         N90849
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N90821       pins ADDED TO this new net
+                                 Q2.3                           
+                                 U2.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N90849       pins MOVED FROM this net (to net name listed on right)
+                                 R4.1             1660.0  3834.0
+                                                                        N908811
+                                 R8.2                           
+                                                                     DTMF_AUDIO
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95414       pins ADDED TO this new net
+                                 U3.6                           
+                                 U4.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N95479       pins ADDED TO this new net
+                                 U2.2                           
+                                 U3.13                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N97065       pins ADDED TO this new net
+                                 Q1.3                           
+                                 U2.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N97388       pins ADDED TO this new net
+                                 Q1.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N97431       pins ADDED TO this new net
+                                 Q2.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N101741      pins ADDED TO this new net
+                                 U3.11                          
+                                 U4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134507      pins MOVED FROM this net (to net name listed on right)
+                                 C5.2                           
+                                                                            GND
+                                 R5.1             2112.0  3136.0
+                                                                        N134575
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134567      pins MOVED FROM this net (to net name listed on right)
+                                 R10.1             816.0  2999.0
+                                                                          +4.5V
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134575      pins MOVED FROM this net (to net name listed on right)
+                                 R7.1             1636.0  2798.0
+                                                                        N134567
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N134810      net RENAMED (to net name listed on right)           N904010      
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R2.2                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R3.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N146635      pins ADDED TO this new net
+                                 U2.4                           
+                                 U3.10                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N146671      pins ADDED TO this new net
+                                 U2.6                           
+                                 U3.9                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N163525      pins ADDED TO this new net
+                                 U2.10                          
+                                 U3.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N178407      pins ADDED TO this new net
+                                 U2.12                          
+                                 U3.12                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N196050      pins MOVED FROM this net (to net name listed on right)
+                                 J1.2             3030.0  3838.0
+                                                                        N195958
+                                 J1.3             2872.5  3662.8
+                                                                        N195958
+                                 R1.2             2740.0  3662.0
+                                                                         N89923
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N211815      pins ADDED TO this new net
+                                 U2.8                           
+                                 U3.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N903830      pins ADDED TO this new net
+                                 R8.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N904010      pins MOVED FROM this net (to net name listed on right)
+                                 R7.2             1636.0  2714.0
+                                                                        N903830
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N908810      pins MOVED FROM this net (to net name listed on right)
+                                 C3.1             1426.0  3743.8
+                                                                      AUDIO_AUX
+                                 C7.1                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14521945    pins MOVED FROM this net (to net name listed on right)
+                                 D1.2                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                            COS
+                                 U3.1                           
+                                                                          PTT_E
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14522952    pins ADDED TO this new net
+                                 D3.1             1453.0  2081.0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14527017    pins MOVED FROM this net (to net name listed on right)
+                                 R19.1            2775.0  2072.0
+                                                                         N90821
+                                 U5.1             2120.0  1777.0
+                                                                            +9V
+                                 U6.1             1369.0  1485.0
+                                                                      N14521945
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14538770    pins MOVED FROM this net (to net name listed on right)
+                                 J9.1              117.0  4018.0
+                                                                      N14522952
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14545130    pins MOVED FROM this net (to net name listed on right)
+                                 U6.4             1125.0  1575.0
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14551658    pins MOVED FROM this net (to net name listed on right)
+                                 R12.1            1368.0  3001.0
+                                                                         N97388
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14597991    pins MOVED FROM this net (to net name listed on right)
+                                 U6.2             1369.0  1575.0
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14619662    pins MOVED FROM this net (to net name listed on right)
+                                 D2.1              437.0  1974.0
+                                                                    COS_ALLSTAR
+                                 R14.1            1749.0  1281.0
+                                                                         N97431
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14629991    pins MOVED FROM this net (to net name listed on right)
+                                 Q1.1                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N145714160   pins MOVED FROM this net (to net name listed on right)
+                                 R17.1            1453.0  2221.0
+                                                                         N97065
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N146226602   pins MOVED FROM this net (to net name listed on right)
+                                 R15.2            1749.0   980.0
+                                                                         N88507
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PTT          pins ADDED TO this existing net (pins not previously on any net)
+                                 P1.9                           
+                                 U3.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PTT_A        pins ADDED TO this new net
+                                 J7.3                           
+                                 U2.11                          
+                                 U2.13                          
+                                 U3.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PTT_E        pins MOVED FROM this net (to net name listed on right)
+                                 R18.1            1861.0  1112.0
+                                                                         N90149
+                                 U5.2             2120.0  1686.4
+                                                                            GND
+                                 U5.4             2348.3  1686.4
+                                                                            GND
+                                 U6.3             1369.0  1665.0
+                                                                            +9V
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U2.1                           
+                                 U2.9                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX_A         pins MOVED FROM this net (to net name listed on right)
+                                 J5.2             3013.0  2988.0
+                                                                     DTMF_AUDIO
+                                 J5.3             2855.5  2812.8
+                                                                     DTMF_AUDIO
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX_E         net RENAMED (to net name listed on right)           RX_A         
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R3.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX_A         pins DELETED FROM this net (pin now not on any net)
+                                 J2.3             2872.5  4040.8
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins MOVED FROM this net (to net name listed on right)
+                                 J2.2             3030.0  4216.0
+                                                                           RX_E
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J3.2                           
+                                 J3.3                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2N4401_2N4401_2N4401
+ 2PIN HEADER_BLKCON156_VHTM1SQ_S
+ 3PINHEADER_0_BLKCON156VHTM1SQSW
+ 74HC04_4_74HC0_74HC04
+ 74HC08_3_74HC0_74HC08
+ 74HC157_4_74HC157_74HC157
+ 78L05/TO92_4_SOT223_1234_LM2940
+ CAP POL_1_UF_CAP_4.7UF
+ CONNECTOR DB9_DB9_263_R001_CONN
+ LM2936/SO_3_LM2936_SOT_LM2936/S
+ PHONE JACK-3_2_35MMJACK_RX_ALLS
+ PHONE JACK-3_2_35MMJACK_RX_DTMF
+ PHONE JACK-3_2_35MMJACK_RX_ECHO
+ PHONE JACK-3_2_35MMJACK_TX_ALLS
+ PHONE JACK-3_2_35MMJACK_TX_ECHO
+ POT_P60-20748_10K
+ RESISTOR_SMR0805_10K
+ RESISTOR_SMR0805_22K
+ TL062_2_TL082_TL072
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C9                  C POL_EIAB_SMCT3528_12_22UF/TAN   800.0  3774.0
+ C11                 CAPACITOR POL_1_UF_CAP_10UF  1250.0  3137.0
+ C16                 CAP POL_1_UF_CAP_10UF  2067.0  2189.0
+ C19                 C NP_SMC0805_100NF     1058.0  1485.0
+ C20                 C NP_SMC0805_100NF      931.0  3857.0
+ D3                  DIODE SCHOTTKY_0_DAX600_60D_SB1   426.0  4018.0
+ D4                  1N4148_1N4148_SOD523_1N4148   539.0  1974.0
+ D5                  DIODE SCHOTTKY_0_B320_B320   428.0  4325.0
+ J11                 HEADER 3_BLKCON156VHTM1SQSW3123  1567.0  4324.0
+ J12                 HEADER 3_BLKCON156VHTM1SQSW3123   988.0  4325.0
+ J13                 HEADER 2_4_BLKCON156_VHTM1SQ_SW  2731.0  4360.0
+ J14                 HEADER 2_4_BLKCON156_VHTM1SQ_SW  2301.0  4360.0
+ J15                 HEADER 20X2_BLKCON100RHTM2OEW52  2708.0   550.0
+ J16                 HEADER 16_BLKCON100RHTM1SQSW350  3124.0  2072.0
+ J17                 HEADER 9_BCON2DB9_5X2V_100S_42D   204.0  2927.0
+ J18                 HEADER 2_4_BLKCON156_VHTM1SQ_SW  2037.0  2879.0
+ R9                  POT_VRES18_35D_10K     2523.0  2813.0
+ R11                 RESISTOR_SMR0805_10K    668.0  2819.0
+ R15                 RESISTOR_SMR0805_51K   2218.0  3632.0
+ R18                 RESISTOR_SMR0805_51K   2661.0  4040.0
+ U7                  LM2936/SO_13_LM2936_SOT_LM2936/  1789.0  2329.0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C5                  CAP POL_1_UF_CAP_4.7UF 
+ C7                  C NP_SMC0805_100NF    
+ C18                 CAP POL_1_UF_CAP_4.7UF 
+ D1                  1N4148_1N4148_SOD523_1N4148 
+ J3                  PHONE JACK-3_2_35MMJACK_TX_ALLS 
+ J7                  3PINHEADER_0_BLKCON156VHTM1SQSW 
+ J8                  2PIN HEADER_BLKCON156_VHTM1SQ_S 
+ P1                  CONNECTOR DB9_DB9_263_R001_CONN 
+ Q2                  2N4401_2N4401_2N4401  
+ R2                  RESISTOR_SMR0805_22K  
+ R3                  POT_P60-20748_10K     
+ U2                  74HC04_4_74HC0_74HC04 
+ U4                  74HC157_4_74HC157_74HC157 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C8                  C NP_SMC0805_100NF     1754.0  3136.0 CAP POL_1_UF_CAP_10UF
+ C9                  C POL_EIAB_SMCT3528_12_22UF/TAN  2291.0  3845.0 CAP POL_1_UF_CAP_4.7UF
+ C14                 CAP POL_1_UF_CAP_10UF  1613.0  2413.0 C NP_SMC0805_100NF
+ D3                  DIODE SCHOTTKY_0_DAX600_60D_SB1  1453.0  2081.0 LED_SMR0805_RED
+ J1                  PHONE JACK-3_2_35MMJACK_TX_ECHO  3406.0  3840.0 PHONE JACK-3_2_35MMJACK_TX_ECHO
+ J2                  PHONE JACK-3_2_35MMJACK_RX_ECHO  3406.0  4218.0 PHONE JACK-3_2_35MMJACK_TX_ALLS
+ J4                  PHONE JACK-3_2_35MMJACK_RX_ALLS  3392.0  3413.0 PHONE JACK-3_2_35MMJACK_RX_ECHO
+ J5                  PHONE JACK-3_2_35MMJACK_RX_DTMF  3389.0  2990.0 PHONE JACK-3_2_35MMJACK_RX_ALLS
+ J6                  3PINHEADER_0_BLKCON156VHTM1SQSW   899.0  2718.0 HEADER 9_0_BCON2DB9_5X2V_100S_4
+ Q1                  2N4401_2N4401_2N4401   1538.0   904.0 2N2222_TO92R100_2N2222
+ R5                  RESISTOR_SMR0805_22K   2112.0  3136.0 RESISTOR_SMR0805_7.5K
+ R6                  POT_P60-20748_10K      2518.0  3237.0 POT_VRES18_35D_10K
+ R8                  POT_P60-20748_10K      1426.0  3834.0 RESISTOR_SMR0805_51K
+ R10                 RESISTOR_SMR0805_51K    816.0  2999.0 RESISTOR_SMR0805_7.5K
+ R12                 RESISTOR_SMR0805_10K   1368.0  3001.0 RESISTOR_SMR0805_51K
+ R14                 RESISTOR_SMR0805_10K   1749.0  1281.0 RESISTOR_SMR0805_10K
+ R15                 RESISTOR_SMR0805_51K   1749.0  1064.0 RESISTOR_SMR0805_10K
+ R17                 RESISTOR_SMR0805_10K   1453.0  2221.0 RESISTOR_SMR0805_330
+ R18                 RESISTOR_SMR0805_51K   1861.0  1112.0 RESISTOR_SMR0805_10K
+ R19                 RESISTOR_SMR0805_10K   2775.0  2072.0 RESISTOR_SMR0805_10K
+ U1                  TL062_2_TL082_TL072    2091.0  3633.0 TL072_0_DIP100_8_W300_L400_TL07
+ U3                  74HC08_3_74HC0_74HC08  1027.0  3793.0 78L05/TO92_0_SOT223_1234_LM2940
+ U5                  LM2936/SO_3_LM2936_SOT_LM2936/S  2118.0  1777.0 74HC08_4_74HC0_74HC08
+ U6                  78L05/TO92_4_SOT223_1234_LM2940  1369.0  1485.0 74HC04_5_74HC0_74HC04
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2            1754.0  3136.0 PRIM_FILE      .\pstchip.dat
+ C9.1            2291.0  3845.0 PRIM_FILE      .\pstchip.dat
+ C14.2           1613.0  2413.0 PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D3.2            1453.0  2081.0 PRIM_FILE      .\pstchip.dat
+ J1.3            3406.0  3840.0 PRIM_FILE      .\pstchip.dat
+ J2.3            3406.0  4218.0 PRIM_FILE      .\pstchip.dat
+ J3.3                           PRIM_FILE      .\pstchip.dat
+ J4.3            3392.0  3413.0 PRIM_FILE      .\pstchip.dat
+ J5.3            3389.0  2990.0 PRIM_FILE      .\pstchip.dat
+ J6.3             899.0  2718.0 PRIM_FILE      .\pstchip.dat
+ J7.3                           PRIM_FILE      .\pstchip.dat
+ J8.2                           PRIM_FILE      .\pstchip.dat
+ P1.9                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ Q2.1                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R5.2            2112.0  3136.0 PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R10.2            816.0  2999.0 PRIM_FILE      .\pstchip.dat
+ R12.2           1368.0  3001.0 PRIM_FILE      .\pstchip.dat
+ R14.2           1749.0  1281.0 PRIM_FILE      .\pstchip.dat
+ R15.2           1749.0  1064.0 PRIM_FILE      .\pstchip.dat
+ R17.2           1453.0  2221.0 PRIM_FILE      .\pstchip.dat
+ R18.2           1861.0  1112.0 PRIM_FILE      .\pstchip.dat
+ R19.2           2775.0  2072.0 PRIM_FILE      .\pstchip.dat
+ U1.3                           PRIM_FILE      .\pstchip.dat
+ U1.5                           PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+ U2.3                           PRIM_FILE      .\pstchip.dat
+ U2.5                           PRIM_FILE      .\pstchip.dat
+ U2.9                           PRIM_FILE      .\pstchip.dat
+ U2.11                          PRIM_FILE      .\pstchip.dat
+ U2.13                          PRIM_FILE      .\pstchip.dat
+ U3.1                           PRIM_FILE      .\pstchip.dat
+ U3.4                           PRIM_FILE      .\pstchip.dat
+ U3.9                           PRIM_FILE      .\pstchip.dat
+ U3.12                          PRIM_FILE      .\pstchip.dat
+ U4.1                           PRIM_FILE      .\pstchip.dat
+ U5.3            2118.0  1777.0 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  C:.../linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd       |
+|                                                    Wed Aug 03 16:26:51 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U6.3            1369.0  1485.0 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     155                                        |
+|       Comp definitions added:      19                                        |
+|       Components added      :      13                                        |
+|       Components deleted    :      21                                        |
+|       Components changed    :      24                                        |
+|       Slot property added   :      46                                        |
+|                                                                              |
+|   Total ECO changes reported:     278                                        |
+|------------------------------------------------------------------------------|

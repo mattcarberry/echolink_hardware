@@ -1,0 +1,26 @@
+\t (00:00:21) sigxp 16.6-2015 S057 (v16-6-112EL) Windows 32
+\t (00:00:21)     Journal start - Sat Jul 16 15:10:25 2016
+\t (00:00:21)         Host=BE150PC03 User=mrcarber Pid=7708 CPUs=2
+\t (00:00:21) CmdLine= sigxp -spawn -p C:\Users\mrcarber\Downloads\LinkingInterface_V2_13_ProjectFiles\linkinginterface\linkinginterface\pcb
+\t (00:00:21) 
+\t (00:00:21) Starting new design...
+\i (00:00:21) trapsize 1240
+\i (00:00:22) trapsize 1197
+\i (00:00:22) trapsize 1247
+\i (00:00:22) trapsize 1324
+\i (00:00:22) trapsize 1489
+\i (00:00:22) trapsize 7443
+\t (00:00:22) Starting new design...
+\i (00:00:22) trapsize 7443
+\i (00:00:22) trapsize 7443
+\i (00:00:22) trapsize 7443
+\i (00:00:22) trapsize 26
+   (00:00:22) Loading sigxp.cxt 
+   (00:00:22) Loading signal.cxt 
+   (00:00:22) Loading sxutil.cxt 
+   (00:00:22) Loading axlcore.cxt 
+   (00:00:22) Loading skillExt.cxt 
+   (00:00:23) Loading fputil.cxt 
+\i (00:00:23) sigxp background 
+\i (00:01:47) exit 
+\t (00:01:53)     Journal end - Sat Jul 16 15:11:56 2016

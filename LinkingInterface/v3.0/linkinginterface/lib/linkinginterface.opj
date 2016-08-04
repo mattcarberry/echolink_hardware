@@ -1,0 +1,82 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\linkinginterface.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\linkinginterface.olb")
+      (Select "Design Resources" ".\linkinginterface.olb" "USB"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 397"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 623 50 467")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "108 63")
+        (Zoom "140"))
+      (Path
+         "C:\USERS\MRCARBER\DOWNLOADS\LINKINGINTERFACE_V2_13_PROJECTFILES\LINKINGINTERFACE\LIB\LINKINGINTERFACE.OLB")
+      (Package "CM108"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 648 75 492")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "48 62")
+        (Zoom "119"))
+      (Path
+         "C:\USERS\MRCARBER\DOWNLOADS\LINKINGINTERFACE_V2_13_PROJECTFILES\LINKINGINTERFACE\LIB\LINKINGINTERFACE.OLB")
+      (Package "CM119"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 673 100 517")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "957 632")
+        (Zoom "458"))
+      (Path
+         "C:\USERS\MRCARBER\DOWNLOADS\LINKINGINTERFACE_V2_13_PROJECTFILES\LINKINGINTERFACE\LIB\LINKINGINTERFACE.OLB")
+      (Package "SI2301DS"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 698 125 542")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1413 936")
+        (Zoom "628"))
+      (Path
+         "C:\USERS\MRCARBER\DOWNLOADS\LINKINGINTERFACE_V2_13_PROJECTFILES\LINKINGINTERFACE\LIB\LINKINGINTERFACE.OLB")
+      (Package "Si2301DS-S"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 723 150 567")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "668 448")
+        (Zoom "361"))
+      (Path
+         "C:\USERS\MRCARBER\DOWNLOADS\LINKINGINTERFACE_V2_13_PROJECTFILES\LINKINGINTERFACE\LIB\LINKINGINTERFACE.OLB")
+      (Package "USB"))))

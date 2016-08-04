@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : LinkingInterfaceV3_0.brd                      )
+(    Software Version : 16.6-2015S057                                 )
+(    Date/Time        : Wed Aug 03 16:31:50 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               IfSame
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface'
+Design Directory:            '.'
+Old design name:             'C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pcb/LinkingInterfaceV3_0.brd'
+New design name:             'C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pcb/LinkingInterfaceV3_0.brd'
+
+CmdLine: netrev -$ -i C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface -y 2 -q netrev_constraint_report.xml C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pcb/#Taaaagx03880.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pstchip.dat 
+   Finished reading C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pstchip.dat (00:00:00.12)
+Starting to read C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pstxprt.dat 
+   Finished reading C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pstxnet.dat 
+   Finished reading C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pstxnet.dat (00:00:00.03)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/lib/symbols/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/lib/padstacks/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Aug 3 16:31:50 2016
+   DESIGN NAME : 'AUDIOLINKINGINTERFACE'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:46
+elapsed time  0:00:01
+

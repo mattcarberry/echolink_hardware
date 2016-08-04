@@ -1,0 +1,65 @@
+Item Number	Quantity	Value	Description	Part Number	Part Reference
+1	1	10uF			C1
+2	1	100pF			C2
+3	1	10uF			C3
+4	1	10uF			C4
+5	1	10uF			C5
+6	1	100nF			C6
+7	1	1uF			C7
+8	1	10uF			C8
+9	1	4.7uF			C9
+10	1	10uF			C10
+11	1	10uF			C11
+12	1	470nF			C12
+13	1	22uF/Tant			C13
+14	1	100nF			C14
+15	1	10uF			C15
+16	1	10uF			C16
+17	1	100nF			C17
+18	1	100nF			C18
+19	1	100nF			C19
+20	1	100nF			C20
+21	1	SB1245			D1
+22	1	1N4148			D2
+23	1	RED			D3
+24	1	1N4148			D4
+25	1	B320			D5
+26	1	TX_Echo			J1
+27	1	TX_Allstar			J2
+28	1	RX_Echo			J4
+29	1	Rx_Allstar			J5
+30	1	10 Pin Header to DTMF Ctrl			J6
+31	1	0.156 VH			J7
+32	1	HEADER 3			J11
+33	1	HEADER 3			J12
+34	1	0.156 VH			J13
+35	1	0.156 VH			J14
+36	1	HEADER 20X2			J15
+37	1	HEADER 16			J16
+38	1	HEADER 9			J17
+39	1	0.156 VH			J18
+40	1	2N2222			Q1
+41	1	51k			R1
+42	1	51k			R2
+43	1	51k			R3
+44	1	51k			R4
+45	1	7.5k			R5
+46	1	10k			R6
+47	1	7.5k			R7
+48	1	51k			R8
+49	1	10k			R9
+50	1	7.5k			R10
+51	1	10k			R11
+52	1	51k			R12
+53	1	51k			R13
+54	1	10k			R14
+55	1	10k			R15
+56	1	51k			R16
+57	1	330			R17
+58	1	10k			R18
+59	1	10k			R19
+60	1	TL072			U1
+61	1	LM2940 / SOT223  LDO			U3
+62	1	74HC08			U5
+63	1	74HC04			U6
+64	1	LM2936/SO_5			U7

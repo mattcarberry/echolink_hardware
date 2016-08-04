@@ -1,0 +1,407 @@
+\t (00:01:06) allegro 16.6-2015 S057 (v16-6-112EM) Windows 32
+\t (00:01:06)     Journal start - Sat Jul 16 14:39:17 2016
+\t (00:01:06)         Host=BE150PC03 User=mrcarber Pid=4044 CPUs=2
+\t (00:01:06) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -sq -product Allegro_PCB_Design_Planner
+\t (00:01:06) 
+\d (00:01:06) Design opened: C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd
+\i (00:01:10) generaledit 
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 973.6 2001.8
+\i (00:01:11) trapsize 586
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 973.5 2001.8
+\i (00:01:11) trapsize 1171
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 2611.4 1399.6
+\i (00:01:11) trapsize 1586
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 7427.3 -2156.3
+\i (00:01:11) trapsize 1586
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 7427.3 -2156.3
+\i (00:01:11) trapsize 1586
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 7427.3 -2156.3
+\i (00:01:11) trapsize 1586
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 7300.4 -2632.1
+\i (00:01:12) trapsize 793
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 1231.4 -2632.0
+\i (00:01:12) trapsize 396
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 5291.2 -2283.1
+\i (00:01:13) trapsize 198
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 5255.5 -2338.6
+\i (00:01:13) trapsize 396
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 5255.5 -2338.6
+\i (00:01:13) trapsize 793
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 6126.9 1832.0
+\i (00:01:14) trapsize 396
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 5897.0 1689.3
+\i (00:01:14) trapsize 198
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 4069.4 928.1
+\i (00:01:15) trapsize 396
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 390.3 1118.4
+\i (00:01:16) trapsize 198
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out 2003.9 860.8
+\i (00:02:25) trapsize 396
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out 2003.9 860.7
+\i (00:02:25) trapsize 793
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out 834.9 860.7
+\i (00:02:25) trapsize 1586
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out 5904.9 -1300.0
+\i (00:02:25) trapsize 1586
+\i (00:02:25) zoom in 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom in 3526.1 -189.9
+\i (00:02:25) trapsize 793
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in -465.5 -158.2
+\i (00:02:26) trapsize 396
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in 3340.5 -94.7
+\i (00:02:26) trapsize 198
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 2543.6 16.4
+\i (00:02:33) trapsize 99
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 2543.7 16.4
+\i (00:02:33) trapsize 50
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 2543.7 16.5
+\i (00:02:33) trapsize 25
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 2543.7 16.5
+\i (00:02:33) trapsize 12
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 2543.7 16.5
+\i (00:02:33) trapsize 6
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2543.7 16.5
+\i (00:02:34) trapsize 3
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2543.7 16.5
+\i (00:02:34) trapsize 2
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2543.7 16.5
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2543.7 16.5
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2543.7 16.5
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2543.8 16.5
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2543.8 16.5
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2544.0 16.4
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2544.2 16.3
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2544.4 16.2
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2544.6 16.1
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2544.8 16.0
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2545.0 15.9
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2545.2 15.8
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2545.4 15.7
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 2545.6 15.6
+\i (00:02:34) trapsize 1
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.5
+\i (00:02:35) trapsize 1
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.5
+\i (00:02:35) trapsize 1
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.6
+\i (00:02:35) trapsize 1
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.6
+\i (00:02:35) trapsize 2
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.6
+\i (00:02:35) trapsize 3
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.6
+\i (00:02:35) trapsize 7
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.6
+\i (00:02:35) trapsize 13
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2545.8 15.6
+\i (00:02:35) trapsize 26
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2328.6 14.1
+\i (00:02:35) trapsize 53
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2291.7 14.2
+\i (00:02:35) trapsize 105
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2287.5 14.2
+\i (00:02:35) trapsize 210
+\i (00:02:35) zoom out 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom out 2287.5 14.1
+\i (00:02:35) trapsize 421
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 780.6 1899.9
+\i (00:02:36) trapsize 210
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 780.6 1899.9
+\i (00:02:36) trapsize 105
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 797.5 1872.5
+\i (00:02:36) trapsize 53
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 850.1 1846.2
+\i (00:02:36) trapsize 105
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 856.4 1844.1
+\i (00:02:37) trapsize 210
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 864.7 1835.7
+\i (00:02:37) trapsize 421
+\i (00:02:41) open 
+\i (00:02:43) fillin "LinkingInterfaceV2_13.brd"
+\t (00:02:43) Opening existing design...
+\i (00:02:45) fillin yes 
+\i (00:02:45) trapsize 293
+\d (00:02:45) Design opened: C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pcb/LinkingInterfaceV2_13.brd
+\i (00:02:45) generaledit 
+\i (00:02:46) zoom out 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 1530.0 3489.4
+\i (00:02:46) trapsize 586
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in 2314.8 3559.8
+\i (00:02:47) trapsize 293
+\i (00:02:53) zoom out 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom out 1846.2 2821.8
+\i (00:02:53) trapsize 586
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 2314.8 596.2
+\i (00:02:53) trapsize 293
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 2314.8 596.2
+\i (00:02:54) trapsize 146
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 2104.0 731.0
+\i (00:02:56) trapsize 293
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 2103.9 730.9
+\i (00:02:56) trapsize 586
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 2103.9 75.0
+\i (00:02:57) trapsize 293
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in 1811.1 1398.7
+\i (00:02:58) trapsize 146
+\i (00:03:08) trapsize 228
+\i (00:03:59) derive connectivity 
+\i (00:04:01) setwindow form.derive
+\i (00:04:01) FORM derive close  
+\i (00:04:01) setwindow pcb
+\i (00:04:01) generaledit 
+\i (00:04:09) dbdoctor 
+\i (00:04:12) setwindow form.dbdoctor_allegro
+\i (00:04:12) FORM dbdoctor_allegro close  
+\i (00:04:12) setwindow pcb
+\i (00:04:12) generaledit 
+\i (00:09:06) cdsdoc allegro allegrolaunch 
+\i (00:11:58) pick grid 3219.4 2559.2
+\t (00:11:58) last pick:  3219.0 2559.0
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 3219.4 2559.2
+\i (00:11:59) trapsize 456
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in 3219.4 2577.5
+\i (00:12:00) trapsize 228
+\i (00:12:31) zoom out 1 
+\i (00:12:31) setwindow pcb
+\i (00:12:31) zoom out 1828.7 2349.6
+\i (00:12:31) trapsize 456
+\i (00:12:31) zoom out 1 
+\i (00:12:31) setwindow pcb
+\i (00:12:31) zoom out 1828.7 2349.5
+\i (00:12:31) trapsize 912
+\i (00:12:32) zoom in 1 
+\i (00:12:32) setwindow pcb
+\i (00:12:32) zoom in 4929.3 999.9
+\i (00:12:32) trapsize 456
+\i (00:12:33) zoom out 1 
+\i (00:12:33) setwindow pcb
+\i (00:12:33) zoom out 3379.0 1674.7
+\i (00:12:33) trapsize 912
+\i (00:12:33) zoom in 1 
+\i (00:12:33) setwindow pcb
+\i (00:12:33) zoom in 3379.0 1674.7
+\i (00:12:33) trapsize 456
+\i (00:29:07) xhilite 
+\i (00:29:07) xname_flush 
+\i (00:29:07) done 
+\i (00:29:07) generaledit 
+\i (00:29:15) 3d_viewer 
+\i (00:29:15) setwindow pcb3D
+\i (00:29:15) trapsize 456
+\i (00:29:15) setwindow pcb
+\i (00:29:15) generaledit 
+\i (00:29:29) signal init 
+   (00:29:30) Loading sigallegro.cxt 
+   (00:29:30) Loading signal.cxt 
+   (00:29:30) Loading skillExt.cxt 
+\i (00:29:30) generaledit 
+\i (00:29:33) setwindow form.siginit
+\i (00:29:33) FORM siginit cancel  
+\i (00:29:51) setwindow pcb
+\i (00:29:51) design compare 
+\i (00:29:51) generaledit 
+\i (00:30:27) cmgr_elec 
+\i (00:30:28) setwindow cmgr
+\i (00:30:28) cm newView ( "object type" 53:Electrical "1:Electrical Constraint Set" )
+\i (00:30:28) setwindow pcb
+\i (00:30:28) generaledit 
+\i (00:30:40) setwindow cmgr
+\i (00:30:40) cm select ( frame ( workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:30:41) cm select tab 9:Impedance
+\i (00:30:42) cm select tab "31:Total Etch Length"
+\i (00:30:43) cm select tab "32:Differential Pair"
+\i (00:30:44) cm select tab "11:Relative Propagation Delay"
+\i (00:30:45) cm newView ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:30:49) cm select ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:30:56) cm select ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:30:56) cm select ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:30:57) cm select ( worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:30:59) cm newView ( worksheet 145:DRC 43:DRC 44:Electrical 45:Electrical )
+\i (00:31:00) cm newView ( worksheet 145:DRC 43:DRC 49:Physical 50:Physical )
+\i (00:31:01) cm newView ( worksheet 145:DRC 43:DRC 46:Spacing 48:Spacing )
+\i (00:31:01) cm newView ( worksheet 145:DRC 43:DRC 51:Design 52:Design )
+\i (00:31:02) cm newView ( worksheet 145:DRC 43:DRC 54:External 47:External )
+\i (00:31:03) cm select ( worksheet 145:DRC 43:DRC 54:External 47:External )
+\i (00:31:03) cm select ( worksheet 145:DRC 43:DRC 54:External 47:External )
+\i (00:31:03) cm select ( worksheet 145:DRC 43:DRC 54:External 47:External )
+\i (00:31:03) cm select ( worksheet 145:DRC 43:DRC 54:External 47:External )
+\i (00:31:05) cm select tab "11:Relative Propagation Delay"
+\i (00:31:05) cm select tab 8:Wiring
+\i (00:31:17) cm getOrphaned ( Design "LinkingInterfaceV2_13" ) Net
+\i (00:31:17) cm getOrphaned ( Design "LinkingInterfaceV2_13" ) Bus
+\i (00:31:17) cm getOrphaned ( Design "LinkingInterfaceV2_13" ) XNet
+\i (00:31:17) cm getOrphaned ( Design "LinkingInterfaceV2_13" ) Pin
+\i (00:31:17) cm getOrphaned ( Design "LinkingInterfaceV2_13" ) "Gate Instance"
+\i (00:31:51) cm callSigXP ( System "System" )
+\i (00:31:54) cm exit
+\i (00:32:02) setwindow pcb
+\i (00:32:02) signal model 
+\i (00:32:05) setwindow form.sigAuditOne
+\i (00:32:05) FORM sigAuditOne errorsgrid row 1 
+   (00:32:05) Loading axlcore.cxt 
+\i (00:32:09) FORM sigAuditOne errorsgrid row 2 
+\i (00:32:10) FORM sigAuditOne errorsgrid row 3 
+\i (00:32:19) fillin yes 
+\i (00:32:30) setwindow form.sigaxlmodel
+\i (00:32:30) FORM sigaxlmodel cancel  
+\i (00:32:30) setwindow pcb
+\i (00:32:30) generaledit 
+\i (00:33:20) design compare 
+\i (00:33:20) generaledit 
+\i (00:33:35) exit 
+\e (00:33:35) Do you want to save the changes you made to LinkingInterfaceV2_13.brd?
+\i (00:33:38) fillin no 
+\t (00:33:44)     Journal end - Sat Jul 16 15:11:56 2016

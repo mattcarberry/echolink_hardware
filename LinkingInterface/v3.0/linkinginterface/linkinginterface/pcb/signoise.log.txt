@@ -1,0 +1,4 @@
+INFO: Clearing simulation data for "case0"
+mrcarber\Downloads\LinkingInterface_V2_13_ProjectFiles\linkinginterface\linkinginterface\pcb\devices.dml'
+INFO: Finished loading SigNoise device libraries
+INFO: Using SigNoise run directory 'C:/Users/mrcarber/Downloads/LinkingInterface_V2_13_ProjectFiles/linkinginterface/linkinginterface/pcb/signoise.run'
